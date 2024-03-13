@@ -1,0 +1,20 @@
+//SatisfactoryPlus/Content/Recipes/Constructor/Recipe_Constructor_CopperPlate.Recipe_Constructor_CopperPlate_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Category": "Electronics_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_CopperRod",
+      "Amount": 4
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_CopperPlates",
+      "Amount": 2
+    }
+  ],
+  "ManufacturingDuration": 8,
+  "ManufacturingMenuPriority": 4
+}

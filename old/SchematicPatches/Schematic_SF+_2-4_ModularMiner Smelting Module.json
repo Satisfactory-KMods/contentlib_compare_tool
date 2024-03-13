@@ -1,0 +1,20 @@
+//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T2/Schematic_SF+_2_4.Schematic_SF+_2_4_C
+{
+  "Name": "Modular Miner: Smelting Module",
+  "MenuPriority": 6,
+  "ClearCost": true,
+  "Cost": [
+    {
+      "Item": "Desc_BronzeFrame",
+      "Amount": 10
+    },
+    {
+      "Item": "Desc_IronPlate",
+      "Amount": 50
+    },
+    {
+      "Item": "Desc_HighSpeedWire",
+      "Amount": 100
+    }
+  ]
+}

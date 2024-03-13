@@ -1,0 +1,30 @@
+//SatisfactoryPlus/Content/Recipes/SoldifierAndCooler/Recipe_SAC_Titanium.Recipe_SAC_Titanium_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Sintered Titanium",
+  "Category": "AdvancedRefinement_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_LiquidTitan",
+      "Amount": 10000
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_TitanPipe",
+      "Amount": 4
+    },
+    {
+      "Item": "Desc_TitanPlates",
+      "Amount": 3
+    },
+    {
+      "Item": "Desc_Gas_Hydrogen",
+      "Amount": 16000
+    }
+  ],
+  "ProducedIn": [ "Build_SoldifierAndCooler" ],
+  "ManufacturingDuration": 12,
+  "ManufacturingMenuPriority": 1
+}

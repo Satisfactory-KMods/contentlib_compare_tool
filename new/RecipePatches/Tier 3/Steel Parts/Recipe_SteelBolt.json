@@ -1,0 +1,22 @@
+//SatisfactoryPlus/Content/Recipes/Constructor/Recipe_Constructor_SteelScrew.Recipe_Constructor_SteelScrew_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Steel Bolt",
+  "category": "IndustrialParts_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_SteelRod",
+      "Amount": 3
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_SteelScrew",
+      "Amount": 9
+    }
+
+  ],
+  "ManufacturingDuration": 12,
+  "ManufacturingMenuPriority": 3
+}

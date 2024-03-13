@@ -1,0 +1,23 @@
+//RefinedPower/Buildables/Factory/ModularPower/MPBuildings/Turbines/TurbineMk1/Recipe_RP_MP_TurbineMk1.Recipe_RP_MP_TurbineMk1_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Ingredients": [
+    {
+      "Item": "Desc_IronRod",
+      "Amount": 10
+    },
+    {
+      "Item": "Desc_BronzePlate",
+      "Amount": 10
+    },
+    {
+      "Item": "Desc_CopperSheet",
+      "Amount": 15
+    },
+    {
+      "Item": "Desc_IronScrew",
+      "Amount": 30
+    }
+  ],
+  "ManufacturingMenuPriority": 3
+}

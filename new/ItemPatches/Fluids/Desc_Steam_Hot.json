@@ -1,0 +1,8 @@
+//KLib/Assets/Ressources/Raw/Gas/Desc_Gas_Steam_Hot.Desc_Gas_Steam_Hot_C
+{
+  "Name": "Steam",
+  "Description": "Water in vapor form. A common intermediate in energy production, chemical reactions and Hydrogen generation.",
+  "Form": "RF_GAS",
+  "StackSize": "Fluid",
+  "VisualKit": "Kit_Steam"
+}

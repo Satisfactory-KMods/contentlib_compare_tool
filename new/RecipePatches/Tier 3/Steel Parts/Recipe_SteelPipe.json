@@ -1,0 +1,27 @@
+//SatisfactoryPlus/Content/Recipes/Constructor/Recipe_Constructor_SteelPipe.Recipe_Constructor_SteelPipe_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Steel Pipe",
+  "category": "IndustrialParts_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_SteelIngot",
+      "Amount": 6
+    },
+    {
+      "Item": "Desc_Silica",
+      "Amount": 3
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_SteelPipe",
+      "Amount": 4
+    }
+
+  ],
+  "ProducedIn": [ "Build_FoundryMk1" ],
+  "ManufacturingDuration": 12,
+  "ManufacturingMenuPriority": 2
+}

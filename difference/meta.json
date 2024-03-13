@@ -1,0 +1,62 @@
+[
+    {
+        "file": "old\\RecipePatches\\Buildings\\Logistics\\Recipe_WaterExtractor.json",
+        "action": "remove"
+    },
+    {
+        "file": "new\\SchematicPatches\\Schematic_SF+_2-8_Advanced Biomass Energy.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\SchematicPatches\\Schematic_SF+_0-4.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\SchematicPatches\\Schematic_SF+_0-3.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\SchematicPatches\\Schematic_SF+_0-2.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\SchematicPatches\\Schematic_SF+_0-1_5.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\SchematicPatches\\Schematic_SF+_0-1.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Tier 1\\Recipe_SortedIronT1.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\RecipePatches\\Tier 0\\Recipe_Handcrushed_Siterite.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\RecipePatches\\Tier 0\\Recipe_Handcrushed_Concrete.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\RecipePatches\\Tier 0\\Recipe_Handcrushed_Caterium.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\RecipePatches\\Tier 0\\Recipe_Handcrushed_Callanite.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\RecipePatches\\Tier 0\\Recipe_Hancrushed_Gangue.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Buildings\\Recipe_WaterExtractor.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Buildings\\Logistics\\Recipe_PipelineJunction.json",
+        "action": "add"
+    }
+]

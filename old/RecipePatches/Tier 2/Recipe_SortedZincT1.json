@@ -1,0 +1,30 @@
+//SatisfactoryPlus/Content/Recipes/Sorter/Recipe_Sorter_T1_Rubyte.Recipe_Sorter_T1_Rubyte_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Crushed Zinc",
+  "Category": "T1 Sorting",
+  "Ingredients": [
+    {
+      "Item": "Desc_CrushedRubyte",
+      "Amount": 25
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_CrushedZinc",
+      "Amount": 16
+    },
+    {
+      "Item": "Desc_Silica",
+      "Amount": 8
+    },
+    {
+      "Item": "Desc_CrushedLimestone",
+      "Amount": 8
+    }
+  ],
+  "ProducedIn": [ "Build_SorterMk1" ],
+  "ManufacturingDuration": 15,
+  "ManufacturingMenuPriority": 3
+}

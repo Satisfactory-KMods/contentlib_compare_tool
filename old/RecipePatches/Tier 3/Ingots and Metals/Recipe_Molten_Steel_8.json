@@ -1,0 +1,34 @@
+//SatisfactoryPlus/Content/Recipes/FlexibleBlastFurnaceSmelter/Alloy/Recipe_FBFS_Alloy_Steel.Recipe_FBFS_Alloy_Steel_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Molten Steel",
+  "category": "Cat_KLib_Alloys_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_LiquidIron",
+      "Amount": 3000
+    },
+    {
+      "Item": "Desc_CarbonDust",
+      "Amount": 1
+    },
+    {
+      "Item": "Desc_Gas_Steam_Hot",
+      "Amount": 2000
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_LiquidSteel",
+      "Amount": 2000
+    },
+    {
+      "Item": "Desc_LiquidSlag",
+      "Amount": 3000
+    }
+
+  ],
+  "ManufacturingDuration": 3,
+  "ManufacturingMenuPriority": 8
+}

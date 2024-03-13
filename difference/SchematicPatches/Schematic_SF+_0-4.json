@@ -1,0 +1,57 @@
+{
+    "$comment": "This file has been changed",
+    "old": {
+        "Cost": [
+            {
+                "Item": "Desc_TinPlate",
+                "Amount": 20
+            },
+            {
+                "Item": "Desc_Cable",
+                "Amount": 20
+            },
+            {
+                "Item": "Desc_IronRod",
+                "Amount": 30
+            },
+            {
+                "Item": "Desc_Cement",
+                "Amount": 40
+            }
+        ],
+        "Recipes": [
+            "Recipe_ModularMiner_C",
+            "Recipe_Module_Drill_T1_C",
+            "Recipe_StorageContainerMk1_C",
+            "Recipe_Constructor_TinRod_C"
+        ]
+    },
+    "demitter": "-----------------------------------------------------------------------------------",
+    "new": {
+        "Cost": [
+            {
+                "Item": "Desc_TinPlates",
+                "Amount": 20
+            },
+            {
+                "Item": "Desc_Cable",
+                "Amount": 20
+            },
+            {
+                "Item": "Desc_IronRod",
+                "Amount": 30
+            },
+            {
+                "Item": "Desc_Cement",
+                "Amount": 40
+            }
+        ],
+        "Recipes": [
+            "Recipe_ModularMiner_C",
+            "Recipe_Module_Drill_T1_C",
+            "Recipe_StorageContainerMk1_C",
+            "Recipe_Constructor_TinRod_C",
+            "Recipe_Assamble_RIronPlates_C"
+        ]
+    }
+}

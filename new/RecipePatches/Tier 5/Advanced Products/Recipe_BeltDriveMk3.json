@@ -1,0 +1,35 @@
+//SatisfactoryPlus/Content/Recipes/Manu/Recipe_Manu_BeltItemMk3.Recipe_Manu_BeltItemMk3_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Belt Drive Mk.3",
+  "Category": "BuildingParts_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_BeltItemMk1",
+      "Amount": 20
+    },
+    {
+      "Item": "Desc_SteelPlateReinforced",
+      "Amount": 12
+    },
+    {
+      "Item": "Desc_SolderRod",
+      "Amount": 30
+    },
+    {
+      "Item": "Desc_Rubber",
+      "Amount": 45
+    }
+
+  ],
+  "Products": [
+
+    {
+      "Item": "Desc_BeltItemMk3",
+      "Amount": 9
+    }
+
+  ],
+  "ManufacturingDuration": 96,
+  "ManufacturingMenuPriority": 1
+}

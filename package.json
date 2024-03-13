@@ -1,0 +1,21 @@
+{
+  "name": "contentlib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "type": "module",
+  "scripts": {
+    "run": "tsx index.ts",
+    "dev": "tsx --watch index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/lodash": "^4.17.0",
+    "@types/node": "^20.11.27",
+    "glob": "^10.3.10",
+    "lodash": "^4.17.21",
+    "tsx": "^4.7.1",
+    "typescript": "^5.4.2"
+  }
+}

@@ -1,0 +1,25 @@
+//Game/FactoryGame/Recipes/OilRefinery/Recipe_ResidualPlastic.Recipe_ResidualPlastic_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Cured Plastic",
+  "Ingredients": [
+    {
+      "Item": "Desc_PolymerResin",
+      "Amount": 8
+    },
+    {
+      "Item": "Desc_LiquidFuel",
+      "Amount": 3000
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_Plastic",
+      "Amount": 6
+    }
+  ],
+  "ManufacturingDuration": 16,
+  "ManufacturingMenuPriority": 1,
+  "ProducedIn": [ "Build_OilRefinery" ]
+}

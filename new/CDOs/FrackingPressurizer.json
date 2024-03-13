@@ -1,0 +1,9 @@
+{
+  "Class": "/Game/FactoryGame/Buildable/Factory/FrackingSmasher/Build_FrackingSmasher.Build_FrackingSmasher_C",
+  "Edits": [
+    {
+      "Property": "mPowerConsumption",
+      "Value": 100
+    }
+  ]
+}

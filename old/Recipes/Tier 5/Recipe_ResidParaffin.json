@@ -1,0 +1,31 @@
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Resid Paraffin",
+  "OverrideCategory": "SolidOilProducts_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_Asphalt",
+      "Amount": 18
+    },
+    {
+      "Item": "Desc_Gas_Hydrogen",
+      "Amount": 24000
+    }
+
+  ],
+  "Products": [
+
+    {
+      "Item": "Desc_LiquidRefinedHydrocarbons",
+      "Amount": 12000
+    },
+    {
+      "Item": "Desc_Sulfur",
+      "Amount": 7
+    }
+
+  ],
+  "ProducedIn": [ "Build_OilRefinery" ],
+  "ManufacturingDuration": 48,
+  "ManufacturingMenuPriority": 4
+}

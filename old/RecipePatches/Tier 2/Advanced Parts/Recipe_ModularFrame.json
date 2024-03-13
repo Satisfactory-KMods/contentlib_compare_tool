@@ -1,0 +1,23 @@
+//SatisfactoryPlus/Content/Recipes/Assamble/Recipe_Assamble_MetalFrame.Recipe_Assamble_MetalFrame_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Ingredients": [
+    {
+      "Item": "Desc_BronzeRod",
+      "Amount": 6
+    },
+    {
+      "Item": "Desc_IronPlateReinforced",
+      "Amount": 5
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_ModularFrame",
+      "Amount": 2
+    }
+  ],
+  "ManufacturingDuration": 25,
+  "ManufacturingMenuPriority": 5.2
+}

@@ -1,0 +1,22 @@
+//SatisfactoryPlus/Content/Recipes/Constructor/Recipe_Constructor_Cement.Recipe_Constructor_Cement_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Concrete",
+  "Category": "Minerals_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_CrushedLimestone",
+      "Amount": 3
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_Cement",
+      "Amount": 1
+    }
+  ],
+  "ProducedIn": [ "Build_ConstructorMk1" ],
+  "ManufacturingDuration": 4,
+  "ManufacturingMenuPriority": 1
+}

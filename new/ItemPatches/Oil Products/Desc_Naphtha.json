@@ -1,0 +1,8 @@
+//KLib/Assets/Ressources/Raw/Fluids/Desc_LiquidHydrocarbons.Desc_LiquidHydrocarbons_C
+{
+  "Name": "Petroleum Benzine",
+  "Description": "Benzine is a very light distillate of crude oil. Its main use is in the production of Ethylene Gas.",
+  "Form": "RF_LIQUID",
+  "StackSize": "Fluid",
+  "VisualKit": "Kit_Naphtha"
+}

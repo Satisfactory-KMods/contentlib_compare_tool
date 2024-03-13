@@ -1,0 +1,21 @@
+//SatisfactoryPlus/Content/Recipes/Smelter/Recipe_Smelter_Dirty_TinIngots.Recipe_Smelter_Dirty_TinIngots_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Impure Tin Ingot",
+  "Category": "Impure Ingots",
+  "Ingredients": [
+    {
+      "Item": "Desc_CrushedStritarit",
+      "Amount": 24
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_TinIngot",
+      "Amount": 12
+    }
+  ],
+  "ManufacturingDuration": 16,
+  "ManufacturingMenuPriority": 3
+}

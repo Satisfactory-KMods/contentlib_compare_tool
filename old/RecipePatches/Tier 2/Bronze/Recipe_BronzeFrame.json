@@ -1,0 +1,23 @@
+//SatisfactoryPlus/Content/Recipes/Assamble/Recipe_Assamble_BronzeFrame.Recipe_Assamble_BronzeFrame_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Ingredients": [
+    {
+      "Item": "Desc_BronzeRod",
+      "Amount": 8
+    },
+    {
+      "Item": "Desc_BronzePipe",
+      "Amount": 12
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_BronzeFrame",
+      "Amount": 2
+    }
+  ],
+  "ManufacturingDuration": 48,
+  "ManufacturingMenuPriority": 5
+}

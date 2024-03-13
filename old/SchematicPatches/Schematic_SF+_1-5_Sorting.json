@@ -1,0 +1,26 @@
+//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T1/Schematic_SF+_1_5.Schematic_SF+_1_5_C
+{
+  "ClearCost": true,
+  "MenuPriority": 1,
+  "Cost": [
+    {
+      "Item": "Desc_TinPlates",
+      "Amount": 15
+    },
+    {
+      "Item": "Desc_IronRod",
+      "Amount": 30
+    },
+    {
+      "Item": "Desc_IronScrew",
+      "Amount": 50
+    },
+    {
+      "Item": "Desc_Cement",
+      "Amount": 20
+    }
+  ],
+  "ClearRecipes": true,
+  "Recipes": [ "Recipe_Sorter", "Recipe_Sorter_T1_Stritarit_C", "Recipe_Smelter_Sorted_IronIngots_C", "Recipe_Smelter_Sorted_CopperIngots_C", "Recipe_Smelter_Sorted_TinIngots_C" ],
+  "Time": 120
+}

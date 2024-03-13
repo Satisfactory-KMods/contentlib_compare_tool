@@ -1,0 +1,8 @@
+//KLib/Assets/Ressources/Raw/Gas/Desc_Gas_Hydrogen.Desc_Gas_Hydrogen_C
+{
+  "Name": "Hydrogen Gas",
+  "Description": "Molecular Hydrogen in Gas Form. Hydrogen is an excellent fuel as well as an important reactant in chemistry. Usually made through Steam Reforming of Natural Gas.",
+  "Form": "RF_GAS",
+  "StackSize": "Fluid",
+  "VisualKit": "Kit_Hydrogen"
+}

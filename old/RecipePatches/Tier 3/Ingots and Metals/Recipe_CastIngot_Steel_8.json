@@ -1,0 +1,37 @@
+//SatisfactoryPlus/Content/Recipes/SoldifierAndCooler/Ingots/Recipe_SAC_Ingots_Steel.Recipe_SAC_Ingots_Steel_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Cast Steel Ingot",
+  "category": "Cat_KLib_SAC_Cooling_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_LiquidSteel",
+      "Amount": 10000
+    },
+    {
+      "Item": "Desc_Air",
+      "Amount": 12000
+    },
+    {
+      "Item": "Desc_CrushedMagnesium",
+      "Amount": 4
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_SteelIngot",
+      "Amount": 30
+    },
+    {
+      "Item": "Desc_Gas_CarbonDioxide",
+      "Amount": 10000
+    },
+    {
+      "Item": "Desc_ColdSlag_C",
+      "Amount": 5
+    }
+  ],
+  "ManufacturingDuration": 20,
+  "ManufacturingMenuPriority": 2
+}

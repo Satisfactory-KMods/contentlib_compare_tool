@@ -1,0 +1,31 @@
+//SatisfactoryPlus/Content/Recipes/ChemReactor/OilProcessing/Recipe_ChemReactor_Oil_Destila.Recipe_ChemReactor_Oil_Destila_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Distilled Gas",
+  "category": "SolidOilProducts_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_PurifiedCrudeOil",
+      "Amount": 10000
+    }
+
+  ],
+  "Products": [
+
+    {
+      "Item": "Desc_KLIB_NaturalGas_C",
+      "Amount": 16000
+    },
+    {
+      "Item": "Desc_LiquidHydrocarbons",
+      "Amount": 6000
+    },
+    {
+      "Item": "Desc_Asphalt",
+      "Amount": 2
+    }
+
+  ],
+  "ManufacturingDuration": 12,
+  "ManufacturingMenuPriority": 1
+}

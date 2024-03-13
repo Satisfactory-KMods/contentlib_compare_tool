@@ -1,0 +1,38 @@
+//SatisfactoryPlus/Content/Recipes/ChemReactor/Recipe_ChemReactor_Titan.Recipe_ChemReactor_Titan_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "TiHy Solution",
+  "Category": "AdvancedRefinement_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_Gas_Titantetrachlorid",
+      "Amount": 6000
+    },
+    {
+      "Item": "Desc_Gas_Hydrogen",
+      "Amount": 15000
+    },
+    {
+      "Item": "Desc_MagnesiumGranules",
+      "Amount": 12
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_LiquidTitan",
+      "Amount": 8000
+    },
+    {
+      "Item": "Desc_LiquidHydrochloricAcid",
+      "Amount": 4000
+    },
+    {
+      "Item": "Desc_CrushedMagnesium",
+      "Amount": 6
+    }
+  ],
+  "ProducedIn": [ "Build_ChemReactor" ],
+  "ManufacturingDuration": 10,
+  "ManufacturingMenuPriority": 1
+}

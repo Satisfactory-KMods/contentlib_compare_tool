@@ -1,0 +1,26 @@
+//SatisfactoryPlus/Content/Recipes/Crusher/Recipe_Crusher_Satmonium.Recipe_Crusher_Satmonium_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Crushed Aurovite",
+  "Category": "Cat_KLib_Prod_Crushing_Ores_C",
+  "Ingredients": [
+    {
+      "Item": "Res_SatmoniumOre",
+      "Amount": 8
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_CrushedSatmonium",
+      "Amount": 8
+    },
+    {
+      "Item": "Desc_CrushedLimestone",
+      "Amount": 3
+    }
+  ],
+  "ProducedIn": [ "Build_Crusher" ],
+  "ManufacturingDuration": 8,
+  "ManufacturingMenuPriority": 4
+}

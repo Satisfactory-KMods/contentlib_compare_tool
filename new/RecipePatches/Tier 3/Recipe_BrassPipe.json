@@ -1,0 +1,27 @@
+//SatisfactoryPlus/Content/Recipes/Assamble/Recipe_Assamble_BrassPipe.Recipe_Assamble_BrassPipe_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Brass Pipe",
+  "Category": "IndustrialParts_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_BrassPlates",
+      "Amount": 6
+    },
+    {
+      "Item": "Desc_Wire",
+      "Amount": 8
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_BrassPipe",
+      "Amount": 4
+    }
+
+  ],
+  "ProducedIn": [ "Build_AssemblerMk1" ],
+  "ManufacturingDuration": 24,
+  "ManufacturingMenuPriority": 10
+}

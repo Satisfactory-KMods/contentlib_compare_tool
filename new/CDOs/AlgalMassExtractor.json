@@ -1,0 +1,13 @@
+{
+  "Class": "/KLib/Assets/Buildings/BioWaterExtractor/BuildDesc_BioWaterExtractor_SF+.BuildDesc_BioWaterExtractor_SF+_C",
+  "Edits": [
+    {
+      "Property": "mDisplayName",
+      "Value": "Algal Mass Extractor"
+    },
+    {
+      "Property": "mDescription",
+      "Value": "Extracts Algal Mass from underground reservoirs.\nDefault extraction rate: 60 m^3 Alglas Mass per minute.\n\nNote: Must be placed on an Algal Mass node."
+    }
+  ]
+}

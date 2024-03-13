@@ -1,0 +1,24 @@
+//RefinedPower/Buildables/Factory/ModularPower/MPBuildings/Heaters/BiomassHeater/Recipe_RP_MP_BiomassHeater.Recipe_RP_MP_BiomassHeater_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Ingredients": [
+
+    {
+      "Item": "Desc_IronPlateReinforced",
+      "Amount": 4
+    },
+    {
+      "Item": "Desc_TinPlate",
+      "Amount": 10
+    },
+    {
+      "Item": "Desc_Wire",
+      "Amount": 20
+    },
+    {
+      "Item": "Desc_Cable",
+      "Amount": 5
+    }
+  ],
+  "ManufacturingMenuPriority": 4
+}

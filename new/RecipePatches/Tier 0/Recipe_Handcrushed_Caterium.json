@@ -1,0 +1,20 @@
+//SatisfactoryPlus/Content/Recipes/Workbench/Recipe_Handcrafter_Satmonium.Recipe_Handcrafter_Satmonium_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Handcrushed Caterium",
+  "Category": "Cat_KLib_Prod_Crushing_Ores_C",
+  "Ingredients": [
+    {
+      "Item": "Res_SatmoniumOre",
+      "Amount": 3
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_CrushedCaterium",
+      "Amount": 3
+    }
+  ],
+  "ManufacturingMenuPriority": 2.5
+}

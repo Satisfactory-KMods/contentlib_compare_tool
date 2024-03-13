@@ -1,0 +1,22 @@
+//SatisfactoryPlus/Content/Recipes/Constructor/Recipe_Constructor_BronzerRod.Recipe_Constructor_BronzerRod_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Bronze Beam",
+  "Category": "StandardParts_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_BronzeIngot",
+      "Amount": 9
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_BronzeRod",
+      "Amount": 4
+    }
+  ],
+  "ProducedIn": [ "Build_ConstructorMk1" ],
+  "ManufacturingDuration": 20,
+  "ManufacturingMenuPriority": 11
+}

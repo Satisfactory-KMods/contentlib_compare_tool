@@ -1,0 +1,36 @@
+{
+    "$comment": "This file has been changed",
+    "old": {
+        "Products": [
+            {
+                "Item": "Desc_CrushedIron",
+                "Amount": 18
+            },
+            {
+                "Item": "Desc_CrushedTin",
+                "Amount": 10
+            },
+            {
+                "Item": "Desc_CrushedLimestone",
+                "Amount": 8
+            }
+        ]
+    },
+    "demitter": "-----------------------------------------------------------------------------------",
+    "new": {
+        "Products": [
+            {
+                "Item": "Desc_CrushedIron",
+                "Amount": 18
+            },
+            {
+                "Item": "Desc_CrushedTin",
+                "Amount": 12
+            },
+            {
+                "Item": "Desc_CrushedLimestone",
+                "Amount": 8
+            }
+        ]
+    }
+}

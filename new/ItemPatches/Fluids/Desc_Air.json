@@ -1,0 +1,8 @@
+//KLib/Assets/Ressources/Raw/Gas/Desc_Air.Desc_Air_C
+{
+  "Name": "Air",
+  "Description": "Fresh Air. Low Nitrogen content but rich in CO2 and Oxygen.",
+  "Form": "RF_GAS",
+  "StackSize": "Fluid",
+  "VisualKit": "Kit_Air"
+}

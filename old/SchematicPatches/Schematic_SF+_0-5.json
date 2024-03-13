@@ -1,0 +1,28 @@
+//SatisfactoryPlus/Content/SchematicManager/Tutorial/SF+_Schematic_Tutorial5.SF+_Schematic_Tutorial5_C
+{
+  "ClearCost": true,
+  "Cost": [
+    {
+      "Item": "Desc_TinPlates",
+      "Amount": 12
+    },
+    {
+      "Item": "Desc_TinRod",
+      "Amount": 24
+    },
+    {
+      "Item": "Desc_Cable",
+      "Amount": 30
+    },
+    {
+      "Item": "Desc_IronPlate",
+      "Amount": 30
+    },
+    {
+      "Item": "Desc_Cement",
+      "Amount": 30
+    }
+  ],
+  "ClearRecipes": true,
+  "Recipes": [ "Recipe_SpaceElevator_C", "Recipe_AutomatedBiomassGen_C", "Recipe_SFP_WindTurbineMk1_C", "Recipe_Constructor_CopperPlate_C", "Recipe_Constructor_CopperSheet_C", "Recipe_Constructor_IronSheet_C", "Recipe_Constructor_WoodBio_C", "Recipe_Biomass_Leaves_C" ]
+}

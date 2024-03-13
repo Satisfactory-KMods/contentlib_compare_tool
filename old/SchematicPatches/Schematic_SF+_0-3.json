@@ -1,0 +1,18 @@
+//SatisfactoryPlus/Content/SchematicManager/Tutorial/SF+_Schematic_Tutorial3.SF+_Schematic_Tutorial3_C
+{
+  "ClearCost": true,
+  "Cost": [
+    {
+      "Item": "Desc_IronPlate",
+      "Amount": 30
+    },
+    {
+      "Item": "Desc_Cable",
+      "Amount": 20
+    },
+    {
+      "Item": "Desc_Cement",
+      "Amount": 40
+    }
+  ]
+}

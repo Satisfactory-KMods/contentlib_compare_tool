@@ -1,0 +1,31 @@
+//SatisfactoryPlus/Content/Recipes/Manu/Recipe_Manu_CicuitBoard.Recipe_Manu_CicuitBoard_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Circuit Board",
+  "category": "Electronics_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_Plastic",
+      "Amount": 10
+    },
+    {
+      "Item": "Desc_Wire",
+      "Amount": 8
+    },
+    {
+      "Item": "Desc_SolderWire",
+      "Amount": 12
+    }
+
+  ],
+  "Products": [
+
+    {
+      "Item": "Desc_CircuitBoard",
+      "Amount": 4
+    }
+
+  ],
+  "ManufacturingDuration": 30,
+  "ManufacturingMenuPriority": 1
+}

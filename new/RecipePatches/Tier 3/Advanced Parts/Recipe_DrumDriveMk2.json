@@ -1,0 +1,27 @@
+//SatisfactoryPlus/Content/Recipes/Assamble/Recipe_Assamble_BeltItemMk2.Recipe_Assamble_BeltItemMk2_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Belt Drive Mk.2",
+  "Category": "Cat_KLib_BuildingParts_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_Stator",
+      "Amount": 2
+    },
+    {
+      "Item": "Desc_BrassPlates",
+      "Amount": 3
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_BeltItemMk2",
+      "Amount": 1
+    }
+
+  ],
+  "ProducedIn": [ "Build_AssemblerMk1" ],
+  "ManufacturingDuration": 12,
+  "ManufacturingMenuPriority": 2
+}

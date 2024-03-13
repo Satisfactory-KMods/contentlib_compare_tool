@@ -1,0 +1,17 @@
+{
+  "Class": "/SatisfactoryPlus/Content/ModifyedBuildings/Modular/Boiler/SF+_Build_RP_MP_BoilerMk2.SF+_Build_RP_MP_BoilerMk2_C",
+  "Edits": [
+    {
+      "Property": "mWaterConsumeMultiplier",
+      "Value": 0.5
+    },
+    {
+      "Property": "mFluidConsume",
+      "Value": 1000
+    },
+    {
+      "Property": "mSteamBonusMultiplier",
+      "Value": 0.12
+    }
+  ]
+}

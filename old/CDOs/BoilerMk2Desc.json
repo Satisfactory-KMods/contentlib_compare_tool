@@ -1,0 +1,13 @@
+{
+  "Class": "/SatisfactoryPlus/Content/ModifyedBuildings/Modular/Boiler/SF+_Build_RP_MP_BoilerMk2.SF+_Build_RP_MP_BoilerMk2_C",
+  "Edits": [
+    {
+      "Property": "mDisplayName",
+      "Value": "Boiler Mk.2"
+    },
+    {
+      "Property": "mDescription",
+      "Value": "A high pressure water boiler. Uses heat to turn water into steam.\n\nOperates like the Mk.1 Boiler below 500°C. Optimal temperature is 856°C.\nMaximum Temperature: 2000°C"
+    }
+  ]
+}

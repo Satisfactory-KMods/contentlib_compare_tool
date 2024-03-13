@@ -1,0 +1,8 @@
+//KLib/Assets/Ressources/Raw/Fluids/Desc_LiquidRefinedHydrocarbons.Desc_LiquidRefinedHydrocarbons_C
+{
+  "Name": "Paraffin",
+  "Description": "Sometimes called Kerosene or White Oil, a middle distillate of Crude Oil.\n It is also an important intermediate for reforming and cracking.",
+  "Form": "RF_GAS",
+  "StackSize": "Fluid",
+  "VisualKit": "Kit_Paraffin"
+}

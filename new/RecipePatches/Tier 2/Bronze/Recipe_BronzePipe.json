@@ -1,0 +1,26 @@
+//SatisfactoryPlus/Content/Recipes/Constructor/Recipe_Constructor_BronzePipe.Recipe_Constructor_BronzePipe_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Bronze Pipes",
+  "Category": "/KLib/Assets/Categorys/Cat_KLib_Alloys.Cat_KLib_Alloys_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_CopperIngot",
+      "Amount": 6
+    },
+    {
+      "Item": "Desc_TinIngot",
+      "Amount": 4
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_BronzePipe",
+      "Amount": 8
+    }
+  ],
+  "ProducedIn": [ "Build_FoundryMk1" ],
+  "ManufacturingDuration": 20,
+  "ManufacturingMenuPriority": 2
+}

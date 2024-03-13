@@ -1,0 +1,26 @@
+//SatisfactoryPlus/Content/Recipes/Crusher/Recipe_Crusher_Rubyte.Recipe_Crusher_Rubyte_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Crushed Larrussite",
+  "Category": "Cat_KLib_Prod_Crushing_Ores_C",
+  "Ingredients": [
+    {
+      "Item": "Res_RubyteOre",
+      "Amount": 20
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_CrushedRubyte",
+      "Amount": 20
+    },
+    {
+      "Item": "Desc_CrushedLimestone",
+      "Amount": 12
+    }
+  ],
+  "ProducedIn": [ "Build_Crusher" ],
+  "ManufacturingDuration": 20,
+  "ManufacturingMenuPriority": 3
+}

@@ -1,0 +1,23 @@
+//RefinedPower/Buildables/Factory/AutomatedBiomassGen/Recipe_AutomatedBiomassGen.Recipe_AutomatedBiomassGen_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Ingredients": [
+    {
+      "Item": "Desc_IronPlate",
+      "Amount": 10
+    },
+    {
+      "Item": "Desc_IronRod",
+      "Amount": 12
+    },
+    {
+      "Item": "Desc_Cable",
+      "Amount": 15
+    },
+    {
+      "Item": "Desc_CopperPlates",
+      "Amount": 4
+    }
+  ],
+  "ManufacturingMenuPriority": 1
+}

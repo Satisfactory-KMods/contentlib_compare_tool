@@ -1,0 +1,14 @@
+{
+  "Class": "/Game/FactoryGame/Buildable/Factory/PowerStorage/Build_PowerStorageMk1.Build_PowerStorageMk1_C",
+  "Edits": [
+   
+    {
+      "Property": "mPowerStoreCapacity",
+      "Value": 240
+    },
+    {
+      "Property": "mPowerInputCapacity",
+      "Value": 300
+    }
+  ]
+}

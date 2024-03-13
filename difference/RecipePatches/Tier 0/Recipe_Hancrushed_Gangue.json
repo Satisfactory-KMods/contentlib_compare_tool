@@ -1,0 +1,19 @@
+{
+    "Name": "Handcrushed Gangue",
+    "Category": "Cat_KLib_Prod_Crushing_Ores_C",
+    "Ingredients": [
+        {
+            "Item": "Res_StritaritOre",
+            "Amount": 1
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_CrushedLimestone",
+            "Amount": 2
+        }
+    ],
+    "ManufacturingDuration": 2,
+    "ManufacturingMenuPriority": 3,
+    "$comment": "This is a new file, no old version exists"
+}

@@ -1,0 +1,22 @@
+{
+  "Class": "/SatisfactoryPlus/Content/ModifyedBuildings/Modular/Heater/SF_Build_RP_MP_SolutionHeater.SF_Build_RP_MP_SolutionHeater_C",
+  "Edits": [
+    {
+      "Property": "mMaxHeatValue",
+      "Value": 857
+    },
+    {
+      "Property": "mFluidConsume",
+      "Value": 2000
+    },
+    {
+      "Property": "mHeatTimer",
+      "Value": 0.8
+    },
+    {
+      "Property": "mIsSoundEnabled",
+      "Value": false
+    }
+    
+  ]
+}

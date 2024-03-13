@@ -1,0 +1,30 @@
+//SatisfactoryPlus/Content/Recipes/Sorter/Recipe_Sorter_T1_Sapherit.Recipe_Sorter_T1_Sapherit_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Crushed Copper",
+  "Category": "T1 Sorting",
+  "Ingredients": [
+    {
+      "Item": "Desc_CrushedSapherit",
+      "Amount": 15
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_CrushedCopper",
+      "Amount": 12
+    },
+    {
+      "Item": "Desc_CrushedMagnesium",
+      "Amount": 8
+    },
+    {
+      "Item": "Desc_CrushedLimestone",
+      "Amount": 4
+    }
+  ],
+  "ProducedIn": [ "Build_SorterMk1" ],
+  "ManufacturingDuration": 10,
+  "ManufacturingMenuPriority": 2
+}

@@ -1,0 +1,19 @@
+//SatisfactoryPlus/Content/Recipes/Workbench/Recipe_Handcrafter_Sapherit.Recipe_Handcrafter_Sapherit_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Handcrushed Callanite",
+  "Category": "Cat_KLib_Prod_Crushing_Ores_C",
+  "Ingredients": [
+    {
+      "Item": "Res_SapheritOre",
+      "Amount": 3
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_CrushedSapherit",
+      "Amount": 3
+    }
+  ]
+}

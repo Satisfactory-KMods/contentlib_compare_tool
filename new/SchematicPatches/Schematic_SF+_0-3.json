@@ -1,0 +1,21 @@
+//SatisfactoryPlus/Content/SchematicManager/Tutorial/SF+_Schematic_Tutorial3.SF+_Schematic_Tutorial3_C
+{
+  "ClearCost": true,
+  "Cost": [
+    {
+      "Item": "Desc_IronPlate",
+      "Amount": 30
+    },
+    {
+      "Item": "Desc_Cable",
+      "Amount": 20
+    },
+    {
+      "Item": "Desc_Cement",
+      "Amount": 40
+    }
+  ],
+  "ClearRecipes": true,
+  "Recipes": [ "Recipe_ConveyorPole_C", "Recipe_ConveyorBeltMk1_C", "Recipe_ConveyorLiftMk1_C", "Recipe_Crusher_C", "Recipe_Crusher_Rubyte_C", "Recipe_Smelter_Dirty_TinIngots_C", "Recipe_Constructor_TinPlates_C" ]
+
+}

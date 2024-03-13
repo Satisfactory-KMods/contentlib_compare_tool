@@ -1,0 +1,28 @@
+{
+  "Class": "/SatisfactoryPlus/Content/Recipes/Cleaner/CleanerDesc_LiquidSlag.CleanerDesc_LiquidSlag_C",
+  "Edits": [
+    {
+      "Property": "mConsumeInFluid",
+      "Value": 8000
+    },
+    {
+      "Property": "mBypassProducts",
+      "Value": [
+        {
+          "mProduceItem": "/KLib/Assets/Parts/Production/Burn/ColdSlag/Desc_ColdSlag.Desc_ColdSlag_C",
+          "mProductionTime": 3,
+          "mProduceAmount": 2
+        },
+        {
+          "mProduceItem": "/Game/FactoryGame/Resource/RawResources/Sulfur/Desc_Sulfur.Desc_Sulfur_C",
+          "mProductionTime": 6,
+          "mProduceAmount": 2
+        }
+      ]
+    },
+    {
+      "Property": "mNeedCleanItem",
+      "Value": false
+    }
+  ]
+}

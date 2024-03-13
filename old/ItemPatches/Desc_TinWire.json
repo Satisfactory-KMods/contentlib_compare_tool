@@ -1,0 +1,6 @@
+//KLib/Assets/Parts/Production/Metal/Wires/Desc_TinWire.Desc_TinWire_C
+{
+  "Name": "Tinned Wire",
+  "Description": "Wire that has been coated with tin, increasing corrosion resistance.\nCommonly used in electronics."
+  
+}

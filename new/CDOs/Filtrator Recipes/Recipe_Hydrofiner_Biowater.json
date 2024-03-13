@@ -1,0 +1,34 @@
+{
+  "Class": "/SatisfactoryPlus/Content/Recipes/Cleaner/CleanerDesc_BioWater.CleanerDesc_BioWater_C",
+  "Edits": [
+    {
+      "Property": "mBypassProducts",
+      "Value": [
+        {
+          "mProduceItem": "/Game/FactoryGame/Resource/Parts/GenericBiomass/Desc_GenericBiomass.Desc_GenericBiomass_C",
+          "mProductionTime": 4,
+          "mProduceAmount": 1
+        },
+        {
+          "mProduceItem": "/Game/FactoryGame/Resource/Parts/GenericBiomass/Desc_GenericBiomass.Desc_GenericBiomass_C",
+          "mProductionTime": 4,
+          "mProduceAmount": 1
+        },
+        {
+          "mProduceItem": "/Game/FactoryGame/Resource/Parts/GenericBiomass/Desc_GenericBiomass.Desc_GenericBiomass_C",
+          "mProductionTime": 4,
+          "mProduceAmount": 1
+        },
+        {
+          "mProduceItem": "/Game/FactoryGame/Resource/Parts/GenericBiomass/Desc_GenericBiomass.Desc_GenericBiomass_C",
+          "mProductionTime": 4,
+          "mProduceAmount": 1
+        }
+      ]
+    },
+    {
+      "Property": "mNeedCleanItem",
+      "Value": false
+    }
+  ]
+}

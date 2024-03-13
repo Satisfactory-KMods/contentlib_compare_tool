@@ -1,0 +1,5 @@
+//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T5/Schematic_SF+_5_0.Schematic_SF+_5_0_C
+{
+  "ClearRecipes": false,
+  "Recipes": [ "Recipe_OilRefinery", "Recipe_EthyleneGas","Recipe_ResidualRubber","Recipe_ResidualPlastic","Recipe_ResidParaffin","Recipe_ResidualHydrogen","Recipe_MicroReactor","Recipe_RP_MP_NuclearHeater","Recipe_PureParaffin","Recipe_PureEthylene","Recipe_OneHour" ]
+}

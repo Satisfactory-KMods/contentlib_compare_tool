@@ -1,0 +1,25 @@
+//Game/FactoryGame/Recipes/OilRefinery/Recipe_ResidualRubber.Recipe_ResidualRubber_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Cured Rubber",
+  "Ingredients": [
+    {
+      "Item": "Desc_PolymerResin",
+      "Amount": 8
+    },
+    {
+      "Item": "Desc_Sulfur",
+      "Amount": 2
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_Rubber",
+      "Amount": 6
+    }
+  ],
+  "ManufacturingDuration": 15,
+  "ManufacturingMenuPriority": 5,
+  "ProducedIn": [ "Build_FoundryMk1" ]
+}

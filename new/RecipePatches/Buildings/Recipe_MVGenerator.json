@@ -1,0 +1,23 @@
+//SatisfactoryPlus/Content/ModifyedBuildings/Modular/Generators/MVGenerator/Recipe_SF+_MP_MVGenerator.Recipe_SF+_MP_MVGenerator_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Ingredients": [
+    {
+      "Item": "Desc_Rotor",
+      "Amount": 5
+    },
+    {
+      "Item": "Desc_IronPlateReinforced",
+      "Amount": 5
+    },
+    {
+      "Item": "Desc_CopperPlate",
+      "Amount": 10
+    },
+    {
+      "Item": "Desc_Cable",
+      "Amount": 20
+    }
+  ],
+  "ManufacturingMenuPriority": 4
+}
