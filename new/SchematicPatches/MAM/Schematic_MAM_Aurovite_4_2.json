@@ -1,0 +1,15 @@
+//SatisfactoryPlus/Content/SchematicManager/MAM/Schematics/Satmonium/Schematic_Trees_Satmonium_4_2.Schematic_Trees_Satmonium_4_2_C
+{
+  "Name": "Power Pole Mk.2",
+  "ClearCost": true,
+  "Cost": [
+    {
+      "Item": "Desc_BronzeRod",
+      "Amount": 75
+    },
+    {
+      "Item": "Desc_HighSpeedWire",
+      "Amount": 200
+    }
+  ]
+}

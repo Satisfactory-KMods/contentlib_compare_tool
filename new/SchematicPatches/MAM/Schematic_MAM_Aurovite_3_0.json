@@ -1,0 +1,10 @@
+//SatisfactoryPlus/Content/SchematicManager/MAM/Schematics/Satmonium/Schematic_Trees_Satmonium_3_0.Schematic_Trees_Satmonium_3_0_C
+{ "Name":  "Aurovite Ore",
+  "ClearCost": true,
+  "Cost": [
+    {
+      "Item": "Res_SatmoniumOre",
+      "Amount": 50
+    }
+  ]
+}

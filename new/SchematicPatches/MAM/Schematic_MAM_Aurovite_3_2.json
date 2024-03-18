@@ -1,0 +1,11 @@
+//SatisfactoryPlus/Content/SchematicManager/MAM/Schematics/Satmonium/Schematic_Trees_Satmonium_3_2.Schematic_Trees_Satmonium_3_2_C
+{
+  "Name": "Quickwire",
+  "ClearCost": true,
+  "Cost": [
+    {
+      "Item": "Desc_GoldIngot",
+      "Amount": 75
+    }
+  ]
+}

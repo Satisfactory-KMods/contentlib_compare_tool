@@ -5,17 +5,17 @@
   "Ingredients": [
     {
       "Item": "Desc_CrushedMagnesium",
-      "Amount": 4
+      "Amount": 10
     }
 
   ],
   "Products": [
     {
       "Item": "Desc_MagnesiumGranules",
-      "Amount": 3
+      "Amount": 9
     }
   ],
   "ProducedIn": [ "Build_Crusher" ],
-  "ManufacturingDuration": 4,
+  "ManufacturingDuration": 10,
   "ManufacturingMenuPriority": 1
 }

@@ -1,0 +1,23 @@
+{
+    "Name": "A.I. Limiter",
+    "Category": "Electronics_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_CateriumSheet",
+            "Amount": 5
+        },
+        {
+            "Item": "Desc_TinWire",
+            "Amount": 4
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_CircuitBoardHighSpeed",
+            "Amount": 1
+        }
+    ],
+    "ManufacturingDuration": 12,
+    "ManufacturingMenuPriority": 2,
+    "$comment": "This is a new file, no old version exists"
+}

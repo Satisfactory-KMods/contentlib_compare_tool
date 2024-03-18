@@ -1,0 +1,13 @@
+{
+  "Class": "/SatisfactoryPlus/Content/ModifyedBuildings/Modular/Heater/SF+_Build_RP_MP_BiomassHeater.SF+_Build_RP_MP_BiomassHeater_C",
+  "Edits": [
+    {
+      "Property": "mDisplayName",
+      "Value": "Solid Biomass Heater"
+    },
+    {
+      "Property": "mDescription",
+      "Value": "Burns any type of Biofuel to produce heat, generating Flue Gas as a by-product. Used together with a Boiler to produce Steam.\n\nMaximum Temerature: 500°C.\nWill continue burning Fuel regardless of the Boiler's status."
+    }
+  ]
+}

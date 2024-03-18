@@ -1,0 +1,10 @@
+{
+    "$comment": "This file has been changed",
+    "old": {
+        "ManufacturingMenuPriority": 1
+    },
+    "demitter": "-----------------------------------------------------------------------------------",
+    "new": {
+        "ManufacturingMenuPriority": 2
+    }
+}

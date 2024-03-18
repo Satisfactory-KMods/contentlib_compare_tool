@@ -15,5 +15,6 @@
       "Item": "Desc_CrushedCaterium",
       "Amount": 3
     }
-  ]
+  ],
+  "ManufacturingMenuPriority": 2.5
 }

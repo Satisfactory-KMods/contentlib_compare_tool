@@ -3,6 +3,7 @@ import  fss  from 'fs';
 import {glob} from 'glob'
 import path, { join } from 'path';
 import isEqual from 'lodash/isEqual';
+import json5 from "json5";
 
 const source = await glob('old/**/*.json');
 const target = await glob('new/**/*.json');
@@ -32,7 +33,7 @@ for(const file of source) {
         if(!fss.existsSync(fileDir)) {
             await fs.mkdir(fileDir, {recursive: true});
         }
-        const json = JSON.parse(clearJson(await fs.readFile(file, 'utf-8')));
+        const json = json5.parse(clearJson(await fs.readFile(file, 'utf-8')));
         delete json.$schema;
         json.$comment = 'This file has been removed, no new version exists';
 
@@ -51,7 +52,13 @@ for(const file of target) {
         if(!fss.existsSync(fileDir)) {
             await fs.mkdir(fileDir, {recursive: true});
         }
-        const json = JSON.parse(clearJson(await fs.readFile(file, 'utf-8')));
+        let json;
+        try {
+            json = json5.parse(clearJson(await fs.readFile(file, 'utf-8')));
+        } catch (error) { 
+            console.error(clearJson(await fs.readFile(file, 'utf-8')));
+            process.exit(1);
+        }
         delete json.$schema;
         json.$comment = 'This is a new file, no old version exists';
 
@@ -60,8 +67,8 @@ for(const file of target) {
         continue;
     }
 
-    const oldContent = JSON.parse(clearJson(await fs.readFile(file.replace('new', 'old'), 'utf-8')));
-    const newContent = JSON.parse(clearJson(await fs.readFile(file, 'utf-8')));
+    const oldContent = json5.parse(clearJson(await fs.readFile(file.replace('new', 'old'), 'utf-8')));
+    const newContent = json5.parse(clearJson(await fs.readFile(file, 'utf-8')));
 
 
     if(!isEqual(oldContent, newContent)) {

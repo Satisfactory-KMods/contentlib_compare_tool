@@ -1,0 +1,15 @@
+{
+    "Name": "A.I. Limiter",
+    "ClearCost": true,
+    "Cost": [
+        {
+            "Item": "Desc_TinWire",
+            "Amount": 100
+        },
+        {
+            "Item": "Desc_HighSpeedWire",
+            "Amount": 150
+        }
+    ],
+    "$comment": "This is a new file, no old version exists"
+}

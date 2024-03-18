@@ -1,0 +1,24 @@
+//SatisfactoryPlus/Content/SchematicManager/Tutorial/SF+_Schematic_Tutorial2.SF+_Schematic_Tutorial2_C
+{
+  "ClearCost": true,
+  "Cost": [
+    {
+      "Item": "Desc_IronPlate",
+      "Amount": 20
+    },
+    {
+      "Item": "Desc_IronWire",
+      "Amount": 15
+    },
+    {
+      "Item": "Desc_CopperRod",
+      "Amount": 10
+    },
+    {
+      "Item": "Desc_Wire",
+      "Amount": 15
+    }
+  ],
+  "ClearRecipes": true,
+  "Recipes": [ "Recipe_ConstructorMk1_C", "Recipe_PowerPoleMk1_C", "Recipe_Handcrafter_LimeStone_C", "Recipe_Constructor_Cement_C", "Recipe_Constructor_IronScrew_C" ]
+}

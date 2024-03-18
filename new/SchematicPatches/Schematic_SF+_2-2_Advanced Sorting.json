@@ -18,10 +18,10 @@
     },
     {
       "Item": "Desc_Cement",
-      "Amount": 20
+      "Amount": 50
     }
   ],
   "ClearRecipes": true,
-  "Recipes": [ "Recipe_Sorter_T1_Sapherit_C", "Recipe_Sorter_T1_Rubyte_C", "Recipe_Crusher_MagnesiumGranulat", "Recipe_Smelter_Sorted_ZincIngots_C" ],
+  "Recipes": [ "Recipe_Sorter_T1_Sapherit_C", "Recipe_Sorter_T1_Rubyte_C", "Recipe_Crusher_MagnesiumGranulat", "Recipe_Smelter_Sorted_ZincIngots_C","Recipe_ThermalSilica" ],
   "Time": 180
 }

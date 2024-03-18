@@ -1,0 +1,15 @@
+{
+    "Name": "Zipline",
+    "ClearCost": true,
+    "Cost": [
+        {
+            "Item": "Desc_Cable",
+            "Amount": 400
+        },
+        {
+            "Item": "Desc_HighSpeedWire",
+            "Amount": 300
+        }
+    ],
+    "$comment": "This is a new file, no old version exists"
+}

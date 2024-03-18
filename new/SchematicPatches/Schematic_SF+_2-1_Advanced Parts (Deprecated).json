@@ -3,5 +3,6 @@
   "Name": "Advanced Parts (Deprecated)",
   "MenuPriority": 10,
   "ClearCost": true,
-  "ClearRecipes": true
+  "ClearRecipes": true,
+  "Time": 1
 }

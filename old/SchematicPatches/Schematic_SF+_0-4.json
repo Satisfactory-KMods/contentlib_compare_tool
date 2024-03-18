@@ -3,7 +3,7 @@
   "ClearCost": true,
   "Cost": [
     {
-      "Item": "Desc_TinPlate",
+      "Item": "Desc_TinPlates",
       "Amount": 20
     },
     {
@@ -20,5 +20,5 @@
     }
   ],
   "ClearRecipes": true,
-  "Recipes": [ "Recipe_ModularMiner_C", "Recipe_Module_Drill_T1_C", "Recipe_StorageContainerMk1_C", "Recipe_Constructor_TinRod_C" ]
+  "Recipes": [ "Recipe_ModularMiner_C", "Recipe_Module_Drill_T1_C", "Recipe_StorageContainerMk1_C", "Recipe_Constructor_TinRod_C","Recipe_Assamble_RIronPlates_C" ]
 }

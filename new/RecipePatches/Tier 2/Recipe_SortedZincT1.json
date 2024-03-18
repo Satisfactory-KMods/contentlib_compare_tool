@@ -6,7 +6,7 @@
   "Ingredients": [
     {
       "Item": "Desc_CrushedRubyte",
-      "Amount": 25
+      "Amount": 20
     }
 
   ],
@@ -16,7 +16,7 @@
       "Amount": 16
     },
     {
-      "Item": "Desc_Silica",
+      "Item": "Desc_Sand",
       "Amount": 8
     },
     {

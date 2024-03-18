@@ -1,0 +1,74 @@
+{
+    "$comment": "This file has been changed",
+    "old": {
+        "Edits": [
+            {
+                "Property": "mBypassProducts",
+                "Value": [
+                    {
+                        "mProduceItem": "/Game/FactoryGame/Resource/Parts/GenericBiomass/Desc_GenericBiomass.Desc_GenericBiomass_C",
+                        "mProductionTime": 4,
+                        "mProduceAmount": 1
+                    },
+                    {
+                        "mProduceItem": "/Game/FactoryGame/Resource/Parts/GenericBiomass/Desc_GenericBiomass.Desc_GenericBiomass_C",
+                        "mProductionTime": 4,
+                        "mProduceAmount": 1
+                    },
+                    {
+                        "mProduceItem": "/Game/FactoryGame/Resource/Parts/GenericBiomass/Desc_GenericBiomass.Desc_GenericBiomass_C",
+                        "mProductionTime": 4,
+                        "mProduceAmount": 1
+                    },
+                    {
+                        "mProduceItem": "/Game/FactoryGame/Resource/Parts/GenericBiomass/Desc_GenericBiomass.Desc_GenericBiomass_C",
+                        "mProductionTime": 4,
+                        "mProduceAmount": 1
+                    }
+                ]
+            },
+            {
+                "Property": "mNeedCleanItem",
+                "Value": false
+            }
+        ]
+    },
+    "demitter": "-----------------------------------------------------------------------------------",
+    "new": {
+        "Edits": [
+            {
+                "Property": "mBypassProducts",
+                "Value": [
+                    {
+                        "mProduceItem": "/Game/FactoryGame/Resource/Parts/GenericBiomass/Desc_GenericBiomass.Desc_GenericBiomass_C",
+                        "mProductionTime": 4,
+                        "mProduceAmount": 1
+                    },
+                    {
+                        "mProduceItem": "/Game/FactoryGame/Resource/Parts/GenericBiomass/Desc_GenericBiomass.Desc_GenericBiomass_C",
+                        "mProductionTime": 4,
+                        "mProduceAmount": 1
+                    },
+                    {
+                        "mProduceItem": "/Game/FactoryGame/Resource/Parts/GenericBiomass/Desc_GenericBiomass.Desc_GenericBiomass_C",
+                        "mProductionTime": 4,
+                        "mProduceAmount": 1
+                    },
+                    {
+                        "mProduceItem": "/Game/FactoryGame/Resource/Parts/GenericBiomass/Desc_GenericBiomass.Desc_GenericBiomass_C",
+                        "mProductionTime": 4,
+                        "mProduceAmount": 1
+                    }
+                ]
+            },
+            {
+                "Property": "mProductionOutFluid",
+                "Value": 500
+            },
+            {
+                "Property": "mNeedCleanItem",
+                "Value": false
+            }
+        ]
+    }
+}

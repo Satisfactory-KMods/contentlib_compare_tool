@@ -8,7 +8,7 @@
             "Recipe_RP_MP_BiomassHeater_C",
             "Recipe_RP_MP_BoilerMk1_C",
             "Recipe_RP_MP_TurbineMk1_C",
-            "Recipe_RP_MP_MVGenerator_C"
+            "Recipe_SF+_MP_MVGenerator_C"
         ]
     },
     "demitter": "-----------------------------------------------------------------------------------",
@@ -18,9 +18,7 @@
             "Recipe_WaterPump_C",
             "Recipe_Cleaner_2_C",
             "Recipe_RP_MP_BiomassHeater_C",
-            "Recipe_RP_MP_BoilerMk1_C",
-            "Recipe_RP_MP_TurbineMk1_C",
-            "Recipe_SF+_MP_MVGenerator_C"
+            "Recipe_RP_MP_BoilerMk1_C"
         ]
     }
 }

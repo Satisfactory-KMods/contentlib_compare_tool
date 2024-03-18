@@ -1,0 +1,13 @@
+{
+  "Class": "/SatisfactoryPlus/Content/ModifyedBuildings/Modular/Atmosphere/SF+_Build_RP_MP_SteamCooler.SF+_Build_RP_MP_SteamCooler_C",
+  "Edits": [
+    {
+      "Property": "mDisplayName",
+      "Value": "Steam Stack"
+    },
+    {
+      "Property": "mDescription",
+      "Value": "Used to disperse excess Steam into the air."
+    }
+  ]
+}

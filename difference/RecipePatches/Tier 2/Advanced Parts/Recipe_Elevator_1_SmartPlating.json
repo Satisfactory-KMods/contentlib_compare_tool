@@ -1,0 +1,20 @@
+{
+    "$comment": "This file has been changed",
+    "old": {
+        "Products": [
+            {
+                "Item": "Desc_SpaceElevatorPart_1",
+                "Amount": 3
+            }
+        ]
+    },
+    "demitter": "-----------------------------------------------------------------------------------",
+    "new": {
+        "Products": [
+            {
+                "Item": "Desc_SpaceElevatorPart_1",
+                "Amount": 2
+            }
+        ]
+    }
+}

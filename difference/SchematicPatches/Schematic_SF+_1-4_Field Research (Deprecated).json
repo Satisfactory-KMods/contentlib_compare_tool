@@ -1,0 +1,8 @@
+{
+    "Name": "Field Research (Deprecated)",
+    "MenuPriority": 10,
+    "ClearCost": true,
+    "ClearRecipes": true,
+    "Time": 0,
+    "$comment": "This is a new file, no old version exists"
+}

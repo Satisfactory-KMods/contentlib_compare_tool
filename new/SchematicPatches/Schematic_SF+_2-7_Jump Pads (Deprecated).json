@@ -1,0 +1,8 @@
+//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T2/Schematic_SF+_2_7.Schematic_SF+_2_7_C
+{
+  "Name": "Jump Pads (Deprecated)",
+  "MenuPriority": 10,
+  "ClearCost": true,
+  "ClearRecipes": true,
+  "Time": 0
+}

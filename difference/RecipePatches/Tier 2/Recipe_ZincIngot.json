@@ -1,0 +1,30 @@
+{
+    "$comment": "This file has been changed",
+    "old": {
+        "Ingredients": [
+            {
+                "Item": "Desc_CrushedZinc",
+                "Amount": 4
+            },
+            {
+                "Item": "Desc_MagnesiumGranules",
+                "Amount": 3
+            }
+        ],
+        "ProducedIn": [
+            "Build_FoundryMk1"
+        ]
+    },
+    "demitter": "-----------------------------------------------------------------------------------",
+    "new": {
+        "Ingredients": [
+            {
+                "Item": "Desc_CrushedZinc",
+                "Amount": 4
+            }
+        ],
+        "ProducedIn": [
+            "Build_SmelterMk1"
+        ]
+    }
+}

@@ -15,5 +15,6 @@
       "Item": "Desc_CrushedSapherit",
       "Amount": 3
     }
-  ]
+  ],
+  "ManufacturingMenuPriority": 2
 }

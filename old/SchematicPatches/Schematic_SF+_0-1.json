@@ -1,0 +1,12 @@
+//SatisfactoryPlus/Content/SchematicManager/Tutorial/SF+_Schematic_Tutorial1.SF+_Schematic_Tutorial1_C
+{
+  "ClearCost": true,
+  "Cost": [
+    {
+      "Item": "Desc_IronRod",
+      "Amount": 10
+    }
+  ],
+  "ClearRecipes": true,
+  "Recipes": [ "Recipe_Workshop_C","Recipe_PortableMiner_C","Recipe_Constructor_IronWire_C" ]
+}

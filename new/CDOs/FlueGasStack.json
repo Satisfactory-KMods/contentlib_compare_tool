@@ -1,0 +1,13 @@
+{
+  "Class": "/SatisfactoryPlus/Content/ModifyedBuildings/Modular/Atmosphere/SF+_Build_RP_MP_Co2Cooler.SF+_Build_RP_MP_Co2Cooler_C",
+  "Edits": [
+    {
+      "Property": "mDisplayName",
+      "Value": "Flue Gas Stack"
+    },
+    {
+      "Property": "mDescription",
+      "Value": "Used to disperse excess Flue Gas into the air.\n\nAllowed Gasses:\nFlue Gas\nNatural Gas\nAir & Toxic Air."
+    }
+  ]
+}

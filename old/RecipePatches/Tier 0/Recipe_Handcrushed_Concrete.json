@@ -16,5 +16,6 @@
       "Amount": 4
     }
   ],
-  "ManufacturingDuration": 40
+  "ManufacturingDuration": 40,
+  "ManufacturingMenuPriority": 5
 }
