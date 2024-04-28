@@ -6,10 +6,6 @@
     {
       "Item": "Desc_CrushedZinc",
       "Amount": 4
-    },
-    {
-      "Item": "Desc_MagnesiumGranules",
-      "Amount": 3
     }
 
   ],
@@ -19,7 +15,7 @@
       "Amount": 3
     }
   ],
-  "ProducedIn": [ "Build_FoundryMk1" ],
+  "ProducedIn": [ "Build_SmelterMk1" ],
   "ManufacturingDuration": 8,
   "ManufacturingMenuPriority": 5
 }

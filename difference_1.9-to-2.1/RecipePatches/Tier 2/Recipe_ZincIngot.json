@@ -1,0 +1,34 @@
+{
+    "$comment": "This file has been changed",
+    "old": {
+        "Ingredients": [
+            {
+                "Item": "Desc_CrushedZinc",
+                "Amount": 4
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_ZincIngot",
+                "Amount": 3
+            }
+        ],
+        "ManufacturingDuration": 8
+    },
+    "demitter": "-----------------------------------------------------------------------------------",
+    "new": {
+        "Ingredients": [
+            {
+                "Item": "Desc_CrushedZinc",
+                "Amount": 16
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_ZincIngot",
+                "Amount": 15
+            }
+        ],
+        "ManufacturingDuration": 40
+    }
+}

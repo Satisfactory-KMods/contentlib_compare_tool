@@ -1,0 +1,27 @@
+{
+    "Name": "Cast Iron Ingot",
+    "category": "Cat_Ingots_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_LiquidIron",
+            "Amount": 12000
+        },
+        {
+            "Item": "Desc_Water",
+            "Amount": 4000
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_IronIngot",
+            "Amount": 27
+        },
+        {
+            "Item": "Desc_Gas_Steam_Hot",
+            "Amount": 5000
+        }
+    ],
+    "ManufacturingDuration": 12,
+    "ManufacturingMenuPriority": 1,
+    "$comment": "This is a new file, no old version exists"
+}

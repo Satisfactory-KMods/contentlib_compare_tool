@@ -1,0 +1,25 @@
+//Game/FactoryGame/Recipes/Buildings/Recipe_TruckStation.Recipe_TruckStation_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Truck STation",
+  "Ingredients": [
+    {
+      "Item": "Desc_ModularFrame",
+      "Amount": 15
+    },
+    {
+      "Item": "Desc_Rotor",
+      "Amount": 10
+    },
+    {
+      "Item": "Desc_BrassPlates",
+      "Amount": 10
+    },
+    {
+      "Item": "Desc_IronScrew",
+      "Amount": 40
+    }
+
+  ],
+  "ManufacturingMenuPriority": 1
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Aurovite Ore",
+    "ClearCost": true,
+    "Cost": [
+        {
+            "Item": "Res_SatmoniumOre",
+            "Amount": 50
+        }
+    ],
+    "$comment": "This file has been removed, no new version exists"
+}

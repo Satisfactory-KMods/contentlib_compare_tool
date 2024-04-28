@@ -6,22 +6,22 @@
   "Ingredients": [
     {
       "Item": "Desc_SteelIngot",
-      "Amount": 6
+      "Amount": 15
     },
     {
       "Item": "Desc_Silica",
-      "Amount": 3
+      "Amount": 6
     }
 
   ],
   "Products": [
     {
       "Item": "Desc_SteelPipe",
-      "Amount": 4
+      "Amount": 10
     }
 
   ],
   "ProducedIn": [ "Build_FoundryMk1" ],
-  "ManufacturingDuration": 12,
+  "ManufacturingDuration": 30,
   "ManufacturingMenuPriority": 2
 }

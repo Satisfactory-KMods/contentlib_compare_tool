@@ -76,14 +76,18 @@ for(const file of target) {
 
         const changedFields: {
             old: Record<string, any>,
-            demitter: string;
+            demitter1: string;
             new: Record<string, any>,
             $comment: string;
+            demitter2: string;
+            original: Record<string, any>,
         } = {
             $comment: 'This file has been changed',
             old: {},
-            demitter: '-----------------------------------------------------------------------------------',
-            new: {}
+            demitter1: '-----------------------------------------------------------------------------------',
+            new: {},
+            demitter2: '-----------------------------------------------------------------------------------',
+            original: oldContent
         };
 
         const keys = Object.keys({...oldContent, ...newContent});

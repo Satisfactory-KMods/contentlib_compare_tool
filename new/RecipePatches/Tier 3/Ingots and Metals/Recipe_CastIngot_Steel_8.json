@@ -2,36 +2,36 @@
 {
   "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
   "Name": "Cast Steel Ingot",
-  "category": "Cat_KLib_SAC_Cooling_C",
+  "category": "Cat_Ingots_C",
   "Ingredients": [
     {
       "Item": "Desc_LiquidSteel",
-      "Amount": 10000
+      "Amount": 20000
     },
     {
       "Item": "Desc_Air",
-      "Amount": 12000
+      "Amount": 24000
     },
     {
       "Item": "Desc_CrushedMagnesium",
-      "Amount": 4
+      "Amount": 12
     }
 
   ],
   "Products": [
     {
       "Item": "Desc_SteelIngot",
-      "Amount": 30
+      "Amount": 60
     },
     {
       "Item": "Desc_Gas_CarbonDioxide",
-      "Amount": 10000
+      "Amount": 20000
     },
     {
       "Item": "Desc_ColdSlag_C",
-      "Amount": 5
+      "Amount": 10
     }
   ],
-  "ManufacturingDuration": 20,
-  "ManufacturingMenuPriority": 2
+  "ManufacturingDuration": 40,
+  "ManufacturingMenuPriority": 6
 }

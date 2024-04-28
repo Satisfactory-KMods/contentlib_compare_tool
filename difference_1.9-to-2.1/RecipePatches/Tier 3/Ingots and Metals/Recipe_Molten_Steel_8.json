@@ -1,0 +1,58 @@
+{
+    "$comment": "This file has been changed",
+    "old": {
+        "Ingredients": [
+            {
+                "Item": "Desc_LiquidIron",
+                "Amount": 3000
+            },
+            {
+                "Item": "Desc_CarbonDust",
+                "Amount": 1
+            },
+            {
+                "Item": "Desc_Gas_Steam_Hot",
+                "Amount": 2000
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_LiquidSteel",
+                "Amount": 2000
+            },
+            {
+                "Item": "Desc_LiquidSlag",
+                "Amount": 3000
+            }
+        ],
+        "ManufacturingDuration": 3
+    },
+    "demitter": "-----------------------------------------------------------------------------------",
+    "new": {
+        "Ingredients": [
+            {
+                "Item": "Desc_LiquidIron",
+                "Amount": 9000
+            },
+            {
+                "Item": "Desc_CarbonDust",
+                "Amount": 3
+            },
+            {
+                "Item": "Desc_Gas_Steam_Hot",
+                "Amount": 6000
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_LiquidSteel",
+                "Amount": 8000
+            },
+            {
+                "Item": "Desc_LiquidSlag",
+                "Amount": 6000
+            }
+        ],
+        "ManufacturingDuration": 12
+    }
+}

@@ -2,7 +2,7 @@
 {
   "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
   "Name": "Belt Drive Mk.1",
-  "Category": "Cat_KLib_BuildingParts_C",
+  "OverrideCategory": "Cat_KLib_BuildingParts_C",
   "Ingredients": [
 
     {

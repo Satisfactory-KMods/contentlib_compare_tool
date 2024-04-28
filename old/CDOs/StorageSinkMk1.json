@@ -1,0 +1,17 @@
+{
+  "Class": "/KLib/Assets/Buildings/SinkStorage/Build_StorageContainerMk1.Build_StorageContainerMk1_C",
+  "Edits": [
+    {
+      "Property": "mDisplayName",
+      "Value": "AWESOME Storage Mk.1"
+    },
+    {
+      "Property": "mDescription",
+      "Value": "Contains 24 slots for storing large amounts of items.\nHas one input and output for conveyor belts.\n\nIf powered it will store items and automatically convert items in the bottom right slot to AWESOME sink points."
+    },
+    {
+      "Property": "mPowerConsumption",
+      "Value": 10
+    }
+  ]
+}

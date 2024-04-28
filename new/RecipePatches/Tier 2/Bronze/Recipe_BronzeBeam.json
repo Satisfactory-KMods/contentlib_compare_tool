@@ -13,7 +13,7 @@
   "Products": [
     {
       "Item": "Desc_BronzeRod",
-      "Amount": 4
+      "Amount": 5
     }
   ],
   "ProducedIn": [ "Build_ConstructorMk1" ],

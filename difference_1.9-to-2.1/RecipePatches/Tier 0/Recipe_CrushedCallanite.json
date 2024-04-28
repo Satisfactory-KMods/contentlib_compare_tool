@@ -1,0 +1,42 @@
+{
+    "$comment": "This file has been changed",
+    "old": {
+        "Ingredients": [
+            {
+                "Item": "Res_SapheritOre",
+                "Amount": 15
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_CrushedSapherit",
+                "Amount": 15
+            },
+            {
+                "Item": "Desc_CrushedLimestone",
+                "Amount": 12
+            }
+        ],
+        "ManufacturingDuration": 15
+    },
+    "demitter": "-----------------------------------------------------------------------------------",
+    "new": {
+        "Ingredients": [
+            {
+                "Item": "Res_SapheritOre",
+                "Amount": 12
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_CrushedSapherit",
+                "Amount": 12
+            },
+            {
+                "Item": "Desc_CrushedLimestone",
+                "Amount": 5
+            }
+        ],
+        "ManufacturingDuration": 12
+    }
+}

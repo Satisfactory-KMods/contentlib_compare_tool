@@ -1,0 +1,33 @@
+{
+    "Name": "Basic Brass Production",
+    "MenuPriority": 2,
+    "ClearCost": true,
+    "Cost": [
+        {
+            "Item": "Desc_BronzeFrame",
+            "Amount": 50
+        },
+        {
+            "Item": "Desc_BronzePipe",
+            "Amount": 150
+        },
+        {
+            "Item": "Desc_IronPlateReinforced",
+            "Amount": 50
+        },
+        {
+            "Item": "Desc_Cement",
+            "Amount": 200
+        }
+    ],
+    "ClearRecipes": true,
+    "Recipes": [
+        "Recipe_FBFS_Alloy_Brass_C",
+        "Recipe_SAC_Ingots_Brass_C",
+        "Recipe_Assamble_BrassPipe_C",
+        "Recipe_Constructor_BrassPlates_C",
+        "Recipe_Assamble_Blades_C"
+    ],
+    "Time": 240,
+    "$comment": "This is a new file, no old version exists"
+}

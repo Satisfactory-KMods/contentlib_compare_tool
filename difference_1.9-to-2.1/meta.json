@@ -1,0 +1,370 @@
+[
+    {
+        "file": "old\\SchematicPatches\\MAM\\Schematic_MAM_Aurovite_4_2.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\SchematicPatches\\MAM\\Schematic_MAM_Aurovite_3_4.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\SchematicPatches\\MAM\\Schematic_MAM_Aurovite_3_3.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\SchematicPatches\\MAM\\Schematic_MAM_Aurovite_3_2.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\SchematicPatches\\MAM\\Schematic_MAM_Aurovite_3_1.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\SchematicPatches\\MAM\\Schematic_MAM_Aurovite_3_0.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\SchematicPatches\\MAM\\Schematic_MAM_Aurovite_2_3.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\SchematicPatches\\MAM\\Schematic_MAM_Aurovite_2_2.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Unresolved Recipes\\Desc_ZincPlate.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 3\\Ingots and Metals\\Recipe_CastIngot_Iron_9.json",
+        "action": "remove"
+    },
+    {
+        "file": "new\\ItemPatches\\Desc_BeltDriveMk4.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\SchematicPatches\\Schematic_SF+_3-9_Vehicular_Transport (Deprecated).json",
+        "action": "add"
+    },
+    {
+        "file": "new\\SchematicPatches\\Schematic_SF+_3-8_Hydroelectric Power.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\SchematicPatches\\Schematic_SF+_3-7_Mk3_Logistics.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\SchematicPatches\\Schematic_SF+_3-5_Xeno-Basher.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\SchematicPatches\\Schematic_SF+_3-3_Basic Steel Production.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\SchematicPatches\\Schematic_SF+_3-2_Basic Brass Production.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\SchematicPatches\\Schematic_SF+_3-1_Basic Ore Washing.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\SchematicPatches\\Schematic_SF+_3-0_Advanced Melting and Casting.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\SchematicPatches\\Schematic_SF+_2-3_AWESOME Programme.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\SchematicPatches\\Schematic_SF+_2-2_Advanced Sorting.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\CDOs\\Reformer.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\CDOs\\BoilerMk1.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\CDOs\\BiomassHeater.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\Recipes\\MAM\\Recipe_CateriumHeatsink.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\RecipePatches\\Tier 4\\Recipe_EncasedBeam.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Tier 3\\Recipe_BrassPlate.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\RecipePatches\\Tier 3\\Recipe_BrassPipe.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\RecipePatches\\Tier 2\\Recipe_ZincPlates.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Tier 2\\Recipe_ZincIngot.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\RecipePatches\\Tier 2\\Recipe_SortedZincT1.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\RecipePatches\\Tier 2\\Recipe_SortedCopperT1.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\RecipePatches\\Tier 2\\Recipe_SlagConcrete.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Tier 0\\Recipe_CrushedLarrussite.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\RecipePatches\\Tier 0\\Recipe_CrushedCallanite.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\RecipePatches\\Equipment\\Recipe_XenoBasher.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Buildings\\Recipe_WetWasher.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Buildings\\Recipe_TurbineMk1.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\RecipePatches\\Buildings\\Recipe_Reformer.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\RecipePatches\\Buildings\\Recipe_MVGenerator.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\RecipePatches\\Buildings\\Recipe_Foundry.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\RecipePatches\\Buildings\\Recipe_BlastFurnace.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Buildings\\Recipe_AirCollector.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\ItemPatches\\Molten Metals\\Desc_Molten_Iron.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\CDOs\\Filtrator Recipes\\Recipe_Hydrofiner_LiquidSlag.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\RecipePatches\\Tier 4\\Advanced Products\\Recipe_VersatileFramework.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Tier 4\\Advanced Products\\Recipe_Motor.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Tier 4\\Advanced Products\\Recipe_ModularFrameHeavy.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Tier 3\\Steel Parts\\Recipe_SteelRod.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\RecipePatches\\Tier 3\\Steel Parts\\Recipe_SteelPipe.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\RecipePatches\\Tier 3\\Ingots and Metals\\Recipe_Washed Iron.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Tier 3\\Ingots and Metals\\Recipe_Washed Copper.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Tier 3\\Ingots and Metals\\Recipe_Molten_Steel_8.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\RecipePatches\\Tier 3\\Ingots and Metals\\Recipe_Molten_Iron_1.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Tier 3\\Ingots and Metals\\Recipe_Molten_Copper_2.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Tier 3\\Ingots and Metals\\Recipe_Molten_Brass_3.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Tier 3\\Ingots and Metals\\Recipe_CastIngot_Steel_8.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\RecipePatches\\Tier 3\\Ingots and Metals\\Recipe_CastIngot_Iron_1.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Tier 3\\Ingots and Metals\\Recipe_CastIngot_Copper_2.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Tier 3\\Ingots and Metals\\Recipe_CastIngot_Brass_6.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\RecipePatches\\Tier 3\\Advanced Parts\\Recipe_Stator_Vanilla.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Tier 3\\Advanced Parts\\Recipe_Stator.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\RecipePatches\\Tier 3\\Advanced Parts\\Recipe_FanBlade.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Tier 3\\Advanced Parts\\Recipe_DrumDriveMk2.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\RecipePatches\\Tier 3\\Advanced Parts\\Recipe_AutomatedWiring.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Tier 2\\Bronze\\Recipe_BronzePipe.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\RecipePatches\\Tier 2\\Bronze\\Recipe_BronzeIngot.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\RecipePatches\\Tier 2\\Bronze\\Recipe_BronzeFrame.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\RecipePatches\\Tier 2\\Bronze\\Recipe_BronzeBeam.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\RecipePatches\\Tier 2\\Advanced Parts\\Recipe_ModularFrame.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\RecipePatches\\Tier 1\\Caterium\\Recipe_CateriumIngot.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\RecipePatches\\Tier 1\\Advanced Parts\\Recipe_Rotor.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\RecipePatches\\Tier 1\\Advanced Parts\\Recipe_ReinforcedIronPlate.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\RecipePatches\\Tier 1\\Advanced Parts\\Recipe_DrumDriveMk1.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\RecipePatches\\Tier 0\\3_Tin\\Recipe_Tinplate.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\RecipePatches\\Tier 0\\2_Copper\\Recipe_CopperSheet.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\RecipePatches\\Buildings\\Logistics\\Recipe_TruckStation.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Buildings\\Logistics\\Recipe_Tractor.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Buildings\\Logistics\\Recipe_ConveyorLiftMk3.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Buildings\\Logistics\\Recipe_ConveyorBeltMk3.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\SchematicPatches\\MAM\\Slugs\\Schematic_MAM_Slugs_4_0.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\SchematicPatches\\MAM\\Slugs\\Schematic_MAM_Slugs_3_1.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\SchematicPatches\\MAM\\Slugs\\Schematic_MAM_Slugs_3_0.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\SchematicPatches\\MAM\\Slugs\\Schematic_MAM_Slugs_2_0.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\SchematicPatches\\MAM\\Aurovite\\Schematic_MAM_Aurovite_4_2.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\SchematicPatches\\MAM\\Aurovite\\Schematic_MAM_Aurovite_3_4.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\SchematicPatches\\MAM\\Aurovite\\Schematic_MAM_Aurovite_3_3.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\SchematicPatches\\MAM\\Aurovite\\Schematic_MAM_Aurovite_3_2.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\SchematicPatches\\MAM\\Aurovite\\Schematic_MAM_Aurovite_3_1.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\SchematicPatches\\MAM\\Aurovite\\Schematic_MAM_Aurovite_3_0.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\SchematicPatches\\MAM\\Aurovite\\Schematic_MAM_Aurovite_2_3.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\SchematicPatches\\MAM\\Aurovite\\Schematic_MAM_Aurovite_2_2.json",
+        "action": "add"
+    }
+]

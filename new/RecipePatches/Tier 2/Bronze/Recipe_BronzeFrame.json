@@ -4,20 +4,20 @@
   "Ingredients": [
     {
       "Item": "Desc_BronzeRod",
-      "Amount": 8
+      "Amount": 5
     },
     {
       "Item": "Desc_BronzePipe",
-      "Amount": 12
+      "Amount": 9
     }
 
   ],
   "Products": [
     {
       "Item": "Desc_BronzeFrame",
-      "Amount": 2
+      "Amount": 1
     }
   ],
-  "ManufacturingDuration": 48,
+  "ManufacturingDuration": 24,
   "ManufacturingMenuPriority": 5
 }

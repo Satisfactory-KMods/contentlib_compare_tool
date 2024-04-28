@@ -1,0 +1,61 @@
+{
+    "$comment": "This file has been changed",
+    "old": {
+        "MenuPriority": 4,
+        "Cost": [
+            {
+                "Item": "Desc_SteelRod",
+                "Amount": 200
+            },
+            {
+                "Item": "Desc_BronzePlates",
+                "Amount": 150
+            },
+            {
+                "Item": "Desc_Cable",
+                "Amount": 100
+            },
+            {
+                "Item": "Desc_Cement",
+                "Amount": 250
+            }
+        ],
+        "Recipes": [
+            "Recipe_Assamble_Blades_C",
+            "Recipe_WaterTurbine_Mk1_C",
+            "Recipe_RP_MP_TurbineMk1_C",
+            "Recipe_SF+_MP_MVGenerator_C"
+        ]
+    },
+    "demitter": "-----------------------------------------------------------------------------------",
+    "new": {
+        "MenuPriority": 5,
+        "Cost": [
+            {
+                "Item": "Desc_ModularFrame",
+                "Amount": 100
+            },
+            {
+                "Item": "Desc_BrassPlates",
+                "Amount": 100
+            },
+            {
+                "Item": "Desc_WaterBlade",
+                "Amount": 75
+            },
+            {
+                "Item": "Desc_Cable",
+                "Amount": 100
+            },
+            {
+                "Item": "Desc_Cement",
+                "Amount": 250
+            }
+        ],
+        "Recipes": [
+            "Recipe_WaterTurbine_Mk1_C",
+            "Recipe_RP_MP_TurbineMk1_C",
+            "Recipe_SF+_MP_MVGenerator_C"
+        ]
+    }
+}

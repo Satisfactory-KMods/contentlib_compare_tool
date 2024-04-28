@@ -1,0 +1,15 @@
+{
+    "Name": "Bladerunners",
+    "ClearCost": true,
+    "Cost": [
+        {
+            "Item": "Desc_ModularFrame",
+            "Amount": 25
+        },
+        {
+            "Item": "Desc_HighSpeedWire",
+            "Amount": 250
+        }
+    ],
+    "$comment": "This file has been removed, no new version exists"
+}

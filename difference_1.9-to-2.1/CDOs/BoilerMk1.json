@@ -1,0 +1,52 @@
+{
+    "$comment": "This file has been changed",
+    "old": {
+        "Edits": [
+            {
+                "Property": "mWaterConsumeMultiplier",
+                "Value": 0.5
+            },
+            {
+                "Property": "mFluidConsume",
+                "Value": 1000
+            },
+            {
+                "Property": "mSteamBonusMultiplier",
+                "Value": 0.12
+            },
+            {
+                "Property": "mDisplayName",
+                "Value": "Boiler Mk.1"
+            },
+            {
+                "Property": "mDescription",
+                "Value": "A low pressure water boiler. Uses heat to turn Water into Steam.\n\nOperates at 500�C.\n\nDefault Rate: 15/min Water to 30/min Steam"
+            }
+        ]
+    },
+    "demitter": "-----------------------------------------------------------------------------------",
+    "new": {
+        "Edits": [
+            {
+                "Property": "mWaterConsumeMultiplier",
+                "Value": 0.5
+            },
+            {
+                "Property": "mFluidConsume",
+                "Value": 1000
+            },
+            {
+                "Property": "mSteamBonusMultiplier",
+                "Value": 0.12
+            },
+            {
+                "Property": "mDisplayName",
+                "Value": "Boiler Mk.1"
+            },
+            {
+                "Property": "mDescription",
+                "Value": "A low pressure water boiler. Uses heat from a Heater to turn Water into Steam.\n\nOperates at 500�C.\n\nDefault Rate: 15/min Water to 30/min Steam"
+            }
+        ]
+    }
+}

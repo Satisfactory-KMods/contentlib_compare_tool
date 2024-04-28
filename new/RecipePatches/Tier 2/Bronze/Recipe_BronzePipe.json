@@ -6,21 +6,21 @@
   "Ingredients": [
     {
       "Item": "Desc_CopperIngot",
-      "Amount": 6
+      "Amount": 12
     },
     {
       "Item": "Desc_TinIngot",
-      "Amount": 4
+      "Amount": 6
     }
 
   ],
   "Products": [
     {
       "Item": "Desc_BronzePipe",
-      "Amount": 8
+      "Amount": 18
     }
   ],
   "ProducedIn": [ "Build_FoundryMk1" ],
-  "ManufacturingDuration": 20,
+  "ManufacturingDuration": 30,
   "ManufacturingMenuPriority": 2
 }

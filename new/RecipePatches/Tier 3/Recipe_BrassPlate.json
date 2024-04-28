@@ -2,22 +2,21 @@
 {
   "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
   "Name": "Brass Plate",
-  "Category": "IndustrialParts_C",
+  "OverrideCategory": "StandardParts_C",
   "Ingredients": [
     {
       "Item": "Desc_BrassIngot",
-      "Amount": 6
+      "Amount": 10
     }
 
   ],
   "Products": [
     {
       "Item": "Desc_BrassPlates",
-      "Amount": 4
+      "Amount": 9
     }
-
   ],
   "ProducedIn": [ "Build_ConstructorMk1" ],
-  "ManufacturingDuration": 12,
-  "ManufacturingMenuPriority": 9
+  "ManufacturingDuration": 30,
+  "ManufacturingMenuPriority": 13
 }

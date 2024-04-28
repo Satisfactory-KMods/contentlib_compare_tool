@@ -14,9 +14,19 @@
           "mProduceAmount": 2
         },
         {
-          "mProduceItem": "/Game/FactoryGame/Resource/RawResources/Sulfur/Desc_Sulfur.Desc_Sulfur_C",
+          "mProduceItem": "/KLib/Assets/Parts/Production/Powder/Desc_Sand.Desc_Sand_C",
           "mProductionTime": 6,
           "mProduceAmount": 2
+        },
+        {
+          "mProduceItem": "/KLib/Assets/Parts/Production/Crushed/Desc_CrushedIron.Desc_CrushedIron_C",
+          "mProductionTime": 8,
+          "mProduceAmount": 1
+        },
+        {
+          "mProduceItem": "/KLib/Assets/Parts/Production/Crushed/Desc_CrushedTin.Desc_CrushedTin_C",
+          "mProductionTime": 8,
+          "mProduceAmount": 1
         }
       ]
     },

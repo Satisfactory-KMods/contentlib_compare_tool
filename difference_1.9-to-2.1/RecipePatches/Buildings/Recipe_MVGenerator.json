@@ -1,0 +1,44 @@
+{
+    "$comment": "This file has been changed",
+    "old": {
+        "Ingredients": [
+            {
+                "Item": "Desc_Rotor",
+                "Amount": 5
+            },
+            {
+                "Item": "Desc_IronPlateReinforced",
+                "Amount": 5
+            },
+            {
+                "Item": "Desc_CopperPlate",
+                "Amount": 10
+            },
+            {
+                "Item": "Desc_Cable",
+                "Amount": 20
+            }
+        ]
+    },
+    "demitter": "-----------------------------------------------------------------------------------",
+    "new": {
+        "Ingredients": [
+            {
+                "Item": "Desc_ModularFrame",
+                "Amount": 5
+            },
+            {
+                "Item": "Desc_Rotor",
+                "Amount": 10
+            },
+            {
+                "Item": "Desc_TinWire",
+                "Amount": 25
+            },
+            {
+                "Item": "Desc_Cable",
+                "Amount": 20
+            }
+        ]
+    }
+}

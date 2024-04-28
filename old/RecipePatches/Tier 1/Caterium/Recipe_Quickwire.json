@@ -5,7 +5,7 @@
   "Category": "Electronics_C",
   "Ingredients": [
     {
-      "Item": "Desc_GoldIngot",
+      "Item": "Desc_CateriumRod",
       "Amount": 3
     }
 
@@ -18,5 +18,5 @@
   ],
   "ProducedIn": [ "Build_ConstructorMk1" ],
   "ManufacturingDuration": 7.5,
-  "ManufacturingMenuPriority": 3
+  "ManufacturingMenuPriority": 4
 }

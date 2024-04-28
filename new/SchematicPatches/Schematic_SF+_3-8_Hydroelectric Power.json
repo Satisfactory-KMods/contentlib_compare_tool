@@ -1,16 +1,20 @@
 //SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T3/Schematic_SF+_3_8.Schematic_SF+_3_8_C
 {
   "Name": "Hydroelectric Power",
-  "MenuPriority": 4,
+  "MenuPriority": 5,
   "ClearCost": true,
   "Cost": [
     {
-      "Item": "Desc_SteelRod",
-      "Amount": 200
+      "Item": "Desc_ModularFrame",
+      "Amount": 100
     },
     {
-      "Item": "Desc_BronzePlates",
-      "Amount": 150
+      "Item": "Desc_BrassPlates",
+      "Amount": 100
+    },
+    {
+      "Item": "Desc_WaterBlade",
+      "Amount": 75
     },
     {
       "Item": "Desc_Cable",
@@ -22,6 +26,6 @@
     }
   ],
   "ClearRecipes": true,
-  "Recipes": [ "Recipe_Assamble_Blades_C", "Recipe_WaterTurbine_Mk1_C", "Recipe_RP_MP_TurbineMk1_C", "Recipe_SF+_MP_MVGenerator_C" ],
+  "Recipes": [ "Recipe_WaterTurbine_Mk1_C", "Recipe_RP_MP_TurbineMk1_C", "Recipe_SF+_MP_MVGenerator_C"],
   "Time": 300
 }

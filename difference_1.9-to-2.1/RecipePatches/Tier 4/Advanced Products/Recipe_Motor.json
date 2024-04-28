@@ -1,0 +1,34 @@
+{
+    "Name": "Motor",
+    "Category": "IndustrialParts_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_Rotor",
+            "Amount": 2
+        },
+        {
+            "Item": "Desc_Stator",
+            "Amount": 2
+        },
+        {
+            "Item": "Desc_IronSheet",
+            "Amount": 15
+        },
+        {
+            "Item": "Desc_IronScrew",
+            "Amount": 20
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_Motor",
+            "Amount": 3
+        }
+    ],
+    "ProducedIn": [
+        "Build_ManufacturerMk1"
+    ],
+    "ManufacturingDuration": 24,
+    "ManufacturingMenuPriority": 1,
+    "$comment": "This is a new file, no old version exists"
+}

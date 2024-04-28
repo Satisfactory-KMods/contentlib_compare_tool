@@ -1,0 +1,23 @@
+//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T3/Schematic_SF+_3_5.Schematic_SF+_3_5_C
+{
+  "Name": "Xeno-Basher",
+  "MenuPriority": 5,
+  "ClearCost": true,
+  "Cost": [
+    {
+      "Item": "Desc_BrassPlates",
+      "Amount": 50
+    },
+    {
+      "Item": "Desc_SteelPlate",
+      "Amount": 50
+    },
+    {
+      "Item": "Desc_SteelScrew",
+      "Amount": 100
+    }
+  ],
+  "ClearRecipes": true,
+  "Recipes": [ "Recipe_XenoBasher_C" ],
+  "Time": 240
+}

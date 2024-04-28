@@ -1,0 +1,25 @@
+//SatisfactoryPlus/Content/Recipes/FlexibleBlastFurnaceSmelter/Simple/Recipe_FBFS_Simple_Copper.Recipe_FBFS_Simple_Copper_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Molten Copper",
+  "category": "Molten Metals",
+  "Ingredients": [
+    {
+      "Item": "Desc_CrushedCopper",
+      "Amount": 20
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_LiquidCopper",
+      "Amount": 10000
+    },
+    {
+      "Item": "Desc_LiquidSlag",
+      "Amount": 4000
+    }
+  ],
+  "ManufacturingDuration": 10,
+  "ManufacturingMenuPriority": 2
+}

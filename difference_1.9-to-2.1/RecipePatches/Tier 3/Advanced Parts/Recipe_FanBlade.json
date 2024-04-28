@@ -1,0 +1,26 @@
+{
+    "Name": "Fan Blade",
+    "OverrideCategory": "Cat_KLib_BuildingParts_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_BrassPlates",
+            "Amount": 12
+        },
+        {
+            "Item": "Desc_IronRod",
+            "Amount": 5
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_WaterBlade",
+            "Amount": 3
+        }
+    ],
+    "ProducedIn": [
+        "Build_AssemblerMk1"
+    ],
+    "ManufacturingDuration": 24,
+    "ManufacturingMenuPriority": 3,
+    "$comment": "This is a new file, no old version exists"
+}

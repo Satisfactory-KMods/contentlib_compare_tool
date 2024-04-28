@@ -6,29 +6,29 @@
   "Ingredients": [
     {
       "Item": "Desc_LiquidSteel",
-      "Amount": 16000
+      "Amount": 8000
     },
     {
       "Item": "Desc_Water",
-      "Amount": 12000
+      "Amount": 16000
     }
 
   ],
   "Products": [
     {
       "Item": "Desc_SteelRod",
-      "Amount": 30
+      "Amount": 15
     },
     {
       "Item": "Desc_ColdSlag_C",
-      "Amount": 3
+      "Amount": 2
     },
     {
       "Item": "Desc_Gas_Steam_Hot",
-      "Amount": 16000
+      "Amount": 20000
     }
 
   ],
-  "ManufacturingDuration": 48,
+  "ManufacturingDuration": 24,
   "ManufacturingMenuPriority": 3
 }

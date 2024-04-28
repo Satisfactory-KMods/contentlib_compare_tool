@@ -2,7 +2,7 @@
 {
   "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
   "Name": "Crushed Zinc",
-  "Category": "T1 Sorting",
+  "OverrideCategory": "T1 Sorting",
   "Ingredients": [
     {
       "Item": "Desc_CrushedRubyte",
@@ -21,10 +21,10 @@
     },
     {
       "Item": "Desc_CrushedLimestone",
-      "Amount": 8
+      "Amount": 10
     }
   ],
   "ProducedIn": [ "Build_SorterMk1" ],
-  "ManufacturingDuration": 15,
+  "ManufacturingDuration": 10,
   "ManufacturingMenuPriority": 3
 }

@@ -1,0 +1,30 @@
+{
+    "$comment": "This file has been changed",
+    "old": {
+        "Ingredients": [
+            {
+                "Item": "Desc_BronzeRod",
+                "Amount": 6
+            },
+            {
+                "Item": "Desc_IronPlateReinforced",
+                "Amount": 5
+            }
+        ],
+        "ManufacturingDuration": 25
+    },
+    "demitter": "-----------------------------------------------------------------------------------",
+    "new": {
+        "Ingredients": [
+            {
+                "Item": "Desc_BronzeRod",
+                "Amount": 20
+            },
+            {
+                "Item": "Desc_IronPlateReinforced",
+                "Amount": 4
+            }
+        ],
+        "ManufacturingDuration": 40
+    }
+}

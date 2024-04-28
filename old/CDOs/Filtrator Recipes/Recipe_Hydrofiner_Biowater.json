@@ -27,6 +27,10 @@
       ]
     },
     {
+      "Property": "mProductionOutFluid",
+      "Value": 500
+    },
+    {
       "Property": "mNeedCleanItem",
       "Value": false
     }

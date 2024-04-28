@@ -5,17 +5,17 @@
   "Ingredients": [
     {
       "Item": "Desc_CrushedZinc",
-      "Amount": 4
+      "Amount": 16
     }
 
   ],
   "Products": [
     {
       "Item": "Desc_ZincIngot",
-      "Amount": 3
+      "Amount": 15
     }
   ],
   "ProducedIn": [ "Build_SmelterMk1" ],
-  "ManufacturingDuration": 8,
+  "ManufacturingDuration": 40,
   "ManufacturingMenuPriority": 5
 }

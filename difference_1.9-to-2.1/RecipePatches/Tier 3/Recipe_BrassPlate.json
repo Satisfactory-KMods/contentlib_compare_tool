@@ -1,0 +1,38 @@
+{
+    "$comment": "This file has been changed",
+    "old": {
+        "Category": "IndustrialParts_C",
+        "Ingredients": [
+            {
+                "Item": "Desc_BrassIngot",
+                "Amount": 6
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_BrassPlates",
+                "Amount": 4
+            }
+        ],
+        "ManufacturingDuration": 12,
+        "ManufacturingMenuPriority": 9
+    },
+    "demitter": "-----------------------------------------------------------------------------------",
+    "new": {
+        "Ingredients": [
+            {
+                "Item": "Desc_BrassIngot",
+                "Amount": 10
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_BrassPlates",
+                "Amount": 9
+            }
+        ],
+        "ManufacturingDuration": 30,
+        "ManufacturingMenuPriority": 13,
+        "OverrideCategory": "StandardParts_C"
+    }
+}

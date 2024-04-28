@@ -1,0 +1,27 @@
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Thermal Silica",
+  "OverrideCategory": "Minerals_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_Sand",
+      "Amount": 16
+    },
+    {
+      "Item": "Desc_MagnesiumGranules",
+      "Amount": 9
+    }
+
+  ],
+  "Products": [
+
+    {
+      "Item": "Desc_Silica",
+      "Amount": 12
+    },
+
+  ],
+  "ProducedIn": [ "Build_FoundryMk1" ],
+  "ManufacturingDuration": 20,
+  "ManufacturingMenuPriority": 1
+}

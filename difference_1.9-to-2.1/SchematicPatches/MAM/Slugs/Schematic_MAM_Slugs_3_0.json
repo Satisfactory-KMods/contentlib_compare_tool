@@ -1,0 +1,11 @@
+{
+    "Name": "DNA Research",
+    "ClearCost": true,
+    "Cost": [
+        {
+            "Item": "Desc_EggDNA_Blue",
+            "Amount": 20
+        }
+    ],
+    "$comment": "This is a new file, no old version exists"
+}

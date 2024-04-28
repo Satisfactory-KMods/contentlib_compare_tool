@@ -11,12 +11,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@types/lodash": "^4.17.0",
-    "@types/node": "^20.11.27",
-    "glob": "^10.3.10",
+    "@types/node": "^20.12.7",
+    "glob": "^10.3.12",
     "json5": "^2.2.3",
     "lodash": "^4.17.21",
-    "tsx": "^4.7.1",
-    "typescript": "^5.4.2"
+    "tsx": "^4.7.3",
+    "typescript": "^5.4.5"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.17.0"
   }
 }

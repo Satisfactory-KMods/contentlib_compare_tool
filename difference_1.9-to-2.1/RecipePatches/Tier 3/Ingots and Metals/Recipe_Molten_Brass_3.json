@@ -1,0 +1,27 @@
+{
+    "Name": "Molten Brass",
+    "category": "Cat_KLib_Alloys_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_LiquidCopper",
+            "Amount": 15000
+        },
+        {
+            "Item": "Desc_CrushedZinc",
+            "Amount": 8
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_LiquidBrass",
+            "Amount": 20000
+        },
+        {
+            "Item": "Desc_LiquidSlag",
+            "Amount": 10000
+        }
+    ],
+    "ManufacturingDuration": 20,
+    "ManufacturingMenuPriority": 2,
+    "$comment": "This is a new file, no old version exists"
+}

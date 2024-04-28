@@ -1,7 +1,7 @@
 //SatisfactoryPlus/Content/Recipes/Assamble/Recipe_Assamble_Stator.Recipe_Assamble_Stator_C
 {
   "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
-  "Category": "IndustrialParts_C",
+  "OverrideCategory": "IndustrialParts_C",
   "Ingredients": [
     {
       "Item": "Desc_SteelPipe",

@@ -1,0 +1,40 @@
+{
+    "$comment": "This file has been changed",
+    "old": {
+        "Ingredients": [
+            {
+                "Item": "Desc_CopperIngot",
+                "Amount": 10
+            },
+            {
+                "Item": "Desc_TinIngot",
+                "Amount": 4
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_BronzeIngot",
+                "Amount": 12
+            }
+        ]
+    },
+    "demitter": "-----------------------------------------------------------------------------------",
+    "new": {
+        "Ingredients": [
+            {
+                "Item": "Desc_CopperIngot",
+                "Amount": 10
+            },
+            {
+                "Item": "Desc_TinIngot",
+                "Amount": 5
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_BronzeIngot",
+                "Amount": 15
+            }
+        ]
+    }
+}

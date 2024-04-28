@@ -1,0 +1,11 @@
+//SatisfactoryPlus/Content/SchematicManager/MAM/Schematics/Slugs/Schematic_Trees_Slugs_3_0_NEW.Schematic_Trees_Slugs_3_0_NEW_C
+{
+  "Name": "DNA Research",
+  "ClearCost": true,
+  "Cost": [
+    {
+      "Item": "Desc_EggDNA_Blue",
+      "Amount": 20
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+    "$comment": "This file has been changed",
+    "old": {
+        "Ingredients": [
+            {
+                "Item": "Desc_LiquidSteel",
+                "Amount": 16000
+            },
+            {
+                "Item": "Desc_Water",
+                "Amount": 12000
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_SteelRod",
+                "Amount": 30
+            },
+            {
+                "Item": "Desc_ColdSlag_C",
+                "Amount": 3
+            },
+            {
+                "Item": "Desc_Gas_Steam_Hot",
+                "Amount": 16000
+            }
+        ],
+        "ManufacturingDuration": 48
+    },
+    "demitter": "-----------------------------------------------------------------------------------",
+    "new": {
+        "Ingredients": [
+            {
+                "Item": "Desc_LiquidSteel",
+                "Amount": 8000
+            },
+            {
+                "Item": "Desc_Water",
+                "Amount": 16000
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_SteelRod",
+                "Amount": 15
+            },
+            {
+                "Item": "Desc_ColdSlag_C",
+                "Amount": 2
+            },
+            {
+                "Item": "Desc_Gas_Steam_Hot",
+                "Amount": 20000
+            }
+        ],
+        "ManufacturingDuration": 24
+    }
+}

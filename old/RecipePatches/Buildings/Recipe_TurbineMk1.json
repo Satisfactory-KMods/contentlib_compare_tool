@@ -1,6 +1,7 @@
 //RefinedPower/Buildables/Factory/ModularPower/MPBuildings/Turbines/TurbineMk1/Recipe_RP_MP_TurbineMk1.Recipe_RP_MP_TurbineMk1_C
 {
   "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name":  "Steam Turbine Mk.1",
   "Ingredients": [
     {
       "Item": "Desc_IronRod",

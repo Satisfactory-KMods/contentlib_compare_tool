@@ -1,0 +1,30 @@
+//SatisfactoryPlus/Content/Recipes/Wascher/Recipe_Wasching_Copper.Recipe_Wasching_Copper_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Washed Copper",
+  "OverrideCategory": "Cat_KLib_SAC_Wasching_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_CrushedSapherit",
+      "Amount": 8
+    },
+    {
+      "Item": "Desc_Water",
+      "Amount": 10000
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_CrushedCopper",
+      "Amount": 8
+    },
+    {
+      "Item": "Desc_LiquidSlag",
+      "Amount": 5000
+    }
+
+  ],
+  "ManufacturingDuration": 20,
+  "ManufacturingMenuPriority": 2
+}

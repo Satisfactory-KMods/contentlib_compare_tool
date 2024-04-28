@@ -1,0 +1,38 @@
+{
+    "$comment": "This file has been changed",
+    "old": {
+        "Products": [
+            {
+                "Item": "Desc_CrushedCopper",
+                "Amount": 12
+            },
+            {
+                "Item": "Desc_CrushedMagnesium",
+                "Amount": 8
+            },
+            {
+                "Item": "Desc_CrushedLimestone",
+                "Amount": 4
+            }
+        ],
+        "ManufacturingDuration": 10
+    },
+    "demitter": "-----------------------------------------------------------------------------------",
+    "new": {
+        "Products": [
+            {
+                "Item": "Desc_CrushedCopper",
+                "Amount": 12
+            },
+            {
+                "Item": "Desc_CrushedMagnesium",
+                "Amount": 8
+            },
+            {
+                "Item": "Desc_CrushedLimestone",
+                "Amount": 5
+            }
+        ],
+        "ManufacturingDuration": 7.5
+    }
+}

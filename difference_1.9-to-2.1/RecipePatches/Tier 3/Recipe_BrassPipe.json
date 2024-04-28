@@ -1,0 +1,24 @@
+{
+    "$comment": "This file has been changed",
+    "old": {
+        "Category": "IndustrialParts_C",
+        "Products": [
+            {
+                "Item": "Desc_BrassPipe",
+                "Amount": 4
+            }
+        ],
+        "ManufacturingMenuPriority": 10
+    },
+    "demitter": "-----------------------------------------------------------------------------------",
+    "new": {
+        "Category": "Cat_StandardParts_C",
+        "Products": [
+            {
+                "Item": "Desc_BrassPipe",
+                "Amount": 5
+            }
+        ],
+        "ManufacturingMenuPriority": 8
+    }
+}

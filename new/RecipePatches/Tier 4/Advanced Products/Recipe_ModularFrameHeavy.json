@@ -1,0 +1,34 @@
+//SatisfactoryPlus/Content/Recipes/Manu/Recipe_Manu_HeavyFrame.Recipe_Manu_HeavyFrame_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Heavy Modular Frame",
+  "Category": "IndustrialParts_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_ModularFrame",
+      "Amount": 5
+    },
+    {
+      "Item": "Desc_SteelPlateReinforced",
+      "Amount": 12
+    },
+    {
+      "Item": "Desc_BrassPipe",
+      "Amount": 15
+    },
+    {
+      "Item": "Desc_SteelScrew",
+      "Amount": 72
+    }
+  ],
+  "Products": [
+    {
+      "Item": "Desc_ModularFrameHeavy",
+      "Amount": 2
+    }
+
+  ],
+  "ProducedIn": [ "Build_ManufacturerMk1" ],
+  "ManufacturingDuration": 48,
+  "ManufacturingMenuPriority": 2
+}

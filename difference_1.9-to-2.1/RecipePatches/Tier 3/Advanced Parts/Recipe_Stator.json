@@ -1,0 +1,10 @@
+{
+    "$comment": "This file has been changed",
+    "old": {
+        "Category": "IndustrialParts_C"
+    },
+    "demitter": "-----------------------------------------------------------------------------------",
+    "new": {
+        "OverrideCategory": "IndustrialParts_C"
+    }
+}

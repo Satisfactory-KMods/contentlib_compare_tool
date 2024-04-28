@@ -1,0 +1,10 @@
+{
+    "$comment": "This file has been changed",
+    "old": {
+        "Category": "Cat_KLib_BuildingParts_C"
+    },
+    "demitter": "-----------------------------------------------------------------------------------",
+    "new": {
+        "OverrideCategory": "Cat_KLib_BuildingParts_C"
+    }
+}

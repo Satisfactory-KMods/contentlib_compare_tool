@@ -10,7 +10,7 @@
     },
     {
       "Item": "Desc_Water",
-      "Amount": 6000
+      "Amount": 3000
     }
 
   ],
@@ -21,9 +21,9 @@
     },
     {
       "Item": "Desc_Gas_Steam_Hot",
-      "Amount": 9000
+      "Amount": 4000
     }
   ],
   "ManufacturingDuration": 12,
-  "ManufacturingMenuPriority": 6
+  "ManufacturingMenuPriority": 5
 }

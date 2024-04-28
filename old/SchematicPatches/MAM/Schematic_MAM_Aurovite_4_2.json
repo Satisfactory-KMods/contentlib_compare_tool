@@ -1,0 +1,15 @@
+{
+    "Name": "Power Pole Mk.2",
+    "ClearCost": true,
+    "Cost": [
+        {
+            "Item": "Desc_BronzeRod",
+            "Amount": 75
+        },
+        {
+            "Item": "Desc_HighSpeedWire",
+            "Amount": 200
+        }
+    ],
+    "$comment": "This file has been removed, no new version exists"
+}

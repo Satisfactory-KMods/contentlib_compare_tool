@@ -1,0 +1,40 @@
+{
+    "$comment": "This file has been changed",
+    "old": {
+        "Category": "T1 Sorting",
+        "Products": [
+            {
+                "Item": "Desc_CrushedZinc",
+                "Amount": 16
+            },
+            {
+                "Item": "Desc_Sand",
+                "Amount": 8
+            },
+            {
+                "Item": "Desc_CrushedLimestone",
+                "Amount": 8
+            }
+        ],
+        "ManufacturingDuration": 15
+    },
+    "demitter": "-----------------------------------------------------------------------------------",
+    "new": {
+        "Products": [
+            {
+                "Item": "Desc_CrushedZinc",
+                "Amount": 16
+            },
+            {
+                "Item": "Desc_Sand",
+                "Amount": 8
+            },
+            {
+                "Item": "Desc_CrushedLimestone",
+                "Amount": 10
+            }
+        ],
+        "ManufacturingDuration": 10,
+        "OverrideCategory": "T1 Sorting"
+    }
+}

@@ -1,0 +1,22 @@
+//SatisfactoryPlus/Content/Recipes/Constructor/Recipe_Constructor_ZincPlates.Recipe_Constructor_ZincPlates_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Zinc Plate",
+  "OverrideCategory": "StandardParts_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_ZincIngot",
+      "Amount": 6
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_ZincPlates",
+      "Amount": 5
+    }
+  ],
+  "ProducedIn": [ "Build_ConstructorMk1" ],
+  "ManufacturingDuration": 24,
+  "ManufacturingMenuPriority": 12
+}
