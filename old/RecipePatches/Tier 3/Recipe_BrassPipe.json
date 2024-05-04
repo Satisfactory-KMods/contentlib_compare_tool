@@ -2,7 +2,7 @@
 {
   "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
   "Name": "Brass Pipe",
-  "Category": "IndustrialParts_C",
+  "Category": "Cat_StandardParts_C",
   "Ingredients": [
     {
       "Item": "Desc_BrassPlates",
@@ -17,11 +17,11 @@
   "Products": [
     {
       "Item": "Desc_BrassPipe",
-      "Amount": 4
+      "Amount": 5
     }
 
   ],
   "ProducedIn": [ "Build_AssemblerMk1" ],
   "ManufacturingDuration": 24,
-  "ManufacturingMenuPriority": 10
+  "ManufacturingMenuPriority": 8
 }

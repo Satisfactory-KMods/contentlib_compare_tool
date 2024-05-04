@@ -1,0 +1,17 @@
+//SatisfactoryPlus/Content/SchematicManager/MAM/Schematics/Satmonium/Schematic_Trees_Satmonium_3_4.Schematic_Trees_Satmonium_3_4_C
+{
+  "Name": "Aurovite Sorting",
+  "ClearCost": true,
+  "Cost": [
+    {
+      "Item": "Desc_CircuitBoardHighSpeed",
+      "Amount": 40
+    },
+    {
+      "Item": "Desc_HighSpeedWire",
+      "Amount": 100
+    }
+  ],
+  "ClearRecipes": true,
+  "Recipes": [ "Recipe_Sorter_T1_Satmonium_C", "Recipe_Smelter_Sorted_CateriumIngot_C", "Recipe_CateriumHeatsink" ]
+}

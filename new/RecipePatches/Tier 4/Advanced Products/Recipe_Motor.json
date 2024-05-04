@@ -6,29 +6,30 @@
   "Ingredients": [
     {
       "Item": "Desc_Rotor",
-      "Amount": 2
+      "Amount": 6
     },
     {
       "Item": "Desc_Stator",
-      "Amount": 2
+      "Amount": 6
     },
     {
       "Item": "Desc_IronSheet",
-      "Amount": 15
+      "Amount": 10
     },
     {
-      "Item": "Desc_IronScrew",
-      "Amount": 20
+      "Item": "Desc_SteelScrew",
+      "Amount": 60
     }
   ],
   "Products": [
     {
       "Item": "Desc_Motor",
-      "Amount": 3
+      "Amount": 4
     }
 
   ],
-  "ProducedIn": [ "Build_ManufacturerMk1" ],
+  "ProducedIn": [ "Build_ManufacturerMk1", "manual" ],
   "ManufacturingDuration": 24,
+  "ManualManufacturingMultiplier": 2,
   "ManufacturingMenuPriority": 1
 }

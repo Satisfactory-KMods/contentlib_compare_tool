@@ -2,26 +2,34 @@
 {
   "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
   "Name": "Belt Drive Mk.2",
-  "Category": "Cat_KLib_BuildingParts_C",
+  "OverrideCategory": "Cat_KLib_BuildingParts_C",
   "Ingredients": [
     {
       "Item": "Desc_Stator",
-      "Amount": 2
+      "Amount": 5
     },
     {
-      "Item": "Desc_BrassPlates",
-      "Amount": 3
+      "Item": "Desc_LiquidBrass",
+      "Amount": 15000
+    },
+    {
+      "Item": "Desc_Air",
+      "Amount": 25000
     }
 
   ],
   "Products": [
     {
       "Item": "Desc_BeltItemMk2",
-      "Amount": 1
+      "Amount": 10
+    },
+    {
+      "Item": "Desc_ColdSlag",
+      "Amount": 6
     }
 
   ],
-  "ProducedIn": [ "Build_AssemblerMk1" ],
-  "ManufacturingDuration": 12,
+  "ProducedIn": [ "Build_SoldifierAndCooler" ],
+  "ManufacturingDuration": 30,
   "ManufacturingMenuPriority": 2
 }

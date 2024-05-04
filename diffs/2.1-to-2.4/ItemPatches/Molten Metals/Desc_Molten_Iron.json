@@ -1,0 +1,15 @@
+{
+    "$comment": "This file has been changed",
+    "old": {
+        "Description": "Melting Point: 1160 C, Carbon Content: 3.80 %\n\nCast Iron in liquid form, useful for bulk casting ingots or other parts, as well as making steel."
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "new": {
+        "Description": "Melting Point: 1160°C, Carbon Content: 3.80 %\n\nCast Iron in liquid form, useful for bulk casting ingots or other parts, as well as making steel."
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "original": {
+        "Name": "Molten Iron",
+        "Description": "Melting Point: 1160°C, Carbon Content: 3.80 %\n\nCast Iron in liquid form, useful for bulk casting ingots or other parts, as well as making steel."
+    }
+}

@@ -1,0 +1,6 @@
+//KLib/Assets/Parts/Production/Parts/PhotovoltaicCell/Desc_PhotovoltaicCell.Desc_PhotovoltaicCell_C
+{
+  "Name": "Solar Cell",
+  "Description": "Converts light into electricity.\nUsed to construct Solar Panels."
+
+}

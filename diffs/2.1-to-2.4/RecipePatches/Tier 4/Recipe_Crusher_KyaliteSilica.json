@@ -1,0 +1,26 @@
+{
+    "Name": "Crushed Silica",
+    "Category": "Minerals_C",
+    "Ingredients": [
+        {
+            "Item": "Res_Cryolit",
+            "Amount": 24
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_Silica",
+            "Amount": 10
+        },
+        {
+            "Item": "Desc_Sand",
+            "Amount": 10
+        }
+    ],
+    "ProducedIn": [
+        "Build_Crusher"
+    ],
+    "ManufacturingDuration": 16,
+    "ManufacturingMenuPriority": 5,
+    "$comment": "This is a new file, no old version exists"
+}

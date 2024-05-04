@@ -1,6 +1,6 @@
 //KLib/Assets/Ressources/Raw/Fluids/Metals/Desc_LiquidLead.Desc_LiquidLead_C
 {
   "Name": "Molten Lead",
-  "Description": "Melting Point: 328 C\n\nLead in liquid form, useful for bulk casting ingots or other parts.\nMelting it in a Flexible Blast Furance is energy inefficient."
+  "Description": "Melting Point: 328°C\n\nLead in liquid form, useful for bulk casting ingots or other parts.\nMelting it in a Flexible Blast Furnace is energy inefficient."
 
 }

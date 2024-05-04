@@ -19,5 +19,6 @@
     }
   ],
   "ManufacturingDuration": 40,
+  "ManualManufacturingMultiplier": 1.5,
   "ManufacturingMenuPriority": 5.2
 }

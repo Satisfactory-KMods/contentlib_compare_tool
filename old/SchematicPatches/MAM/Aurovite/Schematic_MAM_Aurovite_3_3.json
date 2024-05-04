@@ -1,0 +1,15 @@
+//SatisfactoryPlus/Content/SchematicManager/MAM/Schematics/Satmonium/Schematic_Trees_Satmonium_3_3.Schematic_Trees_Satmonium_3_3_C
+{
+  "Name": "A.I. Limiter",
+  "ClearCost": true,
+  "Cost": [
+    {
+      "Item": "Desc_TinWire",
+      "Amount": 100
+    },
+    {
+      "Item": "Desc_HighSpeedWire",
+      "Amount": 150
+    }
+  ]
+}

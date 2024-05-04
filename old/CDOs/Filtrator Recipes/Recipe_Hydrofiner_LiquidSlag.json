@@ -10,23 +10,23 @@
       "Value": [
         {
           "mProduceItem": "/KLib/Assets/Parts/Production/Burn/ColdSlag/Desc_ColdSlag.Desc_ColdSlag_C",
-          "mProductionTime": 3,
-          "mProduceAmount": 2
-        },
-        {
-          "mProduceItem": "/KLib/Assets/Parts/Production/Powder/Desc_Sand.Desc_Sand_C",
-          "mProductionTime": 6,
+          "mProductionTime": 2.4,
           "mProduceAmount": 2
         },
         {
           "mProduceItem": "/KLib/Assets/Parts/Production/Crushed/Desc_CrushedIron.Desc_CrushedIron_C",
-          "mProductionTime": 8,
-          "mProduceAmount": 1
+          "mProductionTime": 12,
+          "mProduceAmount": 4
         },
         {
           "mProduceItem": "/KLib/Assets/Parts/Production/Crushed/Desc_CrushedTin.Desc_CrushedTin_C",
-          "mProductionTime": 8,
-          "mProduceAmount": 1
+          "mProductionTime": 24,
+          "mProduceAmount": 8
+        },
+        {
+          "mProduceItem": "/KLib/Assets/Parts/Production/Crushed/Desc_CrushedCopper.Desc_CrushedCopper_C",
+          "mProductionTime": 36,
+          "mProduceAmount": 12
         }
       ]
     },

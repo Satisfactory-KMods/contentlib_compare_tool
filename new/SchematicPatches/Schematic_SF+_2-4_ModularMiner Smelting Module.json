@@ -16,5 +16,7 @@
       "Item": "Desc_HighSpeedWire",
       "Amount": 100
     }
-  ]
+  ],
+  "ClearRecipes": true,
+  "Recipes": [ "Recipe_Module_Smelter_C", "Recipe_Assamble_SlagCement_C" ]
 }

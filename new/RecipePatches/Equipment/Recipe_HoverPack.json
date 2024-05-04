@@ -1,0 +1,34 @@
+//Game/FactoryGame/Recipes/Equipment/Recipe_Hoverpack.Recipe_Hoverpack_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Hover Pack",
+  "Ingredients": [
+    {
+      "Item": "Desc_Motor",
+      "Amount": 4
+    },
+    {
+      "Item": "Desc_ModularFrame",
+      "Amount": 8
+    },
+    {
+      "Item": "Desc_WaterBlade",
+      "Amount": 8
+    },
+    {
+      "Item": "Desc_BrassPlates",
+      "Amount": 20
+    },
+    {
+      "Item": "Desc_SteelScrew",
+      "Amount": 75
+    }
+  ],
+  "Products": [
+    {
+        "Item": "BP_EquipmentDescriptorHoverPack_C",
+        "Amount": 1
+    }
+  ],
+  "ManufacturingDuration": 60
+}

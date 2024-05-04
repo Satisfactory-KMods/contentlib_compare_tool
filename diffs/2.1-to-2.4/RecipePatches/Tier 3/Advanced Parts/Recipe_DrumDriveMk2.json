@@ -1,0 +1,85 @@
+{
+    "$comment": "This file has been changed",
+    "old": {
+        "Ingredients": [
+            {
+                "Item": "Desc_Stator",
+                "Amount": 5
+            },
+            {
+                "Item": "Desc_LiquidBrass",
+                "Amount": 15000
+            },
+            {
+                "Item": "Desc_Air",
+                "Amount": 25000
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_BeltItemMk2",
+                "Amount": 10
+            },
+            {
+                "Item": "Desc_ColdSlag",
+                "Amount": 6
+            }
+        ]
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "new": {
+        "Ingredients": [
+            {
+                "Item": "Desc_Stator",
+                "Amount": 5
+            },
+            {
+                "Item": "Desc_LiquidBrass",
+                "Amount": 16000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_Air",
+                "Amount": 25000
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_BeltItemMk2",
+                "Amount": 10
+            }
+        ]
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "original": {
+        "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+        "Name": "Belt Drive Mk.2",
+        "OverrideCategory": "Cat_KLib_BuildingParts_C",
+        "Ingredients": [
+            {
+                "Item": "Desc_Stator",
+                "Amount": 5
+            },
+            {
+                "Item": "Desc_LiquidBrass",
+                "Amount": 16000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_Air",
+                "Amount": 25000
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_BeltItemMk2",
+                "Amount": 10
+            }
+        ],
+        "ProducedIn": [
+            "Build_SoldifierAndCooler"
+        ],
+        "ManufacturingDuration": 30,
+        "ManufacturingMenuPriority": 2
+    }
+}

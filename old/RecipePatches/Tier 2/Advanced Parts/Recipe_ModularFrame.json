@@ -4,11 +4,11 @@
   "Ingredients": [
     {
       "Item": "Desc_BronzeRod",
-      "Amount": 6
+      "Amount": 20
     },
     {
       "Item": "Desc_IronPlateReinforced",
-      "Amount": 5
+      "Amount": 4
     }
 
   ],
@@ -18,6 +18,6 @@
       "Amount": 2
     }
   ],
-  "ManufacturingDuration": 25,
+  "ManufacturingDuration": 40,
   "ManufacturingMenuPriority": 5.2
 }

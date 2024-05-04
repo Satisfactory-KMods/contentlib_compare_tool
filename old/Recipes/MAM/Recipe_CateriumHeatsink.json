@@ -1,10 +1,10 @@
 {
   "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
   "Name": "Caterium Heatsink",
-  "OverrideCategory": "IndustrialParts_C",
+  "OverrideCategory": "Electronics_C",
   "Ingredients": [
     {
-      "Item": "Desc_CateriumPlate",
+      "Item": "Desc_CateriumPlates",
       "Amount": 6
     },
     {
@@ -22,6 +22,6 @@
 
   ],
   "ProducedIn": [ "Build_AssemblerMk1" ],
-  "ManufacturingDuration": 24,
+  "ManufacturingDuration": 12,
   "ManufacturingMenuPriority": 3
 }

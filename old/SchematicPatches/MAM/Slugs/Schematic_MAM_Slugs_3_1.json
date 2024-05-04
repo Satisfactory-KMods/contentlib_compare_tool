@@ -1,0 +1,19 @@
+//SatisfactoryPlus/Content/SchematicManager/MAM/Schematics/Slugs/Schematic_Trees_Slugs_3_1_NEW.Schematic_Trees_Slugs_3_1_NEW_C
+{
+  "Name": "Slug Hatchery",
+  "ClearCost": true,
+  "Cost": [
+    {
+      "Item": "Desc_FF_Dirt",
+      "Amount": 50
+    },
+    {
+      "Item": "Desc_BronzeFrame",
+      "Amount": 10
+    },
+    {
+      "Item": "Desc_ZincPlates",
+      "Amount": 50
+    }
+  ]
+}

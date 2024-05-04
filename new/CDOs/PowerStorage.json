@@ -9,6 +9,10 @@
     {
       "Property": "mPowerInputCapacity",
       "Value": 300
+    },
+    {
+      "Property": "mDescription",
+      "Value": "Storage Capacity: 240 MWh (240 MW for 1 hour)\r\nMax Charge Rate: 300 MW\r\nMax Discharge Rate: Unlimited \r\n\r\nCan be connected to a Power Grid to store excess power production. The stored power can be used later in cases of high consumption."
     }
   ]
 }

@@ -6,32 +6,32 @@
   "Ingredients": [
     {
       "Item": "Desc_LiquidSteel",
-      "Amount": 20000
+      "Amount": 16000
     },
     {
       "Item": "Desc_Air",
       "Amount": 24000
     },
     {
-      "Item": "Desc_CrushedMagnesium",
-      "Amount": 12
+      "Item": "Desc_CrushedLimestone",
+      "Amount": 20
     }
 
   ],
   "Products": [
     {
       "Item": "Desc_SteelIngot",
-      "Amount": 60
+      "Amount": 48
     },
     {
       "Item": "Desc_Gas_CarbonDioxide",
-      "Amount": 20000
+      "Amount": 16000
     },
     {
       "Item": "Desc_ColdSlag_C",
-      "Amount": 10
+      "Amount": 6
     }
   ],
-  "ManufacturingDuration": 40,
+  "ManufacturingDuration": 32,
   "ManufacturingMenuPriority": 6
 }

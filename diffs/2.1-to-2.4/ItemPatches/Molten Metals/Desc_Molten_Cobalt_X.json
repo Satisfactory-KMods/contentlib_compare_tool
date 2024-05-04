@@ -1,0 +1,15 @@
+{
+    "$comment": "This file has been changed",
+    "old": {
+        "Description": "Melting Point: 1495 C\n\nCobalt in liquid form, useful for bulk casting ingots or other parts."
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "new": {
+        "Description": "Melting Point: 1495°C\n\nCobalt in liquid form, useful for bulk casting ingots or other parts."
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "original": {
+        "Name": "Molten Cobalt",
+        "Description": "Melting Point: 1495°C\n\nCobalt in liquid form, useful for bulk casting ingots or other parts."
+    }
+}

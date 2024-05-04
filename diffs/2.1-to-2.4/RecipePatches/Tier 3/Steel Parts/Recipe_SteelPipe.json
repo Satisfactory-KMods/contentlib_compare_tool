@@ -1,0 +1,75 @@
+{
+    "$comment": "This file has been changed",
+    "old": {
+        "Ingredients": [
+            {
+                "Item": "Desc_SteelIngot",
+                "Amount": 15
+            },
+            {
+                "Item": "Desc_Silica",
+                "Amount": 6
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_SteelPipe",
+                "Amount": 10
+            }
+        ],
+        "ManufacturingDuration": 30
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "new": {
+        "Ingredients": [
+            {
+                "Item": "Desc_SteelIngot",
+                "Amount": 10,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_Sand",
+                "Amount": 8,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_SteelPipe",
+                "Amount": 15,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "ManufacturingDuration": 20
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "original": {
+        "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+        "Name": "Steel Pipe",
+        "category": "IndustrialParts_C",
+        "Ingredients": [
+            {
+                "Item": "Desc_SteelIngot",
+                "Amount": 10,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_Sand",
+                "Amount": 8,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_SteelPipe",
+                "Amount": 15,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "ProducedIn": [
+            "Build_FoundryMk1"
+        ],
+        "ManufacturingDuration": 20,
+        "ManufacturingMenuPriority": 2
+    }
+}

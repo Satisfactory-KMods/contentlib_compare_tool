@@ -21,10 +21,10 @@
     },
     {
       "Item": "Desc_CrushedLimestone",
-      "Amount": 4
+      "Amount": 5
     }
   ],
   "ProducedIn": [ "Build_SorterMk1" ],
-  "ManufacturingDuration": 10,
+  "ManufacturingDuration": 7.5,
   "ManufacturingMenuPriority": 2
 }

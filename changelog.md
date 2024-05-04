@@ -1,16 +1,97 @@
 ---
-## 1.0.0.alpha-phase2-1
+## 1.0.0.alpha-phase2-4
+
+**Progression**
+- Added Tier 4
+
+**Schematics**
+- Update costs for:
+    - Slug Hatchery
+    - Slug Breeding
+
+**Dedicated Server**
+- Added a new dedicated server version
+- Note: we havn't work a lot on Multiplayer fixes yet. Loot chests are not synced and some other things are not working as expected.
+
+**Items**
+- Rename "Simple Photovoltaic Cell" to "Solar Cell"
 
 **Changes**
-- Update fluid colors and icons
+- Caterium Heat Sink is now sinkable
+- Add missing Slag Cement recipe to the milestone "Modular Miner: Smelting Module" 
+- Update diverse building descriptions and costs
+- Update diverse item descriptions
+- Filtrator:
+    - Liquid Slag output of Cold Slag has been changed:
+        - 2.4 seconds > 4 seconds
+        - 2 per cycle > 3 per cycle
+- Brass Pipes:
+    - input:
+        - Wire 8 > 6
+- Modular Frame:
+    - Manual Manufacturing Multiplier: 1 > 1.5
+- Smart Plating 
+    - Manufacturing Duration: 120
+    - input:
+        - Bronze Plates 16 > 30
+        - Rotor 4 > 10
+    - output:
+        - Smart Plating 2 > 5
+- Slag Concrete:
+    - input:
+        - Cold Slag 10 > 9
+- Steel Ingots
+    - Manufacturing Duration: 32
+    - input:
+        - Molten Steel 20m³ > 16m³
+        - Magnesium 12 > Crushed Gangue 16m³
+    - output:
+        - Cold Slag > 6
+        - Steel Ingots 60 > 48
+        - Flue Gas 20m³ > 16m³
+- Automated Wiring
+    - input:
+        - Cable 27 > 66
+- Belt Drive Mk.2
+    - input:
+        - Molten Brass 15m³ > 16m³
+    - output:
+        - Cold Slag removed
+- Fan Blades
+    - input:
+        - Brass Plates 12 > 6
+- Stator:
+    - input:
+        - Steel Pipe 2 > 3
+        - Tinned Wire 3 > 6
+- Molten Brass
+    - input:
+        - Crushed Zinc 8 > 10
+- Molten Steel 
+    - input:
+        - Hot Steam 6m³ > 8m³
+        - Carbon Dust 3 > 8
+- Washed Copper
+    - output:
+        - Slag 5m³ > 4m³
+- Washed Iron
+    - output:
+        - Slag 2m³ > 3m³
+- Steel Pipes
+    - Manufacturing Duration: 20
+    - input:
+        - Steel Ingots 15 > 10
+        - Silica 6 > Sand 8
+    - output:
+        - Steel Pipes 10 > 15
+- Brass Pipes
+    - Manufacturing Duration: 20
+    - input:
+        - Copper Wire 8 > 12
 
 **Bugfixes**
-- Fix ratio for Water Turbine Mk.1 
-    - Steam 75m³/min > 50m³/min 
-    - Water 19m³/min > 10m³/min
-- Fix ore name in Tutotial
-- Fix Filtrator UI show old name
-- Fix wiki don't show Filtrator recipes
+- Fix naming for washing copper
+- Remove one broken Algal Mass node
 
 Generel Information: the renamed items will disappear from the game also related recipes like crushing recipes need to set again
 ---
@@ -64,6 +145,7 @@ Note: All items where renamed will disappear from the game.
 - Rename **Crushed Stone** to **Gangue**
 - Rename **Bio Water** to **Algal Mass**
 - Rename **CO2** to **Flue Gas**
+- Rename **Simple Photovoltaic Cell** to **Solar Cell**
 - Update many item descriptions
 - Update many item icons
 - Update many item meshes
@@ -104,7 +186,8 @@ Note: All items where renamed will disappear from the game.
 
 **Tier 3**
 
-- Comming soon
+- Has 7 Milestones
+- Fix order of the milestones
 
 **Tier 4**
 
@@ -147,6 +230,7 @@ Note: All items where renamed will disappear from the game.
 
 - Fix Input/Outputs of different buildings to be more consistent (From right to left)
 - Fix a bug where the game crash if you go back to the main menu
+- Remove one broken Algal Mass node
 
 **Web Wiki**
 

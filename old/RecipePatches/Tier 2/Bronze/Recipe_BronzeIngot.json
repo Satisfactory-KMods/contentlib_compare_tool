@@ -10,14 +10,14 @@
     },
     {
       "Item": "Desc_TinIngot",
-      "Amount": 4
+      "Amount": 5
     }
 
   ],
   "Products": [
     {
       "Item": "Desc_BronzeIngot",
-      "Amount": 12
+      "Amount": 15
     }
   ],
   "ProducedIn": [ "Build_FoundryMk1" ],

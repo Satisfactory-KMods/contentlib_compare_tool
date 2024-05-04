@@ -1,0 +1,19 @@
+//SatisfactoryPlus/Content/SchematicManager/MAM/Schematics/Slugs/Schematic_Trees_Slugs_3_2_NEW.Schematic_Trees_Slugs_3_2_NEW_C
+{
+  "Name": "Slug Breeding",
+  "ClearCost": true,
+  "Cost": [
+    {
+      "Item": "Desc_FF_Crop_Wheat_C",
+      "Amount": 50
+    },
+    {
+      "Item": "Desc_ModularFrame",
+      "Amount": 50
+    },
+    {
+      "Item": "Desc_BrassPipe",
+      "Amount": 100
+    }
+  ]
+}

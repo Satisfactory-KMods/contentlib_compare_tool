@@ -1,0 +1,19 @@
+{
+    "Name": "Slug Breeding",
+    "ClearCost": true,
+    "Cost": [
+        {
+            "Item": "Desc_FF_Crop_Wheat_C",
+            "Amount": 50
+        },
+        {
+            "Item": "Desc_ModularFrame",
+            "Amount": 50
+        },
+        {
+            "Item": "Desc_BrassPipe",
+            "Amount": 100
+        }
+    ],
+    "$comment": "This is a new file, no old version exists"
+}

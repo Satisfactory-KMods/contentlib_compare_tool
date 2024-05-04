@@ -1,0 +1,37 @@
+{
+    "$comment": "This file has been changed",
+    "old": {},
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "new": {
+        "ClearRecipes": true,
+        "Recipes": [
+            "Recipe_Module_Smelter_C",
+            "Recipe_Assamble_SlagCement_C"
+        ]
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "original": {
+        "Name": "Modular Miner: Smelting Module",
+        "MenuPriority": 6,
+        "ClearCost": true,
+        "Cost": [
+            {
+                "Item": "Desc_BronzeFrame",
+                "Amount": 10
+            },
+            {
+                "Item": "Desc_IronPlate",
+                "Amount": 50
+            },
+            {
+                "Item": "Desc_HighSpeedWire",
+                "Amount": 100
+            }
+        ],
+        "ClearRecipes": true,
+        "Recipes": [
+            "Recipe_Module_Smelter_C",
+            "Recipe_Assamble_SlagCement_C"
+        ]
+    }
+}

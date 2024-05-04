@@ -6,21 +6,21 @@
   "Ingredients": [
     {
       "Item": "Res_RubyteOre",
-      "Amount": 20
+      "Amount": 15
     }
 
   ],
   "Products": [
     {
       "Item": "Desc_CrushedRubyte",
-      "Amount": 20
+      "Amount": 10
     },
     {
       "Item": "Desc_CrushedLimestone",
-      "Amount": 12
+      "Amount": 10
     }
   ],
   "ProducedIn": [ "Build_Crusher" ],
-  "ManufacturingDuration": 20,
+  "ManufacturingDuration": 15,
   "ManufacturingMenuPriority": 3
 }

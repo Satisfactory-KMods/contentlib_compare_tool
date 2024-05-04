@@ -4,6 +4,7 @@ import {glob} from 'glob'
 import path, { join } from 'path';
 import isEqual from 'lodash/isEqual';
 import json5 from "json5";
+import  cloneDeep  from 'lodash/cloneDeep';
 
 const source = await glob('old/**/*.json');
 const target = await glob('new/**/*.json');
@@ -75,25 +76,52 @@ for(const file of target) {
         meta.push({file, action: 'change'});
 
         const changedFields: {
-            old: Record<string, any>,
-            demitter1: string;
             new: Record<string, any>,
             $comment: string;
+            demitter1: string;
+            old: Record<string, any>,
             demitter2: string;
             original: Record<string, any>,
         } = {
             $comment: 'This file has been changed',
-            old: {},
-            demitter1: '-----------------------------------------------------------------------------------',
             new: {},
             demitter2: '-----------------------------------------------------------------------------------',
-            original: oldContent
+            old: {},
+            demitter1: '-----------------------------------------------------------------------------------',
+            original: newContent
         };
 
         const keys = Object.keys({...oldContent, ...newContent});
 
         for(const key of keys) {
+            // todo make it simpler
             if(!isEqual(oldContent[key], newContent[key])) {
+                if(Array.isArray(oldContent[key]) && Array.isArray(newContent[key])) {
+                    for(const [index, value] of oldContent[key].entries()) {
+                        if(!isEqual(value, newContent[key][index])) {
+                            if(typeof newContent[key][index] === 'object') {
+                                if(Array.isArray(newContent[key][index])) {
+                                    for(const [index2, value2] of newContent[key][index].entries()) {
+                                        if(typeof value2 === 'object' && !isEqual(value2, oldContent[key][index][index2])) {
+                                            value2.$comment = 'THIS OBJECT HAS BEEN CHANGED';
+                                        }
+                                    }
+                                } else {
+                                    newContent[key][index].$comment = 'THIS OBJECT HAS BEEN CHANGED';
+                                    for(const [key2, value2] of Object.entries(newContent[key][index])) {
+                                        if(!isEqual(value2, oldContent[key][index][key2]) && Array.isArray(value2) && Array.isArray(oldContent[key][index][key2])) {
+                                            for(const [index2, value3] of value2.entries()) {
+                                                if(typeof value3 === 'object' && !isEqual(value3, oldContent[key][index][key2][index2])) {
+                                                    value3.$comment = 'THIS OBJECT HAS BEEN CHANGED';
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
                 changedFields.new[key] = newContent[key];
                 changedFields.old[key] = oldContent[key];
             }

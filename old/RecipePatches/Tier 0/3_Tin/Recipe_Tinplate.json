@@ -6,21 +6,21 @@
   "Ingredients": [
     {
       "Item": "Desc_TinIngot",
-      "Amount": 6
+      "Amount": 9
     },
     {
       "Item": "Desc_IronPlate",
-      "Amount": 4
+      "Amount": 6
     }
 
   ],
   "Products": [
     {
       "Item": "Desc_TinPlates",
-      "Amount": 4
+      "Amount": 12
     }
   ],
   "ProducedIn": [ "Build_AssemblerMk1", "manual" ],
-  "ManufacturingDuration": 16,
+  "ManufacturingDuration": 18,
   "ManufacturingMenuPriority": 1
 }

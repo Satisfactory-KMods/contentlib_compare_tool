@@ -1,6 +1,6 @@
 //KLib/Assets/Ressources/Raw/Fluids/Metals/Desc_LiquidSolder.Desc_LiquidSolder_C
 {
   "Name": "Solder",
-  "Description": "Melting Point: 220 C\n\nSolder in liquid form, either to be used directly or cast into Solder Wire and Solder Rods."
+  "Description": "Melting Point: 220°C\n\nSolder in liquid form, either to be used directly or cast into Solder Wire and Solder Rods."
 
 }

@@ -1,0 +1,27 @@
+//SatisfactoryPlus/Content/Recipes/Assamble/Recipe_Assamble_Lift_3.Recipe_Assamble_Lift_3_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Automated Wiring",
+  "Category": "Cat_SpaceElevator",
+  "Ingredients": [
+    {
+      "Item": "Desc_Stator",
+      "Amount": 4
+    },
+    {
+      "Item": "Desc_Cable",
+      "Amount": 27
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_SpaceElevatorPart_3",
+      "Amount": 3
+    }
+
+  ],
+  "ProducedIn": [ "Build_AssemblerMk1" ],
+  "ManufacturingDuration": 48,
+  "ManufacturingMenuPriority": 3
+}

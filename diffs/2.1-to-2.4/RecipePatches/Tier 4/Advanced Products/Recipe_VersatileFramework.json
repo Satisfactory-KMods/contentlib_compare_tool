@@ -1,0 +1,57 @@
+{
+    "$comment": "This file has been changed",
+    "old": {
+        "Ingredients": [
+            {
+                "Item": "Desc_BronzeFrame",
+                "Amount": 2
+            },
+            {
+                "Item": "Desc_SteelPlate",
+                "Amount": 10
+            }
+        ]
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "new": {
+        "Ingredients": [
+            {
+                "Item": "Desc_BronzeFrame",
+                "Amount": 2
+            },
+            {
+                "Item": "Desc_SteelRod",
+                "Amount": 25,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ]
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "original": {
+        "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+        "Name": "Versatile Framework",
+        "OverrideCategory": "Cat_SpaceElevator",
+        "Ingredients": [
+            {
+                "Item": "Desc_BronzeFrame",
+                "Amount": 2
+            },
+            {
+                "Item": "Desc_SteelRod",
+                "Amount": 25,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_SpaceElevatorPart_2",
+                "Amount": 3
+            }
+        ],
+        "ProducedIn": [
+            "Build_AssemblerMk1"
+        ],
+        "ManufacturingDuration": 64,
+        "ManufacturingMenuPriority": 2
+    }
+}

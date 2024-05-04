@@ -1,0 +1,26 @@
+{
+    "Name": "Solar Cell",
+    "Category": "Cat_KLib_BuildingParts_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_ZincPLate",
+            "Amount": 8
+        },
+        {
+            "Item": "Desc_Silica",
+            "Amount": 18
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_PhotovoltaicCell",
+            "Amount": 3
+        }
+    ],
+    "ProducedIn": [
+        "Build_FoundryMk1"
+    ],
+    "ManufacturingDuration": 16,
+    "ManufacturingMenuPriority": 8,
+    "$comment": "This is a new file, no old version exists"
+}

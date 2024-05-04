@@ -6,21 +6,21 @@
   "Ingredients": [
     {
       "Item": "Res_SapheritOre",
-      "Amount": 15
+      "Amount": 12
     }
 
   ],
   "Products": [
     {
       "Item": "Desc_CrushedSapherit",
-      "Amount": 15
+      "Amount": 12
     },
     {
       "Item": "Desc_CrushedLimestone",
-      "Amount": 12
+      "Amount": 5
     }
   ],
   "ProducedIn": [ "Build_Crusher" ],
-  "ManufacturingDuration": 15,
+  "ManufacturingDuration": 12,
   "ManufacturingMenuPriority": 2
 }
