@@ -6,18 +6,18 @@
   "Ingredients": [
     {
       "Item": "Desc_BronzeFrame",
-      "Amount": 2
+      "Amount": 4
     },
     {
       "Item": "Desc_SteelRod",
-      "Amount": 25
+      "Amount": 60
     }
 
   ],
   "Products": [
     {
       "Item": "Desc_SpaceElevatorPart_2",
-      "Amount": 3
+      "Amount": 6
     }
 
   ],

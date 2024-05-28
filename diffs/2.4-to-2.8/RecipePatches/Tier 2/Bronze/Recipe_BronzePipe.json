@@ -1,0 +1,57 @@
+{
+    "$comment": "This file has been changed",
+    "new": {
+        "Ingredients": [
+            {
+                "Item": "Desc_CopperIngot",
+                "Amount": 12
+            },
+            {
+                "Item": "Desc_TinIngot",
+                "Amount": 15,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ]
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "Ingredients": [
+            {
+                "Item": "Desc_CopperIngot",
+                "Amount": 12
+            },
+            {
+                "Item": "Desc_TinIngot",
+                "Amount": 6
+            }
+        ]
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+        "Name": "Bronze Pipes",
+        "Category": "/KLib/Assets/Categorys/Cat_KLib_Alloys.Cat_KLib_Alloys_C",
+        "Ingredients": [
+            {
+                "Item": "Desc_CopperIngot",
+                "Amount": 12
+            },
+            {
+                "Item": "Desc_TinIngot",
+                "Amount": 15,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_BronzePipe",
+                "Amount": 18
+            }
+        ],
+        "ProducedIn": [
+            "Build_FoundryMk1"
+        ],
+        "ManufacturingDuration": 30,
+        "ManufacturingMenuPriority": 2
+    }
+}

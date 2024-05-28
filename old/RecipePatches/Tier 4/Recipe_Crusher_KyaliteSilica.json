@@ -1,0 +1,26 @@
+//SatisfactoryPlus/Content/Recipes/Sorter/Recipe_Sorter_T1_Cryolit_2.Recipe_Sorter_T1_Cryolit_2_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Crushed Silica",
+  "Category": "Minerals_C",
+  "Ingredients": [
+    {
+      "Item": "Res_Cryolit",
+      "Amount": 24
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_Silica",
+      "Amount": 10
+    },
+    {
+      "Item": "Desc_Sand",
+      "Amount": 10
+    }
+  ],
+  "ProducedIn": [ "Build_Crusher" ],
+  "ManufacturingDuration": 16,
+  "ManufacturingMenuPriority": 5
+}

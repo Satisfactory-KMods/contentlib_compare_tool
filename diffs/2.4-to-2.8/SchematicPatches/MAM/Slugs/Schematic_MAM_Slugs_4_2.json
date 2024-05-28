@@ -1,0 +1,26 @@
+{
+    "Name": "Slug Slime Processing",
+    "ClearCost": true,
+    "Cost": [
+        {
+            "Item": "SlugDesc_BlueSlug",
+            "Amount": 500
+        },
+        {
+            "Item": "SlugDesc_YellowSLug",
+            "Amount": 100
+        },
+        {
+            "Item": "Res_Cryolit",
+            "Amount": 50
+        }
+    ],
+    "ClearRecipes": true,
+    "Recipes": [
+        "Recipe_FSF+Composter",
+        "Recipe_Low_BlueSlug_C",
+        "Recipe_Low_YellowSlug_C",
+        "Recipe_Module_Energy"
+    ],
+    "$comment": "This is a new file, no old version exists"
+}

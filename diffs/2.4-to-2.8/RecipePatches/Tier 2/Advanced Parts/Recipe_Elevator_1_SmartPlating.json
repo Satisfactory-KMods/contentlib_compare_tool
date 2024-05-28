@@ -1,0 +1,70 @@
+{
+    "$comment": "This file has been changed",
+    "new": {
+        "Ingredients": [
+            {
+                "Item": "Desc_Rotor",
+                "Amount": 5,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_BronzePlates",
+                "Amount": 48,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_SpaceElevatorPart_1",
+                "Amount": 3,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "ManufacturingDuration": 80
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "Ingredients": [
+            {
+                "Item": "Desc_BronzePlates",
+                "Amount": 30
+            },
+            {
+                "Item": "Desc_Rotor",
+                "Amount": 10
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_SpaceElevatorPart_1",
+                "Amount": 5
+            }
+        ],
+        "ManufacturingDuration": 120
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+        "Ingredients": [
+            {
+                "Item": "Desc_Rotor",
+                "Amount": 5,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_BronzePlates",
+                "Amount": 48,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_SpaceElevatorPart_1",
+                "Amount": 3,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "ManufacturingDuration": 80,
+        "ManufacturingMenuPriority": 1
+    }
+}

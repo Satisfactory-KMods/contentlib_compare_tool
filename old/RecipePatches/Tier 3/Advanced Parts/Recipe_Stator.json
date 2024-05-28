@@ -5,11 +5,11 @@
   "Ingredients": [
     {
       "Item": "Desc_SteelPipe",
-      "Amount": 2
+      "Amount": 3
     },
     {
       "Item": "Desc_TinWire",
-      "Amount": 3
+      "Amount": 6
     }
 
   ],

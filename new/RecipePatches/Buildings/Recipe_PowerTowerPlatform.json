@@ -1,4 +1,4 @@
-//Game/FactoryGame/Recipes/Buildings/Recipe_PowerTowerPlatform.Default__Recipe_PowerTowerPlatform_C
+//Game/FactoryGame/Recipes/Buildings/Recipe_PowerTowerPlatform.Recipe_PowerTowerPlatform_C
 {
   "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
   "Ingredients": [

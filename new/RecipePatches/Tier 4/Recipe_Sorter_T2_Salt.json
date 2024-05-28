@@ -25,7 +25,7 @@
     },
     {
       "Item": "Desc_Sand",
-      "Amount": 8
+      "Amount": 16
     }
   ],
   "ProducedIn": [ "Build_SorterMk1" ],

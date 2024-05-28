@@ -1,0 +1,61 @@
+{
+    "$comment": "This file has been changed",
+    "new": {
+        "Ingredients": [
+            {
+                "Item": "Desc_CarbonDust",
+                "Amount": 50,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_Diamond",
+                "Amount": 5,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "ManufacturingDuration": 120
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "Ingredients": [
+            {
+                "Item": "Desc_CarbonDust",
+                "Amount": 100
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_Diamond",
+                "Amount": 10
+            }
+        ],
+        "ManufacturingDuration": 240
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+        "Name": "High Pressure Diamond",
+        "Category": "Minerals_C",
+        "Ingredients": [
+            {
+                "Item": "Desc_CarbonDust",
+                "Amount": 50,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_Diamond",
+                "Amount": 5,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "ProducedIn": [
+            "Build_ConstructorMk1"
+        ],
+        "ManufacturingDuration": 120,
+        "ManufacturingMenuPriority": 4
+    }
+}

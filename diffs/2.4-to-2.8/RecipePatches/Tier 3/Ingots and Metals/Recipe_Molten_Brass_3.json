@@ -1,0 +1,86 @@
+{
+    "$comment": "This file has been changed",
+    "new": {
+        "Ingredients": [
+            {
+                "Item": "Desc_LiquidCopper",
+                "Amount": 8000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_CrushedZinc",
+                "Amount": 6,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_LiquidBrass",
+                "Amount": 16000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_LiquidSlag",
+                "Amount": 6000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "ManufacturingDuration": 12
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "Ingredients": [
+            {
+                "Item": "Desc_LiquidCopper",
+                "Amount": 15000
+            },
+            {
+                "Item": "Desc_CrushedZinc",
+                "Amount": 10
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_LiquidBrass",
+                "Amount": 20000
+            },
+            {
+                "Item": "Desc_LiquidSlag",
+                "Amount": 10000
+            }
+        ],
+        "ManufacturingDuration": 20
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+        "Name": "Molten Brass",
+        "category": "Cat_KLib_Alloys_C",
+        "Ingredients": [
+            {
+                "Item": "Desc_LiquidCopper",
+                "Amount": 8000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_CrushedZinc",
+                "Amount": 6,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_LiquidBrass",
+                "Amount": 16000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_LiquidSlag",
+                "Amount": 6000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "ManufacturingDuration": 12,
+        "ManufacturingMenuPriority": 2
+    }
+}

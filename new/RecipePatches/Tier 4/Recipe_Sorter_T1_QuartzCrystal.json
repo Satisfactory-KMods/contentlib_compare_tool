@@ -20,8 +20,8 @@
       "Amount": 7
     },
     {
-      "Item": "Desc_CrushedLimestone",
-      "Amount": 4
+      "Item": "Desc_Sand",
+      "Amount": 8
     }
   ],
   "ProducedIn": [ "Build_SorterMk1" ],

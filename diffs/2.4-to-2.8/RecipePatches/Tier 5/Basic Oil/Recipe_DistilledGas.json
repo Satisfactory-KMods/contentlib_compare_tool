@@ -1,0 +1,74 @@
+{
+    "$comment": "This file has been changed",
+    "new": {
+        "Name": "Distilled Natural Gas",
+        "Products": [
+            {
+                "Item": "Desc_KLIB_NaturalGas_C",
+                "Amount": 20000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_LiquidHydrocarbons",
+                "Amount": 8000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_Asphalt",
+                "Amount": 4,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "ManufacturingDuration": 16
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "Name": "Distilled Gas",
+        "Products": [
+            {
+                "Item": "Desc_KLIB_NaturalGas_C",
+                "Amount": 16000
+            },
+            {
+                "Item": "Desc_LiquidHydrocarbons",
+                "Amount": 6000
+            },
+            {
+                "Item": "Desc_Asphalt",
+                "Amount": 2
+            }
+        ],
+        "ManufacturingDuration": 12
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+        "Name": "Distilled Natural Gas",
+        "category": "SolidOilProducts_C",
+        "Ingredients": [
+            {
+                "Item": "Desc_PurifiedCrudeOil",
+                "Amount": 10000
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_KLIB_NaturalGas_C",
+                "Amount": 20000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_LiquidHydrocarbons",
+                "Amount": 8000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_Asphalt",
+                "Amount": 4,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "ManufacturingDuration": 16,
+        "ManufacturingMenuPriority": 1
+    }
+}

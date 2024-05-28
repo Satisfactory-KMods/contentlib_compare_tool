@@ -6,16 +6,16 @@
   "Ingredients": [
     {
       "Item": "Desc_CrushedTin",
-      "Amount": 3
+      "Amount": 1
     }
 
   ],
   "Products": [
     {
       "Item": "Desc_TinIngot",
-      "Amount": 3
+      "Amount": 1
     }
   ],
-  "ManufacturingDuration": 4,
+  "ManufacturingDuration": 3,
   "ManufacturingMenuPriority": 3
 }

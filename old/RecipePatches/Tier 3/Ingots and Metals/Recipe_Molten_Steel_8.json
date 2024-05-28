@@ -10,11 +10,11 @@
     },
     {
       "Item": "Desc_CarbonDust",
-      "Amount": 3
+      "Amount": 8
     },
     {
       "Item": "Desc_Gas_Steam_Hot",
-      "Amount": 6000
+      "Amount": 8000
     }
 
   ],
@@ -25,7 +25,7 @@
     },
     {
       "Item": "Desc_LiquidSlag",
-      "Amount": 6000
+      "Amount": 5000
     }
 
   ],

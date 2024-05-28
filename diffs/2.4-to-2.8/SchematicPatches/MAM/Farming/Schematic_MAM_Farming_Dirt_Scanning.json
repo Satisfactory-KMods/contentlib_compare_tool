@@ -1,0 +1,11 @@
+{
+    "Name": "Dirt",
+    "ClearCost": true,
+    "Cost": [
+        {
+            "Item": "Desc_FF_Dirt",
+            "Amount": 50
+        }
+    ],
+    "$comment": "This is a new file, no old version exists"
+}

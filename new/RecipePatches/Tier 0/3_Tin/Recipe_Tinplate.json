@@ -1,7 +1,7 @@
 //SatisfactoryPlus/Content/Recipes/Constructor/Recipe_Constructor_TinPlates.Recipe_Constructor_TinPlates_C
 {
   "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
-  "Name": "Tinplate",
+  "Name": "Tin Plate",
   "Category": "StandardParts_C",
   "Ingredients": [
     {

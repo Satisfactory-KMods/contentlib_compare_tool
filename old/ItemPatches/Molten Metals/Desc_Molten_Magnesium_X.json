@@ -1,6 +1,6 @@
 //KLib/Assets/Ressources/Raw/Fluids/Metals/Desc_LiquidMagnesium.Desc_LiquidMagnesium_C
 {
   "Name": "Molten Magnesium",
-  "Description": "Melting Point: 650 C\n\nMagnesium in liquid form, useful for bulk casting ingots or other parts.\nWARNING: Highly combustible!"
+  "Description": "Melting Point: 650°C\n\nMagnesium in liquid form, useful for bulk casting ingots or other parts.\nWARNING: Highly combustible!"
 
 }

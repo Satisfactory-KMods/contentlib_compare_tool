@@ -4,7 +4,7 @@
   "ClearCost": true,
   "Cost": [
     {
-      "Item": "Desc_FF_Dirt",
+      "Item": "Desc_IronPlateReinforced",
       "Amount": 50
     },
     {

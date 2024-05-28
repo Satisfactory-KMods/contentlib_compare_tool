@@ -1,0 +1,38 @@
+{
+    "$comment": "This file has been changed",
+    "new": {
+        "Name": "Tin Plate"
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "Name": "Tinplate"
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+        "Name": "Tin Plate",
+        "Category": "StandardParts_C",
+        "Ingredients": [
+            {
+                "Item": "Desc_TinIngot",
+                "Amount": 9
+            },
+            {
+                "Item": "Desc_IronPlate",
+                "Amount": 6
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_TinPlates",
+                "Amount": 12
+            }
+        ],
+        "ProducedIn": [
+            "Build_AssemblerMk1",
+            "manual"
+        ],
+        "ManufacturingDuration": 18,
+        "ManufacturingMenuPriority": 1
+    }
+}

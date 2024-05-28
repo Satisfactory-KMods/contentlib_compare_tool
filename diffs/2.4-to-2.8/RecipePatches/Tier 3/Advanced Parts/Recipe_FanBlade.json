@@ -1,0 +1,75 @@
+{
+    "$comment": "This file has been changed",
+    "new": {
+        "Ingredients": [
+            {
+                "Item": "Desc_BrassPlates",
+                "Amount": 8,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_IronRod",
+                "Amount": 15,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_WaterBlade",
+                "Amount": 5,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "ManufacturingDuration": 40
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "Ingredients": [
+            {
+                "Item": "Desc_BrassPlates",
+                "Amount": 6
+            },
+            {
+                "Item": "Desc_IronRod",
+                "Amount": 5
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_WaterBlade",
+                "Amount": 3
+            }
+        ],
+        "ManufacturingDuration": 24
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+        "Name": "Fan Blade",
+        "OverrideCategory": "Cat_KLib_BuildingParts_C",
+        "Ingredients": [
+            {
+                "Item": "Desc_BrassPlates",
+                "Amount": 8,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_IronRod",
+                "Amount": 15,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_WaterBlade",
+                "Amount": 5,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "ProducedIn": [
+            "Build_AssemblerMk1"
+        ],
+        "ManufacturingDuration": 40,
+        "ManufacturingMenuPriority": 3
+    }
+}

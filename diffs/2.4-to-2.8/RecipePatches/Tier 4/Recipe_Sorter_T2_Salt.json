@@ -1,0 +1,73 @@
+{
+    "$comment": "This file has been changed",
+    "new": {
+        "Products": [
+            {
+                "Item": "Desc_Salt",
+                "Amount": 35
+            },
+            {
+                "Item": "Desc_QuartzCrystal",
+                "Amount": 10
+            },
+            {
+                "Item": "Desc_Sand",
+                "Amount": 16,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ]
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "Products": [
+            {
+                "Item": "Desc_Salt",
+                "Amount": 35
+            },
+            {
+                "Item": "Desc_QuartzCrystal",
+                "Amount": 10
+            },
+            {
+                "Item": "Desc_Sand",
+                "Amount": 8
+            }
+        ]
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+        "Name": "Salt",
+        "Category": "T2-Sorting",
+        "Ingredients": [
+            {
+                "Item": "Res_Cryolit",
+                "Amount": 60
+            },
+            {
+                "Item": "Desc_Water",
+                "Amount": 24000
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_Salt",
+                "Amount": 35
+            },
+            {
+                "Item": "Desc_QuartzCrystal",
+                "Amount": 10
+            },
+            {
+                "Item": "Desc_Sand",
+                "Amount": 16,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "ProducedIn": [
+            "Build_SorterMk1"
+        ],
+        "ManufacturingDuration": 40,
+        "ManufacturingMenuPriority": 5
+    }
+}

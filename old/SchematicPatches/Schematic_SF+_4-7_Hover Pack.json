@@ -1,0 +1,27 @@
+//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T4/Schematic_SF+_4_7.Schematic_SF+_4_7_C
+{
+  "Name": "Hover Pack",
+  "MenuPriority": 7,
+  "ClearCost": true,
+  "Cost": [
+    {
+      "Item": "Desc_Motor",
+      "Amount": 15
+    },
+    {
+      "Item": "Desc_ModularFrame",
+      "Amount": 25
+    },
+    {
+      "Item": "Desc_BrassPlates",
+      "Amount": 50
+    },
+    {
+      "Item": "Desc_SteelScrew",
+      "Amount": 250
+    }
+  ],
+  "ClearRecipes": true,
+  "Recipes": [ "/Game/FactoryGame/Recipes/Equipment/Recipe_Hoverpack.Recipe_Hoverpack_C" ],
+  "Time": 240
+}

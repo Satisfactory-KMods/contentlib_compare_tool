@@ -10,8 +10,8 @@
       "Value": [
         {
           "mProduceItem": "/KLib/Assets/Parts/Production/Burn/ColdSlag/Desc_ColdSlag.Desc_ColdSlag_C",
-          "mProductionTime": 2.4,
-          "mProduceAmount": 2
+          "mProductionTime": 4,
+          "mProduceAmount": 3
         },
         {
           "mProduceItem": "/KLib/Assets/Parts/Production/Crushed/Desc_CrushedIron.Desc_CrushedIron_C",

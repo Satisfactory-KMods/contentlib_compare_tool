@@ -1,0 +1,11 @@
+//SatisfactoryPlus/Content/SchematicManager/MAM/Schematics/Farming/Schematic_Tree_Farming_Scanning_Dirt_Wer.Schematic_Tree_Farming_Scanning_Dirt_Wer_C
+{
+  "Name": "Loam",
+  "ClearCost": true,
+  "Cost": [
+    {
+      "Item": "Desc_FF_Dirt_Wet",
+      "Amount": 50
+    }
+  ]
+}

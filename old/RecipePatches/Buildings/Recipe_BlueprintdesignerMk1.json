@@ -1,0 +1,30 @@
+//Game/FactoryGame/Recipes/Buildings/Recipe_BlueprintDesigner.Recipe_BlueprintDesigner_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Blueprint Designer Mk.1",
+  "Ingredients": [
+    {
+      "ItemClass": "Desc_IronRod",
+      "Amount": 50
+    },
+    {
+      "ItemClass": "Desc_IronSheet",
+      "Amount": 100
+    },
+    {
+      "ItemClass": "Desc_Cable",
+      "Amount": 50
+    },
+    {
+      "ItemClass": "Desc_Cement",
+      "Amount": 250
+    }
+  ],
+  "Products": [
+    {
+      "Item": "Desc_BlueprintDesigner_C",
+      "Amount": 1
+    }
+  ],
+  "ManufacturingMenuPriority": 4
+}

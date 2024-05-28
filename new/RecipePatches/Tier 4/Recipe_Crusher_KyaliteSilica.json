@@ -6,21 +6,21 @@
   "Ingredients": [
     {
       "Item": "Res_Cryolit",
-      "Amount": 24
+      "Amount": 20
     }
 
   ],
   "Products": [
     {
       "Item": "Desc_Silica",
-      "Amount": 10
+      "Amount": 9
     },
     {
       "Item": "Desc_Sand",
-      "Amount": 10
+      "Amount": 8
     }
   ],
   "ProducedIn": [ "Build_Crusher" ],
-  "ManufacturingDuration": 16,
+  "ManufacturingDuration": 15,
   "ManufacturingMenuPriority": 5
 }

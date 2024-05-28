@@ -1,0 +1,75 @@
+{
+    "$comment": "This file has been changed",
+    "new": {
+        "Ingredients": [
+            {
+                "Item": "Res_Cryolit",
+                "Amount": 20,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_Silica",
+                "Amount": 9,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_Sand",
+                "Amount": 8,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "ManufacturingDuration": 15
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "Ingredients": [
+            {
+                "Item": "Res_Cryolit",
+                "Amount": 24
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_Silica",
+                "Amount": 10
+            },
+            {
+                "Item": "Desc_Sand",
+                "Amount": 10
+            }
+        ],
+        "ManufacturingDuration": 16
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+        "Name": "Crushed Silica",
+        "Category": "Minerals_C",
+        "Ingredients": [
+            {
+                "Item": "Res_Cryolit",
+                "Amount": 20,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_Silica",
+                "Amount": 9,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_Sand",
+                "Amount": 8,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "ProducedIn": [
+            "Build_Crusher"
+        ],
+        "ManufacturingDuration": 15,
+        "ManufacturingMenuPriority": 5
+    }
+}

@@ -1,0 +1,21 @@
+//SatisfactoryPlus/Content/SchematicManager/MAM/Schematics/Slugs/Schematic_Trees_Slugs_4_2_NEW.Schematic_Trees_Slugs_4_2_NEW_C
+{
+  "Name": "Slug Slime Processing",
+  "ClearCost": true,
+  "Cost": [
+    {
+      "Item": "SlugDesc_BlueSlug",
+      "Amount": 500
+    },
+    {
+      "Item": "SlugDesc_YellowSLug",
+      "Amount": 100
+    },
+    {
+      "Item": "Res_Cryolit",
+      "Amount": 50
+    }
+  ],
+  "ClearRecipes": true,
+  "Recipes": [ "Recipe_FSF+Composter", "Recipe_Low_BlueSlug_C", "Recipe_Low_YellowSlug_C", "Recipe_Module_Energy" ]
+}

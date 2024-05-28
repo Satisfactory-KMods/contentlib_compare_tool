@@ -6,16 +6,16 @@
   "Ingredients": [
     {
       "Item": "Res_StritaritOre",
-      "Amount": 20
+      "Amount": 10
     }
 
   ],
   "Products": [
     {
       "Item": "Desc_IronIngot",
-      "Amount": 20
+      "Amount": 10
     }
   ],
-  "ManufacturingDuration": 30,
+  "ManufacturingDuration": 20,
   "ManufacturingMenuPriority": 1
 }

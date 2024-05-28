@@ -5,8 +5,8 @@
   "Category": "Cat_KLib_BuildingParts_C",
   "Ingredients": [
     {
-      "Item": "Desc_ZincPLate",
-      "Amount": 8
+      "Item": "Desc_ZincPlates",
+      "Amount": 5
     },
     {
       "Item": "Desc_Silica",

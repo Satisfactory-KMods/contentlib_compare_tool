@@ -5,11 +5,11 @@
   "Ingredients": [
     {
       "Item": "Desc_PolymerResin",
-      "Amount": 8
+      "Amount": 12
     },
     {
       "Item": "Desc_Sulfur",
-      "Amount": 2
+      "Amount": 3
     }
 
   ],
@@ -19,7 +19,7 @@
       "Amount": 6
     }
   ],
-  "ManufacturingDuration": 15,
+  "ManufacturingDuration": 24,
   "ManufacturingMenuPriority": 5,
   "ProducedIn": [ "Build_FoundryMk1" ]
 }

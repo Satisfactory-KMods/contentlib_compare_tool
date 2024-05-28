@@ -4,20 +4,20 @@
   "Ingredients": [
     {
       "Item": "Desc_BronzePlates",
-      "Amount": 16
+      "Amount": 30
     },
     {
       "Item": "Desc_Rotor",
-      "Amount": 4
+      "Amount": 10
     }
 
   ],
   "Products": [
     {
       "Item": "Desc_SpaceElevatorPart_1",
-      "Amount": 2
+      "Amount": 5
     }
   ],
-  "ManufacturingDuration": 48,
+  "ManufacturingDuration": 120,
   "ManufacturingMenuPriority": 1
 }

@@ -1,0 +1,34 @@
+{
+    "$comment": "This file has been changed",
+    "new": {
+        "ManufacturingDuration": 24
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "ManufacturingDuration": 12
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+        "Name": "Molten Iron",
+        "category": "Molten Metals",
+        "Ingredients": [
+            {
+                "Item": "Desc_CrushedIron",
+                "Amount": 24
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_LiquidIron",
+                "Amount": 12000
+            },
+            {
+                "Item": "Desc_LiquidSlag",
+                "Amount": 4000
+            }
+        ],
+        "ManufacturingDuration": 24,
+        "ManufacturingMenuPriority": 1
+    }
+}

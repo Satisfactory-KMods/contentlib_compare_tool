@@ -10,7 +10,7 @@
     },
     {
       "Item": "Desc_LiquidBrass",
-      "Amount": 15000
+      "Amount": 16000
     },
     {
       "Item": "Desc_Air",
@@ -22,10 +22,6 @@
     {
       "Item": "Desc_BeltItemMk2",
       "Amount": 10
-    },
-    {
-      "Item": "Desc_ColdSlag",
-      "Amount": 6
     }
 
   ],

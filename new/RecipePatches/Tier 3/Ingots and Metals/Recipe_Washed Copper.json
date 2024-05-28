@@ -5,12 +5,12 @@
   "OverrideCategory": "Cat_KLib_SAC_Wasching_C",
   "Ingredients": [
     {
-      "Item": "Desc_CrushedSapherit",
+      "Item": "Res_SapheritOre",
       "Amount": 8
     },
     {
       "Item": "Desc_Water",
-      "Amount": 10000
+      "Amount": 8000
     }
 
   ],

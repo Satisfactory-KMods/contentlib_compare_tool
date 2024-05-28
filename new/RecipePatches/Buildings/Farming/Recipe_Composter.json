@@ -1,0 +1,24 @@
+//SatisfactoryPlus/Content/ModifyedBuildings/Composter/Recipe_FSF+Composter.Recipe_FSF+Composter_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Composter",
+  "Ingredients": [
+    {
+      "Item": "Desc_ModularFrame",
+      "Amount": 15
+    },
+    {
+      "Item": "Desc_BronzePipe",
+      "Amount": 50
+    },
+    {
+      "Item": "Desc_Rotor",
+      "Amount": 15
+    },
+    {
+      "Item": "Desc_Cable",
+      "Amount": 50
+    }
+  ],
+  "ManufacturingMenuPriority": 3
+}

@@ -1,0 +1,105 @@
+{
+    "$comment": "This file has been changed",
+    "new": {
+        "Ingredients": [
+            {
+                "Item": "Desc_Rotor",
+                "Amount": 12,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_Stator",
+                "Amount": 12,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_IronSheet",
+                "Amount": 20,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_SteelScrew",
+                "Amount": 120,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_Motor",
+                "Amount": 8,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "ManufacturingDuration": 48
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "Ingredients": [
+            {
+                "Item": "Desc_Rotor",
+                "Amount": 6
+            },
+            {
+                "Item": "Desc_Stator",
+                "Amount": 6
+            },
+            {
+                "Item": "Desc_IronSheet",
+                "Amount": 10
+            },
+            {
+                "Item": "Desc_SteelScrew",
+                "Amount": 60
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_Motor",
+                "Amount": 4
+            }
+        ],
+        "ManufacturingDuration": 24
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+        "Name": "Motor",
+        "Category": "IndustrialParts_C",
+        "Ingredients": [
+            {
+                "Item": "Desc_Rotor",
+                "Amount": 12,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_Stator",
+                "Amount": 12,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_IronSheet",
+                "Amount": 20,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_SteelScrew",
+                "Amount": 120,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_Motor",
+                "Amount": 8,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "ProducedIn": [
+            "Build_ManufacturerMk1",
+            "manual"
+        ],
+        "ManufacturingDuration": 48,
+        "ManualManufacturingMultiplier": 2,
+        "ManufacturingMenuPriority": 1
+    }
+}

@@ -1,0 +1,27 @@
+//SatisfactoryPlus/Content/SchematicManager/MAM/Schematics/Farming/Schematic_Tree_Farming_DirtFarming.Schematic_Tree_Farming_DirtFarming_C
+{
+  "Name": "Common Dirt Crops",
+  "ClearCost": true,
+  "Cost": [
+    {
+      "Item": "Desc_FF_Dirt",
+      "Amount": 50
+    },
+    {
+      "Item": "Desc_FF_WheatSeed",
+      "Amount": 50
+    },
+    {
+      "Item": "Desc_FF_CarrotSeed",
+      "Amount": 50
+    },
+    {
+      "Item": "Desc_FF_PotatoSeed",
+      "Amount": 50
+    },
+    {
+      "Item": "Desc_FF_CornSeed",
+      "Amount": 50
+    }
+  ]
+}

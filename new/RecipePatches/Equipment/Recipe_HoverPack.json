@@ -5,30 +5,31 @@
   "Ingredients": [
     {
       "Item": "Desc_Motor",
-      "Amount": 4
+      "Amount": 15
     },
     {
       "Item": "Desc_ModularFrame",
-      "Amount": 8
+      "Amount": 10
     },
     {
       "Item": "Desc_WaterBlade",
-      "Amount": 8
+      "Amount": 16
     },
     {
       "Item": "Desc_BrassPlates",
-      "Amount": 20
+      "Amount": 40
     },
     {
       "Item": "Desc_SteelScrew",
-      "Amount": 75
+      "Amount": 150
     }
   ],
   "Products": [
     {
-        "Item": "BP_EquipmentDescriptorHoverPack_C",
-        "Amount": 1
+      "Item": "BP_EquipmentDescriptorHoverPack_C",
+      "Amount": 1
     }
   ],
-  "ManufacturingDuration": 60
+  "ManufacturingDuration": 60,
+  "ManualManufacturingMultiplier": 2
 }

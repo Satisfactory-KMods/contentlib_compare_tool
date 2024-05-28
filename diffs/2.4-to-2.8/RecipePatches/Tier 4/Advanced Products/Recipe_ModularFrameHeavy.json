@@ -1,0 +1,89 @@
+{
+    "$comment": "This file has been changed",
+    "new": {
+        "Ingredients": [
+            {
+                "Item": "Desc_ModularFrame",
+                "Amount": 8,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_SteelPlateReinforced",
+                "Amount": 16,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_BrassPipe",
+                "Amount": 30,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_SteelScrew",
+                "Amount": 180
+            }
+        ],
+        "ManualManufacturingMultiplier": 2.5
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "Ingredients": [
+            {
+                "Item": "Desc_ModularFrame",
+                "Amount": 15
+            },
+            {
+                "Item": "Desc_SteelPlateReinforced",
+                "Amount": 12
+            },
+            {
+                "Item": "Desc_BrassPipe",
+                "Amount": 25
+            },
+            {
+                "Item": "Desc_SteelScrew",
+                "Amount": 180
+            }
+        ],
+        "ManualManufacturingMultiplier": 2
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+        "Name": "Heavy Modular Frame",
+        "Category": "IndustrialParts_C",
+        "Ingredients": [
+            {
+                "Item": "Desc_ModularFrame",
+                "Amount": 8,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_SteelPlateReinforced",
+                "Amount": 16,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_BrassPipe",
+                "Amount": 30,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_SteelScrew",
+                "Amount": 180
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_ModularFrameHeavy",
+                "Amount": 3
+            }
+        ],
+        "ProducedIn": [
+            "Build_ManufacturerMk1",
+            "manual"
+        ],
+        "ManufacturingDuration": 48,
+        "ManualManufacturingMultiplier": 2.5,
+        "ManufacturingMenuPriority": 2
+    }
+}

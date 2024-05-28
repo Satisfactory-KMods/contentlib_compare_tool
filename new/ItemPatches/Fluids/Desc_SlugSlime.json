@@ -1,0 +1,7 @@
+//KLib/Assets/Ressources/Raw/Fluids/Slugs/Desc_SlugSlime_Low.Desc_SlugSlime_Low_C
+{
+  "Name": "Slug Slime",
+  "Description": "Slime from Slugs in low concentration. Can be crystallized in the Filtrator to form Power Shard Crystals.",
+  "Form": "RF_Liquid",
+  "StackSize": "Fluid"
+}

@@ -1,0 +1,15 @@
+{
+    "Name": "Seed Extractor",
+    "ClearCost": true,
+    "Cost": [
+        {
+            "Item": "Desc_CopperSheet",
+            "Amount": 150
+        },
+        {
+            "Item": "Desc_IronPlateReinforced",
+            "Amount": 50
+        }
+    ],
+    "$comment": "This is a new file, no old version exists"
+}

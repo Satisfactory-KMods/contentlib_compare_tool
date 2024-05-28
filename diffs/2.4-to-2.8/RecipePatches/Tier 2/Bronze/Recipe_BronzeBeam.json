@@ -1,0 +1,47 @@
+{
+    "$comment": "This file has been changed",
+    "new": {
+        "Products": [
+            {
+                "Item": "Desc_BronzeRod",
+                "Amount": 3,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "ManufacturingDuration": 24
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "Products": [
+            {
+                "Item": "Desc_BronzeRod",
+                "Amount": 5
+            }
+        ],
+        "ManufacturingDuration": 20
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+        "Name": "Bronze Beam",
+        "Category": "StandardParts_C",
+        "Ingredients": [
+            {
+                "Item": "Desc_BronzeIngot",
+                "Amount": 9
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_BronzeRod",
+                "Amount": 3,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "ProducedIn": [
+            "Build_ConstructorMk1"
+        ],
+        "ManufacturingDuration": 24,
+        "ManufacturingMenuPriority": 10
+    }
+}

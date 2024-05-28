@@ -1,0 +1,75 @@
+{
+    "$comment": "This file has been changed",
+    "new": {
+        "Ingredients": [
+            {
+                "Item": "Desc_HeavyOilResidue",
+                "Amount": 2000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_PetroleumCoke",
+                "Amount": 16,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_LiquidHydrocarbons",
+                "Amount": 1000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "ManufacturingDuration": 8
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "Ingredients": [
+            {
+                "Item": "Desc_HeavyOilResidue",
+                "Amount": 5000
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_PetroleumCoke",
+                "Amount": 40
+            },
+            {
+                "Item": "Desc_LiquidHydrocarbons",
+                "Amount": 3000
+            }
+        ],
+        "ManufacturingDuration": 20
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+        "Name": "Petroleum Coke",
+        "category": "SolidOilProducts_C",
+        "Ingredients": [
+            {
+                "Item": "Desc_HeavyOilResidue",
+                "Amount": 2000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_PetroleumCoke",
+                "Amount": 16,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_LiquidHydrocarbons",
+                "Amount": 1000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "ProducedIn": [
+            "Build_OilRefinery"
+        ],
+        "ManufacturingDuration": 8,
+        "ManufacturingMenuPriority": 3
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "Name": "Slug Slime",
+    "Description": "Slime from Slugs in low concentration. Can be crystallized in the Filtrator to form Power Shard Crystals.",
+    "Form": "RF_Liquid",
+    "StackSize": "Fluid",
+    "$comment": "This is a new file, no old version exists"
+}
