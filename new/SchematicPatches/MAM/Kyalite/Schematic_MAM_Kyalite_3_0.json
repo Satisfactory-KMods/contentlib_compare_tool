@@ -1,0 +1,11 @@
+//SatisfactoryPlus/Content/SchematicManager/MAM/Schematics/Cryolite/Schematic_Trees_Cryolit_3_0.Schematic_Trees_Cryolit_3_0_C
+{
+  "Name": "Kyalite",
+  "ClearCost": true,
+  "Cost": [
+    {
+      "Item": "Res_Cryolit",
+      "Amount": 50
+    }
+  ]
+}

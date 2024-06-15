@@ -6,16 +6,16 @@
   "Ingredients": [
     {
       "Item": "Desc_CrushedStritarit",
-      "Amount": 24
+      "Amount": 12
     }
 
   ],
   "Products": [
     {
       "Item": "Desc_TinIngot",
-      "Amount": 12
+      "Amount": 6
     }
   ],
-  "ManufacturingDuration": 16,
+  "ManufacturingDuration": 24,
   "ManufacturingMenuPriority": 3
 }

@@ -1,7 +1,7 @@
 //Game/FactoryGame/Recipes/Buildings/Recipe_TruckStation.Recipe_TruckStation_C
 {
   "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
-  "Name": "Truck STation",
+  "Name": "Truck Station",
   "Ingredients": [
     {
       "Item": "Desc_ModularFrame",

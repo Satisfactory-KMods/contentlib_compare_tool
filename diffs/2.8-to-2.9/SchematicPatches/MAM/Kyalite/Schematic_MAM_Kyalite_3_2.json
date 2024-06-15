@@ -1,0 +1,19 @@
+{
+    "Name": "Lime Dust",
+    "ClearCost": true,
+    "Cost": [
+        {
+            "Item": "Res_Cryolit",
+            "Amount": 250
+        },
+        {
+            "Item": "Desc_Salt",
+            "Amount": 100
+        },
+        {
+            "Item": "Desc_Sand",
+            "Amount": 100
+        }
+    ],
+    "$comment": "This is a new file, no old version exists"
+}

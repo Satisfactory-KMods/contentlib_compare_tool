@@ -1,196 +1,77 @@
-## 1.0.0.alpha-phase2-8
+## 1.0.0.alpha-phase2-9
+
+**note:**
+- This Patch has no Tier 5 content yet we are working on it.
 
 **changes**
-- Update Recipe for Slugslime
-- Rename **low energy slug slime** to **slug slime**
-- Rename **tinplate** to **tin plate**
-- Update building costs for slug hatching
-- **WIP:** Farming MAM tree changes und removing gates. Note: There are many Notes with missing recipes and not changed costs!
+- Smelter Module can now attach to the miner for smelting dirt to gangue
 
 **recipes**
-- Sorter: Quartz Crystal
-    - output:
-        - Gangue 4 > Sand 8
-- High Pressure Diamond
-    - Manufacturing Duration: 240 > 120
-    - input:
-        - Carbon Powder 100 > 50
-    - output:
-        - Diamon 10 > 5
-- Solar Cell
-    - input:
-        - Zinc Plates 8 > 5
-- Sorter: Salt
-    - output:
-        - Sand 8 > 16
-- Crushed Silica
-    - Manufacturing Duration: 16 > 15
-    - input:
-        - Kyalite 3 > 20
-    - output:
-        - Silica 3 > 9
-        - Sand 3 > 8
-- Versatile Framework 
-    - input:
-        - Bronze Frame 2 > 4
-        - Steel Rods 25 > 60
-    - output:
-        - Framework 3 > 6
-- Heavy Modular Frame 
-    - Manuel Manufacturing Multiplier: 2 > 2.5
-    - input:
-        - Modular Frame 15 > 8
-        - Encased Industrial Beam 12 > 16
-        - Brass Pipe 25 > 30
-- Motor 
-    - Manufacturing Duration: 24 > 48
-    - input:
-        - Rotor 6 > 12
-        - Stator 6 > 12
-        - Iron Sheet 10 > 20
-        - Steel Bolt 60 > 120
-    - output:
-        - Motor 4 > 8
-- Washed Iron 
-    - input:
-        - Crushed Siterite 8 > Siterite Ore 8
-        - Water 4000 > 5000
-- Washed Copper 
-    - input:
-        - Crushed Callanite 8 > Callanite Ore 8
-        - Water 10000 > 8000
-- Molten Copper 
-    - Manufacturing Duration: 10 > 12
-    - input:
-        - Crushed Copper 20 > 24
-    - output:
-        - Molten Copper 10000 > 12000
-- Molten Iron
-    - Manufacturing Duration: 12 > 24
-- Molten Brass 
-    - Manufacturing Duration: 20 > 12
-    - input:
-        - Crushed Zinc 10 > 6
-        - Molten Copper 15000 > 8000
-    - output:
-        - Molten Brass 20000 > 16000
-        - Molten Slag 10000 > 6000
-- Cast Iron Ingot 
-    - input:
-        - Molten Iron 12000 > 9000
-    - output:
-        - Iron Ingot 27 > 18
-        - Hot Steam 5000 > 4000
-- Cast Copper Ingot 
-    - Manufacturing Duration: 24 > 12
-    - input:
-        - Molten Copper 12000 > 8000
-        - Water 4000 > 6000
-    - output:
-        - Copper Ingot 27 > 16
-        - Hot Steam 5000 > 6000
-- Steel Bolt
-    - Manufacturing Duration: 12 > 24
-    - input:
-        - Steel Beam 3 > 5
-    - output:
-        - Steel Bolt 9 > 15
-- Steel Beam
-    - Manufacturing Duration: 16 > 24
-    - input:
-        - Steel Ingot 16 > 24
-        - Zinc Ingot 4 > 8
-    - output:
-        - Steel Beam 6 > 9
-- Fan Blades
-    - Manufacturing Duration: 24 > 40
-    - input:
-        - Brass Plates 5 > 8
-        - Iron Rod 5 > 15
-    - output:
-        - Fan Blades 3 > 5
-- Drum Drive Mk.2
-    - input:
-        - Stator 5 > 4
-        - Molten Brass 16000 > 10000
-        - Air 25000 > 20000
-- Zinc Ingot
-    - output:
-        - Zinc Ingot 15 > 10
-- Sorter: Crushed Copper
-    - output:
-        - Magnesium Granules 8 > 10
-- Magnesium Granules
-    - Manufacturing Duration: 10 > 15
-- Bronze Pipe
-    - input:
-        - Tin Ingot 6 > 15
-- Bronze Ingot
-    - input:
-        - Copper Ingot 10 > 12
-- Bronze Frame
-    - Manufacturing Duration: 24 > 120
-    - input:
-        - Bronze Beam 5 > 20
-        - Bronze Pipe 9 > 36
-    - output:
-        - Bronze Frame 1 > 5
-- Bronze Beam
-    - Manufacturing Duration: 20 > 24
-    - output:
-        - Bronze Beam 5 > 3
-- Modular Frame
-    - Manufacturing Duration: 40 > 80
-    - input:
-        - Bronze Beam 20 > 15
-        - Reinforced Iron Plate 4 > 10
-    - output:
-        - Modular Frame 2 > 4
-- Smart Platings
-    - Manufacturing Duration: 120 > 80
-    - input:
-        Rotor: 10 > 5
-        Bronze Plates: 30 > 48
-    - output:
-        Smart Plating: 5 > 3
-- Impure Iron Ingot
-    - Manufacturing Duration: 30 > 20
-    - input
-        - Stiratite Ore 20 > 10
-    - output
-        - Iron Ingot 20 > 10
+- Add Recipes for Molten Tin
+- Add 7 alternative recipes
 - Impure Copper Ingot
-    - input
-        - Callanite Ore 12 > 10
-    - output
-        - Copper Ingot 12 > 8
-- Impure Tin Ingot
-    - Manufacturing Duration: 16 > 24
-    - input
-        - Siterite Ore 24 > 12
-    - output
-        - Copper Ingot 12 > 6
-- Tin Ingot
-    - Manufacturing Duration: 4 > 3
-    - input
-        - Crushed Tin 3 > 1
-    - output
-        - Copper Ingot 3 > 1
-- Copper Busbar
-    - Manufacturing Duration: 8 > 20
-    - input
-        - Copper Rods 4 > 8
-    - output
-        - Copper Busbar 2 > 5
-- Caterium Sheet
-    - Manufacturing Duration: 16 > 15
-- Hoverpack
     - input:
-       - Motor 4 > 15
-       - Modular Frame 8 > 10
-       - Fan Blade 8 > 16
-       - Brass Plate 20 > 40
-       - Steel Bolt 75 > 150
+        - Crushed Callanite 10 > 8
+- Crushed Siterite
+    - output: 
+        - Gungue 6 > 5
+- Modular Heavy Frame
+    - input:
+        - Steel Beams 16 > 12
+- Steel Rods
+    - output:
+        - Steam: 20m³ > 16m³
+        - Cold Slag: 2 > 3
+- Carbon Powder:
+    - Manufactoring Duration: 6s > 3s
+- Molten Brass:
+    - Manufactoring Duration: 12s > 10s
+    - input:
+        - Molten Copper 8m³ > 10m³
+        - Crushed Zinc 6 > 5
+    - output:
+        - Molten Brass 16m³ > 20m³
+        - Molten Slag 4m³ > REMOVED
+- Molten Copper:
+    - Manufactoring Duration: 12s > 10s
+    - input:
+        - Crushed Copper 24 > 20
+    - output:
+        - Molten Copper 12m³ > 10m³
+        - Molten Slag 4m³ > REMOVED
+- Molten Iron:
+    - Manufactoring Duration: 24s > 12s
+    - output:
+        - Molten Slag 4m³ > REMOVED
+- Molten Steel:
+    - input:
+        - Carbon Dust 8 > 4
+        - Molten Iron 9m³ > 8m³
+        - Steam 8m³ > 12m³
+    - output:
+        - Molten Slag 5m³ > Flue Gas 5m³
+- Cast: Iron Ingot
+    - input:
+        - Molten Iron 9m³ > 10m³
+        - Water 4m³ > 8m³
+    - output:
+        - Iron Ingot 18 > 24
+        - Steam 4m³ > 8m³
+- Cast: Copper Ingot
+    - Manufactoring Duration: 12s > 15s
+    - input:
+        - Molten Copper 8m³ > 10m³
+        - Water 6m³ > 5m³
+    - output:
+        - Copper Ingot 16 > 24
+        - Steam 6m³ > 5m³
+- Cast: Brass Ingot
+    - output:
+        - Steam 4m³ > 3m³
+
+**bugfixes**
+- Potential fix for power fuse trigger when connection a module to the miner
+- fix steel pipe recipe 
 
 Generel Information: the renamed items will disappear from the game also related recipes like crushing recipes need to set again
 ___

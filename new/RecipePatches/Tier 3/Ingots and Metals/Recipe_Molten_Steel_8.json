@@ -6,15 +6,15 @@
   "Ingredients": [
     {
       "Item": "Desc_LiquidIron",
-      "Amount": 9000
+      "Amount": 8000
     },
     {
       "Item": "Desc_CarbonDust",
-      "Amount": 8
+      "Amount": 4
     },
     {
       "Item": "Desc_Gas_Steam_Hot",
-      "Amount": 8000
+      "Amount": 12000
     }
 
   ],
@@ -24,8 +24,8 @@
       "Amount": 8000
     },
     {
-      "Item": "Desc_LiquidSlag",
-      "Amount": 5000
+      "Item": "Desc_Gas_CarbonDioxide",
+      "Amount": 6000
     }
 
   ],

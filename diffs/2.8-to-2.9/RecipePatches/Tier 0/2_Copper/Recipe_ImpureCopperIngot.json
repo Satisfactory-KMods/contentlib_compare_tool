@@ -1,0 +1,42 @@
+{
+    "$comment": "This file has been changed",
+    "new": {
+        "Ingredients": [
+            {
+                "Item": "Desc_CrushedSapherit",
+                "Amount": 8,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ]
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "Ingredients": [
+            {
+                "Item": "Desc_CrushedSapherit",
+                "Amount": 10
+            }
+        ]
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+        "Name": "Impure Copper Ingot",
+        "Category": "Impure Ingots",
+        "Ingredients": [
+            {
+                "Item": "Desc_CrushedSapherit",
+                "Amount": 8,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_CopperIngot",
+                "Amount": 8
+            }
+        ],
+        "ManufacturingDuration": 20,
+        "ManufacturingMenuPriority": 2
+    }
+}

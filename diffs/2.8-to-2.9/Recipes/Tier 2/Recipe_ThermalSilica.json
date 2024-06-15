@@ -1,0 +1,37 @@
+{
+    "$comment": "This file has been changed",
+    "new": {
+        "OverrideCategory": "Other_C"
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "OverrideCategory": "Minerals_C"
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+        "Name": "Thermal Silica",
+        "OverrideCategory": "Other_C",
+        "Ingredients": [
+            {
+                "Item": "Desc_Sand",
+                "Amount": 16
+            },
+            {
+                "Item": "Desc_MagnesiumGranules",
+                "Amount": 9
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_Silica",
+                "Amount": 12
+            }
+        ],
+        "ProducedIn": [
+            "Build_FoundryMk1"
+        ],
+        "ManufacturingDuration": 20,
+        "ManufacturingMenuPriority": 1
+    }
+}

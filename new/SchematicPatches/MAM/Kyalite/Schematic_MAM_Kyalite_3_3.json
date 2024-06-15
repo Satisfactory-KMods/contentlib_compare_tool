@@ -1,0 +1,19 @@
+//SatisfactoryPlus/Content/SchematicManager/MAM/Schematics/Cryolite/Schematic_Trees_Cryolit_3_3.Schematic_Trees_Cryolit_3_3_C
+{
+  "Name": "Diamond Synthesis",
+  "ClearCost": true,
+  "Cost": [
+    {
+      "Item": "Desc_Coal",
+      "Amount": 200
+    },
+    {
+      "Item": "Desc_Salt",
+      "Amount": 200
+    },
+    {
+      "Item": "Desc_Sand",
+      "Amount": 200
+    }
+  ]
+}

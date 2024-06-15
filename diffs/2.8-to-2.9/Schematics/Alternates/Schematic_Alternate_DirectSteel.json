@@ -1,0 +1,12 @@
+{
+    "Name": "Alternate: Direct Steel",
+    "Type": "Alternate",
+    "VisualKit": "Desc_MoltenSteel",
+    "Recipes": [
+        "Recipe_DirectSteel"
+    ],
+    "DependsOn": [
+        "Schematic_SF+_3_3_C"
+    ],
+    "$comment": "This is a new file, no old version exists"
+}

@@ -1,0 +1,84 @@
+{
+    "$comment": "This file has been changed",
+    "new": {
+        "Ingredients": [
+            {
+                "Item": "Desc_LiquidIron",
+                "Amount": 10000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_Water",
+                "Amount": 8000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_IronIngot",
+                "Amount": 24,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_Gas_Steam_Hot",
+                "Amount": 8000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ]
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "Ingredients": [
+            {
+                "Item": "Desc_LiquidIron",
+                "Amount": 9000
+            },
+            {
+                "Item": "Desc_Water",
+                "Amount": 4000
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_IronIngot",
+                "Amount": 18
+            },
+            {
+                "Item": "Desc_Gas_Steam_Hot",
+                "Amount": 4000
+            }
+        ]
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+        "Name": "Cast Iron Ingot",
+        "category": "Cat_Ingots_C",
+        "Ingredients": [
+            {
+                "Item": "Desc_LiquidIron",
+                "Amount": 10000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_Water",
+                "Amount": 8000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_IronIngot",
+                "Amount": 24,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_Gas_Steam_Hot",
+                "Amount": 8000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "ManufacturingDuration": 12,
+        "ManufacturingMenuPriority": 1
+    }
+}

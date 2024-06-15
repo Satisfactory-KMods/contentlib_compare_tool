@@ -5,16 +5,16 @@
   "Ingredients": [
     {
       "Item": "Desc_CopperRod",
-      "Amount": 4
+      "Amount": 8
     }
 
   ],
   "Products": [
     {
       "Item": "Desc_CopperPlates",
-      "Amount": 2
+      "Amount": 5
     }
   ],
-  "ManufacturingDuration": 8,
+  "ManufacturingDuration": 20,
   "ManufacturingMenuPriority": 4
 }

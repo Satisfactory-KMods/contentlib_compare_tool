@@ -1,0 +1,27 @@
+{
+    "Name": "Cast Tin Ingot",
+    "category": "Cat_Ingots_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_LiquidTin",
+            "Amount": 10000
+        },
+        {
+            "Item": "Desc_Water",
+            "Amount": 4000
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_TinIngot",
+            "Amount": 16
+        },
+        {
+            "Item": "Desc_Gas_Steam_Hot",
+            "Amount": 4000
+        }
+    ],
+    "ManufacturingDuration": 8,
+    "ManufacturingMenuPriority": 3,
+    "$comment": "This is a new file, no old version exists"
+}

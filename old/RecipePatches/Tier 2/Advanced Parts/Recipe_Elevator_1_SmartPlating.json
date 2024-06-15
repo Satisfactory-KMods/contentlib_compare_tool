@@ -3,21 +3,21 @@
   "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
   "Ingredients": [
     {
-      "Item": "Desc_BronzePlates",
-      "Amount": 30
+      "Item": "Desc_Rotor",
+      "Amount": 5
     },
     {
-      "Item": "Desc_Rotor",
-      "Amount": 10
+      "Item": "Desc_BronzePlates",
+      "Amount": 48
     }
 
   ],
   "Products": [
     {
       "Item": "Desc_SpaceElevatorPart_1",
-      "Amount": 5
+      "Amount": 3
     }
   ],
-  "ManufacturingDuration": 120,
+  "ManufacturingDuration": 80,
   "ManufacturingMenuPriority": 1
 }

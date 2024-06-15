@@ -6,7 +6,7 @@
   "Ingredients": [
     {
       "Item": "Desc_LiquidIron",
-      "Amount": 12000
+      "Amount": 9000
     },
     {
       "Item": "Desc_Water",
@@ -17,11 +17,11 @@
   "Products": [
     {
       "Item": "Desc_IronIngot",
-      "Amount": 27
+      "Amount": 18
     },
     {
       "Item": "Desc_Gas_Steam_Hot",
-      "Amount": 5000
+      "Amount": 4000
     }
   ],
   "ManufacturingDuration": 12,

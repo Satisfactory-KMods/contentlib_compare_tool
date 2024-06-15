@@ -1,0 +1,11 @@
+{
+    "Name": "Kyalite Sorting",
+    "ClearCost": true,
+    "Cost": [
+        {
+            "Item": "Res_Cryolit",
+            "Amount": 250
+        }
+    ],
+    "$comment": "This is a new file, no old version exists"
+}

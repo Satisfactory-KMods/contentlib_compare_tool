@@ -1,0 +1,19 @@
+{
+    "Name": "Molten Tin",
+    "category": "Molten Metals",
+    "Ingredients": [
+        {
+            "Item": "Desc_CrushedTin",
+            "Amount": 6
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_LiquidTin",
+            "Amount": 5000
+        }
+    ],
+    "ManufacturingDuration": 6,
+    "ManufacturingMenuPriority": 3,
+    "$comment": "This is a new file, no old version exists"
+}

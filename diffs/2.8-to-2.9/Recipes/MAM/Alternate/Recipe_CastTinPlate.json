@@ -1,0 +1,26 @@
+{
+    "Name": "Alternate: Cast Tin Plate",
+    "OverrideCategory": "StandardParts_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_TinIngot",
+            "Amount": 18
+        },
+        {
+            "Item": "Desc_IronIngot",
+            "Amount": 9
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_TinPlates",
+            "Amount": 12
+        }
+    ],
+    "ProducedIn": [
+        "Build_Foundry"
+    ],
+    "ManufacturingDuration": 36,
+    "ManufacturingMenuPriority": 5,
+    "$comment": "This is a new file, no old version exists"
+}

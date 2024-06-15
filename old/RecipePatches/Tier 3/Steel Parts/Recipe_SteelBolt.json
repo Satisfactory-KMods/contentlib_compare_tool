@@ -6,17 +6,17 @@
   "Ingredients": [
     {
       "Item": "Desc_SteelRod",
-      "Amount": 3
+      "Amount": 5
     }
 
   ],
   "Products": [
     {
       "Item": "Desc_SteelScrew",
-      "Amount": 9
+      "Amount": 15
     }
 
   ],
-  "ManufacturingDuration": 12,
+  "ManufacturingDuration": 24,
   "ManufacturingMenuPriority": 3
 }

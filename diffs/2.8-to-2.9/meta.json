@@ -1,0 +1,206 @@
+[
+    {
+        "file": "old\\Recipes\\Tier 5\\Recipe_ResidParaffin.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 5\\Basic Oil\\Recipe_DistilledGas.json",
+        "action": "remove"
+    },
+    {
+        "file": "new\\SchematicPatches\\Schematic_SF+_5-0.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\SchematicPatches\\Schematic_SF+_3-1_Basic Ore Washing.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\SchematicPatches\\Schematic_SF+_3-0_Advanced Melting and Casting.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\CDOs\\OilPump.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Schematics\\Alternates\\Schematic_Alternate_RedBrassIngots.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Schematics\\Alternates\\Schematic_Alternate_DirectSteel.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Schematics\\Alternates\\Schematic_Alternate_CastTinPlate.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Recipes\\Tier 5\\Recipe_ResidualHydrogen.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\Recipes\\Tier 5\\Recipe_EthyleneGas.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\Recipes\\Tier 5\\Recipe_CokedAsphalt.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Recipes\\Tier 5\\Recipe_BurntLime.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Recipes\\Tier 2\\Recipe_ThermalSilica.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\RecipePatches\\Tier 4\\Recipe_SolarCell.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\RecipePatches\\Tier 5\\Recipe_SweetFuel.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\RecipePatches\\Tier 5\\Recipe_DistilledFuel.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\RecipePatches\\Tier 3\\Recipe_CarbonPowder.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\RecipePatches\\Tier 0\\Recipe_CrushedSiterite.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\RecipePatches\\Alternate\\Recipe_StitchedIronPlate.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Alternate\\Recipe_RolledTinSheet.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Alternate\\Recipe_RolledBronzePipe.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Alternate\\Recipe_CompactBiomass.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\CDOs\\Filtrator Recipes\\Recipe_Hydrofiner_LiquidSlag.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\Recipes\\MAM\\Alternate\\Recipe_RedBrassIngots.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Recipes\\MAM\\Alternate\\Recipe_DirectSteel.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Recipes\\MAM\\Alternate\\Recipe_CastTinPlate.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\SchematicPatches\\MAM\\Kyalite\\Schematic_MAM_Kyalite_3_4.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\SchematicPatches\\MAM\\Kyalite\\Schematic_MAM_Kyalite_3_3.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\SchematicPatches\\MAM\\Kyalite\\Schematic_MAM_Kyalite_3_2.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\SchematicPatches\\MAM\\Kyalite\\Schematic_MAM_Kyalite_3_1.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\SchematicPatches\\MAM\\Kyalite\\Schematic_MAM_Kyalite_3_0.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Tier 4\\Advanced Products\\Recipe_ModularFrameHeavy.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\RecipePatches\\Tier 5\\Basic Oil\\Recipe_ResidualRubber.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\RecipePatches\\Tier 5\\Basic Oil\\Recipe_PurifiedCrudeOil.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\RecipePatches\\Tier 5\\Basic Oil\\Recipe_PetroleumCoke.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\RecipePatches\\Tier 5\\Basic Oil\\Recipe_DistilledNaturalGas.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Tier 3\\Steel Parts\\Recipe_SteelRod.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\RecipePatches\\Tier 3\\Ingots and Metals\\Recipe_Washed Tin.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Tier 3\\Ingots and Metals\\Recipe_Washed Iron.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\RecipePatches\\Tier 3\\Ingots and Metals\\Recipe_Washed Copper.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\RecipePatches\\Tier 3\\Ingots and Metals\\Recipe_Molten_Tin_3.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Tier 3\\Ingots and Metals\\Recipe_Molten_Steel_8.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\RecipePatches\\Tier 3\\Ingots and Metals\\Recipe_Molten_Iron_1.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\RecipePatches\\Tier 3\\Ingots and Metals\\Recipe_Molten_Copper_2.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\RecipePatches\\Tier 3\\Ingots and Metals\\Recipe_Molten_Brass_3.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\RecipePatches\\Tier 3\\Ingots and Metals\\Recipe_CastIngot_Tin_3.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Tier 3\\Ingots and Metals\\Recipe_CastIngot_Iron_1.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\RecipePatches\\Tier 3\\Ingots and Metals\\Recipe_CastIngot_Copper_2.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\RecipePatches\\Tier 3\\Ingots and Metals\\Recipe_CastIngot_Brass_6.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\RecipePatches\\Tier 0\\2_Copper\\Recipe_ImpureCopperIngot.json",
+        "action": "change"
+    }
+]

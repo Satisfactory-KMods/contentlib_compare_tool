@@ -6,15 +6,15 @@
   "Ingredients": [
     {
       "Item": "Desc_ModularFrame",
-      "Amount": 15
+      "Amount": 8
     },
     {
       "Item": "Desc_SteelPlateReinforced",
-      "Amount": 12
+      "Amount": 16
     },
     {
       "Item": "Desc_BrassPipe",
-      "Amount": 25
+      "Amount": 30
     },
     {
       "Item": "Desc_SteelScrew",
@@ -30,6 +30,6 @@
   ],
   "ProducedIn": [ "Build_ManufacturerMk1", "manual" ],
   "ManufacturingDuration": 48,
-  "ManualManufacturingMultiplier": 2,
+  "ManualManufacturingMultiplier": 2.5,
   "ManufacturingMenuPriority": 2
 }

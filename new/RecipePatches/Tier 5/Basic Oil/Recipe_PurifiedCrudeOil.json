@@ -6,11 +6,11 @@
   "Ingredients": [
     {
       "Item": "Desc_LiquidOil",
-      "Amount": 10000
+      "Amount": 9000
     },
     {
-      "Item": "Desc_Sand",
-      "Amount": 4
+      "Item": "Desc_LimeDust",
+      "Amount": 5
     }
 
   ],
@@ -18,10 +18,10 @@
 
     {
       "Item": "Desc_PurifiedCrudeOil",
-      "Amount": 15000
+      "Amount": 9000
     },
     {
-      "Item": "Desc_LiquidRawSludge",
+      "Item": "Desc_LiquidSlag",
       "Amount": 3000
     }
 

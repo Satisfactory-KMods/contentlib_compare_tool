@@ -7,20 +7,20 @@
 
     {
       "Item": "Desc_BrassPlates",
-      "Amount": 6
+      "Amount": 8
     },
     {
       "Item": "Desc_IronRod",
-      "Amount": 5
+      "Amount": 15
     }
   ],
   "Products": [
     {
       "Item": "Desc_WaterBlade",
-      "Amount": 3
+      "Amount": 5
     }
   ],
   "ProducedIn": [ "Build_AssemblerMk1" ],
-  "ManufacturingDuration": 24,
+  "ManufacturingDuration": 40,
   "ManufacturingMenuPriority": 3
 }

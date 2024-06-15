@@ -6,24 +6,24 @@
   "Ingredients": [
     {
       "Item": "Desc_LiquidCopper",
-      "Amount": 15000
+      "Amount": 8000
     },
     {
       "Item": "Desc_CrushedZinc",
-      "Amount": 10
+      "Amount": 6
     }
 
   ],
   "Products": [
     {
       "Item": "Desc_LiquidBrass",
-      "Amount": 20000
+      "Amount": 16000
     },
     {
       "Item": "Desc_LiquidSlag",
-      "Amount": 10000
+      "Amount": 6000
     }
   ],
-  "ManufacturingDuration": 20,
+  "ManufacturingDuration": 12,
   "ManufacturingMenuPriority": 2
 }

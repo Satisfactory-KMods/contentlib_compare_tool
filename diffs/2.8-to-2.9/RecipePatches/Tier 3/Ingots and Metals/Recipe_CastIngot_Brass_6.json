@@ -1,0 +1,58 @@
+{
+    "$comment": "This file has been changed",
+    "new": {
+        "Products": [
+            {
+                "Item": "Desc_BrassIngot",
+                "Amount": 10
+            },
+            {
+                "Item": "Desc_Gas_Steam_Hot",
+                "Amount": 3000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ]
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "Products": [
+            {
+                "Item": "Desc_BrassIngot",
+                "Amount": 10
+            },
+            {
+                "Item": "Desc_Gas_Steam_Hot",
+                "Amount": 4000
+            }
+        ]
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+        "Name": "Cast Brass Ingot",
+        "category": "Cat_Ingots_C",
+        "Ingredients": [
+            {
+                "Item": "Desc_LiquidBrass",
+                "Amount": 8000
+            },
+            {
+                "Item": "Desc_Water",
+                "Amount": 3000
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_BrassIngot",
+                "Amount": 10
+            },
+            {
+                "Item": "Desc_Gas_Steam_Hot",
+                "Amount": 3000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "ManufacturingDuration": 12,
+        "ManufacturingMenuPriority": 5
+    }
+}

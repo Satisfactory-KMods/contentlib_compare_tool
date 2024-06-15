@@ -1,0 +1,18 @@
+{
+  "Class": "/Game/FactoryGame/Buildable/Factory/OilPump/Build_OilPump.Build_OilPump_C",
+  "Edits": [
+
+    {
+      "Property": "mDescription",
+      "Value": "Normal extraction rate: 90m³ Oil per minute.\r\nHead Lift: 10 meters.\r\n(Allows fluids to be transported 10 meters upwards.)\r\n\r\nCan be built on an Oil Node to extract Crude Oil. Extraction rates depend on node purity."
+    },
+    {
+      "Property": "mExtractCycleTime",
+      "Value": 2
+    },
+    {
+      "Property": "mItemsPerCycle",
+      "Value": 3000
+    }
+  ]
+}

@@ -20,12 +20,12 @@
       "Amount": 15
     },
     {
-      "Item": "Desc_ColdSlag_C",
-      "Amount": 2
+      "Item": "Desc_Gas_Steam_Hot",
+      "Amount": 16000
     },
     {
-      "Item": "Desc_Gas_Steam_Hot",
-      "Amount": 20000
+      "Item": "Desc_ColdSlag_C",
+      "Amount": 3
     }
 
   ],

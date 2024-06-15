@@ -18,6 +18,7 @@ const meta: {
 if(fss.existsSync(join(process.cwd(), differenceDir))) {
     await fs.rm(join(process.cwd(), differenceDir), {recursive: true});
 }
+await fs.mkdir(join(process.cwd(), differenceDir), {recursive: true});
 
 function clearJson(content: string) {
     return content.split('\n').map((line) => line.trim()).filter(line => !line.startsWith("//")).join('\n');

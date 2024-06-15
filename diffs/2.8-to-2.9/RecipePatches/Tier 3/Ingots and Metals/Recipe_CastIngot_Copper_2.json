@@ -1,0 +1,86 @@
+{
+    "$comment": "This file has been changed",
+    "new": {
+        "Ingredients": [
+            {
+                "Item": "Desc_LiquidCopper",
+                "Amount": 10000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_Water",
+                "Amount": 5000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_CopperIngot",
+                "Amount": 24,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_Gas_Steam_Hot",
+                "Amount": 5000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "ManufacturingDuration": 15
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "Ingredients": [
+            {
+                "Item": "Desc_LiquidCopper",
+                "Amount": 8000
+            },
+            {
+                "Item": "Desc_Water",
+                "Amount": 6000
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_CopperIngot",
+                "Amount": 16
+            },
+            {
+                "Item": "Desc_Gas_Steam_Hot",
+                "Amount": 6000
+            }
+        ],
+        "ManufacturingDuration": 12
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+        "Name": "Cast Copper Ingot",
+        "category": "Cat_Ingots_C",
+        "Ingredients": [
+            {
+                "Item": "Desc_LiquidCopper",
+                "Amount": 10000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_Water",
+                "Amount": 5000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_CopperIngot",
+                "Amount": 24,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_Gas_Steam_Hot",
+                "Amount": 5000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "ManufacturingDuration": 15,
+        "ManufacturingMenuPriority": 2
+    }
+}

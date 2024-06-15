@@ -12,7 +12,7 @@
   "Products": [
     {
       "Item": "Desc_ZincIngot",
-      "Amount": 15
+      "Amount": 10
     }
   ],
   "ProducedIn": [ "Build_SmelterMk1" ],

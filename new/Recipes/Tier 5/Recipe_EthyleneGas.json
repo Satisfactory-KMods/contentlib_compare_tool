@@ -5,11 +5,11 @@
   "Ingredients": [
     {
       "Item": "Desc_LiquidHydrocarbons",
-      "Amount": 12000
+      "Amount": 1000
     },
     {
       "Item": "Desc_Gas_Steam_Hot",
-      "Amount": 6000
+      "Amount": 2000
     }
 
   ],
@@ -17,7 +17,7 @@
 
     {
       "Item": "Desc_Methane",
-      "Amount": 15000
+      "Amount": 2000
     },
     {
       "Item": "Desc_PolymerResin",
@@ -26,6 +26,6 @@
 
   ],
   "ProducedIn": [ "Build_SoldifierAndCooler" ],
-  "ManufacturingDuration": 12,
+  "ManufacturingDuration": 6,
   "ManufacturingMenuPriority": 1
 }

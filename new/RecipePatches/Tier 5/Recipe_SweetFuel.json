@@ -21,7 +21,7 @@
     },
     {
       "Item": "Desc_PolymerResin",
-      "Amount": 3
+      "Amount": 4
     },
     {
       "Item": "Desc_Sulfur",
@@ -30,6 +30,6 @@
 
   ],
   "ProducedIn": [ "Build_SoldifierAndCooler" ],
-  "ManufacturingDuration": 5,
+  "ManufacturingDuration": 12,
   "ManufacturingMenuPriority": 4
 }

@@ -1,0 +1,96 @@
+{
+    "$comment": "This file has been changed",
+    "new": {
+        "Ingredients": [
+            {
+                "Item": "Desc_LiquidIron",
+                "Amount": 8000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_CarbonDust",
+                "Amount": 4,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_Gas_Steam_Hot",
+                "Amount": 12000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_LiquidSteel",
+                "Amount": 8000
+            },
+            {
+                "Item": "Desc_Gas_CarbonDioxide",
+                "Amount": 6000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ]
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "Ingredients": [
+            {
+                "Item": "Desc_LiquidIron",
+                "Amount": 9000
+            },
+            {
+                "Item": "Desc_CarbonDust",
+                "Amount": 8
+            },
+            {
+                "Item": "Desc_Gas_Steam_Hot",
+                "Amount": 8000
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_LiquidSteel",
+                "Amount": 8000
+            },
+            {
+                "Item": "Desc_LiquidSlag",
+                "Amount": 5000
+            }
+        ]
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+        "Name": "Molten Steel",
+        "category": "Cat_KLib_Alloys_C",
+        "Ingredients": [
+            {
+                "Item": "Desc_LiquidIron",
+                "Amount": 8000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_CarbonDust",
+                "Amount": 4,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_Gas_Steam_Hot",
+                "Amount": 12000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_LiquidSteel",
+                "Amount": 8000
+            },
+            {
+                "Item": "Desc_Gas_CarbonDioxide",
+                "Amount": 6000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "ManufacturingDuration": 12,
+        "ManufacturingMenuPriority": 8
+    }
+}

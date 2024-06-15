@@ -1,31 +1,29 @@
 {
   "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
-  "Name": "Resid Paraffin",
+  "Name": "Coked Asphalt",
   "OverrideCategory": "SolidOilProducts_C",
   "Ingredients": [
     {
       "Item": "Desc_Asphalt",
-      "Amount": 18
+      "Amount": 12
     },
     {
-      "Item": "Desc_Gas_Hydrogen",
-      "Amount": 24000
+      "Item": "Desc_Methane",
+      "Amount": 20000
     }
 
   ],
   "Products": [
-
     {
-      "Item": "Desc_LiquidRefinedHydrocarbons",
-      "Amount": 12000
+      "Item": "Desc_PetroleumCOke",
+      "Amount": 50
     },
     {
-      "Item": "Desc_Sulfur",
-      "Amount": 7
+      "Item": "Desc_LiquidRefinedHydrocarbons",
+      "Amount": 5000
     }
-
   ],
   "ProducedIn": [ "Build_OilRefinery" ],
-  "ManufacturingDuration": 48,
+  "ManufacturingDuration": 40,
   "ManufacturingMenuPriority": 4
 }

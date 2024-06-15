@@ -6,25 +6,25 @@
   "Ingredients": [
     {
       "Item": "Res_StritaritOre",
-      "Amount": 6
+      "Amount": 8
     },
     {
       "Item": "Desc_Water",
-      "Amount": 5000
+      "Amount": 8000
     }
 
   ],
   "Products": [
     {
       "Item": "Desc_CrushedIron",
-      "Amount": 6
+      "Amount": 8
     },
     {
       "Item": "Desc_LiquidSlag",
-      "Amount": 3000
+      "Amount": 16000
     }
 
   ],
-  "ManufacturingDuration": 12,
+  "ManufacturingDuration": 16,
   "ManufacturingMenuPriority": 1
 }

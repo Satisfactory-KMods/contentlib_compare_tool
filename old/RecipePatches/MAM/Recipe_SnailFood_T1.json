@@ -1,0 +1,26 @@
+//SatisfactoryPlus/Content/Recipes/Cooker/Recipe_Cooker_SnailFoodMk_1.Recipe_Cooker_SnailFoodMk_1_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Basic Grain Meal",
+  "OverrideCategory": "Cat_Klib_Food",
+  "Ingredients": [
+    {
+      "Item": "Desc_FF_WheatSeed",
+      "Amount": 3
+    },
+    {
+      "Item": "Desc_FF_CornSeed",
+      "Amount": 3
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_SnailFood_Tier_1_C",
+      "Amount": 6
+    }
+  ],
+  "ProducedIn": [ "Build_Crusher" ],
+  "ManufacturingDuration": 6,
+  "ManufacturingMenuPriority": 1
+}

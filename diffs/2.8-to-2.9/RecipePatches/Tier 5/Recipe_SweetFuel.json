@@ -1,0 +1,75 @@
+{
+    "$comment": "This file has been changed",
+    "new": {
+        "Products": [
+            {
+                "Item": "Desc_LiquidFuel",
+                "Amount": 4000
+            },
+            {
+                "Item": "Desc_PolymerResin",
+                "Amount": 4,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_Sulfur",
+                "Amount": 2
+            }
+        ],
+        "ManufacturingDuration": 12
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "Products": [
+            {
+                "Item": "Desc_LiquidFuel",
+                "Amount": 4000
+            },
+            {
+                "Item": "Desc_PolymerResin",
+                "Amount": 3
+            },
+            {
+                "Item": "Desc_Sulfur",
+                "Amount": 2
+            }
+        ],
+        "ManufacturingDuration": 5
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+        "Name": "Sweet Fuel",
+        "category": "Fuel_C",
+        "Ingredients": [
+            {
+                "Item": "Desc_HeavyOilResidue",
+                "Amount": 5000
+            },
+            {
+                "Item": "Desc_Gas_Hydrogen_C",
+                "Amount": 3000
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_LiquidFuel",
+                "Amount": 4000
+            },
+            {
+                "Item": "Desc_PolymerResin",
+                "Amount": 4,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_Sulfur",
+                "Amount": 2
+            }
+        ],
+        "ProducedIn": [
+            "Build_SoldifierAndCooler"
+        ],
+        "ManufacturingDuration": 12,
+        "ManufacturingMenuPriority": 4
+    }
+}

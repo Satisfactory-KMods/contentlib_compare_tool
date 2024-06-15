@@ -27,5 +27,5 @@
 
   ],
   "ClearRecipes": true,
-  "Recipes": [ "Recipe_OilPump", "Recipe_ChemReactor", "Recipe_OilRefinery", "Recipe_FBFS_Oil_Purification", "Recipe_ChemReactor_Oil_Destila", "Recipe_EthyleneGas", "Recipe_SAC_OilPlasticRubber_C" ]
+  "Recipes": [ "Recipe_OilPump", "Recipe_ChemReactor", "Recipe_OilRefinery", "Recipe_FBFS_Oil_Purification", "Recipe_ChemReactor_Oil_Destila", "Recipe_EthyleneGas", "Recipe_SAC_OilPlasticRubber_C", "Recipe_BurntLime" ]
 }

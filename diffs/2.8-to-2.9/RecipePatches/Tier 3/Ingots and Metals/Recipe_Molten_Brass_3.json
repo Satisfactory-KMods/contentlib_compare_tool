@@ -1,0 +1,78 @@
+{
+    "$comment": "This file has been changed",
+    "new": {
+        "Ingredients": [
+            {
+                "Item": "Desc_LiquidCopper",
+                "Amount": 10000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_CrushedZinc",
+                "Amount": 5,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_LiquidBrass",
+                "Amount": 20000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "ManufacturingDuration": 15,
+        "Category": "Cat_KLib_Alloys_C"
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "category": "Cat_KLib_Alloys_C",
+        "Ingredients": [
+            {
+                "Item": "Desc_LiquidCopper",
+                "Amount": 8000
+            },
+            {
+                "Item": "Desc_CrushedZinc",
+                "Amount": 6
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_LiquidBrass",
+                "Amount": 16000
+            },
+            {
+                "Item": "Desc_LiquidSlag",
+                "Amount": 6000
+            }
+        ],
+        "ManufacturingDuration": 12
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+        "Name": "Molten Brass",
+        "Category": "Cat_KLib_Alloys_C",
+        "Ingredients": [
+            {
+                "Item": "Desc_LiquidCopper",
+                "Amount": 10000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_CrushedZinc",
+                "Amount": 5,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_LiquidBrass",
+                "Amount": 20000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "ManufacturingDuration": 15,
+        "ManufacturingMenuPriority": 2
+    }
+}

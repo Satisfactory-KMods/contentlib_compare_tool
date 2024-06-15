@@ -1,0 +1,62 @@
+{
+    "$comment": "This file has been changed",
+    "new": {
+        "Ingredients": [
+            {
+                "Item": "Desc_CrushedCopper",
+                "Amount": 20,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_LiquidCopper",
+                "Amount": 10000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "ManufacturingDuration": 10
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "Ingredients": [
+            {
+                "Item": "Desc_CrushedCopper",
+                "Amount": 24
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_LiquidCopper",
+                "Amount": 12000
+            },
+            {
+                "Item": "Desc_LiquidSlag",
+                "Amount": 4000
+            }
+        ],
+        "ManufacturingDuration": 12
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+        "Name": "Molten Copper",
+        "category": "Molten Metals",
+        "Ingredients": [
+            {
+                "Item": "Desc_CrushedCopper",
+                "Amount": 20,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_LiquidCopper",
+                "Amount": 10000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "ManufacturingDuration": 10,
+        "ManufacturingMenuPriority": 2
+    }
+}

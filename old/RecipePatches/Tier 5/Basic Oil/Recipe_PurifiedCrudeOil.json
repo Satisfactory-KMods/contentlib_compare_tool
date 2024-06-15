@@ -6,11 +6,11 @@
   "Ingredients": [
     {
       "Item": "Desc_LiquidOil",
-      "Amount": 4000
+      "Amount": 10000
     },
     {
       "Item": "Desc_Sand",
-      "Amount": 3
+      "Amount": 4
     }
 
   ],
@@ -18,14 +18,14 @@
 
     {
       "Item": "Desc_PurifiedCrudeOil",
-      "Amount": 4000
+      "Amount": 15000
     },
     {
       "Item": "Desc_LiquidRawSludge",
-      "Amount": 1200
+      "Amount": 3000
     }
 
   ],
-  "ManufacturingDuration": 3.2,
+  "ManufacturingDuration": 12,
   "ManufacturingMenuPriority": 1
 }

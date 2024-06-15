@@ -1,0 +1,19 @@
+//SatisfactoryPlus/Content/SchematicManager/MAM/Schematics/Cryolite/Schematic_Trees_Cryolit_3_2.Schematic_Trees_Cryolit_3_2_C
+{
+  "Name": "Lime Dust",
+  "ClearCost": true,
+  "Cost": [
+    {
+      "Item": "Res_Cryolit",
+      "Amount": 250
+    },
+    {
+      "Item": "Desc_Salt",
+      "Amount": 100
+    },
+    {
+      "Item": "Desc_Sand",
+      "Amount": 100
+    }
+  ]
+}

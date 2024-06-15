@@ -1,0 +1,21 @@
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Alternate: Burnt Lime",
+  "OverrideCategory": "Other_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_CrushedLimestone",
+      "Amount": 12
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_LimeDust",
+      "Amount": 10
+    }
+  ],
+  "ProducedIn": [ "Build_SmelterMk1" ],
+  "ManufacturingDuration": 12,
+  "ManufacturingMenuPriority": 4
+}

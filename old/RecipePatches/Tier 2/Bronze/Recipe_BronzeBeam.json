@@ -13,10 +13,10 @@
   "Products": [
     {
       "Item": "Desc_BronzeRod",
-      "Amount": 5
+      "Amount": 3
     }
   ],
   "ProducedIn": [ "Build_ConstructorMk1" ],
-  "ManufacturingDuration": 20,
+  "ManufacturingDuration": 24,
   "ManufacturingMenuPriority": 10
 }

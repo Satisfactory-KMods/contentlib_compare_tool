@@ -6,17 +6,17 @@
   "Ingredients": [
     {
       "Item": "Desc_CarbonDust",
-      "Amount": 100
+      "Amount": 50
     }
 
   ],
   "Products": [
     {
       "Item": "Desc_Diamond",
-      "Amount": 10
+      "Amount": 5
     }
   ],
   "ProducedIn": [ "Build_ConstructorMk1" ],
-  "ManufacturingDuration": 240,
+  "ManufacturingDuration": 120,
   "ManufacturingMenuPriority": 4
 }

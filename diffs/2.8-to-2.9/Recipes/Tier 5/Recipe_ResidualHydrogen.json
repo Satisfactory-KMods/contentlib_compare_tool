@@ -1,0 +1,61 @@
+{
+    "$comment": "This file has been changed",
+    "new": {
+        "Ingredients": [
+            {
+                "Item": "Desc_Gas_CarbonDioxide",
+                "Amount": 8000
+            },
+            {
+                "Item": "Desc_Gas_Steam_Hot",
+                "Amount": 6000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ]
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "Ingredients": [
+            {
+                "Item": "Desc_Gas_CarbonDioxide",
+                "Amount": 8000
+            },
+            {
+                "Item": "Desc_Gas_Steam_Hot",
+                "Amount": 5000
+            }
+        ]
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+        "Name": "Residual Hydrogen",
+        "OverrideCategory": "SolidOilProducts_C",
+        "Ingredients": [
+            {
+                "Item": "Desc_Gas_CarbonDioxide",
+                "Amount": 8000
+            },
+            {
+                "Item": "Desc_Gas_Steam_Hot",
+                "Amount": 6000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_Gas_Hydrogen",
+                "Amount": 10000
+            },
+            {
+                "Item": "Desc_PetroleumCoke",
+                "Amount": 4
+            }
+        ],
+        "ProducedIn": [
+            "Build_SoldifierAndCooler"
+        ],
+        "ManufacturingDuration": 24,
+        "ManufacturingMenuPriority": 3
+    }
+}

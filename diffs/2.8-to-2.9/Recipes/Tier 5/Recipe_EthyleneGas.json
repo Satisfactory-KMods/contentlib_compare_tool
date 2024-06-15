@@ -1,0 +1,87 @@
+{
+    "$comment": "This file has been changed",
+    "new": {
+        "Ingredients": [
+            {
+                "Item": "Desc_LiquidHydrocarbons",
+                "Amount": 1000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_Gas_Steam_Hot",
+                "Amount": 2000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_Methane",
+                "Amount": 2000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_PolymerResin",
+                "Amount": 5
+            }
+        ],
+        "ManufacturingDuration": 6
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "Ingredients": [
+            {
+                "Item": "Desc_LiquidHydrocarbons",
+                "Amount": 12000
+            },
+            {
+                "Item": "Desc_Gas_Steam_Hot",
+                "Amount": 6000
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_Methane",
+                "Amount": 15000
+            },
+            {
+                "Item": "Desc_PolymerResin",
+                "Amount": 5
+            }
+        ],
+        "ManufacturingDuration": 12
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+        "Name": "Ethylene Gas",
+        "OverrideCategory": "SolidOilProducts_C",
+        "Ingredients": [
+            {
+                "Item": "Desc_LiquidHydrocarbons",
+                "Amount": 1000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_Gas_Steam_Hot",
+                "Amount": 2000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_Methane",
+                "Amount": 2000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_PolymerResin",
+                "Amount": 5
+            }
+        ],
+        "ProducedIn": [
+            "Build_SoldifierAndCooler"
+        ],
+        "ManufacturingDuration": 6,
+        "ManufacturingMenuPriority": 1
+    }
+}

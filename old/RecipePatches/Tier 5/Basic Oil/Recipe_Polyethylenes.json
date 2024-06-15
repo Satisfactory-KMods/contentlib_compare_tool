@@ -1,7 +1,7 @@
 //SatisfactoryPlus/Content/Recipes/SoldifierAndCooler/Recipe_SAC_OilPlasticRubber.Recipe_SAC_OilPlasticRubber_C
 {
   "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
-  "Name": "Polyethylene",
+  "Name": "Polyethene Plastic & Rubber",
   "category": "SolidOilProducts_C",
   "Ingredients": [
     {
@@ -19,10 +19,6 @@
     {
       "Item": "Desc_Rubber",
       "Amount": 25
-    },
-    {
-      "Item": "Desc_Water",
-      "Amount": 7000
     }
 
   ],

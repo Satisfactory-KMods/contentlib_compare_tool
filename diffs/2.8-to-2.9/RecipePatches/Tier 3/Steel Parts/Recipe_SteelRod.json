@@ -1,0 +1,72 @@
+{
+    "$comment": "This file has been changed",
+    "new": {
+        "Products": [
+            {
+                "Item": "Desc_SteelRod",
+                "Amount": 15
+            },
+            {
+                "Item": "Desc_Gas_Steam_Hot",
+                "Amount": 16000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_ColdSlag_C",
+                "Amount": 3,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ]
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "Products": [
+            {
+                "Item": "Desc_SteelRod",
+                "Amount": 15
+            },
+            {
+                "Item": "Desc_ColdSlag_C",
+                "Amount": 2
+            },
+            {
+                "Item": "Desc_Gas_Steam_Hot",
+                "Amount": 20000
+            }
+        ]
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+        "Name": "Cast Steel Rod",
+        "category": "Cat_KLib_SAC_Cooling_C",
+        "Ingredients": [
+            {
+                "Item": "Desc_LiquidSteel",
+                "Amount": 8000
+            },
+            {
+                "Item": "Desc_Water",
+                "Amount": 16000
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_SteelRod",
+                "Amount": 15
+            },
+            {
+                "Item": "Desc_Gas_Steam_Hot",
+                "Amount": 16000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_ColdSlag_C",
+                "Amount": 3,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "ManufacturingDuration": 24,
+        "ManufacturingMenuPriority": 3
+    }
+}

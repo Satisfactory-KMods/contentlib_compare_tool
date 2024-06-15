@@ -1,0 +1,26 @@
+{
+    "Name": "Alternate: Stitched Iron Plate",
+    "Category": "StandardParts_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_IronPlate",
+            "Amount": 8
+        },
+        {
+            "Item": "Desc_TinWire",
+            "Amount": 18
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_ironPlateReinforced",
+            "Amount": 3
+        }
+    ],
+    "ProducedIn": [
+        "Build_AssemblerMk1"
+    ],
+    "ManufacturingDuration": 40,
+    "ManufacturingMenuPriority": 6,
+    "$comment": "This is a new file, no old version exists"
+}

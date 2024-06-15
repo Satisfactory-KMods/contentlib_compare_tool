@@ -1,0 +1,123 @@
+{
+    "$comment": "This file has been changed",
+    "new": {
+        "Edits": [
+            {
+                "Property": "mConsumeInFluid",
+                "Value": 8000
+            },
+            {
+                "Property": "mBypassProducts",
+                "Value": [
+                    {
+                        "mProduceItem": "/KLib/Assets/Parts/Production/Burn/ColdSlag/Desc_ColdSlag.Desc_ColdSlag_C",
+                        "mProductionTime": 4,
+                        "mProduceAmount": 3
+                    },
+                    {
+                        "mProduceItem": "/KLib/Assets/Parts/Production/Crushed/Desc_CrushedIron.Desc_CrushedIron_C",
+                        "mProductionTime": 12,
+                        "mProduceAmount": 8,
+                        "$comment": "THIS OBJECT HAS BEEN CHANGED"
+                    },
+                    {
+                        "mProduceItem": "/KLib/Assets/Parts/Production/Crushed/Desc_CrushedTin.Desc_CrushedTin_C",
+                        "mProductionTime": 24,
+                        "mProduceAmount": 8
+                    },
+                    {
+                        "mProduceItem": "/KLib/Assets/Parts/Production/Crushed/Desc_CrushedCopper.Desc_CrushedCopper_C",
+                        "mProductionTime": 36,
+                        "mProduceAmount": 24,
+                        "$comment": "THIS OBJECT HAS BEEN CHANGED"
+                    }
+                ],
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Property": "mNeedCleanItem",
+                "Value": false
+            }
+        ]
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "Edits": [
+            {
+                "Property": "mConsumeInFluid",
+                "Value": 8000
+            },
+            {
+                "Property": "mBypassProducts",
+                "Value": [
+                    {
+                        "mProduceItem": "/KLib/Assets/Parts/Production/Burn/ColdSlag/Desc_ColdSlag.Desc_ColdSlag_C",
+                        "mProductionTime": 4,
+                        "mProduceAmount": 3
+                    },
+                    {
+                        "mProduceItem": "/KLib/Assets/Parts/Production/Crushed/Desc_CrushedIron.Desc_CrushedIron_C",
+                        "mProductionTime": 12,
+                        "mProduceAmount": 4
+                    },
+                    {
+                        "mProduceItem": "/KLib/Assets/Parts/Production/Crushed/Desc_CrushedTin.Desc_CrushedTin_C",
+                        "mProductionTime": 24,
+                        "mProduceAmount": 8
+                    },
+                    {
+                        "mProduceItem": "/KLib/Assets/Parts/Production/Crushed/Desc_CrushedCopper.Desc_CrushedCopper_C",
+                        "mProductionTime": 36,
+                        "mProduceAmount": 12
+                    }
+                ]
+            },
+            {
+                "Property": "mNeedCleanItem",
+                "Value": false
+            }
+        ]
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "Class": "/SatisfactoryPlus/Content/Recipes/Cleaner/CleanerDesc_LiquidSlag.CleanerDesc_LiquidSlag_C",
+        "Edits": [
+            {
+                "Property": "mConsumeInFluid",
+                "Value": 8000
+            },
+            {
+                "Property": "mBypassProducts",
+                "Value": [
+                    {
+                        "mProduceItem": "/KLib/Assets/Parts/Production/Burn/ColdSlag/Desc_ColdSlag.Desc_ColdSlag_C",
+                        "mProductionTime": 4,
+                        "mProduceAmount": 3
+                    },
+                    {
+                        "mProduceItem": "/KLib/Assets/Parts/Production/Crushed/Desc_CrushedIron.Desc_CrushedIron_C",
+                        "mProductionTime": 12,
+                        "mProduceAmount": 8,
+                        "$comment": "THIS OBJECT HAS BEEN CHANGED"
+                    },
+                    {
+                        "mProduceItem": "/KLib/Assets/Parts/Production/Crushed/Desc_CrushedTin.Desc_CrushedTin_C",
+                        "mProductionTime": 24,
+                        "mProduceAmount": 8
+                    },
+                    {
+                        "mProduceItem": "/KLib/Assets/Parts/Production/Crushed/Desc_CrushedCopper.Desc_CrushedCopper_C",
+                        "mProductionTime": 36,
+                        "mProduceAmount": 24,
+                        "$comment": "THIS OBJECT HAS BEEN CHANGED"
+                    }
+                ],
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Property": "mNeedCleanItem",
+                "Value": false
+            }
+        ]
+    }
+}
