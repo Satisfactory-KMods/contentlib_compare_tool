@@ -1,0 +1,7 @@
+//KLib/Assets/Ressources/Raw/Fluids/Slugs/Desc_SlugSlime_High.Desc_SlugSlime_High_C
+{
+  "Name": "Energized Slug Slime",
+  "Description": "The most concentrated form of Slug Slime.\nThe energy from it can be used in varying ways, be it in the form of heat, electromagnetic fields or radiation.\n\nCharging Power Shard Fragments with this energy leads to the creation of Power Shards.",
+  "Form": "RF_Liquid",
+  "StackSize": "Fluid"
+}

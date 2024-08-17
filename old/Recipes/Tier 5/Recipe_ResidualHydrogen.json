@@ -5,11 +5,11 @@
   "Ingredients": [
     {
       "Item": "Desc_Gas_CarbonDioxide",
-      "Amount": 8000
+      "Amount": 16000
     },
     {
       "Item": "Desc_Gas_Steam_Hot",
-      "Amount": 5000
+      "Amount": 12000
     }
 
   ],
@@ -17,15 +17,15 @@
 
     {
       "Item": "Desc_Gas_Hydrogen",
-      "Amount": 10000
+      "Amount": 20000
     },
     {
       "Item": "Desc_PetroleumCoke",
-      "Amount": 4
+      "Amount": 5
     }
 
   ],
   "ProducedIn": [ "Build_SoldifierAndCooler" ],
-  "ManufacturingDuration": 24,
+  "ManufacturingDuration": 12,
   "ManufacturingMenuPriority": 3
 }

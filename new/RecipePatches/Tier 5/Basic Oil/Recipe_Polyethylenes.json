@@ -1,7 +1,7 @@
 //SatisfactoryPlus/Content/Recipes/SoldifierAndCooler/Recipe_SAC_OilPlasticRubber.Recipe_SAC_OilPlasticRubber_C
 {
   "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
-  "Name": "Polyethene Plastic & Rubber",
+  "Name": "Polyethylene",
   "category": "SolidOilProducts_C",
   "Ingredients": [
     {
@@ -22,6 +22,7 @@
     }
 
   ],
+  "ProducedIn": [ "Build_SoldifierAndCooler" ],
   "ManufacturingDuration": 24,
   "ManufacturingMenuPriority": 2
 }

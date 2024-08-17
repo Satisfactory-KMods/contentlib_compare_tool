@@ -1,0 +1,23 @@
+//SatisfactoryPlus/Content/Recipes/Alternative/Constructor/FlatCopperWire/Recipe_Alternative_CuttedFlatCopperCable.Recipe_Alternative_CuttedFlatCopperCable_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Alternate: Rolled Bronze Pipe",
+  "Category": "StandardParts_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_BronzePlates",
+      "Amount": 3
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_BronzePipe",
+      "Amount": 4
+    }
+
+  ],
+  "ProducedIn": [ "Build_ConstructorMk1" ],
+  "ManufacturingDuration": 12,
+  "ManufacturingMenuPriority": 19
+}

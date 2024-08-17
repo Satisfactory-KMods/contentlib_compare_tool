@@ -1,0 +1,70 @@
+{
+    "$comment": "This file has been changed",
+    "new": {
+        "Ingredients": [
+            {
+                "Item": "Desc_Plastic",
+                "Amount": 15,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_SolderWire",
+                "Amount": 9,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "ManufacturingDuration": 24,
+        "ManufacturingMenuPriority": 1.5,
+        "ProducedIn": [
+            "Build_AssemblerMk1"
+        ]
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "Ingredients": [
+            {
+                "Item": "Desc_Plastic",
+                "Amount": 10
+            },
+            {
+                "Item": "Desc_Wire",
+                "Amount": 8
+            },
+            {
+                "Item": "Desc_SolderWire",
+                "Amount": 12
+            }
+        ],
+        "ManufacturingDuration": 30,
+        "ManufacturingMenuPriority": 1
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+        "Name": "Circuit Board",
+        "category": "Electronics_C",
+        "Ingredients": [
+            {
+                "Item": "Desc_Plastic",
+                "Amount": 15,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_SolderWire",
+                "Amount": 9,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_CircuitBoard",
+                "Amount": 4
+            }
+        ],
+        "ProducedIn": [
+            "Build_AssemblerMk1"
+        ],
+        "ManufacturingDuration": 24,
+        "ManufacturingMenuPriority": 1.5
+    }
+}

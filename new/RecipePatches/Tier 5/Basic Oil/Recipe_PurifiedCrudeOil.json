@@ -6,11 +6,11 @@
   "Ingredients": [
     {
       "Item": "Desc_LiquidOil",
-      "Amount": 9000
+      "Amount": 18000
     },
     {
       "Item": "Desc_LimeDust",
-      "Amount": 5
+      "Amount": 10
     }
 
   ],
@@ -21,8 +21,8 @@
       "Amount": 9000
     },
     {
-      "Item": "Desc_LiquidSlag",
-      "Amount": 3000
+      "Item": "Desc_Gas_CarbonDioxide",
+      "Amount": 6000
     }
 
   ],

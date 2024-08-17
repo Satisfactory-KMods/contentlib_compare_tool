@@ -1,0 +1,17 @@
+{
+    "Ingredients": [
+        {
+            "Item": "Desc_SteelPlate",
+            "Amount": 5
+        },
+        {
+            "Item": "Desc_Cable",
+            "Amount": 5
+        },
+        {
+            "Item": "Desc_Plastic",
+            "Amount": 5
+        }
+    ],
+    "$comment": "This is a new file, no old version exists"
+}

@@ -1,0 +1,28 @@
+//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T5/Schematic_SF+_5_6.Schematic_SF+_5_6_C
+{
+  "Name": "Basic Lead Production",
+  "MenuPriority": 2.5,
+  "ClearCost": true,
+  "Cost": [
+    {
+      "Item": "Desc_CrushedLead",
+      "Amount": 500
+    },
+    {
+      "Item": "Desc_Plastic",
+      "Amount": 1000
+    },
+    {
+      "Item": "Desc_CopperSheet",
+      "Amount": 200
+    },
+    {
+      "Item": "Desc_TinPlates",
+      "Amount": 200
+    }
+
+  ],
+  "ClearRecipes": true,
+  "Recipes": [ "Recipe_Smelter_Sorted_LeadIngots_C", "Recipe_Constructor_LeadPlates_C", "Recipe_Constructor_LeadSheet_C", "Recipe_Assamble_LeadFrame_C" ],
+  "Time": 180
+}

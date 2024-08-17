@@ -17,5 +17,5 @@
     }
   ],
   "ClearRecipes": true,
-  "Recipes": [ "Recipe_FSF+Composter", "Recipe_Low_BlueSlug_C", "Recipe_Low_YellowSlug_C", "Recipe_Module_Energy" ]
+  "Recipes": [ "Recipe_FSF+Composter", "Recipe_Low_BlueSlug_C", "Recipe_Low_YellowSlug_C", "Recipe_Module_Energy", "Recipe_SAC_PowerShard_C", "Recipe_Condensed_SlugSlime" ]
 }

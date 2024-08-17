@@ -1,0 +1,32 @@
+//SatisfactoryPlus/Content/Recipes/FlexibleBlastFurnaceSmelter/Alloy/Recipe_FBFS_Alloy_Invar.Recipe_FBFS_Alloy_Invar_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Molten Magneatal™",
+  "category": "Molten Metals",
+  "Ingredients": [
+    {
+      "Item": "Desc_LiquidNickle_C",
+      "Amount": 3000
+    },
+    {
+      "Item": "Desc_LiquidIron_C",
+      "Amount": 5000
+    },
+    {
+      "Item": "Desc_CobaltPlates",
+      "Amount": 2
+    }
+  ],
+  "Products": [
+    {
+      "Item": "Desc_LiquidInvar",
+      "Amount": 9000
+    },
+    {
+      "Item": "Desc_LiquidSlag",
+      "Amount": 4000
+    }
+  ],
+  "ManufacturingDuration": 6,
+  "ManufacturingMenuPriority": 6
+}

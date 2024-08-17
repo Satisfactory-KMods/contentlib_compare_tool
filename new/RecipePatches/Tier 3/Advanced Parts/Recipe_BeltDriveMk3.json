@@ -1,0 +1,31 @@
+//SatisfactoryPlus/Content/Recipes/Assamble/Recipe_Assamble_BeltItemMk2.Recipe_Assamble_BeltItemMk2_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Belt Drive Mk.3",
+  "OverrideCategory": "Cat_KLib_BuildingParts_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_Stator",
+      "Amount": 4
+    },
+    {
+      "Item": "Desc_LiquidBrass",
+      "Amount": 10000
+    },
+    {
+      "Item": "Desc_Air",
+      "Amount": 20000
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_BeltItemMk2",
+      "Amount": 10
+    }
+
+  ],
+  "ProducedIn": [ "Build_SoldifierAndCooler" ],
+  "ManufacturingDuration": 30,
+  "ManufacturingMenuPriority": 2
+}

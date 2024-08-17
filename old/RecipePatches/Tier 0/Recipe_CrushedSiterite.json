@@ -17,7 +17,7 @@
     },
     {
       "Item": "Desc_CrushedLimestone",
-      "Amount": 6
+      "Amount": 5
     }
   ],
   "ProducedIn": [ "Build_Crusher" ],

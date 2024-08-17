@@ -6,16 +6,16 @@
   "Ingredients": [
     {
       "Item": "Desc_CrushedSapherit",
-      "Amount": 10
+      "Amount": 2
     }
 
   ],
   "Products": [
     {
       "Item": "Desc_CopperIngot",
-      "Amount": 8
+      "Amount": 2
     }
   ],
-  "ManufacturingDuration": 20,
+  "ManufacturingDuration": 5,
   "ManufacturingMenuPriority": 2
 }

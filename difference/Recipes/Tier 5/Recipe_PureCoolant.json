@@ -1,0 +1,30 @@
+{
+    "Name": "Alternate: Pure Coolant Oil",
+    "OverrideCategory": "SolidOilProducts_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_Gas_Hydrogen",
+            "Amount": 17000
+        },
+        {
+            "Item": "Desc_PackagedGas_CarbonDioxide",
+            "Amount": 4
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_LiquidCoolant",
+            "Amount": 6000
+        },
+        {
+            "Item": "Desc_GasTank",
+            "Amount": 4
+        }
+    ],
+    "ProducedIn": [
+        "Build_OilRefinery"
+    ],
+    "ManufacturingDuration": 12,
+    "ManufacturingMenuPriority": 5,
+    "$comment": "This is a new file, no old version exists"
+}

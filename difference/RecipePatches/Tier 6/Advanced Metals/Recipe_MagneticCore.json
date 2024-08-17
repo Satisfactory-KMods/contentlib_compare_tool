@@ -1,0 +1,26 @@
+{
+    "Name": "Magnetic Ring Core",
+    "Category": "IndustrialParts_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_InvarIngot",
+            "Amount": 60
+        },
+        {
+            "Item": "Desc_IronWire",
+            "Amount": 80
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_InvarPipe",
+            "Amount": 45
+        }
+    ],
+    "ManufacturingDuration": 120,
+    "ManufacturingMenuPriority": 3,
+    "ProducedIn": [
+        "Build_FoundryMk1"
+    ],
+    "$comment": "This is a new file, no old version exists"
+}

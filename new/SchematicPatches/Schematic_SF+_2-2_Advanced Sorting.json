@@ -22,6 +22,6 @@
     }
   ],
   "ClearRecipes": true,
-  "Recipes": [ "Recipe_Sorter_T1_Sapherit_C", "Recipe_Sorter_T1_Rubyte_C", "Recipe_Crusher_MagnesiumGranulat", "Recipe_Smelter_Sorted_ZincIngots_C", "Recipe_Constructor_ZincPlates_C", "Recipe_ThermalSilica" ],
+  "Recipes": [ "Recipe_Sorter_T1_Sapherit_C", "Recipe_Sorter_T1_Rubyte_C", "Recipe_Crusher_MagnesiumGranulat", "Recipe_Smelter_Sorted_ZincIngots_C", "Recipe_Constructor_ZincPlates_C", "Recipe_ThermalSilica", "Recipe_Assamble_PhCell_C", "Recipe_SolarPanel_Mk1_C" ],
   "Time": 180
 }

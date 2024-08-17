@@ -1,0 +1,89 @@
+{
+    "$comment": "This file has been changed",
+    "new": {
+        "Ingredients": [
+            {
+                "Item": "Desc_PurifiedCrudeOil",
+                "Amount": 12000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_KLIB_NaturalGas_C",
+                "Amount": 15000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_HeavyOilResidue",
+                "Amount": 4000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_Asphalt",
+                "Amount": 3,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "ManufacturingDuration": 12
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "Ingredients": [
+            {
+                "Item": "Desc_PurifiedCrudeOil",
+                "Amount": 16000
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_KLIB_NaturalGas_C",
+                "Amount": 10000
+            },
+            {
+                "Item": "Desc_HeavyOilResidue",
+                "Amount": 2000
+            },
+            {
+                "Item": "Desc_Asphalt",
+                "Amount": 1
+            }
+        ],
+        "ManufacturingDuration": 8
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+        "Name": "Distilled Natural Gas",
+        "category": "SolidOilProducts_C",
+        "Ingredients": [
+            {
+                "Item": "Desc_PurifiedCrudeOil",
+                "Amount": 12000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_KLIB_NaturalGas_C",
+                "Amount": 15000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_HeavyOilResidue",
+                "Amount": 4000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_Asphalt",
+                "Amount": 3,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "ProducedIn": [
+            "Build_ChemReactor"
+        ],
+        "ManufacturingDuration": 12,
+        "ManufacturingMenuPriority": 1
+    }
+}

@@ -2,6 +2,7 @@
 {
   "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
   "Name": "Cured Rubber",
+  "Category": "Other_C",
   "Ingredients": [
     {
       "Item": "Desc_PolymerResin",
@@ -19,7 +20,7 @@
       "Amount": 6
     }
   ],
-  "ManufacturingDuration": 24,
+  "ManufacturingDuration": 18,
   "ManufacturingMenuPriority": 5,
   "ProducedIn": [ "Build_FoundryMk1" ]
 }

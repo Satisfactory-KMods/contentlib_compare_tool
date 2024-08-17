@@ -6,11 +6,11 @@
   "Ingredients": [
     {
       "Item": "Desc_PurifiedCrudeOil",
-      "Amount": 18000
+      "Amount": 9000
     },
     {
       "Item": "Desc_Gas_Steam_Hot",
-      "Amount": 12000
+      "Amount": 9000
     }
 
   ],
@@ -18,18 +18,18 @@
 
     {
       "Item": "Desc_LiquidFuel",
-      "Amount": 20000
+      "Amount": 9000
     },
     {
       "Item": "Desc_HeavyOilResidue",
-      "Amount": 15000
+      "Amount": 6000
     },
     {
-      "Item": "Desc_Asphalt",
+      "Item": "Desc_PolymerResin",
       "Amount": 6
     }
 
   ],
-  "ManufacturingDuration": 20,
+  "ManufacturingDuration": 12,
   "ManufacturingMenuPriority": 3
 }

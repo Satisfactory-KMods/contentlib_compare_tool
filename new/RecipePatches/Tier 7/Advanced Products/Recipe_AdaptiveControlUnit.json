@@ -1,0 +1,37 @@
+//SatisfactoryPlus/Content/Recipes/Manu/Recipe_Manu_Lift_5.Recipe_Manu_Lift_5_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Adaptive Control Unit",
+  "Category": "SpaceElevator_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_Computer",
+      "Amount": 6
+    },
+    {
+      "Item": "Desc_LeadFrame",
+      "Amount": 12
+    },
+    {
+      "Item": "Desc_Plastic",
+      "Amount": 25
+    },
+    {
+      "Item": "Desc_SpaceElevatorPart_2",
+      "Amount": 3
+    }
+
+
+
+  ],
+  "Products": [
+
+    {
+      "Item": "Desc_SpaceElevatorPart_5",
+      "Amount": 1
+    }
+
+  ],
+  "ManufacturingDuration": 30,
+  "ManufacturingMenuPriority": 2
+}

@@ -1,0 +1,30 @@
+{
+    "Name": "Cast Magneatal™ Billet",
+    "category": "Cat_Ingots_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_LiquidInvar",
+            "Amount": 9000
+        },
+        {
+            "Item": "Desc_Water",
+            "Amount": 8000
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_InvarIngot",
+            "Amount": 18
+        },
+        {
+            "Item": "Desc_Gas_Steam_Hot",
+            "Amount": 4000
+        }
+    ],
+    "ProducedIn": [
+        "Build_SoldifierAndCooler"
+    ],
+    "ManufacturingDuration": 8,
+    "ManufacturingMenuPriority": 6,
+    "$comment": "This is a new file, no old version exists"
+}

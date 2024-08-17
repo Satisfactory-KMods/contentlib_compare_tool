@@ -1,0 +1,25 @@
+//SatisfactoryPlus/Content/Recipes/FlexibleBlastFurnaceSmelter/Simple/Recipe_FBFS_Simple_Lead.Recipe_FBFS_Simple_Lead_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Molten Lead",
+  "category": "Molten Metals",
+  "Ingredients": [
+    {
+      "Item": "Desc_CrushedLead",
+      "Amount": 6
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_LiquidLead",
+      "Amount": 3000
+    },
+    {
+      "Item": "Desc_LiquidSlag",
+      "Amount": 1000
+    }
+  ],
+  "ManufacturingDuration": 5,
+  "ManufacturingMenuPriority": 5
+}

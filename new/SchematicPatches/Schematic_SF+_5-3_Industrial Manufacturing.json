@@ -1,0 +1,28 @@
+//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T5/Schematic_SF+_5_3.Schematic_SF+_5_3_C
+{
+  "Name": "Industrial Manufacturing",
+  "MenuPriority": 2,
+  "ClearCost": true,
+  "Cost": [
+    {
+      "Item": "Desc_Rubber",
+      "Amount": 1000
+    },
+    {
+      "Item": "Desc_Plastic",
+      "Amount": 1000
+    },
+    {
+      "Item": "Desc_CopperSheet",
+      "Amount": 100
+    },
+    {
+      "Item": "Desc_TinPlates",
+      "Amount": 200
+    }
+
+  ],
+  "ClearRecipes": true,
+  "Recipes": [ "Recipe_Sorter_T2_Rubyte_C", "Recipe_FBFS_Alloy_Solder_C", "Recipe_SAC_Parts_Solder_C", "Recipe_Manu_CicuitBoard_C", "Recipe_Manu_Computer", "Recipe_Manu_Lift_4_C" ],
+  "Time": 300
+}

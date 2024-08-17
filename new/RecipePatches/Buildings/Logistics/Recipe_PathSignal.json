@@ -1,0 +1,19 @@
+//Game/FactoryGame/Buildable/Factory/Train/Signal/Recipe_RailroadPathSignal.Recipe_RailroadPathSignal_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Ingredients": [
+    {
+      "Item": "Desc_SteelPlate",
+      "Amount": 5
+    },
+    {
+      "Item": "Desc_Cable",
+      "Amount": 5
+    },
+    {
+      "Item": "Desc_Plastic",
+      "Amount": 5
+    }
+
+  ]
+}

@@ -1,0 +1,24 @@
+//RefinedPower/Buildables/Factory/SolarPanelMk1/Recipe_SolarPanel_Mk1.Recipe_SolarPanel_Mk1_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Ingredients": [
+    {
+      "Item": "Desc_Glass",
+      "Amount": 15
+    },
+    {
+      "Item": "Desc_PhotovoltaicCell",
+      "Amount": 12
+    },
+    {
+      "Item": "Desc_IronRod",
+      "Amount": 12
+    },
+    {
+      "Item": "Desc_Cable",
+      "Amount": 10
+    }
+    
+  ],
+  "ManufacturingMenuPriority": 1
+}

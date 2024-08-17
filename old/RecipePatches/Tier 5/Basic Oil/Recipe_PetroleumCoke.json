@@ -6,7 +6,7 @@
   "Ingredients": [
     {
       "Item": "Desc_HeavyOilResidue",
-      "Amount": 2000
+      "Amount": 24000
     }
 
   ],
@@ -14,15 +14,11 @@
 
     {
       "Item": "Desc_PetroleumCoke",
-      "Amount": 16
-    },
-    {
-      "Item": "Desc_LiquidHydrocarbons",
-      "Amount": 1000
+      "Amount": 100
     }
 
   ],
   "ProducedIn": [ "Build_OilRefinery" ],
-  "ManufacturingDuration": 8,
+  "ManufacturingDuration": 48,
   "ManufacturingMenuPriority": 3
 }

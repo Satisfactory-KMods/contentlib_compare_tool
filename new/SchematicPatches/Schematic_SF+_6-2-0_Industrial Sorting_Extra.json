@@ -1,0 +1,9 @@
+//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T6/Schematic_SF+_6_2_0.Schematic_SF+_6_2_0_C
+{
+  "Name": "Industrial Sorting",
+  "MenuPriority": 1,
+  "ClearCost": true,
+
+  "ClearRecipes": true,
+  "Recipes": [ "Recipe_FBFS_Oil_Sulfurtri_C", "Recipe_Packaged_Sulfurtrixid_C", "Recipe_UnPackaged_Sulfurtrixid_C", "Recipe_Packaged_LiquidHydrochloricAcid_2", "Recipe_UnPackaged_LiquidHydrochloricAcid_2" ]
+}

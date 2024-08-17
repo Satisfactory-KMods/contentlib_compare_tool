@@ -1,0 +1,7 @@
+{
+  "Name": "Alternate: Distilled Oil Residue",
+  "Type": "Alternate",
+  "VisualKit": "Desc_HeavyOilResidue",
+  "Recipes": [ "Recipe_DistilledOilResidue", "Recipe_DilutedBitumen" ],
+  "DependsOn": [ "Schematic_SF+_5_1_C" ]
+}

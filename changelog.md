@@ -1,79 +1,20 @@
-## 1.0.0.alpha-phase2-9
+## 1.0.0.alpha-phase3-2
 
-**note:**
-- This Patch has no Tier 5 content yet we are working on it.
+**BREAKING CHANGES**
+- refactor raw ores:
+    - removed modded ores like Siterite Ore
+    - rename vanilla ores to match the new names
+    - removed [old] tag from the ores
+    - possible it breaks the resource scanner
 
-**changes**
-- Smelter Module can now attach to the miner for smelting dirt to gangue
-
-**recipes**
-- Add Recipes for Molten Tin
-- Add 7 alternative recipes
-- Impure Copper Ingot
-    - input:
-        - Crushed Callanite 10 > 8
-- Crushed Siterite
-    - output: 
-        - Gungue 6 > 5
-- Modular Heavy Frame
-    - input:
-        - Steel Beams 16 > 12
-- Steel Rods
-    - output:
-        - Steam: 20m³ > 16m³
-        - Cold Slag: 2 > 3
-- Carbon Powder:
-    - Manufactoring Duration: 6s > 3s
-- Molten Brass:
-    - Manufactoring Duration: 12s > 10s
-    - input:
-        - Molten Copper 8m³ > 10m³
-        - Crushed Zinc 6 > 5
-    - output:
-        - Molten Brass 16m³ > 20m³
-        - Molten Slag 4m³ > REMOVED
-- Molten Copper:
-    - Manufactoring Duration: 12s > 10s
-    - input:
-        - Crushed Copper 24 > 20
-    - output:
-        - Molten Copper 12m³ > 10m³
-        - Molten Slag 4m³ > REMOVED
-- Molten Iron:
-    - Manufactoring Duration: 24s > 12s
-    - output:
-        - Molten Slag 4m³ > REMOVED
-- Molten Steel:
-    - input:
-        - Carbon Dust 8 > 4
-        - Molten Iron 9m³ > 8m³
-        - Steam 8m³ > 12m³
-    - output:
-        - Molten Slag 5m³ > Flue Gas 5m³
-- Cast: Iron Ingot
-    - input:
-        - Molten Iron 9m³ > 10m³
-        - Water 4m³ > 8m³
-    - output:
-        - Iron Ingot 18 > 24
-        - Steam 4m³ > 8m³
-- Cast: Copper Ingot
-    - Manufactoring Duration: 12s > 15s
-    - input:
-        - Molten Copper 8m³ > 10m³
-        - Water 6m³ > 5m³
-    - output:
-        - Copper Ingot 16 > 24
-        - Steam 6m³ > 5m³
-- Cast: Brass Ingot
-    - output:
-        - Steam 4m³ > 3m³
+**features**
+- Add new milestones to Tier 5
+- Add Tier 6 
+- rename some items
+- add more descriptions to items
 
 **bugfixes**
 - Potential fix for power fuse trigger when connection a module to the miner
-- fix steel pipe recipe 
-
-Generel Information: the renamed items will disappear from the game also related recipes like crushing recipes need to set again
 ___
 
 ## Full Changelog
@@ -215,5 +156,9 @@ Note: All items where renamed will disappear from the game.
 
 **Web Wiki**
 
-- Will be updated as soon as Tier 4 is released and the game is more stable
+- Will be updated as soon as Tier 7 is released and the game is more stable
 - The wiki page for the beta phase of SF+ 1.0.0 will be: https://dev-wiki.kmods.space/
+
+**Mod Compatibility**
+- Readding Oil Refinery
+- Old items are now the default items (remove old tag and remove modded ores)

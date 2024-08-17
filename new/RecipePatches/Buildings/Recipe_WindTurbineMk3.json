@@ -1,0 +1,28 @@
+//SatisfactoryPlus/Content/Recipes/BuildGun/Recipe_SFP_WindTurbineMk3.Recipe_SFP_WindTurbineMk3_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Wind Turbine Mk.3",
+  "Ingredients": [
+    {
+      "Item": "Desc_WaterBlade_C",
+      "Amount": 20
+    },
+    {
+      "Item": "Desc_Motor",
+      "Amount": 15
+    },
+    {
+      "Item": "Desc_InvarPipe",
+      "Amount": 20
+    },
+    {
+      "Item": "Desc_Cable",
+      "Amount": 75
+    },
+    {
+      "Item": "Desc_Fabric",
+      "Amount": 100
+    }
+  ],
+  "ManufacturingMenuPriority": 5
+}

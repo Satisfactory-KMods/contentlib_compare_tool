@@ -1,0 +1,29 @@
+//SatisfactoryPlus/Content/Recipes/SoldifierAndCooler/Ingots/Recipe_SAC_Ingots_Gold.Recipe_SAC_Ingots_Gold_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Cast Caterium Ingot",
+  "category": "Cat_Ingots_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_LiquidGold",
+      "Amount": 15000
+    },
+    {
+      "Item": "Desc_Water",
+      "Amount": 12000
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_GoldIngot",
+      "Amount": 32
+    },
+    {
+      "Item": "Desc_Gas_Steam_Hot",
+      "Amount": 10000
+    }
+  ],
+  "ManufacturingDuration": 15,
+  "ManufacturingMenuPriority": 5
+}

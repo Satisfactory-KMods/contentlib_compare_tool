@@ -1,0 +1,30 @@
+{
+    "Name": "Cryolite Residue",
+    "OverrideCategory": "T3 Sorting",
+    "Ingredients": [
+        {
+            "Item": "Desc_Res_Cryolit_C",
+            "Amount": 14
+        },
+        {
+            "Item": "Desc_CausticSoda",
+            "Amount": 3000
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_CrashedKryolith",
+            "Amount": 7
+        },
+        {
+            "Item": "Desc_Silica",
+            "Amount": 3
+        }
+    ],
+    "ProducedIn": [
+        "Build_SorterMk1"
+    ],
+    "ManufacturingDuration": 12,
+    "ManufacturingMenuPriority": 7,
+    "$comment": "This is a new file, no old version exists"
+}

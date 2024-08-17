@@ -14,12 +14,8 @@
     {
       "Item": "Desc_LiquidIron",
       "Amount": 12000
-    },
-    {
-      "Item": "Desc_LiquidSlag",
-      "Amount": 4000
     }
   ],
-  "ManufacturingDuration": 24,
+  "ManufacturingDuration": 12,
   "ManufacturingMenuPriority": 1
 }

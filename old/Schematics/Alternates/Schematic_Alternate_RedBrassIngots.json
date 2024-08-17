@@ -1,0 +1,7 @@
+{
+  "Name": "Alternate: Red Brass Ingots",
+  "Type": "Alternate",
+  "VisualKit": "Desc_BrassIngot",
+  "Recipes": [ "Recipe_RedBrassIngots" ],
+  "DependsOn": [ "Schematic_SF+_3_2_C" ]
+}

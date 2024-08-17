@@ -1,0 +1,41 @@
+{
+    "$comment": "This file has been changed",
+    "new": {
+        "Name": "Alternate: Pure Ethylene"
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "Name": "Pure Ethylene"
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+        "Name": "Alternate: Pure Ethylene",
+        "OverrideCategory": "SolidOilProducts_C",
+        "Ingredients": [
+            {
+                "Item": "Desc_Gas_Hydrogen",
+                "Amount": 20000
+            },
+            {
+                "Item": "Desc_PackagedGas_CarbonDioxide",
+                "Amount": 4
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_Methane",
+                "Amount": 5000
+            },
+            {
+                "Item": "Desc_GasTank",
+                "Amount": 4
+            }
+        ],
+        "ProducedIn": [
+            "Build_OilRefinery"
+        ],
+        "ManufacturingDuration": 20,
+        "ManufacturingMenuPriority": 5
+    }
+}

@@ -7,11 +7,11 @@
     },
     {
       "Property": "mFluidConsume",
-      "Value": 2000
+      "Value": 2500
     },
     {
       "Property": "mHeatTimer",
-      "Value": 0.8
+      "Value": 2
     },
     {
       "Property": "mIsSoundEnabled",

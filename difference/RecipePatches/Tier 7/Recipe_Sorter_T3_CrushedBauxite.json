@@ -1,0 +1,42 @@
+{
+    "$comment": "This file has been changed",
+    "new": {
+        "Category": "T2 Sorting"
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "Category": "T2-Sorting"
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+        "Name": "Crushed Bauxite",
+        "Category": "T2 Sorting",
+        "Ingredients": [
+            {
+                "Item": "Desc_CrushedCrotinium",
+                "Amount": 10
+            },
+            {
+                "Item": "Desc_LiquidHydrochloricAcid",
+                "Amount": 3000
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_CrushedBauxite",
+                "Amount": 12
+            },
+            {
+                "Item": "Desc_CrushedMagnesium",
+                "Amount": 2
+            },
+            {
+                "Item": "Desc_CrushedLimestone",
+                "Amount": 3
+            }
+        ],
+        "ManufacturingDuration": 6,
+        "ManufacturingMenuPriority": 6
+    }
+}

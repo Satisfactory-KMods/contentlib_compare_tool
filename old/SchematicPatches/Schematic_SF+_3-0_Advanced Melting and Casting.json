@@ -22,6 +22,6 @@
     }
   ],
   "ClearRecipes": true,
-  "Recipes": ["Recipe_FlexibleBlastFurnaceSmelter_C", "Recipe_SoldifierAndCooler_C","Recipe_FBFS_Simple_Iron_C", "Recipe_FBFS_Simple_Copper_C", "Recipe_SAC_Ingots_Iron_C", "Recipe_SAC_Ingots_Copper_C" ],
+  "Recipes": [ "Recipe_FlexibleBlastFurnaceSmelter_C", "Recipe_SoldifierAndCooler_C", "Recipe_FBFS_Simple_Iron_C", "Recipe_FBFS_Simple_Copper_C", "Recipe_FBFS_Simple_Tin_C", "Recipe_SAC_Ingots_Iron_C", "Recipe_SAC_Ingots_Copper_C", "Recipe_SAC_Ingots_Tin_C" ],
   "Time": 300
 }

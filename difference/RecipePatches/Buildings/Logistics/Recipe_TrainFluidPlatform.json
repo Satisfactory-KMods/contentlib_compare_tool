@@ -1,0 +1,21 @@
+{
+    "Ingredients": [
+        {
+            "Item": "Desc_ModularFrameHeavy",
+            "Amount": 5
+        },
+        {
+            "Item": "Desc_SteelPlate",
+            "Amount": 30
+        },
+        {
+            "Item": "Desc_Cement",
+            "Amount": 50
+        },
+        {
+            "Item": "Desc_Motor",
+            "Amount": 15
+        }
+    ],
+    "$comment": "This is a new file, no old version exists"
+}

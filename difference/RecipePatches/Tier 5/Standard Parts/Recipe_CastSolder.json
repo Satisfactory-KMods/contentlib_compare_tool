@@ -1,0 +1,35 @@
+{
+    "Name": "Cast Solder",
+    "Category": "Cat_KLib_SAC_Cooling_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_LiquidSolder",
+            "Amount": 3000
+        },
+        {
+            "Item": "Desc_Water",
+            "Amount": 4000
+        },
+        {
+            "Item": "Desc_Wire",
+            "Amount": 15
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_SolderWire",
+            "Amount": 15
+        },
+        {
+            "Item": "Desc_SolderRod",
+            "Amount": 4
+        },
+        {
+            "Item": "Desc_Gas_Steam_Hot",
+            "Amount": 3000
+        }
+    ],
+    "ManufacturingDuration": 10,
+    "ManufacturingMenuPriority": 4,
+    "$comment": "This is a new file, no old version exists"
+}

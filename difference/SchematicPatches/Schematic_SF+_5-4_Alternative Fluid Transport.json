@@ -1,0 +1,34 @@
+{
+    "Name": "Alternative Fluid & Pioneer Transport",
+    "MenuPriority": 4,
+    "ClearCost": true,
+    "Cost": [
+        {
+            "Item": "Desc_Rubber",
+            "Amount": 500
+        },
+        {
+            "Item": "Desc_Plastic",
+            "Amount": 500
+        },
+        {
+            "Item": "Desc_CopperSheet",
+            "Amount": 200
+        },
+        {
+            "Item": "Desc_TinPlates",
+            "Amount": 200
+        }
+    ],
+    "ClearRecipes": true,
+    "Recipes": [
+        "Recipe_AB_FluidPacker_C",
+        "Recipe_Assamble_Canister_C",
+        "Recipe_Assamble_GasTank_C",
+        "Recipe_Assamble_Hot_C",
+        "Recipe_Jetpack"
+    ],
+    "InventorySlotsToGive": 5,
+    "Time": 120,
+    "$comment": "This is a new file, no old version exists"
+}

@@ -1,0 +1,24 @@
+//RefinedPower/Buildables/Factory/ModularPower/MPBuildings/Turbines/TurbineMk2/Recipe_RP_MP_TurbineMk2.Recipe_RP_MP_TurbineMk2_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Steam Turbine Mk.2",
+  "Ingredients": [
+    {
+      "Item": "Desc_SteelPlate",
+      "Amount": 20
+    },
+    {
+      "Item": "Desc_WaterBlade",
+      "Amount": 24
+    },
+    {
+      "Item": "Desc_InvarPipe",
+      "Amount": 15
+    },
+    {
+      "Item": "Desc_ModularFrameHeavy",
+      "Amount": 5
+    }
+  ],
+  "ManufacturingMenuPriority": 3
+}

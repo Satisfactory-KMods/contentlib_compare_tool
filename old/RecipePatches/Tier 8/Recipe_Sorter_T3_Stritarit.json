@@ -1,33 +1,31 @@
-//SatisfactoryPlus/Content/Recipes/Sorter/Recipe_Sorter_T3_Stritarit.Recipe_Sorter_T3_Stritarit_C
 {
-  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
-  "Name": "Crushed Rutile",
-  "Category": "T3-Sorting",
-  "Ingredients": [
-    {
-      "Item": "Desc_CrushedStritarit",
-      "Amount": 12
-    },
-    {
-      "Item": "Desc_LiquidHydrochloricAcid",
-      "Amount": 2000
-    }
-
-  ],
-  "Products": [
-    {
-      "Item": "Desc_CrushedTitan",
-      "Amount": 3
-    },
-    {
-      "Item": "Desc_CrushedIron",
-      "Amount": 2
-    },
-    {
-      "Item": "Desc_CrushedLimestone",
-      "Amount": 1
-    }
-  ],
-  "ManufacturingDuration": 8,
-  "ManufacturingMenuPriority": 1
+    "Name": "Crushed Rutile",
+    "Category": "T3-Sorting",
+    "Ingredients": [
+        {
+            "Item": "Desc_CrushedStritarit",
+            "Amount": 12
+        },
+        {
+            "Item": "Desc_LiquidHydrochloricAcid",
+            "Amount": 2000
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_CrushedTitan",
+            "Amount": 3
+        },
+        {
+            "Item": "Desc_CrushedIron",
+            "Amount": 2
+        },
+        {
+            "Item": "Desc_CrushedLimestone",
+            "Amount": 1
+        }
+    ],
+    "ManufacturingDuration": 8,
+    "ManufacturingMenuPriority": 1,
+    "$comment": "This file has been removed, no new version exists"
 }

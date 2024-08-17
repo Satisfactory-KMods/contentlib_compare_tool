@@ -5,7 +5,7 @@
   "Ingredients": [
     {
       "Item": "Desc_Sand",
-      "Amount": 16
+      "Amount": 10
     },
     {
       "Item": "Desc_MagnesiumGranules",
@@ -17,7 +17,7 @@
 
     {
       "Item": "Desc_Silica",
-      "Amount": 12
+      "Amount": 15
     },
 
   ],

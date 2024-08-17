@@ -1,0 +1,33 @@
+{
+    "Name": "Industrial Melting & Casting",
+    "MenuPriority": 3,
+    "ClearCost": true,
+    "Cost": [
+        {
+            "Item": "Desc_PackagedGas_Hydrogen",
+            "Amount": 50
+        },
+        {
+            "Item": "Desc_LeadFrame",
+            "Amount": 20
+        },
+        {
+            "Item": "Desc_BeltItemMk3",
+            "Amount": 25
+        }
+    ],
+    "ClearRecipes": true,
+    "Recipes": [
+        "Recipe_FBFS_Simple_Gold_C",
+        "Recipe_FBFS_Simple_Zinc_C",
+        "Recipe_FBFS_Simple_Lead_C",
+        "Recipe_FBFS_Advanced_Cobalt",
+        "Recipe_SAC_Ingots_Gold_C",
+        "Recipe_SAC_Ingots_Zinc_C",
+        "Recipe_SAC_Ingots_Lead_C",
+        "Recipe_SAC_Ingots_Cobalt_C",
+        "Recipe_Constructor_CobaltPlates_C"
+    ],
+    "Time": 240,
+    "$comment": "This is a new file, no old version exists"
+}

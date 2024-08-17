@@ -1,6 +1,5 @@
-//KLib/Assets/Parts/Production/Metal/Plates/Desc_InvarPlates.Desc_InvarPlates_C
 {
-  "Name": "Invar Bar",
-  "Description": "One of the most basic invar parts."
-
+    "Name": "Invar Bar",
+    "Description": "One of the most basic invar parts.",
+    "$comment": "This file has been removed, no new version exists"
 }

@@ -1,0 +1,15 @@
+//Game/FactoryGame/Buildable/Factory/Train/Station/Recipe_TrainPlatformEmpty.Recipe_TrainPlatformEmpty_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Ingredients": [
+    {
+      "Item": "Desc_SteelPlate",
+      "Amount": 25
+    },
+    {
+      "Item": "Desc_Cement",
+      "Amount": 50
+    }
+
+  ]
+}

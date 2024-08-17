@@ -1,0 +1,26 @@
+//SatisfactoryPlus/Content/Recipes/Assamble/Recipe_Assamble_InvarPipes.Recipe_Assamble_InvarPipes_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Magnetic Ring Core",
+  "Category": "IndustrialParts_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_InvarIngot",
+      "Amount": 60
+    },
+    {
+      "Item": "Desc_IronWire",
+      "Amount": 80
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_InvarPipe",
+      "Amount": 45
+    }
+  ],
+  "ManufacturingDuration": 120,
+  "ManufacturingMenuPriority": 3,
+  "ProducedIn": [ "Build_FoundryMk1" ]
+}

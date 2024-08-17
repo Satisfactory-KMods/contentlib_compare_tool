@@ -16,7 +16,7 @@
         {
           "mProduceItem": "/KLib/Assets/Parts/Production/Crushed/Desc_CrushedIron.Desc_CrushedIron_C",
           "mProductionTime": 12,
-          "mProduceAmount": 4
+          "mProduceAmount": 8
         },
         {
           "mProduceItem": "/KLib/Assets/Parts/Production/Crushed/Desc_CrushedTin.Desc_CrushedTin_C",
@@ -26,7 +26,7 @@
         {
           "mProduceItem": "/KLib/Assets/Parts/Production/Crushed/Desc_CrushedCopper.Desc_CrushedCopper_C",
           "mProductionTime": 36,
-          "mProduceAmount": 12
+          "mProduceAmount": 24
         }
       ]
     },

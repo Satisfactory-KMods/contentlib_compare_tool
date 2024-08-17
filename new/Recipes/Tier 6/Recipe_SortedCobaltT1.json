@@ -1,0 +1,29 @@
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Crushed Cobalt",
+  "Category": "T1 Sorting",
+  "Ingredients": [
+    {
+      "Item": "Desc_CrushedCrotinium",
+      "Amount": 8
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_CrushedCobalt",
+      "Amount": 5
+    },
+    {
+      "Item": "Desc_CrushedMagnesium",
+      "Amount": 1
+    },
+    {
+      "Item": "Desc_CrushedLimestone",
+      "Amount": 2
+    }
+  ],
+  "ProducedIn": [ "Build_SorterMk1" ],
+  "ManufacturingDuration": 6,
+  "ManufacturingMenuPriority": 6
+}

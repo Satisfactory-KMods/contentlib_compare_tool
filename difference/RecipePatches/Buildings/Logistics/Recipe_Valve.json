@@ -1,0 +1,56 @@
+{
+    "$comment": "This file has been changed",
+    "new": {
+        "Ingredients": [
+            {
+                "Item": "Desc_SteelPipe",
+                "Amount": 2,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_BrassPlates",
+                "Amount": 5
+            },
+            {
+                "Item": "Desc_SteelScrew",
+                "Amount": 10
+            }
+        ]
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "Ingredients": [
+            {
+                "Item": "Desc_SteelRod",
+                "Amount": 2
+            },
+            {
+                "Item": "Desc_BrassPlates",
+                "Amount": 5
+            },
+            {
+                "Item": "Desc_SteelScrew",
+                "Amount": 10
+            }
+        ]
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+        "Ingredients": [
+            {
+                "Item": "Desc_SteelPipe",
+                "Amount": 2,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_BrassPlates",
+                "Amount": 5
+            },
+            {
+                "Item": "Desc_SteelScrew",
+                "Amount": 10
+            }
+        ]
+    }
+}

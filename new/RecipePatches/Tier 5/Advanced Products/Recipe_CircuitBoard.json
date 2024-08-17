@@ -6,15 +6,11 @@
   "Ingredients": [
     {
       "Item": "Desc_Plastic",
-      "Amount": 10
-    },
-    {
-      "Item": "Desc_Wire",
-      "Amount": 8
+      "Amount": 15
     },
     {
       "Item": "Desc_SolderWire",
-      "Amount": 12
+      "Amount": 9
     }
 
   ],
@@ -26,6 +22,7 @@
     }
 
   ],
-  "ManufacturingDuration": 30,
-  "ManufacturingMenuPriority": 1
+  "ProducedIn": [ "Build_AssemblerMk1" ],
+  "ManufacturingDuration": 24,
+  "ManufacturingMenuPriority": 1.5
 }

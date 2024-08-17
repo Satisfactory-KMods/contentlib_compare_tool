@@ -20,7 +20,7 @@
       "Amount": 6
     }
   ],
-  "ManufacturingDuration": 24,
+  "ManufacturingDuration": 18,
   "ManufacturingMenuPriority": 5,
   "ProducedIn": [ "Build_FoundryMk1" ]
 }

@@ -1,0 +1,30 @@
+{
+    "Name": "Diluted Bitumen",
+    "OverrideCategory": "SolidOilProducts_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_Asphalt",
+            "Amount": 16
+        },
+        {
+            "Item": "Desc_KLIB_NaturalGas_C",
+            "Amount": 20000
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_HeavyOilResidue",
+            "Amount": 12
+        },
+        {
+            "Item": "Desc_PetroleumCoke",
+            "Amount": 16
+        }
+    ],
+    "ProducedIn": [
+        "Build_OilRefinery"
+    ],
+    "ManufacturingDuration": 48,
+    "ManufacturingMenuPriority": 4,
+    "$comment": "This file has been removed, no new version exists"
+}

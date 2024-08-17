@@ -1,0 +1,35 @@
+//SatisfactoryPlus/Content/Recipes/Manu/Recipe_Manu_Lift_4.Recipe_Manu_Lift_4_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Modular Engine",
+  "Category": "SpaceElevator_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_Motor",
+      "Amount": 15
+    },
+    {
+      "Item": "Desc_SpaceElevatorPart_1",
+      "Amount": 9
+    },
+    {
+      "Item": "Desc_CircuitBoard",
+      "Amount": 20
+    },
+    {
+      "Item": "Desc_SolderWire",
+      "Amount": 45
+    }
+
+  ],
+  "Products": [
+
+    {
+      "Item": "Desc_SpaceElevatorPart_4",
+      "Amount": 5
+    }
+
+  ],
+  "ManufacturingDuration": 120,
+  "ManufacturingMenuPriority": 1
+}

@@ -1,0 +1,21 @@
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Concentrated Slug Slime",
+  "OverrideCategory": "Cat_PowerShards_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_SlugSlime_Low",
+      "Amount": 1000
+    }
+  ],
+  "Products": [
+    {
+      "Item": "Desc_SlugSlime_High",
+      "Amount": 100
+    }
+  ],
+  "ProducedIn": [ "Build_OilRefinery" ],
+  "ManufacturingDuration": 1,
+  "ManufacturingMenuPriority": 1
+
+}

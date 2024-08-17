@@ -1,0 +1,84 @@
+{
+    "$comment": "This file has been changed",
+    "new": {
+        "Ingredients": [
+            {
+                "Item": "Desc_LiquidOil",
+                "Amount": 18000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_LimeDust",
+                "Amount": 10,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_PurifiedCrudeOil",
+                "Amount": 9000
+            },
+            {
+                "Item": "Desc_Gas_CarbonDioxide",
+                "Amount": 6000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "ManufacturingDuration": 12
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "Ingredients": [
+            {
+                "Item": "Desc_LiquidOil",
+                "Amount": 9000
+            },
+            {
+                "Item": "Desc_LimeDust",
+                "Amount": 5
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_PurifiedCrudeOil",
+                "Amount": 9000
+            },
+            {
+                "Item": "Desc_Gas_CarbonDioxide",
+                "Amount": 3000
+            }
+        ],
+        "ManufacturingDuration": 6
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+        "Name": "Purified Crude Oil",
+        "category": "SolidOilProducts_C",
+        "Ingredients": [
+            {
+                "Item": "Desc_LiquidOil",
+                "Amount": 18000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_LimeDust",
+                "Amount": 10,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_PurifiedCrudeOil",
+                "Amount": 9000
+            },
+            {
+                "Item": "Desc_Gas_CarbonDioxide",
+                "Amount": 6000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "ManufacturingDuration": 12,
+        "ManufacturingMenuPriority": 1
+    }
+}

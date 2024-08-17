@@ -1,0 +1,30 @@
+//SatisfactoryPlus/Content/Recipes/Sorter/Recipe_Sorter_T3_Stritarit.Recipe_Sorter_T3_Stritarit_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Crushed Rutile",
+  "OverrideCategory": "T3 Sorting",
+  "Ingredients": [
+    {
+      "Item": "Desc_CrushedSapherit",
+      "Amount": 16
+    },
+    {
+      "Item": "Desc_LiquidHydrochloricAcid",
+      "Amount": 2000
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_CrushedRutile",
+      "Amount": 4
+    },
+    {
+      "Item": "Desc_CrushedTin",
+      "Amount": 1
+    }
+  ],
+  "ProducedIn": [ "Build_SorterMk1" ],
+  "ManufacturingDuration": 4,
+  "ManufacturingMenuPriority": 1
+}

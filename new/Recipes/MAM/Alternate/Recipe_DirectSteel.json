@@ -26,7 +26,7 @@
       "Amount": 10000
     }
   ],
-  "ProducedIn": [ "Build_FlexibleBlastFurnaceSmelte" ],
+  "ProducedIn": [ "Build_FlexibleBlastFurnaceSmelter" ],
   "ManufacturingDuration": 12,
   "ManufacturingMenuPriority": 5
 

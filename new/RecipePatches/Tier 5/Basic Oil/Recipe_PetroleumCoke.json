@@ -14,15 +14,11 @@
 
     {
       "Item": "Desc_PetroleumCoke",
-      "Amount": 16
-    },
-    {
-      "Item": "Desc_LiquidHydrocarbons",
-      "Amount": 1000
+      "Amount": 20
     }
 
   ],
   "ProducedIn": [ "Build_OilRefinery" ],
-  "ManufacturingDuration": 8,
+  "ManufacturingDuration": 6,
   "ManufacturingMenuPriority": 3
 }

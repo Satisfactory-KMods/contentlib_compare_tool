@@ -6,24 +6,24 @@
   "Ingredients": [
     {
       "Item": "Desc_LiquidCopper",
-      "Amount": 8000
+      "Amount": 10000
     },
     {
       "Item": "Desc_Water",
-      "Amount": 6000
+      "Amount": 5000
     }
 
   ],
   "Products": [
     {
       "Item": "Desc_CopperIngot",
-      "Amount": 16
+      "Amount": 24
     },
     {
       "Item": "Desc_Gas_Steam_Hot",
-      "Amount": 6000
+      "Amount": 5000
     }
   ],
-  "ManufacturingDuration": 12,
+  "ManufacturingDuration": 15,
   "ManufacturingMenuPriority": 2
 }

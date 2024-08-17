@@ -1,0 +1,23 @@
+//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T6/Schematic_SF+_6_3_0.Default__Schematic_SF+_6_3_0_C
+{
+  "Name": "Industrial Washing",
+  "MenuPriority": 2,
+  "ClearCost": true,
+  "Cost": [
+    {
+      "Item": "Desc_Computer",
+      "Amount": 50
+    },
+    {
+      "Item": "Desc_Rubber",
+      "Amount": 50
+    },
+    {
+      "Item": "Desc_BeltItemMk3",
+      "Amount": 100
+    }
+  ],
+
+    "ClearRecipes":true,
+    "Recipes": [ "Recipe_ChemReactor_ToxicAir", "Recipe_Wasching_Magn_C", "Recipe_Wasching_Zinc", "Recipe_Wasching_Lead", "Recipe_Wasching_Caterium", "Recipe_Wasching_Nickle", "Recipe_Wasching_Cobalt", "Recipe_FusedQuartzCrystal" ]
+}
