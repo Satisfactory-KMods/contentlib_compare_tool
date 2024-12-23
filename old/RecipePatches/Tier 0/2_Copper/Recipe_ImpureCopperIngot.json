@@ -1,21 +1,19 @@
-//SatisfactoryPlus/Content/Recipes/Smelter/Recipe_Smelter_Dirty_CopperIngot.Recipe_Smelter_Dirty_CopperIngot_C
 {
-  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
-  "Name": "Impure Copper Ingot",
-  "Category": "Impure Ingots",
-  "Ingredients": [
-    {
-      "Item": "Desc_CrushedSapherit",
-      "Amount": 2
-    }
-
-  ],
-  "Products": [
-    {
-      "Item": "Desc_CopperIngot",
-      "Amount": 2
-    }
-  ],
-  "ManufacturingDuration": 5,
-  "ManufacturingMenuPriority": 2
+    "Name": "Impure Copper Ingot",
+    "Category": "Impure Ingots",
+    "Ingredients": [
+        {
+            "Item": "Desc_CrushedSapherit",
+            "Amount": 2
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_CopperIngot",
+            "Amount": 2
+        }
+    ],
+    "ManufacturingDuration": 5,
+    "ManufacturingMenuPriority": 2,
+    "$comment": "This file has been removed, no new version exists"
 }

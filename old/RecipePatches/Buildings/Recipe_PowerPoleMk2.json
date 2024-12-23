@@ -1,0 +1,18 @@
+{
+    "Ingredients": [
+        {
+            "Item": "Desc_HighSpeedWire",
+            "Amount": 4
+        },
+        {
+            "Item": "Desc_IronScrew",
+            "Amount": 6
+        },
+        {
+            "Item": "Desc_CopperRod",
+            "Amount": 2
+        }
+    ],
+    "ManufacturingMenuPriority": 3,
+    "$comment": "This file has been removed, no new version exists"
+}

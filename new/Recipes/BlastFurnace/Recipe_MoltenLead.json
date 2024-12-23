@@ -1,0 +1,21 @@
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Molten Lead",
+  "OverrideCategory": "Molten Metals",
+  "Ingredients": [
+    {
+      "Item": "Desc_CrushedLead",
+      "Amount": 6
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_LiquidLead",
+      "Amount": 3000
+    }
+  ],
+  "ProducedIn": [ "Build_FlexibleBlastFurnaceSmelter" ],
+  "ManufacturingDuration": 5,
+  "ManufacturingMenuPriority": 4
+}

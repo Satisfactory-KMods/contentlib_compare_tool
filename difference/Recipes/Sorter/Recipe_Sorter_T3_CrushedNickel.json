@@ -1,0 +1,30 @@
+{
+    "Name": "Crushed Nickel",
+    "OverrideCategory": "T3 Sorting",
+    "Ingredients": [
+        {
+            "Item": "Desc_CrushedCallanite",
+            "Amount": 12
+        },
+        {
+            "Item": "Desc_CausticSoda",
+            "Amount": 3000
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_CrushedNickle",
+            "Amount": 6
+        },
+        {
+            "Item": "Desc_CrushedCopper",
+            "Amount": 4
+        }
+    ],
+    "ProducedIn": [
+        "Build_SorterMk1"
+    ],
+    "ManufacturingDuration": 3,
+    "ManufacturingMenuPriority": 1,
+    "$comment": "This is a new file, no old version exists"
+}

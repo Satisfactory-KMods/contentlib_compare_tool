@@ -1,0 +1,8 @@
+{
+    "Name": "Chlorine Gas",
+    "Description": "A non-flammable, pungent-smelling gas commonly used to make acids... better hold your nose.",
+    "Form": "RF_GAS",
+    "StackSize": "Fluid",
+    "VisualKit": "Kit_Chlorine",
+    "$comment": "This is a new file, no old version exists"
+}

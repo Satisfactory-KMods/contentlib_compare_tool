@@ -1,0 +1,21 @@
+{
+    "Name": "Magnesium Granules",
+    "Ingredients": [
+        {
+            "Item": "Desc_CrushedMagnesium",
+            "Amount": 10
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_MagnesiumGranules",
+            "Amount": 9
+        }
+    ],
+    "ProducedIn": [
+        "Build_Crusher"
+    ],
+    "ManufacturingDuration": 15,
+    "ManufacturingMenuPriority": 1,
+    "$comment": "This is a new file, no old version exists"
+}

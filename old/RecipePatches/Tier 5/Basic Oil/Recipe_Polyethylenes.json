@@ -1,27 +1,26 @@
-//SatisfactoryPlus/Content/Recipes/SoldifierAndCooler/Recipe_SAC_OilPlasticRubber.Recipe_SAC_OilPlasticRubber_C
 {
-  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
-  "Name": "Polyethene Plastic & Rubber",
-  "category": "SolidOilProducts_C",
-  "Ingredients": [
-    {
-      "Item": "Desc_Methane",
-      "Amount": 12000
-    }
-
-  ],
-  "Products": [
-
-    {
-      "Item": "Desc_Plastic",
-      "Amount": 25
-    },
-    {
-      "Item": "Desc_Rubber",
-      "Amount": 25
-    }
-
-  ],
-  "ManufacturingDuration": 24,
-  "ManufacturingMenuPriority": 2
+    "Name": "Polyethylene",
+    "category": "SolidOilProducts_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_Methane",
+            "Amount": 12000
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_Plastic",
+            "Amount": 25
+        },
+        {
+            "Item": "Desc_Rubber",
+            "Amount": 25
+        }
+    ],
+    "ProducedIn": [
+        "Build_SoldifierAndCooler"
+    ],
+    "ManufacturingDuration": 24,
+    "ManufacturingMenuPriority": 2,
+    "$comment": "This file has been removed, no new version exists"
 }

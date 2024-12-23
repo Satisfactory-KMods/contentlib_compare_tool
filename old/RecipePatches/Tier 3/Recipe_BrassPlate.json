@@ -1,22 +1,22 @@
-//SatisfactoryPlus/Content/Recipes/Constructor/Recipe_Constructor_BrassPlates.Recipe_Constructor_BrassPlates_C
 {
-  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
-  "Name": "Brass Plate",
-  "OverrideCategory": "StandardParts_C",
-  "Ingredients": [
-    {
-      "Item": "Desc_BrassIngot",
-      "Amount": 10
-    }
-
-  ],
-  "Products": [
-    {
-      "Item": "Desc_BrassPlates",
-      "Amount": 9
-    }
-  ],
-  "ProducedIn": [ "Build_ConstructorMk1" ],
-  "ManufacturingDuration": 30,
-  "ManufacturingMenuPriority": 13
+    "Name": "Brass Plate",
+    "OverrideCategory": "StandardParts_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_BrassIngot",
+            "Amount": 10
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_BrassPlates",
+            "Amount": 9
+        }
+    ],
+    "ProducedIn": [
+        "Build_ConstructorMk1"
+    ],
+    "ManufacturingDuration": 30,
+    "ManufacturingMenuPriority": 13,
+    "$comment": "This file has been removed, no new version exists"
 }

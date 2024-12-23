@@ -1,0 +1,19 @@
+{
+    "Name": "Iron Ingot",
+    "Category": "Ingots_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_CrushedIron",
+            "Amount": 15
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_IronIngot",
+            "Amount": 15
+        }
+    ],
+    "ManufacturingDuration": 30,
+    "ManufacturingMenuPriority": 1,
+    "$comment": "This is a new file, no old version exists"
+}

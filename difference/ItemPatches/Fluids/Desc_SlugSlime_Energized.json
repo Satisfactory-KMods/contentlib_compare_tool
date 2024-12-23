@@ -1,0 +1,19 @@
+{
+    "$comment": "This file has been changed",
+    "new": {
+        "Description": "The most concentrated form of Slug Slime.\nThe energy from it can be used in varying ways, be it in the form of heat or electromagnetic radiation.\n\nCharging Power Shard Fragments with this energy leads to the creation of Power Shards.",
+        "VisualKit": "Kit_SlugSLimeHigh"
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "Description": "The most concentrated form of Slug Slime.\nThe energy from it can be used in varying ways, be it in the form of heat, electromagnetic fields or radiation.\n\nCharging Power Shard Fragments with this energy leads to the creation of Power Shards."
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "Name": "Energized Slug Slime",
+        "Description": "The most concentrated form of Slug Slime.\nThe energy from it can be used in varying ways, be it in the form of heat or electromagnetic radiation.\n\nCharging Power Shard Fragments with this energy leads to the creation of Power Shards.",
+        "Form": "RF_Liquid",
+        "VisualKit": "Kit_SlugSLimeHigh",
+        "StackSize": "Fluid"
+    }
+}

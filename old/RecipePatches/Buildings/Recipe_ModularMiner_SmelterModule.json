@@ -1,25 +1,23 @@
-//KLib/Assets/Buildings/ModularExtractor/Recipes/Recipe_Module_Smelter.Recipe_Module_Smelter_C
 {
-  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
-  "Name": "Smelter Module",
-  "Ingredients": [
-
-    {
-      "Item": "Desc_BronzeFrame",
-      "Amount": 15
-    },
-    {
-      "Item": "Desc_IronPlateReinforced",
-      "Amount": 5
-    },
-    {
-      "Item": "Desc_HighSpeedWire",
-      "Amount": 150
-    },
-    {
-      "Item": "Desc_Cable",
-      "Amount": 50
-    }
-  ],
-  "ManufacturingMenuPriority": 5
+    "Name": "Smelter Module",
+    "Ingredients": [
+        {
+            "Item": "Desc_BronzeFrame",
+            "Amount": 15
+        },
+        {
+            "Item": "Desc_IronPlateReinforced",
+            "Amount": 5
+        },
+        {
+            "Item": "Desc_HighSpeedWire",
+            "Amount": 150
+        },
+        {
+            "Item": "Desc_Cable",
+            "Amount": 50
+        }
+    ],
+    "ManufacturingMenuPriority": 5,
+    "$comment": "This file has been removed, no new version exists"
 }

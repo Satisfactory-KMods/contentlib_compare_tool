@@ -1,0 +1,20 @@
+//SatisfactoryPlus/Content/Recipes/Workbench/Recipe_Handcrafter_CrushedCallanite.Recipe_Handcrafter_CrushedCallanite_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Handcrushed Callanite",
+  "Category": "Cat_KLib_Prod_Crushing_Ores_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_OreCopper",
+      "Amount": 3
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_CrushedCallanite",
+      "Amount": 3
+    }
+  ],
+  "ManufacturingMenuPriority": 2
+}

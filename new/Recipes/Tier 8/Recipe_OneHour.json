@@ -24,6 +24,6 @@
   "VariablePowerConsumptionConstant": 1200.0,
   "VariablePowerConsumptionFactor": 4800.0,
   "ProducedIn": [ "Build_HadronCollider" ],
-  "ManufacturingDuration": 3600,
+  "ManufacturingDuration": 3000,
   "ManufacturingMenuPriority": 1
 }

@@ -1,0 +1,18 @@
+{
+    "Name": "Handcrushed Aurovite",
+    "Category": "Cat_KLib_Prod_Crushing_Ores_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_OreGold",
+            "Amount": 3
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_CrushedAurovite",
+            "Amount": 3
+        }
+    ],
+    "ManufacturingMenuPriority": 2.5,
+    "$comment": "This is a new file, no old version exists"
+}

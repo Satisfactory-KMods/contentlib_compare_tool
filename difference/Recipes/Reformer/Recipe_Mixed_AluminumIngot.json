@@ -1,0 +1,38 @@
+{
+    "Name": "Cast Aluminum Ingot",
+    "OverrideCategory": "Cat_Ingots_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_LiquidAluminum",
+            "Amount": 8000
+        },
+        {
+            "Item": "Desc_Silica",
+            "Amount": 20
+        },
+        {
+            "Item": "Desc_Water",
+            "Amount": 9000
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_AluminumIngot",
+            "Amount": 24
+        },
+        {
+            "Item": "Desc_AlumniumSheet_C",
+            "Amount": 8
+        },
+        {
+            "Item": "Desc_Gas_Steam_Hot",
+            "Amount": 10000
+        }
+    ],
+    "ProducedIn": [
+        "Build_SoldifierAndCooler"
+    ],
+    "ManufacturingDuration": 12,
+    "ManufacturingMenuPriority": 11,
+    "$comment": "This is a new file, no old version exists"
+}

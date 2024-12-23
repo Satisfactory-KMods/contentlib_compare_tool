@@ -1,0 +1,30 @@
+{
+    "Name": "Washed Zinc",
+    "OverrideCategory": "Cat_KLib_SAC_Wasching_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_Stone",
+            "Amount": 16
+        },
+        {
+            "Item": "Desc_Water",
+            "Amount": 3000
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_CrushedZinc",
+            "Amount": 12
+        },
+        {
+            "Item": "Desc_Wastewater",
+            "Amount": 8000
+        }
+    ],
+    "ProducedIn": [
+        "Build_OreWascher"
+    ],
+    "ManufacturingDuration": 12,
+    "ManufacturingMenuPriority": 5,
+    "$comment": "This is a new file, no old version exists"
+}

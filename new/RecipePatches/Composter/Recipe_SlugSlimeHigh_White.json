@@ -1,0 +1,21 @@
+//SatisfactoryPlus/Content/Recipes/Composter/Recipe_Mid_WhiteSlug.Recipe_Mid_WhiteSlug_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "White Slug Concentrate",
+  "Ingredients": [
+    {
+      "Item": "SlugDesc_WhiteSlug",
+      "Amount": 1
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_SlugSlime_High_C",
+      "Amount": 100
+    }
+  ],
+  "ProducedIn": [ "Build_FF_Composter_C" ],
+  "ManufacturingDuration": 1,
+  "ManufacturingMenuPriority": 1
+}

@@ -19,7 +19,8 @@
     },
     {
       "Property": "mDescription",
-      "Value": "A high pressure water boiler. Uses heat to turn Water into Steam.\n\nOperates similar to the Mk.1 Boiler below 500°C.\nOptimal temperature is 900°C.\nMaximum Temperature: 2000°C"
+      "Value": "A high pressure water boiler. Uses heat to turn Water into Steam.\n\nOperates similar to the Mk.1 Boiler below 500°C.\nOptimal temperature is 750°C.\nMaximum Temperature: 2000°C\n\nDefault Rate: 45/min Water to 90/min Steam",
+      
     }
   ]
 }

@@ -1,0 +1,26 @@
+{
+    "Name": "Alternate: Electronic Control Rod",
+    "OverrideCategory": "Electronics_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_CircuitBoardHighSpeed",
+            "Amount": 10
+        },
+        {
+            "Item": "Desc_HighSpeedWire",
+            "Amount": 160
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_ElectromagneticControlRod",
+            "Amount": 8
+        }
+    ],
+    "ProducedIn": [
+        "Build_AssemblerMk1"
+    ],
+    "ManufacturingDuration": 40,
+    "ManufacturingMenuPriority": 5.1,
+    "$comment": "This is a new file, no old version exists"
+}

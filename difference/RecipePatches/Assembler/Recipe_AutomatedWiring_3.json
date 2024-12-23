@@ -1,0 +1,26 @@
+{
+    "Name": "Automated Wiring",
+    "OverrideCategory": "Cat_SpaceElevator",
+    "Ingredients": [
+        {
+            "Item": "Desc_Stator",
+            "Amount": 8
+        },
+        {
+            "Item": "Desc_Cable",
+            "Amount": 28
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_SpaceElevatorPart_3",
+            "Amount": 3
+        }
+    ],
+    "ProducedIn": [
+        "Build_AssemblerMk1"
+    ],
+    "ManufacturingDuration": 48,
+    "ManufacturingMenuPriority": 3,
+    "$comment": "This is a new file, no old version exists"
+}

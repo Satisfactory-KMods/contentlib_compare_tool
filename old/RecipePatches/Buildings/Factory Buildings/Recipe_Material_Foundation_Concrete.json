@@ -1,10 +1,9 @@
-//Game/FactoryGame/Buildable/-Shared/Customization/Materials/Recipe_Material_Foundation_Concrete.Recipe_Material_Foundation_Concrete_C
 {
-  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
-  "Ingredients": [
-    {
-      "Item": "Desc_Cement",
-      "Amount": 2
-    }
-  ]
+    "Ingredients": [
+        {
+            "Item": "Desc_Cement",
+            "Amount": 2
+        }
+    ],
+    "$comment": "This file has been removed, no new version exists"
 }

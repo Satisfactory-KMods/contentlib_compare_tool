@@ -1,0 +1,27 @@
+{
+    "Name": "Washed Tin",
+    "OverrideCategory": "Cat_KLib_SAC_Wasching_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_OreIron",
+            "Amount": 10
+        },
+        {
+            "Item": "Desc_Water",
+            "Amount": 9000
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_CrushedTin",
+            "Amount": 5
+        },
+        {
+            "Item": "Desc_LiquidSlag",
+            "Amount": 10000
+        }
+    ],
+    "ManufacturingDuration": 15,
+    "ManufacturingMenuPriority": 3,
+    "$comment": "This is a new file, no old version exists"
+}

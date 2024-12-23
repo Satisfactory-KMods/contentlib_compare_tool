@@ -1,0 +1,30 @@
+{
+    "Name": "Distilled Natural Gas",
+    "category": "SolidOilProducts_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_PurifiedCrudeOil",
+            "Amount": 12000
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_KLIB_NaturalGas_C",
+            "Amount": 15000
+        },
+        {
+            "Item": "Desc_HeavyOilResidue",
+            "Amount": 4000
+        },
+        {
+            "Item": "Desc_Asphalt",
+            "Amount": 3
+        }
+    ],
+    "ProducedIn": [
+        "Build_ChemReactor"
+    ],
+    "ManufacturingDuration": 12,
+    "ManufacturingMenuPriority": 1,
+    "$comment": "This is a new file, no old version exists"
+}

@@ -1,4 +1,4 @@
-//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T1/Schematic_SF+_1_2.Schematic_SF+_1_2_C
+//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T1/Schematic_SF+_T1_2.Schematic_SF+_T1_2_C
 {
   "Name": "Field Research",
   "MenuPriority": 2,
@@ -22,6 +22,6 @@
     }
   ],
   "ClearRecipes": true,
-  "Recipes": [ "Recipe_Biofuel_C", "Recipe_Chainsaw_C", "Recipe_ObjectScanner_C", "Recipe_StoragePlayer_C", "Recipe_Mam" ],
+  "Recipes": [ "Recipe_Mam","Recipe_Biofuel_C", "Recipe_Chainsaw_C", "Recipe_ObjectScanner_C", "Recipe_StoragePlayer_C" ],
   "Time": 180
 }

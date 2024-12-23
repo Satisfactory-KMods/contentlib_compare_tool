@@ -1,21 +1,21 @@
-//SatisfactoryPlus/Content/Recipes/Smelter/Recipe_Smelter_Sorted_ZincIngots.Recipe_Smelter_Sorted_ZincIngots_C
 {
-  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
-  "Name": "Zinc Ingot",
-  "Ingredients": [
-    {
-      "Item": "Desc_CrushedZinc",
-      "Amount": 8
-    }
-
-  ],
-  "Products": [
-    {
-      "Item": "Desc_ZincIngot",
-      "Amount": 5
-    }
-  ],
-  "ProducedIn": [ "Build_SmelterMk1" ],
-  "ManufacturingDuration": 20,
-  "ManufacturingMenuPriority": 5
+    "Name": "Zinc Ingot",
+    "Ingredients": [
+        {
+            "Item": "Desc_CrushedZinc",
+            "Amount": 8
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_ZincIngot",
+            "Amount": 5
+        }
+    ],
+    "ProducedIn": [
+        "Build_SmelterMk1"
+    ],
+    "ManufacturingDuration": 20,
+    "ManufacturingMenuPriority": 5,
+    "$comment": "This file has been removed, no new version exists"
 }

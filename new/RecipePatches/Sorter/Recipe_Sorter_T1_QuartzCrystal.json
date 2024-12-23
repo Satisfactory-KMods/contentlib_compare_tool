@@ -1,0 +1,30 @@
+//SatisfactoryPlus/Content/Recipes/Sorter/Recipe_Sorter_T1_QuartzCrystal.Recipe_Sorter_T1_QuartzCrystal_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Quartz Crystal",
+  "Category": "T1 Sorting",
+  "Ingredients": [
+    {
+      "Item": "Desc_RawQuartz",
+      "Amount": 24
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_QuartzCrystal",
+      "Amount": 18
+    },
+    {
+      "Item": "Desc_Salt",
+      "Amount": 8
+    },
+    {
+      "Item": "Desc_Sand",
+      "Amount": 8
+    }
+  ],
+  "ProducedIn": [ "Build_SorterMk1" ],
+  "ManufacturingDuration": 12,
+  "ManufacturingMenuPriority": 5
+}

@@ -1,0 +1,31 @@
+{
+    "Name": "Molten Steel",
+    "category": "Cat_KLib_Alloys_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_LiquidIron",
+            "Amount": 8000
+        },
+        {
+            "Item": "Desc_CarbonDust",
+            "Amount": 4
+        },
+        {
+            "Item": "Desc_Gas_Steam_Hot",
+            "Amount": 12000
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_LiquidSteel",
+            "Amount": 8000
+        },
+        {
+            "Item": "Desc_FlueGas",
+            "Amount": 6000
+        }
+    ],
+    "ManufacturingDuration": 12,
+    "ManufacturingMenuPriority": 2,
+    "$comment": "This is a new file, no old version exists"
+}

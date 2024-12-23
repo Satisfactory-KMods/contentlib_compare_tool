@@ -1,0 +1,34 @@
+{
+    "Name": "Silica",
+    "OverrideCategory": "T2 Sorting",
+    "Ingredients": [
+        {
+            "Item": "Desc_CrushedRubyte",
+            "Amount": 9
+        },
+        {
+            "Item": "Desc_Air",
+            "Amount": 8000
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_Silica",
+            "Amount": 6
+        },
+        {
+            "Item": "Desc_CrushedZinc",
+            "Amount": 4
+        },
+        {
+            "Item": "Desc_Sand",
+            "Amount": 2
+        }
+    ],
+    "ProducedIn": [
+        "Build_SorterMk1"
+    ],
+    "ManufacturingDuration": 6,
+    "ManufacturingMenuPriority": 3,
+    "$comment": "This file has been removed, no new version exists"
+}

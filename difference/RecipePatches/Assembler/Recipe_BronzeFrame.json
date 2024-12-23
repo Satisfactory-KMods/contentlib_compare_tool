@@ -1,0 +1,25 @@
+{
+    "Name": "Bronze Frame",
+    "Ingredients": [
+        {
+            "Item": "Desc_BronzeBeam",
+            "Amount": 10
+        },
+        {
+            "Item": "Desc_BronzePipe",
+            "Amount": 24
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_BronzeFrame",
+            "Amount": 5
+        }
+    ],
+    "ProducedIn": [
+        "Build_AssemblerMk1"
+    ],
+    "ManufacturingDuration": 60,
+    "ManufacturingMenuPriority": 5,
+    "$comment": "This is a new file, no old version exists"
+}

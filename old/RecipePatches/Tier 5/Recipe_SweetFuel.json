@@ -1,36 +1,30 @@
-//SatisfactoryPlus/Content/Recipes/ChemReactor/OilProcessing/Recipe_ChemReactor_Oil_Desulfurization.Recipe_ChemReactor_Oil_Desulfurization_C
 {
-  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
-  "Name": "Sweet Fuel",
-  "Category": "Fuel_C",
-  "Ingredients": [
-    {
-      "Item": "Desc_HeavyOilResidue",
-      "Amount": 6000
-    },
-    {
-      "Item": "Desc_Water",
-      "Amount": 8000
-    }
-
-  ],
-  "Products": [
-    {
-      "Item": "Desc_LiquidFuel",
-      "Amount": 8000
-    },
-    {
-      "Item": "Desc_PolymerResin",
-      "Amount": 4
-    },
-    {
-      "Item": "Desc_Sulfur",
-      "Amount": 2
-    }
-   
-
-  ],
-  "ProducedIn": [ "Build_ChemReactor" ],
-  "ManufacturingDuration": 6,
-  "ManufacturingMenuPriority": 4
+    "Name": "Sweet Fuel",
+    "Category": "Fuel_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_HeavyOilResidue",
+            "Amount": 6000
+        },
+        {
+            "Item": "Desc_Water",
+            "Amount": 6000
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_LiquidFuel",
+            "Amount": 9000
+        },
+        {
+            "Item": "Desc_Sulfur",
+            "Amount": 2
+        }
+    ],
+    "ProducedIn": [
+        "Build_ChemReactor"
+    ],
+    "ManufacturingDuration": 6,
+    "ManufacturingMenuPriority": 4,
+    "$comment": "This file has been removed, no new version exists"
 }

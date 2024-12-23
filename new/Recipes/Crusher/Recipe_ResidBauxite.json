@@ -1,0 +1,21 @@
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Resid Bauxite",
+  "OverrideCategory": "Minerals_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_CryoliteResidue",
+      "Amount": 39
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_CrushedBauxite",
+      "Amount": 4
+    }
+  ],
+  "ProducedIn": [ "Build_Crusher" ],
+  "ManufacturingDuration": 60,
+  "ManufacturingMenuPriority": 5
+}

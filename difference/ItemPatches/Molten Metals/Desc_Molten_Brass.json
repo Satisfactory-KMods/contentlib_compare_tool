@@ -1,0 +1,14 @@
+{
+    "$comment": "This file has been changed",
+    "new": {
+        "VisualKit": "Kit_MoltenBrass"
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {},
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "Name": "Molten Brass",
+        "Description": "Melting Point: 930°C\n\nBrass in liquid form, useful for bulk casting ingots or other parts.",
+        "VisualKit": "Kit_MoltenBrass"
+    }
+}

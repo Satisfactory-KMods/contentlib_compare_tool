@@ -1,0 +1,34 @@
+{
+    "$comment": "This file has been changed",
+    "new": {
+        "Recipes": [
+            "Recipe_SlugTerrarium_C",
+            "Recipe_SnailFood_T1"
+        ]
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {},
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "Name": "Slug Breeding",
+        "ClearCost": true,
+        "Cost": [
+            {
+                "Item": "Desc_FF_Dirt",
+                "Amount": 50
+            },
+            {
+                "Item": "Desc_ModularFrame",
+                "Amount": 50
+            },
+            {
+                "Item": "Desc_BrassPipe",
+                "Amount": 100
+            }
+        ],
+        "Recipes": [
+            "Recipe_SlugTerrarium_C",
+            "Recipe_SnailFood_T1"
+        ]
+    }
+}

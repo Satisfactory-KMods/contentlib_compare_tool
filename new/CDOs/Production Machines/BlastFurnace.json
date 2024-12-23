@@ -1,0 +1,17 @@
+{
+  "Class": "/KLib/Assets/Buildings/FlexibleBlastFurnace/Build_FlexibleBlastFurnaceSmelter.Build_FlexibleBlastFurnaceSmelter_C",
+  "Edits": [
+    {
+      "Property": "mOverrideProductionShardSlotSize",
+      "Value": true
+    },
+    {
+      "Property": "mProductionShardSlotSize",
+      "Value": "2"
+    },
+    {
+      "Property": "mProductionShardBoostMultiplier",
+      "Value": "0.5"
+    }
+  ]
+}

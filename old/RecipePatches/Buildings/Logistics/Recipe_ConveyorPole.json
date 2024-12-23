@@ -1,19 +1,18 @@
-//Game/FactoryGame/Recipes/Buildings/Recipe_ConveyorPole.Recipe_ConveyorPole_C
 {
-  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
-  "Ingredients": [
-    {
-      "Item": "Desc_IronRod",
-      "Amount": 1
-    },
-    {
-      "Item": "Desc_IronScrew",
-      "Amount": 4
-    },
-    {
-      "Item": "Desc_Cement",
-      "Amount": 2
-    }
-  ],
-  "ManufacturingMenuPriority": 1
+    "Ingredients": [
+        {
+            "Item": "Desc_IronRod",
+            "Amount": 1
+        },
+        {
+            "Item": "Desc_IronScrew",
+            "Amount": 4
+        },
+        {
+            "Item": "Desc_Cement",
+            "Amount": 2
+        }
+    ],
+    "ManufacturingMenuPriority": 1,
+    "$comment": "This file has been removed, no new version exists"
 }

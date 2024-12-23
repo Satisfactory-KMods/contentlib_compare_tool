@@ -1,0 +1,22 @@
+{
+    "Name": "Lead Sheet",
+    "OverrideCategory": "StandardParts_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_LeadIngot",
+            "Amount": 2
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_LeadSheet",
+            "Amount": 3
+        }
+    ],
+    "ProducedIn": [
+        "Build_ConstructorMk1"
+    ],
+    "ManufacturingDuration": 5,
+    "ManufacturingMenuPriority": 22,
+    "$comment": "This is a new file, no old version exists"
+}

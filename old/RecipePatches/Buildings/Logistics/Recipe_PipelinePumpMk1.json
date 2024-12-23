@@ -1,18 +1,17 @@
-//Game/FactoryGame/Recipes/Buildings/Recipe_PipelinePump.Recipe_PipelinePump_C
 {
-  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
-  "Ingredients": [
-    {
-      "Item": "Desc_Rotor",
-      "Amount": 2
-    },
-    {
-      "Item": "Desc_CopperSheet",
-      "Amount": 5
-    },
-    {
-      "Item": "Desc_IronScrew",
-      "Amount": 10
-    }
-  ]
+    "Ingredients": [
+        {
+            "Item": "Desc_Rotor",
+            "Amount": 2
+        },
+        {
+            "Item": "Desc_CopperSheet",
+            "Amount": 5
+        },
+        {
+            "Item": "Desc_IronScrew",
+            "Amount": 10
+        }
+    ],
+    "$comment": "This file has been removed, no new version exists"
 }

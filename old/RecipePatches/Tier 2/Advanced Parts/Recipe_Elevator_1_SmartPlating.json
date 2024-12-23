@@ -1,23 +1,21 @@
-//SatisfactoryPlus/Content/Recipes/Assamble/Recipe_Assamble_Lift_1.Recipe_Assamble_Lift_1_C
 {
-  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
-  "Ingredients": [
-    {
-      "Item": "Desc_Rotor",
-      "Amount": 5
-    },
-    {
-      "Item": "Desc_BronzePlates",
-      "Amount": 48
-    }
-
-  ],
-  "Products": [
-    {
-      "Item": "Desc_SpaceElevatorPart_1",
-      "Amount": 3
-    }
-  ],
-  "ManufacturingDuration": 80,
-  "ManufacturingMenuPriority": 1
+    "Ingredients": [
+        {
+            "Item": "Desc_Rotor",
+            "Amount": 5
+        },
+        {
+            "Item": "Desc_BronzePlates",
+            "Amount": 48
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_SpaceElevatorPart_1",
+            "Amount": 3
+        }
+    ],
+    "ManufacturingDuration": 80,
+    "ManufacturingMenuPriority": 1,
+    "$comment": "This file has been removed, no new version exists"
 }

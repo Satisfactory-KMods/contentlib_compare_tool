@@ -1,23 +1,22 @@
-//KLib/Assets/Buildings/Sorter/Recipe_Sorter.Recipe_Sorter_C
 {
-  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
-  "Ingredients": [
-    {
-      "Item": "Desc_IronPlateReinforced",
-      "Amount": 5
-    },
-    {
-      "Item": "Desc_IronRod",
-      "Amount": 10
-    },
-    {
-      "Item": "Desc_IronWire",
-      "Amount": 24
-    },
-    {
-      "Item": "Desc_IronScrew",
-      "Amount": 30
-    }
-  ],
-  "ManufacturingMenuPriority": 5
+    "Ingredients": [
+        {
+            "Item": "Desc_IronPlateReinforced",
+            "Amount": 5
+        },
+        {
+            "Item": "Desc_IronRod",
+            "Amount": 10
+        },
+        {
+            "Item": "Desc_IronWire",
+            "Amount": 24
+        },
+        {
+            "Item": "Desc_IronScrew",
+            "Amount": 30
+        }
+    ],
+    "ManufacturingMenuPriority": 5,
+    "$comment": "This file has been removed, no new version exists"
 }

@@ -1,0 +1,26 @@
+{
+    "Name": "Basic Grain Meal",
+    "OverrideCategory": "Cat_Klib_Food",
+    "Ingredients": [
+        {
+            "Item": "Desc_FF_WheatSeed",
+            "Amount": 3
+        },
+        {
+            "Item": "Desc_FF_CornSeed",
+            "Amount": 3
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_SnailFood_Tier_1_C",
+            "Amount": 6
+        }
+    ],
+    "ProducedIn": [
+        "Build_Crusher"
+    ],
+    "ManufacturingDuration": 6,
+    "ManufacturingMenuPriority": 1,
+    "$comment": "This is a new file, no old version exists"
+}

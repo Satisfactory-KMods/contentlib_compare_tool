@@ -1,0 +1,31 @@
+//Game/FactoryGame/Recipes/Assembler/Recipe_SAMFluctuator.Recipe_SAMFluctuator_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "SAM Fluctuator",
+  "Category": "Electronics_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_SAMIngot",
+      "Amount": 12
+    },
+    {
+      "Item": "Desc_BronzeFrame",
+      "Amount": 1
+    },
+    {
+      "Item": "Desc_Wire",
+      "Amount": 10
+    }
+  ],
+  "Products": [
+    {
+      "Item": "Desc_SAMFluctuator",
+      "Amount": 2
+    }
+
+  ],
+  "ProducedIn": [ "Build_ManufacturerMk1", "manual" ],
+  "ManufacturingDuration": 6,
+  "ManualManufacturingMultiplier": 3,
+  "ManufacturingMenuPriority": 6
+}

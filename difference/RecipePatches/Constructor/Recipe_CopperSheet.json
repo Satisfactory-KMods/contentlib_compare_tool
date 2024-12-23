@@ -1,0 +1,21 @@
+{
+    "Category": "StandardParts_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_CopperIngot",
+            "Amount": 4
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_CopperSheet",
+            "Amount": 5
+        }
+    ],
+    "ProducedIn": [
+        "Build_ConstructorMk1"
+    ],
+    "ManufacturingDuration": 10,
+    "ManufacturingMenuPriority": 6,
+    "$comment": "This is a new file, no old version exists"
+}

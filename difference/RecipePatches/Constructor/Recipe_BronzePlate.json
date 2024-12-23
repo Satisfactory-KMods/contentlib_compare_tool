@@ -1,0 +1,22 @@
+{
+    "Name": "Bronze Plate",
+    "Category": "StandardParts_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_BronzeIngot",
+            "Amount": 5
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_BronzePlates",
+            "Amount": 4
+        }
+    ],
+    "ProducedIn": [
+        "Build_ConstructorMk1"
+    ],
+    "ManufacturingDuration": 10,
+    "ManufacturingMenuPriority": 11,
+    "$comment": "This is a new file, no old version exists"
+}

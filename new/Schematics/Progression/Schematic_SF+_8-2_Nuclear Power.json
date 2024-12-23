@@ -1,0 +1,12 @@
+{
+  "Name": "Nuclear Power",
+  "Type": "Milestone",
+  "Tier": 8,
+  "MenuPriority": 2,
+  "VisualKit": "Desc_GeneratorNuclear_C",
+  "Recipes": [
+    "Recipe_RP_MP_NuclearHeater",
+    "Recipe_GeneratorNuclear_C"
+  ],
+  "Time": 480
+}

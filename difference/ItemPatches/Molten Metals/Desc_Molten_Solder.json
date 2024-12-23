@@ -1,0 +1,14 @@
+{
+    "$comment": "This file has been changed",
+    "new": {
+        "VisualKit": "Kit_MoltenSolder"
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {},
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "Name": "Solder",
+        "Description": "Melting Point: 220°C\n\nSolder in liquid form, either to be used directly or cast into Solder Wire and Solder Rods.",
+        "VisualKit": "Kit_MoltenSolder"
+    }
+}

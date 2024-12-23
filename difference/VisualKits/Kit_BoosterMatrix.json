@@ -1,0 +1,6 @@
+{
+    "Mesh": "/Game/FactoryGame/Resource/Parts/HUBParts/SM_HUBparts_01.SM_HUBparts_01",
+    "BigIcon": "/Game/FactoryGame/Resource/Parts/HUBParts/UI/IconDesc_HubParts_256.IconDesc_HubParts_256",
+    "SmallIcon": "/Game/FactoryGame/Resource/Parts/HUBParts/UI/IconDesc_HubParts_64.IconDesc_HubParts_64",
+    "$comment": "This is a new file, no old version exists"
+}

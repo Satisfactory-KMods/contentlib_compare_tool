@@ -1,0 +1,37 @@
+{
+    "Name": "Monorail Train Technology",
+    "MenuPriority": 6,
+    "ClearCost": true,
+    "Cost": [
+        {
+            "Item": "Desc_ModularFrameHeavy",
+            "Amount": 100
+        },
+        {
+            "Item": "Desc_Plastic",
+            "Amount": 500
+        },
+        {
+            "Item": "Desc_SteelPlate",
+            "Amount": 500
+        },
+        {
+            "Item": "Desc_SteelPipe",
+            "Amount": 500
+        }
+    ],
+    "ClearRecipes": true,
+    "Recipes": [
+        "Recipe_Locomotive_C",
+        "Recipe_FreightWagon_C",
+        "Recipe_RailroadTrack_C",
+        "Recipe_TrainStation_C",
+        "Recipe_TrainDockingStation_C",
+        "Recipe_TrainDockingStationLiquid_C",
+        "Recipe_TrainPlatformEmpty_C",
+        "Recipe_RailroadBlockSignal_C",
+        "Recipe_RailroadPathSignal_C"
+    ],
+    "Time": 360,
+    "$comment": "This file has been removed, no new version exists"
+}

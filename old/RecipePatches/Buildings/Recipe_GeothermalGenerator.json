@@ -1,0 +1,22 @@
+{
+    "Ingredients": [
+        {
+            "Item": "Desc_ModularFrameHeavy",
+            "Amount": 10
+        },
+        {
+            "Item": "Desc_Motor",
+            "Amount": 15
+        },
+        {
+            "Item": "Desc_WaterBlade",
+            "Amount": 30
+        },
+        {
+            "Item": "Desc_CopperSheet",
+            "Amount": 40
+        }
+    ],
+    "ManufacturingMenuPriority": 1,
+    "$comment": "This file has been removed, no new version exists"
+}

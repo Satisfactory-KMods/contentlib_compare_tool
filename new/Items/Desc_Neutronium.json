@@ -1,0 +1,10 @@
+{
+  "Name": "Condensed Neutrium Gas",
+  "VisualKit": "Kit_Neutronium",
+  "Description": "Neutrium is composed entirely of neutrons. It decays back down to protons and electrons in a short time.\n\nUsed in the production of other exotic forms of matter.",
+  "Form": "Gas",
+  "mGasType": "GT_ENERGY",
+  "Category": "Solid_Oil_Products",
+  "StackSize": "Fluid",
+  "RadioactiveDecay":  0.1
+}

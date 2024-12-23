@@ -1,0 +1,27 @@
+{
+    "Name": "Washed Lead",
+    "OverrideCategory": "Cat_KLib_SAC_Wasching_C",
+    "Ingredients": [
+        {
+            "Item": "Res_RubyteOre",
+            "Amount": 16
+        },
+        {
+            "Item": "Desc_SulfuricAcid",
+            "Amount": 4000
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_CrushedLead",
+            "Amount": 12
+        },
+        {
+            "Item": "Desc_LiquidSlag",
+            "Amount": 8000
+        }
+    ],
+    "ManufacturingDuration": 8,
+    "ManufacturingMenuPriority": 7,
+    "$comment": "This file has been removed, no new version exists"
+}

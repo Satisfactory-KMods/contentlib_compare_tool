@@ -1,0 +1,29 @@
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Crushed Lead",
+  "OverrideCategory": "T2 Sorting",
+  "Ingredients": [
+    {
+      "Item": "Desc_CrushedLarrussite",
+      "Amount": 12
+    },
+    {
+      "Item": "Desc_Air",
+      "Amount": 6000
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_CrushedLead",
+      "Amount": 10
+    },
+    {
+      "Item": "Desc_Silica",
+      "Amount": 2
+    }
+  ],
+  "ProducedIn": [ "Build_SorterMk1" ],
+  "ManufacturingDuration": 4,
+  "ManufacturingMenuPriority": 3
+}

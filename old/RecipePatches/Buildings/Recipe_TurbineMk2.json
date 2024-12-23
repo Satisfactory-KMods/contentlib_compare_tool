@@ -1,0 +1,23 @@
+{
+    "Name": "Steam Turbine Mk.2",
+    "Ingredients": [
+        {
+            "Item": "Desc_SteelPlate",
+            "Amount": 20
+        },
+        {
+            "Item": "Desc_WaterBlade",
+            "Amount": 24
+        },
+        {
+            "Item": "Desc_InvarPipe",
+            "Amount": 15
+        },
+        {
+            "Item": "Desc_ModularFrameHeavy",
+            "Amount": 5
+        }
+    ],
+    "ManufacturingMenuPriority": 3,
+    "$comment": "This file has been removed, no new version exists"
+}

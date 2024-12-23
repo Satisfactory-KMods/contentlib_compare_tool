@@ -1,4 +1,4 @@
-//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T4/Schematic_SF+_4_0.Schematic_SF+_4_0_C
+//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T4/Schematic_SF+_T4_0.Schematic_SF+_T4_0_C
 {
   "Name": "Automated Coal Power",
   "MenuPriority": 1,
@@ -13,12 +13,12 @@
       "Amount": 100
     },
     {
-      "Item": "Desc_SteelScrew",
-      "Amount": 150
-    },
-    {
       "Item": "Desc_Cable",
       "Amount": 100
+    },
+    {
+      "Item": "Desc_SteelBolt",
+      "Amount": 150
     }
   ],
   "ClearRecipes": true,

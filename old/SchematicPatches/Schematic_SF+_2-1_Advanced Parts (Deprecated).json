@@ -1,8 +1,8 @@
-//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T2/Schematic_SF+_2_1.Schematic_SF+_2_1_C
 {
-  "Name": "Advanced Parts (Deprecated)",
-  "MenuPriority": 10,
-  "ClearCost": true,
-  "ClearRecipes": true,
-  "Time": 1
+    "Name": "Advanced Parts (Deprecated)",
+    "MenuPriority": 10,
+    "ClearCost": true,
+    "ClearRecipes": true,
+    "Time": 1,
+    "$comment": "This file has been removed, no new version exists"
 }

@@ -1,21 +1,19 @@
-//SatisfactoryPlus/Content/Recipes/Constructor/Recipe_Constructor_CopperWire.Recipe_Constructor_CopperWire_C
 {
-  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
-  "Name": "Wire",
-  "Category": "Electronics",
-  "Ingredients": [
-    {
-      "Item": "Desc_CopperRod",
-      "Amount": 3
-    }
-
-  ],
-  "Products": [
-    {
-      "Item": "Desc_Wire",
-      "Amount": 5
-    }
-  ],
-  "ManufacturingDuration": 10,
-  "ManufacturingMenuPriority": 2
+    "Name": "Wire",
+    "Category": "Electronics",
+    "Ingredients": [
+        {
+            "Item": "Desc_CopperRod",
+            "Amount": 3
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_Wire",
+            "Amount": 5
+        }
+    ],
+    "ManufacturingDuration": 10,
+    "ManufacturingMenuPriority": 2,
+    "$comment": "This file has been removed, no new version exists"
 }

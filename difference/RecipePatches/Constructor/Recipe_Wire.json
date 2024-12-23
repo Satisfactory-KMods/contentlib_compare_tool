@@ -1,0 +1,22 @@
+{
+    "Name": "Copper Wire",
+    "Category": "Electronics",
+    "Ingredients": [
+        {
+            "Item": "Desc_CopperRod",
+            "Amount": 3
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_Wire",
+            "Amount": 5
+        }
+    ],
+    "ProducedIn": [
+        "Build_ConstructorMk1"
+    ],
+    "ManufacturingDuration": 10,
+    "ManufacturingMenuPriority": 2,
+    "$comment": "This is a new file, no old version exists"
+}

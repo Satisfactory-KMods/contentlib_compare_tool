@@ -1,0 +1,39 @@
+{
+    "$comment": "This file has been changed",
+    "new": {
+        "Cost": [
+            {
+                "Item": "Desc_OreGold_C",
+                "Amount": 50,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "Recipes": [
+            "Recipe_Smelter_CateriumIngot_C"
+        ]
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "Cost": [
+            {
+                "Item": "Res_SatmoniumOre",
+                "Amount": 50
+            }
+        ]
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "Name": "Aurovite Ore",
+        "ClearCost": true,
+        "Cost": [
+            {
+                "Item": "Desc_OreGold_C",
+                "Amount": 50,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "Recipes": [
+            "Recipe_Smelter_CateriumIngot_C"
+        ]
+    }
+}

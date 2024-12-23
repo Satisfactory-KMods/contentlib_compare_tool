@@ -1,0 +1,28 @@
+{
+  "Name": "Mk.4 Logistics",
+  "Type": "Milestone",
+  "Tier": 5,
+  "MenuPriority": 3,
+  "VisualKit": "Desc_Computer_C",
+  "Cost": [
+    {
+      "Item": "Desc_BeltItemMk1",
+      "Amount": 250
+    },
+    {
+      "Item": "Desc_SteelPipe",
+      "Amount": 200
+    },
+    {
+      "Item": "Desc_Rubber",
+      "Amount": 500
+    },
+    {
+      "Item": "Desc_SolderRod",
+      "Amount": 100
+    }
+  ],
+
+  "Recipes": [ "Recipe_BeltDriveMk4_C", "Recipe_ConveyorBeltMk4_C", "Recipe_ConveyorLiftMk4_C", "Recipe_Truck_C" ],
+  "Time": 240
+}

@@ -1,0 +1,28 @@
+{
+    "Name": "Aluminum Casing",
+    "OverrideCategory": "StandardParts_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_AluminumIngot",
+            "Amount": 6
+        },
+        {
+            "Item": "Desc_Rubber",
+            "Amount": 5
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_AluminumCasing",
+            "Amount": 8
+        }
+    ],
+    "ProducedIn": [
+        "Build_AssemblerMk1",
+        "manual"
+    ],
+    "ManufacturingDuration": 12,
+    "ManualManufacturingMultiplier": 2,
+    "ManufacturingMenuPriority": 9,
+    "$comment": "This is a new file, no old version exists"
+}

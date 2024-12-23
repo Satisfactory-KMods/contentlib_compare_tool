@@ -1,0 +1,26 @@
+//SatisfactoryPlus/Content/Recipes/Crusher/Recipe_Crusher_CrushedAurovite.Recipe_Crusher_CrushedAurovite_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Crushed Aurovite",
+  "Category": "Cat_KLib_Prod_Crushing_Ores_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_OreGold",
+      "Amount": 8
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_CrushedAurovite",
+      "Amount": 8
+    },
+    {
+      "Item": "Desc_Gangue",
+      "Amount": 3
+    }
+  ],
+  "ProducedIn": [ "Build_Crusher" ],
+  "ManufacturingDuration": 8,
+  "ManufacturingMenuPriority": 4
+}

@@ -1,0 +1,18 @@
+{
+    "Category": "StandardParts_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_CopperIngot",
+            "Amount": 2
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_CopperRod",
+            "Amount": 3
+        }
+    ],
+    "ManufacturingDuration": 10,
+    "ManufacturingMenuPriority": 5,
+    "$comment": "This is a new file, no old version exists"
+}

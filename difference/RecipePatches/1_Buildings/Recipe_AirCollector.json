@@ -1,0 +1,26 @@
+{
+    "Ingredients": [
+        {
+            "Item": "Desc_Rotor",
+            "Amount": 10
+        },
+        {
+            "Item": "Desc_ModularFrame",
+            "Amount": 15
+        },
+        {
+            "Item": "Desc_TinPlates",
+            "Amount": 25
+        },
+        {
+            "Item": "Desc_BrassPipe",
+            "Amount": 20
+        },
+        {
+            "Item": "Desc_Cable",
+            "Amount": 10
+        }
+    ],
+    "ManufacturingMenuPriority": 3,
+    "$comment": "This is a new file, no old version exists"
+}

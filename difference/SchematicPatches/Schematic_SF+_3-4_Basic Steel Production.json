@@ -1,0 +1,37 @@
+{
+    "Name": "Basic Steel Production",
+    "MenuPriority": 4,
+    "ClearCost": true,
+    "Cost": [
+        {
+            "Item": "Desc_ModularFrame",
+            "Amount": 20
+        },
+        {
+            "Item": "Desc_BrassPlates",
+            "Amount": 50
+        },
+        {
+            "Item": "Desc_BrassPipe",
+            "Amount": 50
+        },
+        {
+            "Item": "Desc_Cement",
+            "Amount": 250
+        }
+    ],
+    "ClearRecipes": true,
+    "Recipes": [
+        "Recipe_AirCollector_C",
+        "Recipe_Crusher_CarbonDust",
+        "Recipe_BlastFurnace_Steel_C",
+        "Recipe_Reformer_SteelIngot",
+        "Recipe_Foundry_SteelBeam_C",
+        "Recipe_Foundry_SteelPipe_C",
+        "Recipe_Reformer_SteelRod_C",
+        "Recipe_ConstructorSteelBolt_C",
+        "Recipe_Assembler_Stator_C"
+    ],
+    "Time": 360,
+    "$comment": "This is a new file, no old version exists"
+}

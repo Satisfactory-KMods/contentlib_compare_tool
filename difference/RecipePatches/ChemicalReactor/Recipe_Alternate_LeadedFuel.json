@@ -1,0 +1,26 @@
+{
+    "Name": "Alternate: Leaded Fuel",
+    "OverrideC": "SolidOilProducts_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_HeavyOilResidue",
+            "Amount": 5000
+        },
+        {
+            "Item": "Desc_CrushedLead",
+            "Amount": 3
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_LiquidFuel",
+            "Amount": 12000
+        }
+    ],
+    "ManufacturingDuration": 12,
+    "ManufacturingMenuPriority": 1,
+    "ProducedIn": [
+        "Build_OilRefinery"
+    ],
+    "$comment": "This is a new file, no old version exists"
+}

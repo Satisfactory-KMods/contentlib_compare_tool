@@ -1,0 +1,34 @@
+{
+    "Name": "Molten Magnitar™",
+    "OverrideCategory": "Cat_KLib_Alloys_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_LiquidNickle_C",
+            "Amount": 3000
+        },
+        {
+            "Item": "Desc_CrushedCobalt",
+            "Amount": 2
+        },
+        {
+            "Item": "Desc_LiquidIron_C",
+            "Amount": 5000
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_LiquidInvar",
+            "Amount": 6000
+        },
+        {
+            "Item": "Desc_LiquidSlag",
+            "Amount": 4000
+        }
+    ],
+    "ProducedIn": [
+        "Build_FlexibleBlastFurnaceSmelter"
+    ],
+    "ManufacturingDuration": 6,
+    "ManufacturingMenuPriority": 4,
+    "$comment": "This is a new file, no old version exists"
+}

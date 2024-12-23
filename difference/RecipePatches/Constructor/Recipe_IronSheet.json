@@ -1,0 +1,22 @@
+{
+    "Name": "Iron Sheet",
+    "Category": "StandardParts_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_IronPlate",
+            "Amount": 4
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_IronSheet",
+            "Amount": 5
+        }
+    ],
+    "ProducedIn": [
+        "Build_ConstructorMk1"
+    ],
+    "ManufacturingDuration": 6,
+    "ManufacturingMenuPriority": 4,
+    "$comment": "This is a new file, no old version exists"
+}

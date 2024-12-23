@@ -1,0 +1,17 @@
+{
+    "$comment": "This file has been changed",
+    "new": {
+        "Description": "Melting Point: 328°C\n\nLead in liquid form, useful for bulk casting ingots or other parts.",
+        "VisualKit": "Kit_MoltenLead"
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "Description": "Melting Point: 328°C\n\nLead in liquid form, useful for bulk casting ingots or other parts.\nMelting it in a Flexible Blast Furnace is energy inefficient."
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "Name": "Molten Lead",
+        "Description": "Melting Point: 328°C\n\nLead in liquid form, useful for bulk casting ingots or other parts.",
+        "VisualKit": "Kit_MoltenLead"
+    }
+}

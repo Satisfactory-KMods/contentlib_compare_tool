@@ -1,0 +1,21 @@
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Lead Sheet",
+  "OverrideCategory": "StandardParts_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_LeadIngot",
+      "Amount": 2
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_LeadSheet",
+      "Amount": 3
+    }
+  ],
+  "ProducedIn": [ "Build_ConstructorMk1" ],
+  "ManufacturingDuration": 5,
+  "ManufacturingMenuPriority": 22
+}

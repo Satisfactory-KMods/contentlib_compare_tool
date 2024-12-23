@@ -1,27 +1,26 @@
-//SatisfactoryPlus/Content/Recipes/Assamble/Recipe_Assamble_EncasedBeam.Recipe_Assamble_EncasedBeam_C
 {
-  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
-  "Name": "Encased Industrial Beam",
-  "Category": "IndustrialParts_C",
-  "Ingredients": [
-    {
-      "Item": "Desc_SteelPlate",
-      "Amount": 6
-    },
-    {
-      "Item": "Desc_Cement",
-      "Amount": 20
-    }
-
-  ],
-  "Products": [
-    {
-      "Item": "Desc_SteelPlateReinforced",
-      "Amount": 2
-    }
-
-  ],
-  "ProducedIn": [ "Build_AssemblerMk1" ],
-  "ManufacturingDuration": 20,
-  "ManufacturingMenuPriority": 5
+    "Name": "Encased Industrial Beam",
+    "Category": "IndustrialParts_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_SteelPlate",
+            "Amount": 6
+        },
+        {
+            "Item": "Desc_Cement",
+            "Amount": 20
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_SteelPlateReinforced",
+            "Amount": 2
+        }
+    ],
+    "ProducedIn": [
+        "Build_AssemblerMk1"
+    ],
+    "ManufacturingDuration": 20,
+    "ManufacturingMenuPriority": 5,
+    "$comment": "This file has been removed, no new version exists"
 }

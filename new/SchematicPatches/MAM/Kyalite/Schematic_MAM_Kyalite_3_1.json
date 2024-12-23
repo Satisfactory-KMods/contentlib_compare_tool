@@ -4,8 +4,10 @@
   "ClearCost": true,
   "Cost": [
     {
-      "Item": "Res_Cryolit",
+      "Item": "Desc_RawQuartz",
       "Amount": 250
     }
-  ]
+  ],
+  "ClearRecipes": true,
+  "Recipes": [ "Recipe_Sorter_T1_QuartzCrystal_C", "Recipe_Sorter_T2_Salt_C" ]
 }

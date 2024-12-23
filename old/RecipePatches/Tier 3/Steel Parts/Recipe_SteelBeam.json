@@ -1,27 +1,26 @@
-//SatisfactoryPlus/Content/Recipes/Constructor/Recipe_Constructor_SteelBeam.Recipe_Constructor_SteelBeam_C
 {
-  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
-  "Name": "Steel Beam",
-  "category": "IndustrialParts_C",
-  "Ingredients": [
-    {
-      "Item": "Desc_SteelIngot",
-      "Amount": 24
-    },
-    {
-      "Item": "Desc_ZincIngot",
-      "Amount": 8
-    }
-
-  ],
-  "Products": [
-    {
-      "Item": "Desc_SteelPlate",
-      "Amount": 9
-    }
-
-  ],
-  "ProducedIn": [ "Build_FoundryMk1" ],
-  "ManufacturingDuration": 24,
-  "ManufacturingMenuPriority": 1
+    "Name": "Steel Beam",
+    "category": "IndustrialParts_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_SteelIngot",
+            "Amount": 24
+        },
+        {
+            "Item": "Desc_ZincIngot",
+            "Amount": 8
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_SteelPlate",
+            "Amount": 9
+        }
+    ],
+    "ProducedIn": [
+        "Build_FoundryMk1"
+    ],
+    "ManufacturingDuration": 24,
+    "ManufacturingMenuPriority": 1,
+    "$comment": "This file has been removed, no new version exists"
 }

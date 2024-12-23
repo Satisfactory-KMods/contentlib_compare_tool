@@ -1,21 +1,19 @@
-//SatisfactoryPlus/Content/Recipes/Smelter/Recipe_Smelter_Sorted_CopperIngots.Recipe_Smelter_Sorted_CopperIngots_C
 {
-  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
-  "Name": "Copper Ingot",
-  "Category": "Ingots_C",
-  "Ingredients": [
-    {
-      "Item": "Desc_CrushedCopper",
-      "Amount": 4
-    }
-
-  ],
-  "Products": [
-    {
-      "Item": "Desc_CopperIngot",
-      "Amount": 4
-    }
-  ],
-  "ManufacturingDuration": 5,
-  "ManufacturingMenuPriority": 2
+    "Name": "Copper Ingot",
+    "Category": "Ingots_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_CrushedCopper",
+            "Amount": 4
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_CopperIngot",
+            "Amount": 4
+        }
+    ],
+    "ManufacturingDuration": 5,
+    "ManufacturingMenuPriority": 2,
+    "$comment": "This file has been removed, no new version exists"
 }

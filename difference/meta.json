@@ -1,126 +1,1482 @@
 [
     {
-        "file": "old\\SchematicPatches\\Schematic_SF+_5-0.json",
+        "file": "old\\SchematicPatches\\Schematic_SF+_8-2_Nuclear_Power.json",
         "action": "remove"
     },
     {
-        "file": "old\\SchematicPatches\\Schematic_SF+_5-0-1.json",
+        "file": "old\\SchematicPatches\\Schematic_SF+_6-8_Pipeline Engineering Mk3.json",
         "action": "remove"
     },
     {
-        "file": "old\\ItemPatches\\Desc_InvarPipe.json",
+        "file": "old\\SchematicPatches\\Schematic_SF+_6-7_Assembly Project Part 3 (Deprecated).json",
         "action": "remove"
     },
     {
-        "file": "old\\ItemPatches\\Desc_InvarBillet.json",
+        "file": "old\\SchematicPatches\\Schematic_SF+_6-5_High Voltage Energy Production.json",
         "action": "remove"
     },
     {
-        "file": "old\\ItemPatches\\Desc_InvarBar.json",
+        "file": "old\\SchematicPatches\\Schematic_SF+_6-4_Industrial Alloy Production.json",
         "action": "remove"
     },
     {
-        "file": "old\\Recipes\\Tier 5\\Recipe_PureParaffin.json",
+        "file": "old\\SchematicPatches\\Schematic_SF+_6-3_Industrial Washing.json",
         "action": "remove"
     },
     {
-        "file": "old\\Recipes\\Tier 5\\Recipe_DilutedBitumen.json",
+        "file": "old\\SchematicPatches\\Schematic_SF+_6-3-0_Industrial Washing Extra.json",
         "action": "remove"
     },
     {
-        "file": "old\\RecipePatches\\Tier 8\\Recipe_Sorter_T3_Stritarit.json",
+        "file": "old\\SchematicPatches\\Schematic_SF+_6-2_Industrial Sorting.json",
         "action": "remove"
     },
     {
-        "file": "old\\RecipePatches\\Tier 7\\Recipe_Sorter_T1_CrushedCobalt.json",
+        "file": "old\\SchematicPatches\\Schematic_SF+_6-2-0_Industrial Sorting_Extra.json",
         "action": "remove"
     },
     {
-        "file": "old\\RecipePatches\\Tier 4\\Recipe_SolarCell.json",
+        "file": "old\\SchematicPatches\\Schematic_SF+_6-1_Magneatal Magnet Production.json",
         "action": "remove"
     },
     {
-        "file": "old\\ItemPatches\\Molten Metals\\Desc_Molten_Invar.json",
+        "file": "old\\SchematicPatches\\Schematic_SF+_5-7_Monorail Train Technology.json",
         "action": "remove"
     },
     {
-        "file": "old\\CDOs\\Filtrator Recipes\\Recipe_Hydrofiner_PowerShardCrystal.json",
+        "file": "old\\SchematicPatches\\Schematic_SF+_5-6_Basic Lead Production.json",
         "action": "remove"
     },
     {
-        "file": "old\\RecipePatches\\Tier 5\\Advanced Products\\Recipe_BeltDriveMk3.json",
+        "file": "old\\SchematicPatches\\Schematic_SF+_5-5_Mk4_Logistics.json",
         "action": "remove"
     },
     {
-        "file": "old\\RecipePatches\\Tier 3\\Advanced Parts\\Recipe_DrumDriveMk2.json",
+        "file": "old\\SchematicPatches\\Schematic_SF+_5-4_Alternative Fluid Transport.json",
         "action": "remove"
     },
     {
-        "file": "old\\RecipePatches\\Tier 1\\Advanced Parts\\Recipe_DrumDriveMk1.json",
+        "file": "old\\SchematicPatches\\Schematic_SF+_5-3_Industrial Manufacturing.json",
         "action": "remove"
+    },
+    {
+        "file": "old\\SchematicPatches\\Schematic_SF+_5-2_Trucks (Deprecated).json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\SchematicPatches\\Schematic_SF+_5-0-1_Oil Processing Extra.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\SchematicPatches\\Schematic_SF+_4-9_Pipeline Engineering Mk2 (Deprecated).json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\SchematicPatches\\Schematic_SF+_4-8_Mk3 Blueprints.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\SchematicPatches\\Schematic_SF+_4-7_Hover Pack.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\SchematicPatches\\Schematic_SF+_4-6_Advanced Power Infrastructure.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\SchematicPatches\\Schematic_SF+_4-5_Assembly Project Part 2 (Deprecated).json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\SchematicPatches\\Schematic_SF+_3-9_Vehicular_Transport (Deprecated).json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\SchematicPatches\\Schematic_SF+_3-8_Hydroelectric Power.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\SchematicPatches\\Schematic_SF+_3-7_Mk3_Logistics.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\SchematicPatches\\Schematic_SF+_3-3_Basic Steel Production.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\SchematicPatches\\Schematic_SF+_3-2_Basic Brass Production.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\SchematicPatches\\Schematic_SF+_3-1_Basic Ore Washing.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\SchematicPatches\\Schematic_SF+_2-8_Advanced Biomass Energy.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\SchematicPatches\\Schematic_SF+_2-7_Jump Pads (Deprecated).json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\SchematicPatches\\Schematic_SF+_2-5_Project Assembly Platform.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\SchematicPatches\\Schematic_SF+_2-4_ModularMiner Smelting Module.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\SchematicPatches\\Schematic_SF+_2-3_AWESOME Programme.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\SchematicPatches\\Schematic_SF+_2-2_Advanced Sorting.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\SchematicPatches\\Schematic_SF+_2-2-0_Advanced Sorting_Extra.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\SchematicPatches\\Schematic_SF+_2-1_Advanced Parts (Deprecated).json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\SchematicPatches\\Schematic_SF+_2-0_Basic_Bronze_Production.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\SchematicPatches\\Schematic_SF+_1-7_Windows.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\SchematicPatches\\Schematic_SF+_1-6_Part Assembly.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\SchematicPatches\\Schematic_SF+_1-4_Field Research (Deprecated).json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\SchematicPatches\\Schematic_SF+_1-3_Base Building.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\SchematicPatches\\Schematic_SF+_1-0_Mk2_Logistics.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\SchematicPatches\\Schematic_SF+_0-1_5.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\ItemPatches\\Desc_MagneatalCore.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\ItemPatches\\Desc_MagneatalBillet.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\ItemPatches\\Desc_MagneatalBar.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\CDOs\\TurbineMk1.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\CDOs\\Reformer.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\CDOs\\OreWasher.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\CDOs\\FlexibleBlastFurnace.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\CDOs\\Filtrator.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\CDOs\\ChemReactor.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\CDOs\\ABFLuidPackager.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\Schematics\\Alternates\\Schematic_Alternate_RedBrassIngots.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\Schematics\\Alternates\\Schematic_Alternate_HeavyOilResidue.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\Schematics\\Alternates\\Schematic_Alternate_DirectSteel.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\Schematics\\Alternates\\Schematic_Alternate_CastTinPlate.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\Recipes\\Tier 7\\Recipe_CryoliteResidueT3.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\Recipes\\Tier 7\\Recipe_Coolant.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\Recipes\\Tier 6\\Recipe_SortedNickelT3.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\Recipes\\Tier 6\\Recipe_SortedCobaltT1.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\Recipes\\Tier 6\\Recipe_FusedQuartzCrystal.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\Recipes\\Tier 5\\Recipe_ResidualHydrogen.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\Recipes\\Tier 5\\Recipe_PureEthylene.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\Recipes\\Tier 5\\Recipe_PureCoolant.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\Recipes\\Tier 5\\Recipe_LightEthyleneGas.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\Recipes\\Tier 5\\Recipe_HeavyEthyleneGas.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\Recipes\\Tier 5\\Recipe_BurntLime.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\Recipes\\Tier 2\\Recipe_ThermalSilica.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\Recipes\\MAM\\Recipe_Condensed_SlugSlime.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\Recipes\\MAM\\Recipe_CateriumHeatsink.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Unresolved Recipes\\Recipe_LeadIngot.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Unresolved Recipes\\Recipe_Alternate_CastScrew.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Unresolved Recipes\\Desc_LeadSheet.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Unresolved Recipes\\Desc_LeadPlate.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Unresolved Recipes\\Desc_CopperPipe.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 7\\Recipe_Sorter_T3_CrushedBauxite.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 8\\Recipe_Washing_Rutile.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 8\\Recipe_Titaniumtetrachlorid.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 8\\Recipe_TiHy_Solution.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 8\\Recipe_SinteredTitanium.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 8\\Recipe_CrushedRutileT3.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 6\\Recipe_ToxicAirSplitting.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 6\\Recipe_SulfuricAcid.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 6\\Recipe_SulfiteGas.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 4\\Recipe_Sorter_T2_Salt.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 4\\Recipe_Sorter_T1_QuartzCrystal.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 4\\Recipe_HighPressureDiamond.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 4\\Recipe_EncasedBeam.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 4\\Recipe_Crusher_KyaliteSilica.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 5\\Recipe_SyngasHydrogen.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 5\\Recipe_SweetFuel.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 5\\Recipe_DistilledFuel.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 3\\Recipe_CarbonPowder.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 3\\Recipe_BrassPlate.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 3\\Recipe_BrassPipe.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 2\\Recipe_ZincPlates.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 2\\Recipe_ZincIngot.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 2\\Recipe_SortedZincT1.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 2\\Recipe_SortedCopperT1.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 2\\Recipe_SortedCateriumT1.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 2\\Recipe_SolarCell.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 2\\Recipe_SlagConcrete.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 2\\Recipe_MagnesiumGranules.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 0\\Recipe_Handcrushed_Siterite.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 0\\Recipe_Handcrushed_Concrete.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 0\\Recipe_Handcrushed_Caterium.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 0\\Recipe_Handcrushed_Callanite.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 0\\Recipe_Hancrushed_Gangue.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 0\\Recipe_CrushedSiterite.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 0\\Recipe_CrushedLarrussite.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 0\\Recipe_CrushedCallanite.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 0\\Recipe_Concrete.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 1\\Recipe_TinIngot.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 1\\Recipe_SortedIronT1.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 1\\Recipe_IronIngot.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 1\\Recipe_CopperIngot.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\MAM\\Recipe_SnailFood_T1.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\MAM\\Recipe_SlugSlime_Blue.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\MAM\\Recipe_SimplePowerShard.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\MAM\\Recipe_BlueSlugEgg_Manual.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Equipment\\Recipe_Zipline.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Equipment\\Recipe_XenoBasher.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Equipment\\Recipe_HoverPack.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Equipment\\Recipe_BladeRunners.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Alternate\\Recipe_StitchedIronPlate.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Alternate\\Recipe_RolledTinSheet.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Alternate\\Recipe_RolledBronzePipe.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Alternate\\Recipe_CompactBiomass.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Recipe_WindTurbineMk3.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Recipe_WindTurbineMk2.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Recipe_WetWasher.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Recipe_Weaver.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Recipe_WaterExtractor.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Recipe_TurbineMk2.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Recipe_TurbineMk1.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Recipe_StorageSinkMk2.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Recipe_StorageSinkMk1.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Recipe_StorageContainerMk2.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Recipe_SteamStack.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Recipe_SpaceElevator.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Recipe_Sorter.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Recipe_SolidCoalHeater.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Recipe_SolarPanelMk1.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Recipe_ResourceSink.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Recipe_Reformer.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Recipe_Refinery.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Recipe_PowerTowerPlatform.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Recipe_PowerTower.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Recipe_PowerStorage.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Recipe_PowerPoleMk2.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Recipe_OilPump.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Recipe_MVGenerator.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Recipe_ModularMiner_SmelterModule.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Recipe_ModularMiner_HalfBoosterModule.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Recipe_Manufacturer.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Recipe_HVGenerator.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Recipe_GeothermalGenerator.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Recipe_Foundry.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Recipe_FlueGasStack.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Recipe_Filtrator.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Recipe_Crusher.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Recipe_Constructor.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Recipe_ChemReactor.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Recipe_BoilerMk2.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Recipe_BoilerMk1.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Recipe_BlueprintdesignerMk3.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Recipe_BlueprintdesignerMk2.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Recipe_BlueprintdesignerMk1.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Recipe_BlastFurnace.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Recipe_BiomassHeater.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Recipe_AwesomeShop.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Recipe_AutomatedBiomassGen.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Recipe_Assembler.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Recipe_AlgalMassExtractor.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Recipe_AirCollector.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\ItemPatches\\Molten Metals\\Desc_Molten_Magneatal.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\ItemPatches\\Molten Metals\\Desc_Molten_Cobalt_X.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\Recipes\\MAM\\Alternate\\Recipe_TurboThermoplastic.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\Recipes\\MAM\\Alternate\\Recipe_RedBrassIngots.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\Recipes\\MAM\\Alternate\\Recipe_DistilledOilResidue.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\Recipes\\MAM\\Alternate\\Recipe_DirectSteel.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\Recipes\\MAM\\Alternate\\Recipe_DilutedBitumen.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\Recipes\\MAM\\Alternate\\Recipe_CastTinPlate.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 7\\Advanced Products\\Recipe_Radiator.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 7\\Advanced Products\\Recipe_AdaptiveControlUnit.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 6\\Advanced Products\\Recipe_PowerManagementRelay.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 6\\Advanced Products\\Recipe_ModularEngine.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 6\\Advanced Products\\Recipe_ElectromagneticControlRod.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 6\\Advanced Metals\\Recipe_Washed Zinc.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 6\\Advanced Metals\\Recipe_Washed Nickel.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 6\\Advanced Metals\\Recipe_Washed Magnesium.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 6\\Advanced Metals\\Recipe_Washed Lead.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 6\\Advanced Metals\\Recipe_Washed Cobalt.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 6\\Advanced Metals\\Recipe_Washed Caterium.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 6\\Advanced Metals\\Recipe_SortedTinT2.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 6\\Advanced Metals\\Recipe_SortedSilicaT2.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 6\\Advanced Metals\\Recipe_SortedMagnesiumT2.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 6\\Advanced Metals\\Recipe_SortedCopperT2.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 6\\Advanced Metals\\Recipe_MoltenZinc.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 6\\Advanced Metals\\Recipe_MoltenNickel.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 6\\Advanced Metals\\Recipe_MoltenMagneatar.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 6\\Advanced Metals\\Recipe_MoltenCobalt.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 6\\Advanced Metals\\Recipe_MagneticCore.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 6\\Advanced Metals\\Recipe_Cast_MagneatarBillet.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 6\\Advanced Metals\\Recipe_BarMagnet.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 4\\Advanced Products\\Recipe_VersatileFramework.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 4\\Advanced Products\\Recipe_Motor.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 4\\Advanced Products\\Recipe_ModularFrameHeavy.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 5\\Standard Parts\\Recipe_SortedLeadT3.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 5\\Standard Parts\\Recipe_Molten_Solder.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 5\\Standard Parts\\Recipe_Molten_Lead.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 5\\Standard Parts\\Recipe_Molten_Caterium.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 5\\Standard Parts\\Recipe_LeadIngot.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 5\\Standard Parts\\Recipe_CastSolder.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 5\\Standard Parts\\Recipe_CastIngot_Lead.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 5\\Standard Parts\\Recipe_CastIngot_Caterium.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 5\\Standard Parts\\Desc_LeadSheet.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 5\\Standard Parts\\Desc_LeadPlate.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 5\\Basic Oil\\Recipe_ResidualRubber.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 5\\Basic Oil\\Recipe_ResidualPlastic.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 5\\Basic Oil\\Recipe_ResidualFuel.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 5\\Basic Oil\\Recipe_PurifiedCrudeOil.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 5\\Basic Oil\\Recipe_Polyethylenes.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 5\\Basic Oil\\Recipe_PetroleumCoke.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 5\\Basic Oil\\Recipe_DistilledNaturalGas.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 5\\Advanced Products\\Recipe_Computer.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 5\\Advanced Products\\Recipe_CircuitBoard.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 5\\Advanced Products\\Recipe_BeltDriveMk4.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 3\\Steel Parts\\Recipe_SteelRod.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 3\\Steel Parts\\Recipe_SteelPipe.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 3\\Steel Parts\\Recipe_SteelBolt.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 3\\Steel Parts\\Recipe_SteelBeam.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 3\\Ingots and Metals\\Recipe_Washed Tin.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 3\\Ingots and Metals\\Recipe_Washed Iron.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 3\\Ingots and Metals\\Recipe_Washed Copper.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 3\\Ingots and Metals\\Recipe_Molten_Tin_3.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 3\\Ingots and Metals\\Recipe_Molten_Steel_8.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 3\\Ingots and Metals\\Recipe_Molten_Iron_1.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 3\\Ingots and Metals\\Recipe_Molten_Copper_2.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 3\\Ingots and Metals\\Recipe_Molten_Brass_3.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 3\\Ingots and Metals\\Recipe_CastIngot_Tin_3.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 3\\Ingots and Metals\\Recipe_CastIngot_Steel_8.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 3\\Ingots and Metals\\Recipe_CastIngot_Iron_1.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 3\\Ingots and Metals\\Recipe_CastIngot_Copper_2.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 3\\Ingots and Metals\\Recipe_CastIngot_Brass_6.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 3\\Advanced Parts\\Recipe_Stator_Vanilla.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 3\\Advanced Parts\\Recipe_Stator.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 3\\Advanced Parts\\Recipe_FanBlade.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 3\\Advanced Parts\\Recipe_BeltDriveMk3.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 3\\Advanced Parts\\Recipe_AutomatedWiring.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 2\\Bronze\\Recipe_BronzePlate.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 2\\Bronze\\Recipe_BronzePipe.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 2\\Bronze\\Recipe_BronzeIngot.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 2\\Bronze\\Recipe_BronzeFrame.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 2\\Bronze\\Recipe_BronzeBeam.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 2\\Advanced Parts\\Recipe_ModularFrame.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 2\\Advanced Parts\\Recipe_Elevator_1_SmartPlating.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 0\\4_Caterium\\Recipe_ImpureCateriumIngot.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 0\\3_Tin\\Recipe_TinSheet.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 0\\3_Tin\\Recipe_TinRod.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 0\\3_Tin\\Recipe_Tinplate.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 0\\3_Tin\\Recipe_TinnedWire.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 0\\3_Tin\\Recipe_ImpureTinIngot.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 0\\2_Copper\\Recipe_Wire.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 0\\2_Copper\\Recipe_ImpureCopperIngot.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 0\\2_Copper\\Recipe_CopperSheet.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 0\\2_Copper\\Recipe_CopperRod.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 0\\2_Copper\\Recipe_Cable.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 0\\2_Copper\\Recipe_Busbar.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 0\\1_Iron\\Recipe_IronWire.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 0\\1_Iron\\Recipe_IronSheet.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 0\\1_Iron\\Recipe_IronScrew.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 0\\1_Iron\\Recipe_IronRod.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 0\\1_Iron\\Recipe_IronPlate.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 0\\1_Iron\\Recipe_ImpureIronIngot.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 1\\Caterium\\Recipe_Quickwire.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 1\\Caterium\\Recipe_CrushedAurovite.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 1\\Caterium\\Recipe_CateriumSheet.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 1\\Caterium\\Recipe_CateriumRod.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 1\\Caterium\\Recipe_CateriumPlate.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 1\\Caterium\\Recipe_CateriumIngot.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 1\\Caterium\\Recipe_AILimiter.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 1\\Advanced Parts\\Recipe_Rotor.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 1\\Advanced Parts\\Recipe_ReinforcedIronPlate.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Tier 1\\Advanced Parts\\Recipe_BeltDriveMk2.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Slugs\\Recipe_SlugTerrarium.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Slugs\\Recipe_SlugIncubator.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Slugs\\Recipe_SlugHumidityModule.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Slugs\\Recipe_SlugHatchery.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Logistics\\Recipe_Valve.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Logistics\\Recipe_TruckStation.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Logistics\\Recipe_Truck.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Logistics\\Recipe_TrainStation.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Logistics\\Recipe_TrainPlatform.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Logistics\\Recipe_TrainFreightPlatform.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Logistics\\Recipe_TrainFluidPlatform.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Logistics\\Recipe_Tractor.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Logistics\\Recipe_Splitter.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Logistics\\Recipe_Railway.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Logistics\\Recipe_PipelinePumpMk2.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Logistics\\Recipe_PipelinePumpMk1.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Logistics\\Recipe_PipelineMk2_NoIndicator.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Logistics\\Recipe_PipelineMk2.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Logistics\\Recipe_PipelineMk1_NoIndicator.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Logistics\\Recipe_PipelineMk1.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Logistics\\Recipe_PipelineJunction.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Logistics\\Recipe_PathSignal.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Logistics\\Recipe_Merger.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Logistics\\Recipe_Locomotive.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Logistics\\Recipe_FreightCar.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Logistics\\Recipe_ConveyorPole.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Logistics\\Recipe_ConveyorLiftMk4.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Logistics\\Recipe_ConveyorLiftMk3.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Logistics\\Recipe_ConveyorLiftMk2.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Logistics\\Recipe_ConveyorBeltMk4.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Logistics\\Recipe_ConveyorBeltMk3.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Logistics\\Recipe_ConveyorBeltMk2.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Logistics\\Recipe_BlockSignal.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Farming\\Recipe_SeedExtractor.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Farming\\Recipe_Composter.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Factory Buildings\\Recipe_Wall_Orange_8x1.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Factory Buildings\\Recipe_Wall_8x4_02.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Factory Buildings\\Recipe_Wall_8x4_01.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Factory Buildings\\Recipe_Ramp_8x4.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Factory Buildings\\Recipe_Ramp_8x2.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Factory Buildings\\Recipe_Ramp_8x1.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Factory Buildings\\Recipe_Material_Wall_Concrete.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Factory Buildings\\Recipe_Material_Foundation_Concrete.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Factory Buildings\\Recipe_Foundation_8x4.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Factory Buildings\\Recipe_Foundation_8x2.json",
+        "action": "remove"
+    },
+    {
+        "file": "old\\RecipePatches\\Buildings\\Factory Buildings\\Recipe_Foundation_8x1.json",
+        "action": "remove"
+    },
+    {
+        "file": "new\\VisualKits\\Kit_TiHy.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\VisualKits\\Kit_TiCl.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\VisualKits\\Kit_Tailings.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\VisualKits\\Kit_Steam.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\VisualKits\\Kit_SlugSlimeSpent.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\VisualKits\\Kit_SlugSlimeMineral.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\VisualKits\\Kit_SlugSlimeHigh.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\VisualKits\\Kit_SlugSlime.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\VisualKits\\Kit_PowerFragment.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\VisualKits\\Kit_NLOCrystal.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\VisualKits\\Kit_Neutronium.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\VisualKits\\Kit_NaturalGas.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\VisualKits\\Kit_Naphtha.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\VisualKits\\Kit_MoltenZinc.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\VisualKits\\Kit_MoltenTin.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\VisualKits\\Kit_MoltenSteel.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\VisualKits\\Kit_MoltenSolder.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\VisualKits\\Kit_MoltenNickel.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\VisualKits\\Kit_MoltenMagnitar.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\VisualKits\\Kit_MoltenLead.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\VisualKits\\Kit_MoltenIron.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\VisualKits\\Kit_MoltenCopper.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\VisualKits\\Kit_MoltenCobalt.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\VisualKits\\Kit_MoltenCaterium.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\VisualKits\\Kit_MoltenBrass.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\VisualKits\\Kit_MoltenAluminum.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\VisualKits\\Kit_Hydrogen.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\VisualKits\\Kit_Ethylene.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\VisualKits\\Kit_CryoResidue.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\VisualKits\\Kit_Coolant.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\VisualKits\\Kit_CO2.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\VisualKits\\Kit_Chlorine.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\VisualKits\\Kit_ChemReactor.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\VisualKits\\Kit_CateriumSheet.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\VisualKits\\Kit_BoosterMatrix.json",
+        "action": "add"
     },
     {
         "file": "new\\VisualKits\\Kit_Air.json",
         "action": "change"
     },
     {
-        "file": "new\\SchematicPatches\\Schematic_SF+_6-8_Pipeline Engineering Mk3.json",
+        "file": "new\\Schematics\\Schematic_Alternate_PetCokeDust.json",
         "action": "add"
     },
     {
-        "file": "new\\SchematicPatches\\Schematic_SF+_6-7_Assembly Project Part 3 (Deprecated).json",
-        "action": "add"
-    },
-    {
-        "file": "new\\SchematicPatches\\Schematic_SF+_6-5_High Voltage Energy Production.json",
-        "action": "add"
-    },
-    {
-        "file": "new\\SchematicPatches\\Schematic_SF+_6-4_Industrial Alloy Production.json",
-        "action": "add"
-    },
-    {
-        "file": "new\\SchematicPatches\\Schematic_SF+_6-3_Industrial Washing.json",
-        "action": "add"
-    },
-    {
-        "file": "new\\SchematicPatches\\Schematic_SF+_6-3-0_Industrial Washing Extra.json",
-        "action": "add"
-    },
-    {
-        "file": "new\\SchematicPatches\\Schematic_SF+_6-2_Industrial Sorting.json",
-        "action": "add"
-    },
-    {
-        "file": "new\\SchematicPatches\\Schematic_SF+_6-2-0_Industrial Sorting_Extra.json",
-        "action": "add"
-    },
-    {
-        "file": "new\\SchematicPatches\\Schematic_SF+_6-1_Magneatal Magnet Production.json",
-        "action": "add"
-    },
-    {
-        "file": "new\\SchematicPatches\\Schematic_SF+_5-7_Monorail Train Technology.json",
-        "action": "add"
-    },
-    {
-        "file": "new\\SchematicPatches\\Schematic_SF+_5-6_Basic Lead Production.json",
-        "action": "add"
-    },
-    {
-        "file": "new\\SchematicPatches\\Schematic_SF+_5-5_Mk4_Logistics.json",
-        "action": "add"
-    },
-    {
-        "file": "new\\SchematicPatches\\Schematic_SF+_5-4_Alternative Fluid Transport.json",
-        "action": "add"
-    },
-    {
-        "file": "new\\SchematicPatches\\Schematic_SF+_5-3_Industrial Manufacturing.json",
-        "action": "add"
-    },
-    {
-        "file": "new\\SchematicPatches\\Schematic_SF+_5-2_Trucks (Deprecated).json",
+        "file": "new\\SchematicPatches\\Schematic_SF+_Gamestart_New.json",
         "action": "add"
     },
     {
@@ -129,466 +1485,1774 @@
     },
     {
         "file": "new\\SchematicPatches\\Schematic_SF+_5-0_Oil Processing.json",
-        "action": "add"
-    },
-    {
-        "file": "new\\SchematicPatches\\Schematic_SF+_5-0-1_Oil Processing Extra.json",
-        "action": "add"
-    },
-    {
-        "file": "new\\SchematicPatches\\Schematic_SF+_4-6_Advanced Power Infrastructure.json",
         "action": "change"
     },
     {
-        "file": "new\\SchematicPatches\\Schematic_SF+_2-2_Advanced Sorting.json",
+        "file": "new\\SchematicPatches\\Schematic_SF+_5-0-1_Oil Processing Extra (Hidden Unlock).json",
+        "action": "add"
+    },
+    {
+        "file": "new\\SchematicPatches\\Schematic_SF+_4-6_Mk3 Blueprints.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\SchematicPatches\\Schematic_SF+_4-5_Hover Pack.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\SchematicPatches\\Schematic_SF+_4-4_Advanced Power Infrastructure.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\SchematicPatches\\Schematic_SF+_4-3_Factory Infrastructure Mk2.json",
         "action": "change"
+    },
+    {
+        "file": "new\\SchematicPatches\\Schematic_SF+_4-2_Hypertubes.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\SchematicPatches\\Schematic_SF+_4-1_Advanced Manufacturing.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\SchematicPatches\\Schematic_SF+_4-0_Coal Power.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\SchematicPatches\\Schematic_SF+_3-6_Mk3_Logistics.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\SchematicPatches\\Schematic_SF+_3-5_Xeno-Basher.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\SchematicPatches\\Schematic_SF+_3-4_Basic Steel Production.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\SchematicPatches\\Schematic_SF+_3-3_Hydroelectric Power.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\SchematicPatches\\Schematic_SF+_3-2_Basic Ore Washing.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\SchematicPatches\\Schematic_SF+_3-1_Basic Brass Production.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\SchematicPatches\\Schematic_SF+_3-0_Advanced Melting and Casting.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\SchematicPatches\\Schematic_SF+_2-6_ModularMiner Smelting Module.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\SchematicPatches\\Schematic_SF+_2-5_AWESOME Programme.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\SchematicPatches\\Schematic_SF+_2-4_Project Assembly Platform.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\SchematicPatches\\Schematic_SF+_2-3_Advanced Sorting.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\SchematicPatches\\Schematic_SF+_2-2_Advanced Biomass Energy.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\SchematicPatches\\Schematic_SF+_2-1_Basic_Bronze_Production.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\SchematicPatches\\Schematic_SF+_1-5_Sorting.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\SchematicPatches\\Schematic_SF+_1-4_Mk2_Logistics.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\SchematicPatches\\Schematic_SF+_1-3_Part Assembly.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\SchematicPatches\\Schematic_SF+_1-2_Field Research.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\SchematicPatches\\Schematic_SF+_1-1_Base Building.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\SchematicPatches\\Schematic_SF+_1-0_Windows.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\SchematicPatches\\Schematic_SF+_0_Gamestart_New.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\SchematicPatches\\Schematic_SF+_0-6.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\SchematicPatches\\Schematic_SF+_0-5.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\SchematicPatches\\Schematic_SF+_0-4.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\SchematicPatches\\Schematic_SF+_0-3.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\SchematicPatches\\Schematic_SF+_0-2.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\Items\\Desc_Neutronium.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Items\\Desc_CryoliteResidue.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\CDOs\\Hatchery_IncubatorMk1.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\CDOs\\BoilerMk2.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\CDOs\\AlienPowerShard.json",
+        "action": "add"
     },
     {
         "file": "new\\ItemPatches\\Desc_TemperedFrame.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\ItemPatches\\Desc_SolderWire.json",
         "action": "add"
+    },
+    {
+        "file": "new\\ItemPatches\\Desc_SolarCell.json",
+        "action": "change"
     },
     {
         "file": "new\\ItemPatches\\Desc_Radiator.json",
-        "action": "add"
+        "action": "change"
     },
     {
         "file": "new\\ItemPatches\\Desc_PowerShardFragment.json",
-        "action": "add"
+        "action": "change"
     },
     {
         "file": "new\\ItemPatches\\Desc_PowerRelay.json",
-        "action": "add"
-    },
-    {
-        "file": "new\\ItemPatches\\Desc_PhotonPairConverter.json",
-        "action": "add"
-    },
-    {
-        "file": "new\\ItemPatches\\Desc_MagneatalCore.json",
-        "action": "add"
-    },
-    {
-        "file": "new\\ItemPatches\\Desc_MagneatalBillet.json",
-        "action": "add"
-    },
-    {
-        "file": "new\\ItemPatches\\Desc_MagneatalBar.json",
-        "action": "add"
-    },
-    {
-        "file": "new\\ItemPatches\\Desc_LeadFrame.json",
-        "action": "add"
-    },
-    {
-        "file": "new\\ItemPatches\\Desc_BeltDriveMk4.json",
         "action": "change"
     },
     {
-        "file": "new\\ItemPatches\\Desc_BeltDriveMk3.json",
-        "action": "change"
-    },
-    {
-        "file": "new\\ItemPatches\\Desc_BeltDriveMk2.json",
-        "action": "change"
-    },
-    {
-        "file": "new\\ItemPatches\\Desc_BeltDriveMk1.json",
-        "action": "change"
-    },
-    {
-        "file": "new\\Schematics\\Alternates\\Schematic_Alternate_HeavyOilResidue.json",
-        "action": "change"
-    },
-    {
-        "file": "new\\Recipes\\Tier 7\\Recipe_CryoliteResidueT3.json",
+        "file": "new\\ItemPatches\\Desc_MagnitarCore.json",
         "action": "add"
     },
     {
-        "file": "new\\Recipes\\Tier 7\\Recipe_Coolant.json",
+        "file": "new\\ItemPatches\\Desc_MagnitarBillet.json",
         "action": "add"
     },
     {
-        "file": "new\\Recipes\\Tier 5\\Recipe_PureEthylene.json",
+        "file": "new\\ItemPatches\\Desc_MagnitarBar.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\ItemPatches\\Desc_KerrCrystal.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\ItemPatches\\Desc_EPControlRod.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\ItemPatches\\Desc_Diamonds.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\ItemPatches\\Desc_CateriumSheet.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\ItemPatches\\Desc_AluminumCoil.json",
         "action": "change"
     },
     {
-        "file": "new\\Recipes\\Tier 5\\Recipe_PureCoolant.json",
+        "file": "new\\ItemPatches\\Desc_AlienBoosterMatrix.json",
         "action": "add"
     },
     {
-        "file": "new\\Recipes\\Tier 5\\Recipe_HeavyEthyleneGas.json",
+        "file": "new\\Schematics\\Progression\\Schematic_SF+_9-1_Matter Conversion.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Schematics\\Progression\\Schematic_SF+_8-2_Nuclear Power.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Schematics\\Progression\\Schematic_SF+_8-1_Titanium Refinement.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Schematics\\Progression\\Schematic_SF+_7-2_LeadingEdge Production.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Schematics\\Progression\\Schematic_SF+_7-1_Bauxite Refinement.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Schematics\\Progression\\Schematic_SF+_6-8_Pipeline Engineering Mk3.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Schematics\\Progression\\Schematic_SF+_6-6_High Voltage Energy Production.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Schematics\\Progression\\Schematic_SF+_6-5_Magnitar Magnet Production.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Schematics\\Progression\\Schematic_SF+_6-4_Industrial Alloy Production.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Schematics\\Progression\\Schematic_SF+_6-3_Industrial Washing.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Schematics\\Progression\\Schematic_SF+_6-2_Industrial Sorting.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Schematics\\Progression\\Schematic_SF+_5-7_Monorail Train Technology.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Schematics\\Progression\\Schematic_SF+_5-6_Basic Lead Production.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Schematics\\Progression\\Schematic_SF+_5-5_Mk4 Logistics.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Schematics\\Progression\\Schematic_SF+_5-4_Alternative Fluid Transport.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Schematics\\Progression\\Schematic_SF+_5-3_Industrial Manufacturing.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Recipes\\WetWasher\\Recipe_Washed_Zinc.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Recipes\\WetWasher\\Recipe_Washed_Rutile.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Recipes\\WetWasher\\Recipe_Washed_Nickel.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Recipes\\WetWasher\\Recipe_Washed_Magnes.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Recipes\\WetWasher\\Recipe_Washed_Lead.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Recipes\\WetWasher\\Recipe_Washed_Cobalt.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Recipes\\WetWasher\\Recipe_Washed_Caterium.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Recipes\\Tier 8\\Recipe_OneHour.json",
         "action": "change"
     },
     {
-        "file": "new\\Recipes\\Tier 2\\Recipe_ThermalSilica.json",
-        "action": "change"
-    },
-    {
-        "file": "new\\Recipes\\Tier 6\\Recipe_SortedNickelT3.json",
+        "file": "new\\Recipes\\Smelter\\Recipe_LeadIngot.json",
         "action": "add"
     },
     {
-        "file": "new\\Recipes\\Tier 6\\Recipe_SortedCobaltT1.json",
+        "file": "new\\Recipes\\Sorter\\Recipe_Sorter_T3_CryoliteResidue.json",
         "action": "add"
     },
     {
-        "file": "new\\Recipes\\Tier 6\\Recipe_FusedQuartzCrystal.json",
+        "file": "new\\Recipes\\Sorter\\Recipe_Sorter_T3_CrushedRutile.json",
         "action": "add"
     },
     {
-        "file": "new\\Recipes\\MAM\\Recipe_Condensed_SlugSlime.json",
-        "action": "change"
-    },
-    {
-        "file": "new\\RecipePatches\\Tier 7\\Recipe_Sorter_T3_CrushedBauxite.json",
-        "action": "change"
-    },
-    {
-        "file": "new\\RecipePatches\\Tier 6\\Recipe_ToxicAirSplitting.json",
+        "file": "new\\Recipes\\Sorter\\Recipe_Sorter_T3_CrushedNickel.json",
         "action": "add"
     },
     {
-        "file": "new\\RecipePatches\\Tier 6\\Recipe_SulfuricAcid.json",
-        "action": "change"
-    },
-    {
-        "file": "new\\RecipePatches\\Tier 8\\Recipe_CrushedRutileT3.json",
+        "file": "new\\Recipes\\Sorter\\Recipe_Sorter_T3_CrushedLead.json",
         "action": "add"
     },
     {
-        "file": "new\\RecipePatches\\Tier 5\\Recipe_SweetFuel.json",
-        "action": "change"
-    },
-    {
-        "file": "new\\RecipePatches\\Tier 5\\Recipe_DistilledFuel.json",
-        "action": "change"
-    },
-    {
-        "file": "new\\RecipePatches\\Tier 4\\Recipe_Sorter_T2_Salt.json",
-        "action": "change"
-    },
-    {
-        "file": "new\\RecipePatches\\Tier 2\\Recipe_SolarCell.json",
+        "file": "new\\Recipes\\Sorter\\Recipe_Sorter_T2_Silica.json",
         "action": "add"
     },
     {
-        "file": "new\\RecipePatches\\Tier 0\\Recipe_CrushedLarrussite.json",
-        "action": "change"
-    },
-    {
-        "file": "new\\RecipePatches\\MAM\\Recipe_SimplePowerShard.json",
-        "action": "change"
-    },
-    {
-        "file": "new\\RecipePatches\\Buildings\\Recipe_WindTurbineMk3.json",
+        "file": "new\\Recipes\\Sorter\\Recipe_Sorter_T2_CrushedTin.json",
         "action": "add"
     },
     {
-        "file": "new\\RecipePatches\\Buildings\\Recipe_WindTurbineMk2.json",
+        "file": "new\\Recipes\\Sorter\\Recipe_Sorter_T2_CrushedMagnesium.json",
         "action": "add"
     },
     {
-        "file": "new\\RecipePatches\\Buildings\\Recipe_TurbineMk2.json",
+        "file": "new\\Recipes\\Sorter\\Recipe_Sorter_T2_CrushedLead.json",
         "action": "add"
     },
     {
-        "file": "new\\RecipePatches\\Buildings\\Recipe_StorageContainerMk2.json",
+        "file": "new\\Recipes\\Sorter\\Recipe_Sorter_T2_CrushedCopper.json",
         "action": "add"
     },
     {
-        "file": "new\\RecipePatches\\Buildings\\Recipe_SolarPanelMk1.json",
+        "file": "new\\Recipes\\Sorter\\Recipe_Sorter_T2_CrushedBauxite.json",
         "action": "add"
     },
     {
-        "file": "new\\RecipePatches\\Buildings\\Recipe_Reformer.json",
-        "action": "change"
-    },
-    {
-        "file": "new\\RecipePatches\\Buildings\\Recipe_PowerPoleMk2.json",
+        "file": "new\\Recipes\\Sorter\\Recipe_Sorter_T1_CrushedCobalt.json",
         "action": "add"
     },
     {
-        "file": "new\\RecipePatches\\Buildings\\Recipe_HVGenerator.json",
+        "file": "new\\Recipes\\Refinery\\Recipe_Titaniumtetrachlorid.json",
         "action": "add"
     },
     {
-        "file": "new\\RecipePatches\\Buildings\\Recipe_GeothermalGenerator.json",
+        "file": "new\\Recipes\\Refinery\\Recipe_SulfiteGas.json",
         "action": "add"
     },
     {
-        "file": "new\\RecipePatches\\Buildings\\Recipe_BlastFurnace.json",
-        "action": "change"
+        "file": "new\\Recipes\\Refinery\\Recipe_Radiator.json",
+        "action": "add"
     },
     {
-        "file": "new\\CDOs\\Filtrator Recipes\\Recipe_Hydrofiner_WasteWater.json",
+        "file": "new\\Recipes\\Refinery\\Recipe_PureEthylene.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Recipes\\Refinery\\Recipe_PureCoolant.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Recipes\\Refinery\\Recipe_LightEthyleneGas.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Recipes\\Refinery\\Recipe_Condensed_SlugSlime.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Recipes\\Refinery\\Recipe_BarMagnet.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Recipes\\Reformer\\Recipe_SinteredTitanium.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Recipes\\Reformer\\Recipe_Mixed_AluminumIngot.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Recipes\\Reformer\\Recipe_Mixed_AluminumCoil.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Recipes\\Reformer\\Recipe_HeavyEthyleneGas.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Recipes\\Reformer\\Recipe_Cast_ZincIngot.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Recipes\\Reformer\\Recipe_Cast_Solder.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Recipes\\Reformer\\Recipe_Cast_MagnitarBillet.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Recipes\\Reformer\\Recipe_Cast_LeadIngot.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Recipes\\Reformer\\Recipe_Cast_CobaltIngot.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Recipes\\Reformer\\Recipe_Cast_CateriumIngot.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Recipes\\Manufacturer\\Recipe_PowerManagementRelay.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Recipes\\Manufacturer\\Recipe_Manu_ModularEngine_4.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Recipes\\Manufacturer\\Recipe_Manu_Computer.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Recipes\\Manufacturer\\Recipe_Manu_AdaptiveControlUnit_5.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Recipes\\Manufacturer\\Recipe_BeltDriveMk4.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Recipes\\Crusher\\Recipe_SnailFood_T1.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Recipes\\Crusher\\Recipe_ResidBauxite.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Recipes\\Crusher\\Recipe_Crusher_KyaliteSilica.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Recipes\\Crusher\\Recipe_CrushedMontanion.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Recipes\\Foundry\\Recipe_MagneticCore.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Recipes\\Converter\\Recipe_FicsiteIngot_Bronze.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Recipes\\Converter\\Recipe_ElectronGas.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Recipes\\Constructor\\Recipe_LeadSheet.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Recipes\\Constructor\\Recipe_LeadPlate.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Recipes\\Constructor\\Recipe_CobaltPlate.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Recipes\\ChemicalReactor\\Recipe_ToxicAir_Hydrogen.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Recipes\\ChemicalReactor\\Recipe_SimplePowerShard.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Recipes\\ChemicalReactor\\Recipe_FusedQuartzCrystal.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Recipes\\ChemicalReactor\\Recipe_AcidBaseMix.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Recipes\\Blender\\Recipe_Coolant.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Recipes\\Blender\\Recipe_BeltDriveMk5.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Recipes\\Blender\\Recipe_Alumina.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Recipes\\BlastFurnace\\Recipe_MoltenZinc.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Recipes\\BlastFurnace\\Recipe_MoltenSolder.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Recipes\\BlastFurnace\\Recipe_MoltenNickel.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Recipes\\BlastFurnace\\Recipe_MoltenMagnitar.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Recipes\\BlastFurnace\\Recipe_MoltenLead.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Recipes\\BlastFurnace\\Recipe_MoltenCobalt.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Recipes\\BlastFurnace\\Recipe_MoltenCaterium.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Recipes\\BlastFurnace\\Recipe_MoltenAluminum.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Recipes\\Assembler\\Recipe_MagneticFieldGenerator_6.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Recipes\\Assembler\\Recipe_LeadFrame.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Recipes\\Assembler\\Recipe_ElectroControlRod.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Recipes\\Assembler\\Recipe_Assembler_CircuitBoard.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Recipes\\Assembler\\Recipe_AILimiter.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Recipes\\Alternate\\Recipe_PetCokeDust.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Recipes\\Alternate\\Recipe_ElectronicControlRod.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Recipes\\Alternate\\Recipe_DCMotor.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Recipes\\Alternate\\Recipe_CompactedIronPlate.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\Recipes\\Alternate\\Recipe_Alternator.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Wet Washer\\Recipe_Washed Tin.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Wet Washer\\Recipe_Washed Iron.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Wet Washer\\Recipe_Washed Copper.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Sorter\\Recipe_Sorter_T2_Salt.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Sorter\\Recipe_Sorter_T1_QuartzCrystal.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Sorter\\Recipe_Sorter_T1_CrushedZinc.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Sorter\\Recipe_Sorter_T1_CrushedIron.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Sorter\\Recipe_Sorter_T1_CrushedCopper.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Sorter\\Recipe_Sorter_T1_CrushedCaterium.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Smelter\\Recipe_ZincIngot.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Smelter\\Recipe_TinIngot.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Smelter\\Recipe_IronIngot.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Smelter\\Recipe_CopperIngot.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Smelter\\Recipe_CateriumIngot.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Smelter\\Recipe_BurntLime.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Reformer\\Recipe_SteelRod.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Reformer\\Recipe_ResidualHydrogen.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Reformer\\Recipe_Polyethylenes.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Reformer\\Recipe_CastIngot_Tin_3.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Reformer\\Recipe_CastIngot_Steel_8.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Reformer\\Recipe_CastIngot_Iron_1.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Reformer\\Recipe_CastIngot_Copper_2.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Reformer\\Recipe_CastIngot_Brass_6.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Reformer\\Recipe_BeltDriveMk3.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Refinery\\Recipe_ResidualPlastic.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Refinery\\Recipe_Radiator.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Refinery\\Recipe_PetroleumCoke.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Refinery\\Recipe_LightEthyleneGas.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\ParticleAccelerator\\Recipe_Ficsonium.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Manufacturer\\Recipe_SingularityCell.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Manufacturer\\Recipe_SAMFluctuator.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Manufacturer\\Recipe_Motor.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Manufacturer\\Recipe_ModularFrameHeavy.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Foundry\\Recipe_ThermalSilica.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Foundry\\Recipe_SteelPipe.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Foundry\\Recipe_SteelBeam.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Foundry\\Recipe_SolarCell.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Foundry\\Recipe_ResidualRubber.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Foundry\\Recipe_BronzePipe.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Foundry\\Recipe_BronzeIngot.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Foundry\\Recipe_AlcladSheet.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Crusher\\Recipe_MagnesiumGranules.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Crusher\\Recipe_CrushedSiterite.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Crusher\\Recipe_CrushedLarrussite.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Crusher\\Recipe_CrushedCallanite.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Crusher\\Recipe_CrushedAurovite.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Crusher\\Recipe_CoarseSand.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Crusher\\Recipe_CarbonPowder.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Composter\\Recipe_SlugSlime_Yellow.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Composter\\Recipe_SlugSlime_Purple.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Composter\\Recipe_SlugSlime_Blue.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Composter\\Recipe_SlugSlimeHigh_White.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Constructor\\Recipe_ZincPlates.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Constructor\\Recipe_Wire.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Constructor\\Recipe_TinRod.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Constructor\\Recipe_SteelBolt.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Constructor\\Recipe_Quickwire.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Constructor\\Recipe_IronWire.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Constructor\\Recipe_IronSheet.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Constructor\\Recipe_IronScrew.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Constructor\\Recipe_IronRod.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Constructor\\Recipe_IronPlate.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Constructor\\Recipe_HighPressureDiamond.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Constructor\\Recipe_CopperSheet.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Constructor\\Recipe_CopperRod.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Constructor\\Recipe_CopperBusbar.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Constructor\\Recipe_Concrete.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Constructor\\Recipe_CateriumSheet.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Constructor\\Recipe_CateriumRod.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Constructor\\Recipe_CateriumPlate.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Constructor\\Recipe_Cable.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Constructor\\Recipe_BronzePlate.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Constructor\\Recipe_BronzeBeam.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Constructor\\Recipe_BrassPlate.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\ChemicalReactor\\Recipe_ToxicAirSplitting.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\ChemicalReactor\\Recipe_TiHy_Solution.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\ChemicalReactor\\Recipe_SyngasHydrogen.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\ChemicalReactor\\Recipe_SweetFuel.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\ChemicalReactor\\Recipe_DistilledNaturalGas.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\ChemicalReactor\\Recipe_DistilledFuel.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\ChemicalReactor\\Recipe_Chem_SulfuricAcid.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\ChemicalReactor\\Recipe_Battery.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\ChemicalReactor\\Recipe_Alternate_LeadedFuel.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Blender\\Recipe_CoolingSystem.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Blast Furnace\\Recipe_PurifiedCrudeOil.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Blast Furnace\\Recipe_Molten_Tin_3.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Blast Furnace\\Recipe_Molten_Steel_8.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Blast Furnace\\Recipe_Molten_Iron_1.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Blast Furnace\\Recipe_Molten_Copper_2.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Blast Furnace\\Recipe_Molten_Brass_3.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Assembler\\Recipe_VersatileFramework_2.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Assembler\\Recipe_TinSheet.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Assembler\\Recipe_Tinplate.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Assembler\\Recipe_TinnedWire.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Assembler\\Recipe_Stator.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Assembler\\Recipe_SmartPlating_1.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Assembler\\Recipe_SlagConcrete.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Assembler\\Recipe_Rotor.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Assembler\\Recipe_ReinforcedIronPlate.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Assembler\\Recipe_ModularFrame.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Assembler\\Recipe_FanBlade.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Assembler\\Recipe_EncasedBeam.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Assembler\\Recipe_CateriumHeatSink.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Assembler\\Recipe_BronzeFrame.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Assembler\\Recipe_BrassPipe.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Assembler\\Recipe_BeltDriveMk2.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Assembler\\Recipe_AutomatedWiring_3.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\Assembler\\Recipe_AluminumCasing.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\3_Alternate\\Recipe_TurboThermoplastic.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\3_Alternate\\Recipe_TransformerCore.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\3_Alternate\\Recipe_StitchedIronPlate.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\3_Alternate\\Recipe_RolledTinSheet.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\3_Alternate\\Recipe_RolledBronzePipe.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\3_Alternate\\Recipe_RedBrassIngots.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\3_Alternate\\Recipe_DistilledOilResidue.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\3_Alternate\\Recipe_DirectSteel.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\3_Alternate\\Recipe_DilutedBitumen.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\3_Alternate\\Recipe_CompactBiomass.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\3_Alternate\\Recipe_CastTinPlate.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\3_Alternate\\Recipe_CastScrew.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\2_Manual\\Recipe_Zipline.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\2_Manual\\Recipe_XenoBasher.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\2_Manual\\Recipe_HoverPack.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\2_Manual\\Recipe_Handcrushed_Siterite.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\2_Manual\\Recipe_Handcrushed_Concrete.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\2_Manual\\Recipe_Handcrushed_Callanite.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\2_Manual\\Recipe_Handcrushed_Aurovite.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\2_Manual\\Recipe_Hancrushed_Gangue.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\2_Manual\\Recipe_BlueSlugEgg_Manual.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\2_Manual\\Recipe_BladeRunners.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Recipe_WindTurbineMk3.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Recipe_WindTurbineMk2.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Recipe_WindTurbineMk1.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Recipe_WetWasher.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Recipe_Weaver.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Recipe_WaterExtractor.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Recipe_TurbineMk2.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Recipe_TurbineMk1.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Recipe_StorageSinkMk2.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Recipe_StorageSinkMk1.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Recipe_StorageContainerMk2.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Recipe_SteamStack.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Recipe_SpaceElevator.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Recipe_Sorter.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Recipe_SolidCoalHeater.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Recipe_SolarPanelMk2.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Recipe_SolarPanelMk1.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Recipe_ResourceSink.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Recipe_Reformer.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Recipe_Refinery.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Recipe_PowerTowerPlatform.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Recipe_PowerTower.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Recipe_PowerStorage.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Recipe_PowerPoleMk2.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Recipe_OilPump.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Recipe_MVGenerator.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Recipe_ModularMiner_T3MiningHead.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Recipe_ModularMiner_SmelterModule.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Recipe_ModularMiner_HalfBoosterModule.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Recipe_ModularMiner_FullBoosterModule.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Recipe_ModularMiner_CrusherModule.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Recipe_Manufacturer.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Recipe_HVGenerator.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Recipe_GeothermalGenerator.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Recipe_Foundry.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Recipe_FlueGasStack.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Recipe_Filtrator.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Recipe_Crusher.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Recipe_Constructor.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Recipe_ChemReactor.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Recipe_BoilerMk2.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Recipe_BoilerMk1.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Recipe_BlueprintdesignerMk3.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Recipe_BlueprintdesignerMk2.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Recipe_BlueprintdesignerMk1.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Recipe_BlastFurnace.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Recipe_BiomassHeater.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Recipe_AwesomeShop.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Recipe_AutomatedBiomassGen.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Recipe_Assembler.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Recipe_AlgalMassExtractor.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Recipe_AirCollector.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\CDOs\\Production Machines\\Sorter.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\CDOs\\Production Machines\\Smelter.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\CDOs\\Production Machines\\Reformer.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\CDOs\\Production Machines\\Refinery.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\CDOs\\Production Machines\\QuantumEncoder.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\CDOs\\Production Machines\\OreWasher.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\CDOs\\Production Machines\\Manufacturer.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\CDOs\\Production Machines\\Foundry.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\CDOs\\Production Machines\\FlexibleBlastFurnace.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\CDOs\\Production Machines\\Filtrator.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\CDOs\\Production Machines\\Crusher.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\CDOs\\Production Machines\\Converter.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\CDOs\\Production Machines\\Constructor.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\CDOs\\Production Machines\\ChemReactor.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\CDOs\\Production Machines\\BlastFurnace.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\CDOs\\Production Machines\\Assembler.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\CDOs\\Production Machines\\Accelerator.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\CDOs\\Production Machines\\ABFluidPackager.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\CDOs\\Items\\Somersloop.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\CDOs\\Items\\AlienPowerShard.json",
         "action": "add"
     },
     {
         "file": "new\\CDOs\\Filtrator Recipes\\Recipe_Hydrofiner_PowerShardFragment.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\ItemPatches\\Molten Metals\\Desc_Molten_Zinc.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\ItemPatches\\Molten Metals\\Desc_Molten_Tin.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\ItemPatches\\Molten Metals\\Desc_Molten_Steel.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\ItemPatches\\Molten Metals\\Desc_Molten_Solder.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\ItemPatches\\Molten Metals\\Desc_Molten_Slag.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\ItemPatches\\Molten Metals\\Desc_Molten_Nickel.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\ItemPatches\\Molten Metals\\Desc_Molten_Magnitar.json",
         "action": "add"
     },
     {
+        "file": "new\\ItemPatches\\Molten Metals\\Desc_Molten_Lead.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\ItemPatches\\Molten Metals\\Desc_Molten_Iron.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\ItemPatches\\Molten Metals\\Desc_Molten_Copper.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\ItemPatches\\Molten Metals\\Desc_Molten_Cobalt.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\ItemPatches\\Molten Metals\\Desc_Molten_Caterium.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\ItemPatches\\Molten Metals\\Desc_Molten_Brass.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\ItemPatches\\Molten Metals\\Desc_Molten_Aluminum.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\ItemPatches\\Fluids\\Desc_TiHy.json",
+        "action": "change"
+    },
+    {
         "file": "new\\ItemPatches\\Fluids\\Desc_SlugSlime_Spent.json",
+        "action": "change"
+    },
+    {
+        "file": "new\\ItemPatches\\Fluids\\Desc_SlugSlime_Mineral.json",
         "action": "add"
     },
     {
         "file": "new\\ItemPatches\\Fluids\\Desc_SlugSlime_Energized.json",
-        "action": "add"
-    },
-    {
-        "file": "new\\ItemPatches\\Molten Metals\\Desc_Molten_Zinc.json",
-        "action": "add"
-    },
-    {
-        "file": "new\\ItemPatches\\Molten Metals\\Desc_Molten_Magneatal.json",
-        "action": "add"
-    },
-    {
-        "file": "new\\Recipes\\MAM\\Alternate\\Recipe_TurboThermoplastic.json",
-        "action": "add"
-    },
-    {
-        "file": "new\\Recipes\\MAM\\Alternate\\Recipe_DistilledOilResidue.json",
-        "action": "add"
-    },
-    {
-        "file": "new\\Recipes\\MAM\\Alternate\\Recipe_DirectSteel.json",
         "action": "change"
     },
     {
-        "file": "new\\Recipes\\MAM\\Alternate\\Recipe_DilutedBitumen.json",
+        "file": "new\\ItemPatches\\Fluids\\Desc_SlugSlime.json",
         "action": "change"
     },
     {
-        "file": "new\\RecipePatches\\Tier 7\\Advanced Products\\Recipe_Radiator.json",
+        "file": "new\\ItemPatches\\Fluids\\Desc_Coolant.json",
         "action": "add"
     },
     {
-        "file": "new\\RecipePatches\\Tier 7\\Advanced Products\\Recipe_AdaptiveControlUnit.json",
+        "file": "new\\ItemPatches\\Fluids\\Desc_Chlorine.json",
         "action": "add"
     },
     {
-        "file": "new\\RecipePatches\\Tier 6\\Advanced Products\\Recipe_PowerManagementRelay.json",
-        "action": "add"
-    },
-    {
-        "file": "new\\RecipePatches\\Tier 6\\Advanced Products\\Recipe_ModularEngine.json",
-        "action": "add"
-    },
-    {
-        "file": "new\\RecipePatches\\Tier 6\\Advanced Products\\Recipe_ElectromagneticControlRod.json",
-        "action": "add"
-    },
-    {
-        "file": "new\\RecipePatches\\Tier 6\\Advanced Metals\\Recipe_Washed Zinc.json",
-        "action": "add"
-    },
-    {
-        "file": "new\\RecipePatches\\Tier 6\\Advanced Metals\\Recipe_Washed Nickel.json",
-        "action": "add"
-    },
-    {
-        "file": "new\\RecipePatches\\Tier 6\\Advanced Metals\\Recipe_Washed Magnesium.json",
-        "action": "add"
-    },
-    {
-        "file": "new\\RecipePatches\\Tier 6\\Advanced Metals\\Recipe_Washed Lead.json",
-        "action": "add"
-    },
-    {
-        "file": "new\\RecipePatches\\Tier 6\\Advanced Metals\\Recipe_Washed Cobalt.json",
-        "action": "add"
-    },
-    {
-        "file": "new\\RecipePatches\\Tier 6\\Advanced Metals\\Recipe_Washed Caterium.json",
-        "action": "add"
-    },
-    {
-        "file": "new\\RecipePatches\\Tier 6\\Advanced Metals\\Recipe_SortedTinT2.json",
-        "action": "add"
-    },
-    {
-        "file": "new\\RecipePatches\\Tier 6\\Advanced Metals\\Recipe_SortedSilicaT2.json",
-        "action": "add"
-    },
-    {
-        "file": "new\\RecipePatches\\Tier 6\\Advanced Metals\\Recipe_SortedMagnesiumT2.json",
-        "action": "add"
-    },
-    {
-        "file": "new\\RecipePatches\\Tier 6\\Advanced Metals\\Recipe_SortedCopperT2.json",
-        "action": "add"
-    },
-    {
-        "file": "new\\RecipePatches\\Tier 6\\Advanced Metals\\Recipe_MoltenZinc.json",
-        "action": "add"
-    },
-    {
-        "file": "new\\RecipePatches\\Tier 6\\Advanced Metals\\Recipe_MoltenNickel.json",
-        "action": "add"
-    },
-    {
-        "file": "new\\RecipePatches\\Tier 6\\Advanced Metals\\Recipe_MoltenMagneatar.json",
-        "action": "add"
-    },
-    {
-        "file": "new\\RecipePatches\\Tier 6\\Advanced Metals\\Recipe_MoltenCobalt.json",
-        "action": "add"
-    },
-    {
-        "file": "new\\RecipePatches\\Tier 6\\Advanced Metals\\Recipe_MagneticCore.json",
-        "action": "add"
-    },
-    {
-        "file": "new\\RecipePatches\\Tier 6\\Advanced Metals\\Recipe_Cast_MagneatarBillet.json",
-        "action": "add"
-    },
-    {
-        "file": "new\\RecipePatches\\Tier 6\\Advanced Metals\\Recipe_BarMagnet.json",
-        "action": "add"
-    },
-    {
-        "file": "new\\RecipePatches\\Tier 5\\Basic Oil\\Recipe_PurifiedCrudeOil.json",
+        "file": "new\\ItemPatches\\Fluids\\Desc_AlgalMass.json",
         "action": "change"
     },
     {
-        "file": "new\\RecipePatches\\Tier 5\\Basic Oil\\Recipe_Polyethylenes.json",
+        "file": "new\\ItemPatches\\Buildings\\Desc_ChemReactor.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\SchematicPatches\\MAM\\Slugs\\Schematic_MAM_Slugs_4_2.json",
         "action": "change"
     },
     {
-        "file": "new\\RecipePatches\\Tier 5\\Basic Oil\\Recipe_PetroleumCoke.json",
+        "file": "new\\SchematicPatches\\MAM\\Slugs\\Schematic_MAM_Slugs_3_2.json",
         "action": "change"
     },
     {
-        "file": "new\\RecipePatches\\Tier 5\\Basic Oil\\Recipe_DistilledNaturalGas.json",
+        "file": "new\\SchematicPatches\\MAM\\Kyalite\\Schematic_MAM_Kyalite_3_4.json",
         "action": "change"
     },
     {
-        "file": "new\\RecipePatches\\Tier 5\\Standard Parts\\Recipe_SortedLeadT3.json",
-        "action": "add"
-    },
-    {
-        "file": "new\\RecipePatches\\Tier 5\\Standard Parts\\Recipe_Molten_Solder.json",
-        "action": "add"
-    },
-    {
-        "file": "new\\RecipePatches\\Tier 5\\Standard Parts\\Recipe_Molten_Lead.json",
-        "action": "add"
-    },
-    {
-        "file": "new\\RecipePatches\\Tier 5\\Standard Parts\\Recipe_Molten_Caterium.json",
-        "action": "add"
-    },
-    {
-        "file": "new\\RecipePatches\\Tier 5\\Standard Parts\\Recipe_LeadIngot.json",
-        "action": "add"
-    },
-    {
-        "file": "new\\RecipePatches\\Tier 5\\Standard Parts\\Recipe_CastSolder.json",
-        "action": "add"
-    },
-    {
-        "file": "new\\RecipePatches\\Tier 5\\Standard Parts\\Recipe_CastIngot_Lead.json",
-        "action": "add"
-    },
-    {
-        "file": "new\\RecipePatches\\Tier 5\\Standard Parts\\Recipe_CastIngot_Caterium.json",
-        "action": "add"
-    },
-    {
-        "file": "new\\RecipePatches\\Tier 5\\Standard Parts\\Desc_LeadSheet.json",
-        "action": "add"
-    },
-    {
-        "file": "new\\RecipePatches\\Tier 5\\Standard Parts\\Desc_LeadPlate.json",
-        "action": "add"
-    },
-    {
-        "file": "new\\RecipePatches\\Tier 5\\Advanced Products\\Recipe_Computer.json",
-        "action": "add"
-    },
-    {
-        "file": "new\\RecipePatches\\Tier 5\\Advanced Products\\Recipe_CircuitBoard.json",
+        "file": "new\\SchematicPatches\\MAM\\Kyalite\\Schematic_MAM_Kyalite_3_2.json",
         "action": "change"
     },
     {
-        "file": "new\\RecipePatches\\Tier 5\\Advanced Products\\Recipe_BeltDriveMk4.json",
-        "action": "add"
-    },
-    {
-        "file": "new\\RecipePatches\\Tier 3\\Advanced Parts\\Recipe_BeltDriveMk3.json",
-        "action": "add"
-    },
-    {
-        "file": "new\\RecipePatches\\Tier 1\\Advanced Parts\\Recipe_BeltDriveMk2.json",
-        "action": "add"
-    },
-    {
-        "file": "new\\RecipePatches\\Buildings\\Slugs\\Recipe_SlugHumidityModule.json",
+        "file": "new\\SchematicPatches\\MAM\\Kyalite\\Schematic_MAM_Kyalite_3_1.json",
         "action": "change"
     },
     {
-        "file": "new\\RecipePatches\\Buildings\\Slugs\\Recipe_SlugHatchery.json",
+        "file": "new\\SchematicPatches\\MAM\\Kyalite\\Schematic_MAM_Kyalite_3_0.json",
         "action": "change"
     },
     {
-        "file": "new\\RecipePatches\\Buildings\\Logistics\\Recipe_Valve.json",
+        "file": "new\\SchematicPatches\\MAM\\Alternate\\Schematic_Alernate_DistilledOilResidue.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\SchematicPatches\\MAM\\Alternate\\Schematic_Alernate_DilutedBitumen.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\SchematicPatches\\MAM\\Aurovite\\Schematic_MAM_Aurovite_3_4.json",
         "action": "change"
     },
     {
-        "file": "new\\RecipePatches\\Buildings\\Logistics\\Recipe_Truck.json",
-        "action": "add"
-    },
-    {
-        "file": "new\\RecipePatches\\Buildings\\Logistics\\Recipe_TrainStation.json",
-        "action": "add"
-    },
-    {
-        "file": "new\\RecipePatches\\Buildings\\Logistics\\Recipe_TrainPlatform.json",
-        "action": "add"
-    },
-    {
-        "file": "new\\RecipePatches\\Buildings\\Logistics\\Recipe_TrainFreightPlatform.json",
-        "action": "add"
-    },
-    {
-        "file": "new\\RecipePatches\\Buildings\\Logistics\\Recipe_TrainFluidPlatform.json",
-        "action": "add"
-    },
-    {
-        "file": "new\\RecipePatches\\Buildings\\Logistics\\Recipe_Railway.json",
-        "action": "add"
-    },
-    {
-        "file": "new\\RecipePatches\\Buildings\\Logistics\\Recipe_PipelineMk2_NoIndicator.json",
+        "file": "new\\SchematicPatches\\MAM\\Aurovite\\Schematic_MAM_Aurovite_3_1.json",
         "action": "change"
     },
     {
-        "file": "new\\RecipePatches\\Buildings\\Logistics\\Recipe_PipelineMk2.json",
+        "file": "new\\SchematicPatches\\MAM\\Aurovite\\Schematic_MAM_Aurovite_3_0.json",
         "action": "change"
     },
     {
-        "file": "new\\RecipePatches\\Buildings\\Logistics\\Recipe_PathSignal.json",
+        "file": "new\\RecipePatches\\Smelter\\Impure\\Recipe_ImpureTinIngot.json",
         "action": "add"
     },
     {
-        "file": "new\\RecipePatches\\Buildings\\Logistics\\Recipe_Locomotive.json",
+        "file": "new\\RecipePatches\\Smelter\\Impure\\Recipe_ImpureIronIngot.json",
         "action": "add"
     },
     {
-        "file": "new\\RecipePatches\\Buildings\\Logistics\\Recipe_FreightCar.json",
+        "file": "new\\RecipePatches\\Smelter\\Impure\\Recipe_ImpureGlass.json",
         "action": "add"
     },
     {
-        "file": "new\\RecipePatches\\Buildings\\Logistics\\Recipe_ConveyorLiftMk4.json",
+        "file": "new\\RecipePatches\\Smelter\\Impure\\Recipe_ImpureCopperIngot.json",
         "action": "add"
     },
     {
-        "file": "new\\RecipePatches\\Buildings\\Logistics\\Recipe_ConveyorBeltMk4.json",
+        "file": "new\\RecipePatches\\Smelter\\Impure\\Recipe_ImpureCateriumIngot.json",
         "action": "add"
     },
     {
-        "file": "new\\RecipePatches\\Buildings\\Logistics\\Recipe_BlockSignal.json",
+        "file": "new\\RecipePatches\\1_Buildings\\Slugs\\Recipe_SlugTimeModule.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Slugs\\Recipe_SlugTerrarium.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Slugs\\Recipe_SlugTemperatureModule.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Slugs\\Recipe_SlugIncubator.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Slugs\\Recipe_SlugHumidityModule.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Slugs\\Recipe_SlugHatchery.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Slugs\\Recipe_SlugFluidModule.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Factory Buildings\\Recipe_Wall_Orange_8x1.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Factory Buildings\\Recipe_Wall_8x4_02.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Factory Buildings\\Recipe_Wall_8x4_01.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Factory Buildings\\Recipe_Ramp_8x4.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Factory Buildings\\Recipe_Ramp_8x2.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Factory Buildings\\Recipe_Ramp_8x1.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Factory Buildings\\Recipe_Material_Wall_Concrete.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Factory Buildings\\Recipe_Material_Foundation_Concrete.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Factory Buildings\\Recipe_Foundation_8x4.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Factory Buildings\\Recipe_Foundation_8x2.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Factory Buildings\\Recipe_Foundation_8x1.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Logistics\\Recipe_Valve.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Logistics\\Recipe_TruckStation.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Logistics\\Recipe_Truck.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Logistics\\Recipe_TrainStation.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Logistics\\Recipe_TrainPlatform.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Logistics\\Recipe_TrainFreightPlatform.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Logistics\\Recipe_TrainFluidPlatform.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Logistics\\Recipe_Tractor.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Logistics\\Recipe_Splitter.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Logistics\\Recipe_Railway.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Logistics\\Recipe_PipelinePumpMk2.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Logistics\\Recipe_PipelinePumpMk1.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Logistics\\Recipe_PipelineMk3_NoIndicator.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Logistics\\Recipe_PipelineMk3.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Logistics\\Recipe_PipelineMk2_NoIndicator.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Logistics\\Recipe_PipelineMk2.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Logistics\\Recipe_PipelineMk1_NoIndicator.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Logistics\\Recipe_PipelineMk1.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Logistics\\Recipe_PipelineJunction.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Logistics\\Recipe_PathSignal.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Logistics\\Recipe_Merger.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Logistics\\Recipe_Locomotive.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Logistics\\Recipe_IndustrialBuffer.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Logistics\\Recipe_FreightCar.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Logistics\\Recipe_FluidBuffer.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Logistics\\Recipe_ConveyorPole.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Logistics\\Recipe_ConveyorLiftMk4.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Logistics\\Recipe_ConveyorLiftMk3.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Logistics\\Recipe_ConveyorLiftMk2.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Logistics\\Recipe_ConveyorBeltMk4.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Logistics\\Recipe_ConveyorBeltMk3.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Logistics\\Recipe_ConveyorBeltMk2.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Logistics\\Recipe_BlockSignal.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Farming\\Recipe_SeedExtractor.json",
+        "action": "add"
+    },
+    {
+        "file": "new\\RecipePatches\\1_Buildings\\Farming\\Recipe_Composter.json",
         "action": "add"
     }
 ]

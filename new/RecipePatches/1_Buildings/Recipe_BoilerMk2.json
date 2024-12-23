@@ -1,0 +1,23 @@
+//RefinedPower/Buildables/Factory/ModularPower/MPBuildings/Boilers/BoilerMk2/Recipe_RP_MP_BoilerMk2.Recipe_RP_MP_BoilerMk2_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Ingredients": [
+    {
+      "Item": "Desc_ModularFrameHeavy",
+      "Amount": 2
+    },
+    {
+      "Item": "Desc_BrassPipe",
+      "Amount": 15
+    },
+    {
+      "Item": "Desc_IronSheet",
+      "Amount": 15
+    },
+    {
+      "Item": "Desc_SteelBolt",
+      "Amount": 25
+    }
+  ],
+  "ManufacturingMenuPriority": 4
+}

@@ -1,31 +1,30 @@
-//SatisfactoryPlus/Content/Recipes/ChemReactor/Recipe_ChemReactor_SulfurAcid.Recipe_ChemReactor_SulfurAcid_C
 {
-  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
-  "Name": "Sulfuric Acid",
-  "category": "AdvancedRefinement_C",
-  "Ingredients": [
-    {
-      "Item": "Desc_Sulfurtrixid",
-      "Amount": 21000
-    },
-    {
-      "Item": "Desc_Water",
-      "Amount": 18000
-    }
-
-  ],
-  "Products": [
-
-    {
-      "Item": "Desc_SulfuricAcid",
-      "Amount": 13500
-    },
-    {
-      "Item": "Desc_SulfurPowder",
-      "Amount": 12
-    }
-  ],
-  "ManufacturingDuration": 24,
-  "ManufacturingMenuPriority": 1,
-  "ProducedIn": [ "Build_SolidifierAndCooler" ]
+    "Name": "Sulfuric Acid",
+    "category": "AdvancedRefinement_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_Sulfurtrixid",
+            "Amount": 7000
+        },
+        {
+            "Item": "Desc_Water",
+            "Amount": 6000
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_SulfuricAcid",
+            "Amount": 5000
+        },
+        {
+            "Item": "Desc_SulfurPowder",
+            "Amount": 4
+        }
+    ],
+    "ManufacturingDuration": 8,
+    "ManufacturingMenuPriority": 1,
+    "ProducedIn": [
+        "Build_SolidifierAndCooler"
+    ],
+    "$comment": "This file has been removed, no new version exists"
 }

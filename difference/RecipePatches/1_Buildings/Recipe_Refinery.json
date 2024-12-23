@@ -1,0 +1,26 @@
+{
+    "Ingredients": [
+        {
+            "Item": "Desc_Motor",
+            "Amount": 5
+        },
+        {
+            "Item": "Desc_SteelPlateReinforced",
+            "Amount": 10
+        },
+        {
+            "Item": "Desc_SteelPipe",
+            "Amount": 20
+        },
+        {
+            "Item": "Desc_BrassPlates",
+            "Amount": 20
+        },
+        {
+            "Item": "Desc_SteeBolt",
+            "Amount": 30
+        }
+    ],
+    "ManufacturingMenuPriority": 7,
+    "$comment": "This is a new file, no old version exists"
+}

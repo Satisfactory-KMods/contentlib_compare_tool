@@ -1,4 +1,4 @@
-//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T5/Schematic_SF+_5_0.Schematic_SF+_5_0_C
+//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T5/Schematic_SF+_T5_0.Schematic_SF+_T5_0_C
 {
   "Name": "Oil Processing",
   "MenuPriority": 1,
@@ -27,6 +27,6 @@
 
   ],
   "ClearRecipes": true,
-  "Recipes": [ "Recipe_OilPump", "Recipe_ChemReactor", "Recipe_OilRefinery", "Recipe_FBFS_Oil_Purification", "Recipe_ChemReactor_Oil_Destila", "Recipe_LightEthyleneGas", "Recipe_SAC_OilPlasticRubber_C", "Recipe_ChemReactor_Oil_Petroleum", "Recipe_BurntLime" ],
+  "Recipes": [ "Recipe_OilPump", "Recipe_ChemReactor", "Recipe_OilRefinery", "Recipe_BlastFurnace_PurifiedOil_C", "Recipe_ChemReac_DistilledNaturalGas_C", "Recipe_Reformer_LightEthyleneGas_C", "Recipe_Reformer_Polyethylenes_C", "Recipe_OilRefinery_PetroleumCoke_C", "Recipe_Smelter_BurntLime_C", "Recipe_HeavyEthyleneGas", "Recipe_ChemReac_DistilledFuel_C", "Recipe_ResidualRubber", "Recipe_ResidualPlastic" ],
   "Time": 360
 }

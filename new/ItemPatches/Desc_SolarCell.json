@@ -1,6 +1,6 @@
 //KLib/Assets/Parts/Production/Parts/PhotovoltaicCell/Desc_PhotovoltaicCell.Desc_PhotovoltaicCell_C
 {
   "Name": "Solar Cell",
-  "Description": "Converts light into electricity.\nUsed to construct Solar Panels."
+  "Description": "A semiconductor photodiode array. Converts light into electricity.\nOften used to construct Solar Panels or in advanced electronics."
 
 }

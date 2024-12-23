@@ -1,0 +1,23 @@
+{
+    "Name": "Wind Turbine Mk.1",
+    "Ingredients": [
+        {
+            "Item": "Desc_Rotor",
+            "Amount": 5
+        },
+        {
+            "Item": "Desc_IronRod",
+            "Amount": 15
+        },
+        {
+            "Item": "Desc_TinPlates",
+            "Amount": 20
+        },
+        {
+            "Item": "Desc_IronScrew",
+            "Amount": 50
+        }
+    ],
+    "ManufacturingMenuPriority": 4,
+    "$comment": "This is a new file, no old version exists"
+}

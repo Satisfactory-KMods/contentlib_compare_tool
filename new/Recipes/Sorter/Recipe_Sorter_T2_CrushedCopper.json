@@ -1,0 +1,33 @@
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Crushed Copper (Aurovite)",
+  "Category": "T2 Sorting",
+  "Ingredients": [
+    {
+      "Item": "Desc_CrushedAurovite",
+      "Amount": 45
+    },
+    {
+      "Item": "Desc_Water",
+      "Amount": 20000
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_CrushedCopper",
+      "Amount": 24
+    },
+    {
+      "Item": "Desc_CrushedCaterium",
+      "Amount": 16
+    },
+    {
+      "Item": "Desc_Gangue",
+      "Amount": 4
+    }
+  ],
+  "ProducedIn": [ "Build_SorterMk1" ],
+  "ManufacturingDuration": 15,
+  "ManufacturingMenuPriority": 4
+}

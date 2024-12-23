@@ -1,0 +1,14 @@
+{
+    "Ingredients": [
+        {
+            "Item": "Desc_BeltItemMk3",
+            "Amount": 1
+        },
+        {
+            "Item": "Desc_Rubber",
+            "Amount": 1
+        }
+    ],
+    "ManufacturingMenuPriority": 4,
+    "$comment": "This file has been removed, no new version exists"
+}

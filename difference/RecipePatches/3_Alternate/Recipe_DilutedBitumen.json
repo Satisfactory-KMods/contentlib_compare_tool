@@ -1,0 +1,26 @@
+{
+    "Name": "Alternate: Diluted Bitumen",
+    "OverrideCategory": "SolidOilProducts_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_Asphalt",
+            "Amount": 1
+        },
+        {
+            "Item": "Desc_Water",
+            "Amount": 6000
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_HeavyOilResidue",
+            "Amount": 1000
+        }
+    ],
+    "ProducedIn": [
+        "Build_OilRefinery"
+    ],
+    "ManufacturingDuration": 4,
+    "ManufacturingMenuPriority": 1,
+    "$comment": "This is a new file, no old version exists"
+}

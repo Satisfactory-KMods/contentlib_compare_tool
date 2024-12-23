@@ -1,0 +1,6 @@
+{
+    "Name": "Molten Aluminum",
+    "Description": "Melting Point: 660°C\n\nPure Aluminum in liquid form, useful for bulk casting ingots or other parts.",
+    "VisualKit": "Kit_MoltenAluminum",
+    "$comment": "This is a new file, no old version exists"
+}

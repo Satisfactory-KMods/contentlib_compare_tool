@@ -1,0 +1,63 @@
+{
+    "$comment": "This file has been changed",
+    "new": {
+        "Cost": [
+            {
+                "Item": "Desc_BrassPlates",
+                "Amount": 50
+            },
+            {
+                "Item": "Desc_SteelPlate",
+                "Amount": 50
+            },
+            {
+                "Item": "Desc_SteelBolt",
+                "Amount": 100,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ]
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "Cost": [
+            {
+                "Item": "Desc_BrassPlates",
+                "Amount": 50
+            },
+            {
+                "Item": "Desc_SteelPlate",
+                "Amount": 50
+            },
+            {
+                "Item": "Desc_SteelScrew",
+                "Amount": 100
+            }
+        ]
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "Name": "Xeno-Basher",
+        "MenuPriority": 5,
+        "ClearCost": true,
+        "Cost": [
+            {
+                "Item": "Desc_BrassPlates",
+                "Amount": 50
+            },
+            {
+                "Item": "Desc_SteelPlate",
+                "Amount": 50
+            },
+            {
+                "Item": "Desc_SteelBolt",
+                "Amount": 100,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "ClearRecipes": true,
+        "Recipes": [
+            "Recipe_XenoBasher_C"
+        ],
+        "Time": 180
+    }
+}

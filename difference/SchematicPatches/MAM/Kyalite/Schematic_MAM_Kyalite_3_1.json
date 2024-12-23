@@ -1,0 +1,43 @@
+{
+    "$comment": "This file has been changed",
+    "new": {
+        "Cost": [
+            {
+                "Item": "Desc_RawQuartz",
+                "Amount": 250,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "ClearRecipes": true,
+        "Recipes": [
+            "Recipe_Sorter_T1_QuartzCrystal_C",
+            "Recipe_Sorter_T2_Salt_C"
+        ]
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "Cost": [
+            {
+                "Item": "Res_Cryolit",
+                "Amount": 250
+            }
+        ]
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "Name": "Kyalite Sorting",
+        "ClearCost": true,
+        "Cost": [
+            {
+                "Item": "Desc_RawQuartz",
+                "Amount": 250,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "ClearRecipes": true,
+        "Recipes": [
+            "Recipe_Sorter_T1_QuartzCrystal_C",
+            "Recipe_Sorter_T2_Salt_C"
+        ]
+    }
+}

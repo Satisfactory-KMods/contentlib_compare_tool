@@ -1,14 +1,13 @@
-//Game/FactoryGame/Recipes/Buildings/Recipe_PipelineMK2_NoIndicator.Recipe_PipelineMK2_NoIndicator_C
 {
-  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
-  "Ingredients": [
-    {
-      "Item": "Desc_BrassPipe",
-      "Amount": 2
-    },
-    {
-      "Item": "Desc_SteelRod",
-      "Amount": 1
-    }
-  ]
+    "Ingredients": [
+        {
+            "Item": "Desc_BrassPipe",
+            "Amount": 2
+        },
+        {
+            "Item": "Desc_SteelScrew",
+            "Amount": 1
+        }
+    ],
+    "$comment": "This file has been removed, no new version exists"
 }

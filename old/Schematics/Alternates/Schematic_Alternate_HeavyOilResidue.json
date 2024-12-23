@@ -1,7 +1,13 @@
 {
-  "Name": "Alternate: Heavy Oil Residue",
-  "Type": "Alternate",
-  "VisualKit": "Desc_HeavyOilResidue",
-  "Recipes": [ "Recipe_DilutedBitumen","Recipe_HeavyOilResidue" ],
-  "DependsOn": [ "Schematic_SF+_5_1_C" ]
+    "Name": "Alternate: Distilled Oil Residue",
+    "Type": "Alternate",
+    "VisualKit": "Desc_HeavyOilResidue",
+    "Recipes": [
+        "Recipe_DistilledOilResidue",
+        "Recipe_DilutedBitumen"
+    ],
+    "DependsOn": [
+        "Schematic_SF+_5_1_C"
+    ],
+    "$comment": "This file has been removed, no new version exists"
 }

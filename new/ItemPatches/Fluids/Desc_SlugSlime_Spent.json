@@ -3,5 +3,6 @@
   "Name": "Spent Slug Slime",
   "Description": "Slime from Slugs, completely de-energized. Can be recharged with thermal energy in a boiler or with high energy beams.",
   "Form": "RF_Liquid",
+  "VisualKit": "Kit_SlugSlimeSpent",
   "StackSize": "Fluid"
 }

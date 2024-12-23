@@ -1,0 +1,18 @@
+{
+    "Mesh": "/Game/FactoryGame/Resource/RawResources/Water/Desc_Water.Default__Desc_Water_C",
+    "BigIcon": "Neutronium",
+    "SmallIcon": "Neutronium",
+    "FluidColor": {
+        "B": 180,
+        "G": 90,
+        "R": 0,
+        "A": 255
+    },
+    "GasColor": {
+        "B": 90,
+        "G": 0,
+        "R": 0,
+        "A": 0
+    },
+    "$comment": "This is a new file, no old version exists"
+}

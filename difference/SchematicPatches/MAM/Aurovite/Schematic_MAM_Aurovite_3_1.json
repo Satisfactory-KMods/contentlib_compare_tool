@@ -1,0 +1,39 @@
+{
+    "$comment": "This file has been changed",
+    "new": {
+        "Cost": [
+            {
+                "Item": "Desc_CrushedAurovite",
+                "Amount": 75,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "Recipes": [
+            "Recipe_Smelter_Dirty_CateriumIngots_C"
+        ]
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "Cost": [
+            {
+                "Item": "Desc_CrushedSatmonium",
+                "Amount": 75
+            }
+        ]
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "Name": "Caterium Ingots",
+        "ClearCost": true,
+        "Cost": [
+            {
+                "Item": "Desc_CrushedAurovite",
+                "Amount": 75,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "Recipes": [
+            "Recipe_Smelter_Dirty_CateriumIngots_C"
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+//Game/FactoryGame/Recipes/Manufacturer/Recipe_Battery.Recipe_Battery_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Category": "Electronics_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_LiquidZinc",
+      "Amount": 2400
+    },
+    {
+      "Item": "Desc_LiquidNickle",
+      "Amount": 3000
+    },
+    {
+      "Item": "Desc_FluidCanister",
+      "Amount": 4
+    }
+  ],
+  "Products": [
+
+    {
+      "Item": "Desc_Battery",
+      "Amount": 4
+    }
+  ],
+  "ManufacturingDuration": 12,
+  "ManufacturingMenuPriority": 1,
+  "ProducedIn": [ "Build_ChemReactor" ]
+
+}

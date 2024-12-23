@@ -1,0 +1,30 @@
+{
+    "Name": "Residual Hydrogen",
+    "OverrideCategory": "SolidOilProducts_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_FlueGas",
+            "Amount": 16000
+        },
+        {
+            "Item": "Desc_Gas_Steam_Hot",
+            "Amount": 12000
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_Gas_Hydrogen",
+            "Amount": 20000
+        },
+        {
+            "Item": "Desc_PetroleumCoke",
+            "Amount": 5
+        }
+    ],
+    "ProducedIn": [
+        "Build_SoldifierAndCooler"
+    ],
+    "ManufacturingDuration": 12,
+    "ManufacturingMenuPriority": 4,
+    "$comment": "This is a new file, no old version exists"
+}

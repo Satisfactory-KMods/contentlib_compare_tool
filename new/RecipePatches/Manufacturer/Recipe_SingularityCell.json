@@ -1,0 +1,26 @@
+//Game/FactoryGame/Recipes/HadronCollider/Recipe_SingularityCell.Recipe_SingularityCell_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Ingredients": [
+    {
+      "Item": "Desc_PressureConversionCube_C",
+      "Amount": 2
+    },
+    {
+      "Item": "Desc_DarkMatter",
+      "Amount": 50
+    },
+    {
+      "Item": "Desc_IronPlateReinforced",
+      "Amount": 20
+    }
+  ],
+  "Products": [
+    {
+      "Item": "Desc_SingularityCell",
+      "Amount": 10
+    }
+  ],
+  "ManufacturingDuration": 60,
+  "ProducedIn": [ "Build_ManufacturerMk1" ]
+}

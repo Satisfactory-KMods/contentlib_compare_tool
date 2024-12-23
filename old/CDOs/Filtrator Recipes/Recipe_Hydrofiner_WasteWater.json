@@ -1,0 +1,38 @@
+{
+  "Class": "/SatisfactoryPlus/Content/Recipes/Cleaner/CleanerDesc_DirtyWater.CleanerDesc_DirtyWater_C",
+  "Edits": [
+    {
+      "Property": "mConsumeInFluid",
+      "Value": 6000
+    },
+    {
+      "Property": "mBypassProducts",
+      "Value": [
+        {
+          "mProduceItem": "/KLib/Assets/Parts/Production/Crushed/Desc_CrushedZinc.Desc_CrushedZinc_C",
+          "mProductionTime": 12,
+          "mProduceAmount": 6
+        },
+        {
+          "mProduceItem": "/KLib/Assets/Parts/Production/Crushed/Desc_CrushedCaterium.Desc_CrushedCaterium_C",
+          "mProductionTime": 12,
+          "mProduceAmount": 6
+        },
+        {
+          "mProduceItem": "/KLib/Assets/Parts/Production/Crushed/Desc_CrushedNickle.Desc_CrushedNickle_C",
+          "mProductionTime": 30,
+          "mProduceAmount": 15
+        },
+        {
+          "mProduceItem": "/KLib/Assets/Parts/Production/Crushed/Desc_CrushedCobalt.Desc_CrushedCobalt_C",
+          "mProductionTime": 30,
+          "mProduceAmount": 15
+        }
+      ]
+    },
+    {
+      "Property": "mNeedCleanItem",
+      "Value": true
+    }
+  ]
+}

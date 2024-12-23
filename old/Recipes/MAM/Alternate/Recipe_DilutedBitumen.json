@@ -1,25 +1,26 @@
 {
-  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
-  "Name": "Alternate: Diluted Bitument",
-  "OverrideCategory": "SolidOilProducts_C",
-  "Ingredients": [
-    {
-      "Item": "Desc_Asphalt",
-      "Amount": 12
-    },
-    {
-      "Item": "Desc_Methane",
-      "Amount": 10000
-    }
-
-  ],
-  "Products": [
-    {
-      "Item": "Desc_HeavyOilResidue",
-      "Amount": 12
-    }
-  ],
-  "ProducedIn": [ "Build_OilRefinery" ],
-  "ManufacturingDuration": 48,
-  "ManufacturingMenuPriority": 4
+    "Name": "Alternate: Diluted Bitumen",
+    "OverrideCategory": "SolidOilProducts_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_Asphalt",
+            "Amount": 1
+        },
+        {
+            "Item": "Desc_Water",
+            "Amount": 6000
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_HeavyOilResidue",
+            "Amount": 1000
+        }
+    ],
+    "ProducedIn": [
+        "Build_OilRefinery"
+    ],
+    "ManufacturingDuration": 4,
+    "ManufacturingMenuPriority": 4,
+    "$comment": "This file has been removed, no new version exists"
 }

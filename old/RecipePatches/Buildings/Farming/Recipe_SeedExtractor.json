@@ -1,24 +1,23 @@
-//SatisfactoryPlus/Content/ModifyedBuildings/Seed/Recipe_SF+_SeedExtractor.Recipe_SF+_SeedExtractor_C
 {
-  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
-  "Name": "Seed Extractor",
-  "Ingredients": [
-    {
-      "Item": "Desc_Cable",
-      "Amount": 20
-    },
-    {
-      "Item": "Desc_BronzeFrame",
-      "Amount": 15
-    },
-    {
-      "Item": "Desc_CopperSheet",
-      "Amount": 40
-    },
-    {
-      "Item": "Desc_IronScrew",
-      "Amount": 50
-    }
-  ],
-  "ManufacturingMenuPriority": 1
+    "Name": "Seed Extractor",
+    "Ingredients": [
+        {
+            "Item": "Desc_Cable",
+            "Amount": 20
+        },
+        {
+            "Item": "Desc_BronzeFrame",
+            "Amount": 15
+        },
+        {
+            "Item": "Desc_CopperSheet",
+            "Amount": 40
+        },
+        {
+            "Item": "Desc_IronScrew",
+            "Amount": 50
+        }
+    ],
+    "ManufacturingMenuPriority": 1,
+    "$comment": "This file has been removed, no new version exists"
 }

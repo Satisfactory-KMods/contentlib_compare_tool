@@ -1,21 +1,21 @@
-//SatisfactoryPlus/Content/Recipes/Composter/Recipe_Low_BlueSlug.Recipe_Low_BlueSlug_C
 {
-  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
-  "Name": "Blue Slug Slime",
-  "Ingredients": [
-    {
-      "Item": "SlugDesc_BlueSlug",
-      "Amount": 2
-    }
-
-  ],
-  "Products": [
-    {
-      "Item": "Desc_SlugSlime_Low_C",
-      "Amount": 2000
-    }
-  ],
-  "ProducedIn": [ "Build_FF_Composter_C" ],
-  "ManufacturingDuration": 4,
-  "ManufacturingMenuPriority": 1
+    "Name": "Blue Slug Slime",
+    "Ingredients": [
+        {
+            "Item": "SlugDesc_BlueSlug",
+            "Amount": 2
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_SlugSlime_Low_C",
+            "Amount": 2000
+        }
+    ],
+    "ProducedIn": [
+        "Build_FF_Composter_C"
+    ],
+    "ManufacturingDuration": 4,
+    "ManufacturingMenuPriority": 1,
+    "$comment": "This file has been removed, no new version exists"
 }

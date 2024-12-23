@@ -1,0 +1,77 @@
+{
+    "$comment": "This file has been changed",
+    "new": {
+        "Cost": [
+            {
+                "Item": "Desc_ModularFrame",
+                "Amount": 100
+            },
+            {
+                "Item": "Desc_BrassPipe",
+                "Amount": 100
+            },
+            {
+                "Item": "Desc_Cable",
+                "Amount": 100,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_SteelBolt",
+                "Amount": 150,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ]
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "Cost": [
+            {
+                "Item": "Desc_ModularFrame",
+                "Amount": 100
+            },
+            {
+                "Item": "Desc_BrassPipe",
+                "Amount": 100
+            },
+            {
+                "Item": "Desc_SteelScrew",
+                "Amount": 150
+            },
+            {
+                "Item": "Desc_Cable",
+                "Amount": 100
+            }
+        ]
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "Name": "Automated Coal Power",
+        "MenuPriority": 1,
+        "ClearCost": true,
+        "Cost": [
+            {
+                "Item": "Desc_ModularFrame",
+                "Amount": 100
+            },
+            {
+                "Item": "Desc_BrassPipe",
+                "Amount": 100
+            },
+            {
+                "Item": "Desc_Cable",
+                "Amount": 100,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_SteelBolt",
+                "Amount": 150,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "ClearRecipes": true,
+        "Recipes": [
+            "Recipe_RP_MP_CoalHeater_C"
+        ],
+        "Time": 300
+    }
+}

@@ -1,0 +1,30 @@
+//SatisfactoryPlus/Content/Recipes/Sorter/Recipe_Sorter_T1_Zinc.Recipe_Sorter_T1_Zinc_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Crushed Zinc",
+  "Category": "T1 Sorting",
+  "Ingredients": [
+    {
+      "Item": "Desc_CrushedLarrussite",
+      "Amount": 20
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_CrushedZinc",
+      "Amount": 16
+    },
+    {
+      "Item": "Desc_Sand",
+      "Amount": 8
+    },
+    {
+      "Item": "Desc_Gangue",
+      "Amount": 10
+    }
+  ],
+  "ProducedIn": [ "Build_SorterMk1" ],
+  "ManufacturingDuration": 10,
+  "ManufacturingMenuPriority": 3
+}

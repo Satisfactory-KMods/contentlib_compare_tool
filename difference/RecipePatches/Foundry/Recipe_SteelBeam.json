@@ -1,0 +1,26 @@
+{
+    "Name": "Steel Beam",
+    "category": "IndustrialParts_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_SteelIngot",
+            "Amount": 24
+        },
+        {
+            "Item": "Desc_ZincIngot",
+            "Amount": 8
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_SteelPlate",
+            "Amount": 9
+        }
+    ],
+    "ProducedIn": [
+        "Build_FoundryMk1"
+    ],
+    "ManufacturingDuration": 24,
+    "ManufacturingMenuPriority": 1,
+    "$comment": "This is a new file, no old version exists"
+}

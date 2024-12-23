@@ -1,9 +1,0 @@
-//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T3/Schematic_SF+_3_9.Schematic_SF+_3_9_C
-{
-  "Name": "Vehicular Transport (DEPRECATED)",
-  "MenuPriority": 10,
-  "ClearCost": true,
-  "ClearRecipes": true,
-  "Recipes": [ ],
-  "Time": 0
-}

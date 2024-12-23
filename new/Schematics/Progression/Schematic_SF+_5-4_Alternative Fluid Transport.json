@@ -1,0 +1,30 @@
+{
+  "Name": "Alternative Fluid & Pioneer Transport",
+  "MenuPriority": 4,
+  "Type": "Milestone",
+  "Tier": 5,
+  "VisualKit": "Desc_Packager_C",
+  "Cost": [
+    {
+      "Item": "Desc_Rubber",
+      "Amount": 500
+    },
+    {
+      "Item": "Desc_Plastic",
+      "Amount": 500
+    },
+    {
+      "Item": "Desc_CopperSheet",
+      "Amount": 200
+    },
+    {
+      "Item": "Desc_TinPlates",
+      "Amount": 200
+    }
+
+  ],
+
+  "Recipes": [ "Recipe_AB_FluidPacker_C", "Recipe_Canister", "Recipe_GasTank", "Recipe_Assamble_Hot_C", "Recipe_Jetpack" ],
+  "InventorySlotsToGive": 5,
+  "Time": 120
+}

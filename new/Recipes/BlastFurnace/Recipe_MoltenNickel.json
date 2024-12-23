@@ -1,0 +1,34 @@
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Molten Nickel",
+  "OverrideCategory": "Molten Metals",
+  "Ingredients": [
+    {
+      "Item": "Desc_CrushedNickle",
+      "Amount": 24
+    },
+    {
+      "Item": "Desc_Air",
+      "Amount": 16000
+    },
+    {
+      "Item": "Desc_KLIB_NaturalGas_C",
+      "Amount": 10000
+    }
+
+  ],
+  "Products": [
+
+    {
+      "Item": "Desc_LiquidNickle",
+      "Amount": 12000
+    },
+    {
+      "Item": "Desc_LiquidSlag",
+      "Amount": 6000
+    }
+  ],
+  "ProducedIn": [ "Build_FlexibleBlastFurnaceSmelter" ],
+  "ManufacturingDuration": 16,
+  "ManufacturingMenuPriority": 9
+}

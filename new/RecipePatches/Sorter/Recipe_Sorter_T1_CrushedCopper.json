@@ -1,0 +1,30 @@
+//SatisfactoryPlus/Content/Recipes/Sorter/Recipe_Sorter_T1_Copper.Recipe_Sorter_T1_Copper_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Crushed Copper",
+  "Category": "T1 Sorting",
+  "Ingredients": [
+    {
+      "Item": "Desc_CrushedCallanite",
+      "Amount": 15
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_CrushedCopper",
+      "Amount": 12
+    },
+    {
+      "Item": "Desc_CrushedMagnesium",
+      "Amount": 10
+    },
+    {
+      "Item": "Desc_Gangue",
+      "Amount": 5
+    }
+  ],
+  "ProducedIn": [ "Build_SorterMk1" ],
+  "ManufacturingDuration": 7.5,
+  "ManufacturingMenuPriority": 2
+}

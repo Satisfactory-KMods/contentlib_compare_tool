@@ -1,0 +1,27 @@
+{
+    "Name": "Washed Copper",
+    "OverrideCategory": "Cat_KLib_SAC_Wasching_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_OreCopper",
+            "Amount": 8
+        },
+        {
+            "Item": "Desc_Water",
+            "Amount": 8000
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_CrushedCopper",
+            "Amount": 8
+        },
+        {
+            "Item": "Desc_LiquidSlag",
+            "Amount": 16000
+        }
+    ],
+    "ManufacturingDuration": 20,
+    "ManufacturingMenuPriority": 2,
+    "$comment": "This is a new file, no old version exists"
+}

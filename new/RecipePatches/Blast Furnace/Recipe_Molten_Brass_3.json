@@ -1,0 +1,25 @@
+//SatisfactoryPlus/Content/Recipes/BlastFurnace/Recipe_BlastFurnace_Brass.Recipe_BlastFurnace_Brass_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Molten Brass",
+  "Category": "Cat_KLib_Alloys_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_LiquidCopper",
+      "Amount": 5000
+    },
+    {
+      "Item": "Desc_CrushedZinc",
+      "Amount": 8
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_LiquidBrass",
+      "Amount": 20000
+    }
+  ],
+  "ManufacturingDuration": 15,
+  "ManufacturingMenuPriority": 1
+}

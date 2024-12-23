@@ -1,0 +1,14 @@
+{
+    "$comment": "This file has been changed",
+    "new": {
+        "VisualKit": "Kit_MoltenCopper"
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {},
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "Name": "Molten Copper",
+        "Description": "Melting Point: 1084°C\n\nCopper in liquid form, useful for bulk casting ingots or other parts, as well as making Brass.",
+        "VisualKit": "Kit_MoltenCopper"
+    }
+}

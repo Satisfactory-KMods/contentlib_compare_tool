@@ -1,0 +1,30 @@
+{
+    "Name": "Washed Cobalt",
+    "OverrideCategory": "Cat_KLib_SAC_Wasching_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_OreBauxite",
+            "Amount": 8
+        },
+        {
+            "Item": "Desc_LiquidHydrochloricAcid",
+            "Amount": 2000
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_CrushedCobalt",
+            "Amount": 6
+        },
+        {
+            "Item": "Desc_Wastewater",
+            "Amount": 4000
+        }
+    ],
+    "ProducedIn": [
+        "Build_OreWascher"
+    ],
+    "ManufacturingDuration": 8,
+    "ManufacturingMenuPriority": 9,
+    "$comment": "This is a new file, no old version exists"
+}

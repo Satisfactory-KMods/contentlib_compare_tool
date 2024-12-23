@@ -1,0 +1,18 @@
+{
+    "Name": "Handcrushed Callanite",
+    "Category": "Cat_KLib_Prod_Crushing_Ores_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_OreCopper",
+            "Amount": 3
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_CrushedCallanite",
+            "Amount": 3
+        }
+    ],
+    "ManufacturingMenuPriority": 2,
+    "$comment": "This is a new file, no old version exists"
+}

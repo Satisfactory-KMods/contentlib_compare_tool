@@ -1,19 +1,18 @@
-//Game/FactoryGame/Recipes/Buildings/Recipe_ConstructorMk1.Recipe_ConstructorMk1_C
 {
-  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
-  "Ingredients": [
-    {
-      "Item": "Desc_IronPlate",
-      "Amount": 15
-    },
-    {
-      "Item": "Desc_IronScrew",
-      "Amount": 10
-    },
-    {
-      "Item": "Desc_Cable",
-      "Amount": 2
-    }
-  ],
-  "ManufacturingMenuPriority": 1
+    "Ingredients": [
+        {
+            "Item": "Desc_IronPlate",
+            "Amount": 15
+        },
+        {
+            "Item": "Desc_IronScrew",
+            "Amount": 10
+        },
+        {
+            "Item": "Desc_Cable",
+            "Amount": 2
+        }
+    ],
+    "ManufacturingMenuPriority": 1,
+    "$comment": "This file has been removed, no new version exists"
 }

@@ -1,0 +1,23 @@
+{
+    "Name": "Molten Caterium",
+    "category": "Molten Metals",
+    "Ingredients": [
+        {
+            "Item": "Desc_CrushedCaterium",
+            "Amount": 16
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_LiquidGold",
+            "Amount": 8000
+        },
+        {
+            "Item": "Desc_LiquidSlag",
+            "Amount": 1000
+        }
+    ],
+    "ManufacturingDuration": 6,
+    "ManufacturingMenuPriority": 4,
+    "$comment": "This file has been removed, no new version exists"
+}

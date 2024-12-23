@@ -1,0 +1,26 @@
+//SatisfactoryPlus/Content/Recipes/Assembler/Recipe_Assembler_Rotor.Recipe_Assembler_Rotor_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Rotor",
+  "Category": "StandardParts_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_CopperBusbar",
+      "Amount": 6
+    },
+    {
+      "Item": "Desc_IronWire",
+      "Amount": 16
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_Rotor",
+      "Amount": 2
+    }
+  ],
+  "ProducedIn": [ "Build_AssemblerMk1" ],
+  "ManufacturingDuration": 16,
+  "ManufacturingMenuPriority": 3
+}

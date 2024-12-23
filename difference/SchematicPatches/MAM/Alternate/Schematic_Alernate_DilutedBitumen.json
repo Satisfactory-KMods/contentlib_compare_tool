@@ -1,0 +1,13 @@
+{
+    "Name": "Alternate: Distilled Oil Residue",
+    "Type": "Alternate",
+    "VisualKit": "Desc_HeavyOilResidue",
+    "ClearRecipes": true,
+    "Recipes": [
+        "Recipe_Alternative_DilutedBitumen_C"
+    ],
+    "DependsOn": [
+        "Schematic_SF+_5_1_C"
+    ],
+    "$comment": "This is a new file, no old version exists"
+}

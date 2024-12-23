@@ -1,0 +1,26 @@
+{
+    "Name": "Thermal Silica",
+    "Category": "Other_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_Sand",
+            "Amount": 10
+        },
+        {
+            "Item": "Desc_MagnesiumGranules",
+            "Amount": 9
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_Silica",
+            "Amount": 15
+        }
+    ],
+    "ProducedIn": [
+        "Build_FoundryMk1"
+    ],
+    "ManufacturingDuration": 20,
+    "ManufacturingMenuPriority": 1,
+    "$comment": "This is a new file, no old version exists"
+}

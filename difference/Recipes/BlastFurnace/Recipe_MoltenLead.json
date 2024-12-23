@@ -1,0 +1,22 @@
+{
+    "Name": "Molten Lead",
+    "OverrideCategory": "Molten Metals",
+    "Ingredients": [
+        {
+            "Item": "Desc_CrushedLead",
+            "Amount": 6
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_LiquidLead",
+            "Amount": 3000
+        }
+    ],
+    "ProducedIn": [
+        "Build_FlexibleBlastFurnaceSmelter"
+    ],
+    "ManufacturingDuration": 5,
+    "ManufacturingMenuPriority": 4,
+    "$comment": "This is a new file, no old version exists"
+}

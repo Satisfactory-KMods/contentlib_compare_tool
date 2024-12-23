@@ -1,0 +1,30 @@
+{
+    "Name": "Washed Iron",
+    "OverrideCategory": "Cat_KLib_SAC_Wasching_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_OreIron",
+            "Amount": 8
+        },
+        {
+            "Item": "Desc_Water",
+            "Amount": 8000
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_CrushedIron",
+            "Amount": 8
+        },
+        {
+            "Item": "Desc_LiquidSlag",
+            "Amount": 16000
+        }
+    ],
+    "ProducedIn": [
+        "Build_OreWascher"
+    ],
+    "ManufacturingDuration": 16,
+    "ManufacturingMenuPriority": 1,
+    "$comment": "This is a new file, no old version exists"
+}

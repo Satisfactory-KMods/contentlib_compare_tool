@@ -1,0 +1,45 @@
+{
+    "$comment": "This file has been changed",
+    "new": {
+        "Cost": [
+            {
+                "Item": "/Game/FactoryGame/Resource/Parts/Diamond/Desc_Diamond.Desc_Diamond_C",
+                "Amount": 200,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_SteelRod",
+                "Amount": 500
+            }
+        ]
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "Cost": [
+            {
+                "Item": "Desc_Diamond",
+                "Amount": 200
+            },
+            {
+                "Item": "Desc_SteelRod",
+                "Amount": 500
+            }
+        ]
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "Name": "Miner Module: Crusher",
+        "ClearCost": true,
+        "Cost": [
+            {
+                "Item": "/Game/FactoryGame/Resource/Parts/Diamond/Desc_Diamond.Desc_Diamond_C",
+                "Amount": 200,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_SteelRod",
+                "Amount": 500
+            }
+        ]
+    }
+}

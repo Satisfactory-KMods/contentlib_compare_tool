@@ -1,0 +1,22 @@
+{
+    "Name": "Cobalt Plate",
+    "OverrideCategory": "StandardParts_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_CobaltIngot",
+            "Amount": 3
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_CobaltPlates",
+            "Amount": 2
+        }
+    ],
+    "ProducedIn": [
+        "Build_ConstructorMk1"
+    ],
+    "ManufacturingDuration": 4,
+    "ManufacturingMenuPriority": 21,
+    "$comment": "This is a new file, no old version exists"
+}

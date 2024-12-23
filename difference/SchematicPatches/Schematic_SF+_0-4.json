@@ -1,0 +1,92 @@
+{
+    "$comment": "This file has been changed",
+    "new": {
+        "Cost": [
+            {
+                "Item": "Desc_IronPlate",
+                "Amount": 30,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_Cable",
+                "Amount": 20
+            },
+            {
+                "Item": "Desc_Cement",
+                "Amount": 40,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "Recipes": [
+            "Recipe_ConveyorPole_C",
+            "Recipe_ConveyorBeltMk1_C",
+            "Recipe_ConveyorLiftMk1_C",
+            "Recipe_Crusher_C",
+            "Recipe_Crusher_CrushedLarrussite_C",
+            "Recipe_Crusher_CrushedSiterite_C",
+            "Recipe_Crusher_CrushedCallanite_C",
+            "Recipe_Smelter_Dirty_TinIngots_C",
+            "Recipe_Assembler_TinPlates_C"
+        ]
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "Cost": [
+            {
+                "Item": "Desc_TinPlates",
+                "Amount": 20
+            },
+            {
+                "Item": "Desc_Cable",
+                "Amount": 20
+            },
+            {
+                "Item": "Desc_IronRod",
+                "Amount": 30
+            },
+            {
+                "Item": "Desc_Cement",
+                "Amount": 40
+            }
+        ],
+        "Recipes": [
+            "Recipe_ModularMiner_C",
+            "Recipe_Module_Drill_T1_C",
+            "Recipe_StorageContainerMk1_C",
+            "Recipe_Constructor_TinRod_C",
+            "Recipe_Assamble_RIronPlates_C"
+        ]
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "ClearCost": true,
+        "Cost": [
+            {
+                "Item": "Desc_IronPlate",
+                "Amount": 30,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_Cable",
+                "Amount": 20
+            },
+            {
+                "Item": "Desc_Cement",
+                "Amount": 40,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "ClearRecipes": true,
+        "Recipes": [
+            "Recipe_ConveyorPole_C",
+            "Recipe_ConveyorBeltMk1_C",
+            "Recipe_ConveyorLiftMk1_C",
+            "Recipe_Crusher_C",
+            "Recipe_Crusher_CrushedLarrussite_C",
+            "Recipe_Crusher_CrushedSiterite_C",
+            "Recipe_Crusher_CrushedCallanite_C",
+            "Recipe_Smelter_Dirty_TinIngots_C",
+            "Recipe_Assembler_TinPlates_C"
+        ]
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "Name": "Steel Bolt",
+    "category": "StandardParts_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_SteelRod",
+            "Amount": 5
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_SteelBolt",
+            "Amount": 15
+        }
+    ],
+    "ProducedIn": [
+        "Build_ConstructorMk1"
+    ],
+    "ManufacturingDuration": 24,
+    "ManufacturingMenuPriority": 24,
+    "$comment": "This is a new file, no old version exists"
+}

@@ -1,0 +1,6 @@
+//KLib/Assets/Parts/Production/Metal/Ingots/Desc_InvarIngot.Desc_InvarIngot_C
+{
+  "Name": "Magnitar™ Billet",
+  "Description": "A bar stock cast from Magnitar™.\n\nHighly energetic magnetic fields can turn it into permanent magnets.\rCrafted into basic Magnitar™ parts.",
+  "StackSize": "Huge"
+}

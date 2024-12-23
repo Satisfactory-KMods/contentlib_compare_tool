@@ -1,0 +1,26 @@
+//SatisfactoryPlus/Content/Recipes/Crusher/Recipe_Crusher_CrushedCallanite.Recipe_Crusher_CrushedCallanite_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Crushed Callanite",
+  "Category": "Cat_KLib_Prod_Crushing_Ores_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_OreCopper",
+      "Amount": 12
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_CrushedCallanite",
+      "Amount": 12
+    },
+    {
+      "Item": "Desc_Gangue",
+      "Amount": 5
+    }
+  ],
+  "ProducedIn": [ "Build_Crusher" ],
+  "ManufacturingDuration": 12,
+  "ManufacturingMenuPriority": 2
+}

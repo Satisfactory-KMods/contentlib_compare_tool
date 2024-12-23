@@ -1,0 +1,37 @@
+{
+    "Name": "Magnitar™ Magnet Production",
+    "Type": "Milestone",
+    "Tier": 6,
+    "MenuPriority": 5,
+    "VisualKit": "Desc_Computer_C",
+    "Cost": [
+        {
+            "Item": "Desc_CrushedNickle",
+            "Amount": 100
+        },
+        {
+            "Item": "Desc_CobaltPlates",
+            "Amount": 100
+        },
+        {
+            "Item": "Desc_IronWire",
+            "Amount": 200
+        },
+        {
+            "Item": "Desc_PowerShardCrystal_C",
+            "Amount": 10
+        }
+    ],
+    "Recipes": [
+        "Recipe_MoltenNickel",
+        "Recipe_MoltenMagnitar",
+        "Recipe_Cast_MagnitarBillet",
+        "Recipe_MagneticCore",
+        "Recipe_BarMagnet",
+        "Recipe_ElectroControlRod",
+        "Recipe_Battery",
+        "Recipe_Manu_AdaptiveControlUnit_5"
+    ],
+    "Time": 360,
+    "$comment": "This is a new file, no old version exists"
+}

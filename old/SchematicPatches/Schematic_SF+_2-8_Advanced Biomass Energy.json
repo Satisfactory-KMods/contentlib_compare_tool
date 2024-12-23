@@ -1,31 +1,37 @@
-//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T2/Schematic_SF+_2_8.Schematic_SF+_2_8_C
 {
-  "Name": "Advanced Biomass Energy",
-  "MenuPriority": 2,
-  "ClearCost": true,
-  "Cost": [
-    {
-      "Item": "Desc_ModularFrame",
-      "Amount": 20
-    },
-    {
-      "Item": "Desc_Rotor",
-      "Amount": 30
-    },
-    {
-      "Item": "Desc_BronzePipe",
-      "Amount": 50
-    },
-    {
-      "Item": "Desc_CopperSheet",
-      "Amount": 100
-    },
-    {
-      "Item": "Desc_Cement",
-      "Amount": 150
-    }
-  ],
-  "ClearRecipes": true,
-  "Recipes": [ "Recipe_Pipeline_C", "Recipe_WaterPump_C", "Recipe_Cleaner_2_C", "Recipe_RP_MP_BiomassHeater_C", "Recipe_RP_MP_BoilerMk1_C" ],
-  "Time": 180
+    "Name": "Advanced Biomass Energy",
+    "MenuPriority": 2,
+    "ClearCost": true,
+    "Cost": [
+        {
+            "Item": "Desc_ModularFrame",
+            "Amount": 20
+        },
+        {
+            "Item": "Desc_Rotor",
+            "Amount": 30
+        },
+        {
+            "Item": "Desc_BronzePipe",
+            "Amount": 50
+        },
+        {
+            "Item": "Desc_CopperSheet",
+            "Amount": 100
+        },
+        {
+            "Item": "Desc_Cement",
+            "Amount": 150
+        }
+    ],
+    "ClearRecipes": true,
+    "Recipes": [
+        "Recipe_Pipeline_C",
+        "Recipe_WaterPump_C",
+        "Recipe_Cleaner_2_C",
+        "Recipe_RP_MP_BiomassHeater_C",
+        "Recipe_RP_MP_BoilerMk1_C"
+    ],
+    "Time": 180,
+    "$comment": "This file has been removed, no new version exists"
 }

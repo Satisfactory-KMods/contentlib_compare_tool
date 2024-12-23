@@ -3,15 +3,15 @@
   "BigIcon": "Desc_Gas_Steam",
   "SmallIcon": "Desc_Gas_Steam",
   "FluidColor": {
-    "r": 80,
-    "g": 128,
-    "b": 160,
-    "a": 255
+    "r": 90,
+    "g": 150,
+    "b": 200,
+    "a": 0
   },
   "GasColor": {
-    "r": 255,
-    "g": 255,
+    "r": 225,
+    "g": 225,
     "b": 255,
-    "a": 200
+    "a": 2
   }
 }

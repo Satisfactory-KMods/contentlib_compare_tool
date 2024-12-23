@@ -1,0 +1,27 @@
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Sulfite Gas",
+  "OverrideCategory": "AdvancedRefinement_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_SulfurPowder_C",
+      "Amount": 6
+    },
+    {
+      "Item": "Desc_Gas_Hydrogen",
+      "Amount": 6000
+    }
+
+  ],
+  "Products": [
+
+    {
+      "Item": "Desc_Sulfurtrixid_C",
+      "Amount": 7000
+    }
+
+  ],
+  "ManufacturingDuration": 12,
+  "ManufacturingMenuPriority": 3,
+  "ProducedIn": [ "Build_OilRefinery" ]
+}

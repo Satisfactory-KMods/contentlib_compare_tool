@@ -1,0 +1,8 @@
+{
+    "Name": "Cryolite Residue",
+    "VisualKit": "Kit_CryoResidue",
+    "Description": "A mixture of Aluminum and other compounds.",
+    "Form": "Solid",
+    "StackSize": "Huge",
+    "$comment": "This is a new file, no old version exists"
+}

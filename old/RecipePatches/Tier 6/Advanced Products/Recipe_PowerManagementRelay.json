@@ -1,0 +1,34 @@
+{
+    "Name": "Power Management Relay",
+    "Category": "SpaceElevator_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_CircuitBoardHighSpeed",
+            "Amount": 4
+        },
+        {
+            "Item": "Desc_ElectromagneticControlRod",
+            "Amount": 3
+        },
+        {
+            "Item": "Desc_SpaceElevatorPart_3",
+            "Amount": 3
+        },
+        {
+            "Item": "Desc_Cable",
+            "Amount": 14
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_PowerRelay",
+            "Amount": 4
+        }
+    ],
+    "ManufacturingDuration": 40,
+    "ManufacturingMenuPriority": 3,
+    "ProducedIn": [
+        "Build_ManufacturerMk1"
+    ],
+    "$comment": "This file has been removed, no new version exists"
+}

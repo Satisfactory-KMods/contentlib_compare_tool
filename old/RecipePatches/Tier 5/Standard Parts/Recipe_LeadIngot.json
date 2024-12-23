@@ -1,0 +1,21 @@
+{
+    "Name": "Lead Ingot",
+    "Ingredients": [
+        {
+            "Item": "Desc_CrushedLead",
+            "Amount": 2
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_LeadIngot",
+            "Amount": 3
+        }
+    ],
+    "ProducedIn": [
+        "Build_SmelterMk1"
+    ],
+    "ManufacturingDuration": 4,
+    "ManufacturingMenuPriority": 6,
+    "$comment": "This file has been removed, no new version exists"
+}

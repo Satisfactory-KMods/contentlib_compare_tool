@@ -1,4 +1,4 @@
-//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T4/Schematic_SF+_4_2.Schematic_SF+_4_2_C
+//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T4/Schematic_SF+_T4_2.Schematic_SF+_T4_2_C
 {
   "Name": "Hypertubes",
   "MenuPriority": 3,
@@ -22,9 +22,7 @@
     "Recipe_PipeHyper",
     "Recipe_PipeHyperStart",
     "Recipe_PipeHyperSupport",
-    "Recipe_HyperPoleStackable",
-    "Recipe_HyperTubeWallHole",
-    "Recipe_HyperTubeWallSupport"
+    "Recipe_HyperPoleStackable"
   ],
   "Time": 240
 }

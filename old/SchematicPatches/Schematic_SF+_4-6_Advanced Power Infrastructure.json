@@ -1,35 +1,33 @@
-//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T4/Schematic_SF+_4_6.Schematic_SF+_4_6_C
 {
-  "Name": "Advanced Power Infrastructure",
-  "MenuPriority": 5,
-  "ClearCost": true,
-  "Cost": [
-    {
-      "Item": "Desc_Stator",
-      "Amount": 100
-    },
-    {
-      "Item": "Desc_Cable",
-      "Amount": 250
-    },
-    {
-      "Item": "Desc_HighSpeedWire",
-      "Amount": 500
-    },
-    {
-      "Item": "Desc_SteelPlate",
-      "Amount": 100
-    }
-  ],
-  "ClearRecipes": true,
-  "Recipes": [
-    "Recipe_PowerTower_C",
-    "Recipe_PowerTowerPlatform_C",
-    "Recipe_PowerStorageMk1_C",
-    "Recipe_SolarPanel_Mk1_C",
-    "Recipe_SFP_WindTurbineMk2_C",
-    "Recipe_Sorter_T1_Cryolit_2_C",
-    "Recipe_Assamble_PhCell_C"
-  ],
-  "Time": 300
+    "Name": "Advanced Power Infrastructure",
+    "MenuPriority": 5,
+    "ClearCost": true,
+    "Cost": [
+        {
+            "Item": "Desc_Stator",
+            "Amount": 100
+        },
+        {
+            "Item": "Desc_Cable",
+            "Amount": 250
+        },
+        {
+            "Item": "Desc_HighSpeedWire",
+            "Amount": 500
+        },
+        {
+            "Item": "Desc_SteelPlate",
+            "Amount": 100
+        }
+    ],
+    "ClearRecipes": true,
+    "Recipes": [
+        "Recipe_PowerTower_C",
+        "Recipe_PowerTowerPlatform_C",
+        "Recipe_PowerStorageMk1_C",
+        "Recipe_SFP_WindTurbineMk2_C",
+        "Recipe_Sorter_T1_Cryolit_2_C"
+    ],
+    "Time": 300,
+    "$comment": "This file has been removed, no new version exists"
 }

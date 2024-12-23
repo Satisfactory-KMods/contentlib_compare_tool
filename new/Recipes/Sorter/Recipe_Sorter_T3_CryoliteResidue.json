@@ -1,0 +1,29 @@
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Cryolite Residue",
+  "OverrideCategory": "T3 Sorting",
+  "Ingredients": [
+    {
+      "Item": "Desc_RawQuartz",
+      "Amount": 16
+    },
+    {
+      "Item": "Desc_CausticSoda",
+      "Amount": 3000
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_CrashedKryolith",
+      "Amount": 12
+    },
+    {
+      "Item": "Desc_Silica",
+      "Amount": 3
+    }
+  ],
+  "ProducedIn": [ "Build_SorterMk1" ],
+  "ManufacturingDuration": 4,
+  "ManufacturingMenuPriority": 7
+}

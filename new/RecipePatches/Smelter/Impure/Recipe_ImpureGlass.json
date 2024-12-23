@@ -1,0 +1,22 @@
+//SatisfactoryPlus/Content/Recipes/Smelter/Recipe_Smelter_Dirty_Glass.Recipe_Smelter_Dirty_Glass_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Impure Glass",
+  "Category": "Other",
+  "Ingredients": [
+    {
+      "Item": "Desc_Sand",
+      "Amount": 3
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_Glass",
+      "Amount": 2
+    }
+  ],
+  "ProducedIn": [ "Build_SmelterMk1" ],
+  "ManufacturingDuration": 6,
+  "ManufacturingMenuPriority": 1
+}

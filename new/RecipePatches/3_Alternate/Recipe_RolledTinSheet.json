@@ -1,0 +1,23 @@
+//SatisfactoryPlus/Content/SchematicManager/Alternative/RolledTinSheet/Recipe_Alternative_RolledTinSheet.Recipe_Alternative_RolledTinSheet_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Alternate: Rolled Tin Sheet",
+  "Category": "StandardParts_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_TinPlates",
+      "Amount": 8
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_TinSheet",
+      "Amount": 6
+    }
+
+  ],
+  "ProducedIn": [ "Build_ConstructorMk1" ],
+  "ManufacturingDuration": 16,
+  "ManufacturingMenuPriority": 20
+}

@@ -1,26 +1,26 @@
-//SatisfactoryPlus/Content/Recipes/Crusher/Recipe_Crusher_Sapherit.Recipe_Crusher_Sapherit_C
 {
-  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
-  "Name": "Crushed Callanite",
-  "Category": "Cat_KLib_Prod_Crushing_Ores_C",
-  "Ingredients": [
-    {
-      "Item": "Res_SapheritOre",
-      "Amount": 12
-    }
-
-  ],
-  "Products": [
-    {
-      "Item": "Desc_CrushedSapherit",
-      "Amount": 12
-    },
-    {
-      "Item": "Desc_CrushedLimestone",
-      "Amount": 5
-    }
-  ],
-  "ProducedIn": [ "Build_Crusher" ],
-  "ManufacturingDuration": 12,
-  "ManufacturingMenuPriority": 2
+    "Name": "Crushed Callanite",
+    "Category": "Cat_KLib_Prod_Crushing_Ores_C",
+    "Ingredients": [
+        {
+            "Item": "Res_SapheritOre",
+            "Amount": 12
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_CrushedSapherit",
+            "Amount": 12
+        },
+        {
+            "Item": "Desc_CrushedLimestone",
+            "Amount": 5
+        }
+    ],
+    "ProducedIn": [
+        "Build_Crusher"
+    ],
+    "ManufacturingDuration": 12,
+    "ManufacturingMenuPriority": 2,
+    "$comment": "This file has been removed, no new version exists"
 }

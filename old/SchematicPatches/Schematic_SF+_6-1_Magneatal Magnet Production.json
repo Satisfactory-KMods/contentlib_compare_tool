@@ -1,0 +1,32 @@
+{
+    "Name": "Magneatal™ Magnet Production",
+    "MenuPriority": 5,
+    "ClearCost": true,
+    "Cost": [
+        {
+            "Item": "Desc_CrushedNickle",
+            "Amount": 500
+        },
+        {
+            "Item": "Desc_CobaltPlates",
+            "Amount": 100
+        },
+        {
+            "Item": "Desc_PowerShardCrystal_C",
+            "Amount": 10
+        }
+    ],
+    "ClearRecipes": true,
+    "ClearInventorySlotsToGive": true,
+    "Recipes": [
+        "Recipe_FBFS_Advanced_Nickle_C",
+        "Recipe_FBFS_Alloy_Invar_C",
+        "Recipe_SAC_Ingots_Invar_C",
+        "Recipe_Assamble_InvarPipes_C",
+        "Recipe_Constructor_InvarPlates_C",
+        "Recipe_ElectromagneticControlRod",
+        "Recipe_Manu_Lift_10_C"
+    ],
+    "Time": 360,
+    "$comment": "This file has been removed, no new version exists"
+}

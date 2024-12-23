@@ -1,0 +1,36 @@
+{
+    "Name": "Heavy Modular Frame",
+    "Category": "IndustrialParts_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_ModularFrame",
+            "Amount": 8
+        },
+        {
+            "Item": "Desc_SteelPlateReinforced",
+            "Amount": 12
+        },
+        {
+            "Item": "Desc_BrassPipe",
+            "Amount": 30
+        },
+        {
+            "Item": "Desc_SteelBolt",
+            "Amount": 180
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_ModularFrameHeavy",
+            "Amount": 3
+        }
+    ],
+    "ProducedIn": [
+        "Build_ManufacturerMk1",
+        "manual"
+    ],
+    "ManufacturingDuration": 48,
+    "ManualManufacturingMultiplier": 2.5,
+    "ManufacturingMenuPriority": 2,
+    "$comment": "This is a new file, no old version exists"
+}

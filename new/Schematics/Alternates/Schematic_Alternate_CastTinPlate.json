@@ -1,7 +1,0 @@
-{
-  "Name": "Alternate: Cast Tin Plate",
-  "Type": "Alternate",
-  "VisualKit": "Desc_TinPlates",
-  "Recipes": [ "Recipe_CastTinPlate" ],
-  "DependsOn": [ "Schematic_SF+_1_5_C" ]
-}

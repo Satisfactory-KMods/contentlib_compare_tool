@@ -1,0 +1,22 @@
+{
+    "Name": "Light Ethylene Gas",
+    "OverrideCategory": "SolidOilProducts_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_KLIB_NaturalGas_C",
+            "Amount": 5000
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_Ethylene",
+            "Amount": 4000
+        }
+    ],
+    "ProducedIn": [
+        "Build_OilRefinery"
+    ],
+    "ManufacturingDuration": 6,
+    "ManufacturingMenuPriority": 0.5,
+    "$comment": "This is a new file, no old version exists"
+}

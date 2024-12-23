@@ -1,21 +1,19 @@
-//SatisfactoryPlus/Content/Recipes/Constructor/Recipe_Constructor_IronScrew.Recipe_Constructor_IronScrew_C
 {
-  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
-  "Name": "Iron Screw",
-  "Category": "StandardParts_C",
-  "Ingredients": [
-    {
-      "Item": "Desc_IronRod",
-      "Amount": 2
-    }
-
-  ],
-  "Products": [
-    {
-      "Item": "Desc_IronScrew",
-      "Amount": 5
-    }
-  ],
-  "ManufacturingDuration": 6,
-  "ManufacturingMenuPriority": 3
+    "Name": "Iron Screw",
+    "Category": "StandardParts_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_IronRod",
+            "Amount": 2
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_IronScrew",
+            "Amount": 5
+        }
+    ],
+    "ManufacturingDuration": 6,
+    "ManufacturingMenuPriority": 3,
+    "$comment": "This file has been removed, no new version exists"
 }

@@ -1,0 +1,14 @@
+{
+    "Ingredients": [
+        {
+            "Item": "Desc_BeltDriveMk2",
+            "Amount": 1
+        },
+        {
+            "Item": "Desc_SteelPlate",
+            "Amount": 1
+        }
+    ],
+    "ManufacturingMenuPriority": 3,
+    "$comment": "This is a new file, no old version exists"
+}

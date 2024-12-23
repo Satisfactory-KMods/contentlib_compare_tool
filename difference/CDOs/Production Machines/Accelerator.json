@@ -1,0 +1,14 @@
+{
+    "Class": "/Game/FactoryGame/Buildable/Factory/HadronCollider/Build_HadronCollider.Build_HadronCollider_C",
+    "Edits": [
+        {
+            "Property": "mProductionShardSlotSize",
+            "Value": "8"
+        },
+        {
+            "Property": "mProductionShardBoostMultiplier",
+            "Value": "0.125"
+        }
+    ],
+    "$comment": "This is a new file, no old version exists"
+}

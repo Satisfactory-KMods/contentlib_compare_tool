@@ -1,0 +1,29 @@
+//Game/FactoryGame/Recipes/Converter/Recipe_Ficsonium.Recipe_Ficsonium_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Ingredients": [
+    {
+      "Item": "Desc_PlutoniumWaste",
+      "Amount": 2
+    },
+    {
+      "Item": "Desc_SingularityCell",
+      "Amount": 1
+    },
+    {
+      "Item": "Desc_QuantumEnergy",
+      "Amount": 25000
+    }
+  ],
+  "Products": [
+    {
+      "Item": "Desc_Ficsonium",
+      "Amount": 2
+    }
+  ],
+  "ManufacturingDuration": 6,
+  "ManufacturingMenuPriority": 2,
+  "VariablePowerConsumptionConstant": 2000,
+  "VariablePowerConsumptionFactor": -2000,
+  "ProducedIn": [ "Build_HadronCollider" ]
+}

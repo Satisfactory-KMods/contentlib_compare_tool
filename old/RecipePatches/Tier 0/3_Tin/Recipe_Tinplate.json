@@ -1,26 +1,27 @@
-//SatisfactoryPlus/Content/Recipes/Constructor/Recipe_Constructor_TinPlates.Recipe_Constructor_TinPlates_C
 {
-  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
-  "Name": "Tin Plate",
-  "Category": "StandardParts_C",
-  "Ingredients": [
-    {
-      "Item": "Desc_TinIngot",
-      "Amount": 9
-    },
-    {
-      "Item": "Desc_IronPlate",
-      "Amount": 6
-    }
-
-  ],
-  "Products": [
-    {
-      "Item": "Desc_TinPlates",
-      "Amount": 12
-    }
-  ],
-  "ProducedIn": [ "Build_AssemblerMk1", "manual" ],
-  "ManufacturingDuration": 18,
-  "ManufacturingMenuPriority": 1
+    "Name": "Tin Plate",
+    "Category": "StandardParts_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_TinIngot",
+            "Amount": 9
+        },
+        {
+            "Item": "Desc_IronPlate",
+            "Amount": 6
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_TinPlates",
+            "Amount": 12
+        }
+    ],
+    "ProducedIn": [
+        "Build_AssemblerMk1",
+        "manual"
+    ],
+    "ManufacturingDuration": 18,
+    "ManufacturingMenuPriority": 1,
+    "$comment": "This file has been removed, no new version exists"
 }

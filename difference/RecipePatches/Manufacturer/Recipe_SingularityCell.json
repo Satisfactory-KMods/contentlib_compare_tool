@@ -1,0 +1,27 @@
+{
+    "Ingredients": [
+        {
+            "Item": "Desc_PressureConversionCube_C",
+            "Amount": 2
+        },
+        {
+            "Item": "Desc_DarkMatter",
+            "Amount": 50
+        },
+        {
+            "Item": "Desc_IronPlateReinforced",
+            "Amount": 20
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_SingularityCell",
+            "Amount": 10
+        }
+    ],
+    "ManufacturingDuration": 60,
+    "ProducedIn": [
+        "Build_ManufacturerMk1"
+    ],
+    "$comment": "This is a new file, no old version exists"
+}

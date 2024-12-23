@@ -1,0 +1,6 @@
+{
+    "Mesh": "/KLib/Assets/Buildings/ChemReactor/Mesh/SM_Chem_Reactor.SM_Chem_Reactor",
+    "BigIcon": "Icon_BuildChemReactor512",
+    "SmallIcon": "Icon_BuildChemReactor256",
+    "$comment": "This is a new file, no old version exists"
+}

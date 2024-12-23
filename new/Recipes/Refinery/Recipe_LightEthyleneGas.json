@@ -1,0 +1,23 @@
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Light Ethylene Gas",
+  "OverrideCategory": "SolidOilProducts_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_KLib_NaturalGas",
+      "Amount": 5000
+    }
+
+  ],
+  "Products": [
+
+    {
+      "Item": "Desc_Methane",
+      "Amount": 4000
+    }
+
+  ],
+  "ProducedIn": [ "Build_OilRefinery" ],
+  "ManufacturingDuration": 6,
+  "ManufacturingMenuPriority": 1
+}

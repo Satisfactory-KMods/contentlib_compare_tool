@@ -1,0 +1,27 @@
+{
+    "Name": "Wind Turbine Mk.2",
+    "Ingredients": [
+        {
+            "Item": "Desc_FanBlade",
+            "Amount": 24
+        },
+        {
+            "Item": "Desc_Motor",
+            "Amount": 5
+        },
+        {
+            "Item": "Desc_SteelPipe",
+            "Amount": 20
+        },
+        {
+            "Item": "Desc_ModularFrameHeavy",
+            "Amount": 2
+        },
+        {
+            "Item": "Desc_SteelBolt",
+            "Amount": 50
+        }
+    ],
+    "ManufacturingMenuPriority": 5,
+    "$comment": "This is a new file, no old version exists"
+}

@@ -1,0 +1,28 @@
+{
+    "Name": "Belt Drive Mk.2",
+    "OverrideCategory": "Cat_KLib_BuildingParts_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_TinSheet",
+            "Amount": 8
+        },
+        {
+            "Item": "Desc_Rotor",
+            "Amount": 2
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_BeltDriveMk1_C",
+            "Amount": 10
+        }
+    ],
+    "ProducedIn": [
+        "Build_AssemblerMk1",
+        "manual"
+    ],
+    "ManufacturingDuration": 32,
+    "ManualManufacturingMultiplier": 2,
+    "ManufacturingMenuPriority": 1,
+    "$comment": "This is a new file, no old version exists"
+}

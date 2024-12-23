@@ -1,0 +1,19 @@
+{
+    "Name": "Iron Screw",
+    "Category": "StandardParts_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_IronRod",
+            "Amount": 2
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_IronScrew",
+            "Amount": 5
+        }
+    ],
+    "ManufacturingDuration": 6,
+    "ManufacturingMenuPriority": 3,
+    "$comment": "This is a new file, no old version exists"
+}

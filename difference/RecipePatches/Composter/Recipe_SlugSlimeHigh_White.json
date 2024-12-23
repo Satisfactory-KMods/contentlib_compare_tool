@@ -1,0 +1,21 @@
+{
+    "Name": "White Slug Concentrate",
+    "Ingredients": [
+        {
+            "Item": "SlugDesc_WhiteSlug",
+            "Amount": 1
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_SlugSlime_High_C",
+            "Amount": 100
+        }
+    ],
+    "ProducedIn": [
+        "Build_FF_Composter_C"
+    ],
+    "ManufacturingDuration": 1,
+    "ManufacturingMenuPriority": 1,
+    "$comment": "This is a new file, no old version exists"
+}

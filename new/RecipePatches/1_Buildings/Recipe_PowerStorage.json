@@ -1,0 +1,23 @@
+//Game/FactoryGame/Recipes/Buildings/Recipe_PowerStorageMk1.Recipe_PowerStorageMk1_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Ingredients": [
+    {
+      "Item": "Desc_Motor",
+      "Amount": 5
+    },
+    {
+      "Item": "Desc_SteelPlate",
+      "Amount": 10
+    },
+    {
+      "Item": "Desc_Cable",
+      "Amount": 15
+    },
+    {
+      "Item": "Desc_IronScrew",
+      "Amount": 25
+    }
+  ],
+  "ManufacturingMenuPriority": 6
+}

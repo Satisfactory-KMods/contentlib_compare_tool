@@ -1,4 +1,4 @@
-//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T4/Schematic_SF+_4_3.Schematic_SF+_4_3_C
+//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T4/Schematic_SF+_T4_3.Schematic_SF+_T4_3_C
 {
   "Name": "Factory Infrastructure Mk.2",
   "MenuPriority": 3,
@@ -21,7 +21,7 @@
       "Amount": 100
     },
     {
-      "Item": "Desc_SteelScrew",
+      "Item": "Desc_SteelBolt",
       "Amount": 150
     }
   ],

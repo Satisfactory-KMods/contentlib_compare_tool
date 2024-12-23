@@ -1,23 +1,22 @@
-//SatisfactoryPlus/Content/Recipes/Alternative/Assembler/galvanizedSheet/Recipe_Alternative_GalvanizedSheet.Recipe_Alternative_GalvanizedSheet_C
 {
-  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
-  "Name": "Alternate: Rolled Tin Sheet",
-  "Category": "StandardParts_C",
-  "Ingredients": [
-    {
-      "Item": "Desc_TinPlates",
-      "Amount": 8
-    }
-
-  ],
-  "Products": [
-    {
-      "Item": "Desc_TinSheet",
-      "Amount": 6
-    }
-
-  ],
-  "ProducedIn": [ "Build_ConstructorMk1" ],
-  "ManufacturingDuration": 16,
-  "ManufacturingMenuPriority": 20
+    "Name": "Alternate: Rolled Tin Sheet",
+    "Category": "StandardParts_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_TinPlates",
+            "Amount": 8
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_TinSheet",
+            "Amount": 6
+        }
+    ],
+    "ProducedIn": [
+        "Build_ConstructorMk1"
+    ],
+    "ManufacturingDuration": 16,
+    "ManufacturingMenuPriority": 20,
+    "$comment": "This file has been removed, no new version exists"
 }

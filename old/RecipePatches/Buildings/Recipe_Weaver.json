@@ -1,5 +1,4 @@
-//KLib/Assets/Buildings/Weavingmachine/Recipe_Weavingmachine.Recipe_Weavingmachine_C"
 {
-  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
-  "ManufacturingMenuPriority": 9
+    "ManufacturingMenuPriority": 9,
+    "$comment": "This file has been removed, no new version exists"
 }

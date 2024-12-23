@@ -1,24 +1,23 @@
-//Game/FactoryGame/Recipes/Equipment/Recipe_BladeRunners.Recipe_BladeRunners_C
 {
-  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
-  "Name": "Bladerunners",
-  "Ingredients": [
-    {
-      "Item": "Desc_TinPlate",
-      "Amount": 50
-    },
-    {
-      "Item": "Desc_ModularFrame",
-      "Amount": 15
-    },
-    {
-      "Item": "Desc_Rotor",
-      "Amount": 12
-    },
-    {
-      "Item": "Desc_HighSpeedWire",
-      "Amount": 150
-    }
-  ],
-  "ManufacturingDuration": 64
+    "Name": "Bladerunners",
+    "Ingredients": [
+        {
+            "Item": "Desc_TinPlate",
+            "Amount": 50
+        },
+        {
+            "Item": "Desc_ModularFrame",
+            "Amount": 15
+        },
+        {
+            "Item": "Desc_Rotor",
+            "Amount": 12
+        },
+        {
+            "Item": "Desc_HighSpeedWire",
+            "Amount": 150
+        }
+    ],
+    "ManufacturingDuration": 64,
+    "$comment": "This file has been removed, no new version exists"
 }

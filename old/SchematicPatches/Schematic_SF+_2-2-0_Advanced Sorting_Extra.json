@@ -1,25 +1,25 @@
-//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T2/Schematic_SF+_2_2_0.Schematic_SF+_2_2_0_C
 {
-  "MenuPriority": 3,
-  "ClearCost": true,
-  "Cost": [
-    {
-      "Item": "Desc_BronzeRod",
-      "Amount": 25
-    },
-    {
-      "Item": "Desc_IronRod",
-      "Amount": 30
-    },
-    {
-      "Item": "Desc_IronScrew",
-      "Amount": 50
-    },
-    {
-      "Item": "Desc_Cement",
-      "Amount": 20
-    }
-  ],
-  "ClearRecipes": true,
-  "Time": 180
+    "MenuPriority": 3,
+    "ClearCost": true,
+    "Cost": [
+        {
+            "Item": "Desc_BronzeRod",
+            "Amount": 25
+        },
+        {
+            "Item": "Desc_IronRod",
+            "Amount": 30
+        },
+        {
+            "Item": "Desc_IronScrew",
+            "Amount": 50
+        },
+        {
+            "Item": "Desc_Cement",
+            "Amount": 20
+        }
+    ],
+    "ClearRecipes": true,
+    "Time": 180,
+    "$comment": "This file has been removed, no new version exists"
 }

@@ -1,34 +1,31 @@
-//SatisfactoryPlus/Content/Recipes/SoldifierAndCooler/Parts/Recipe_SAC_Parts_SteelRods.Recipe_SAC_Parts_SteelRods_C
 {
-  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
-  "Name": "Cast Steel Rod",
-  "category": "Cat_KLib_SAC_Cooling_C",
-  "Ingredients": [
-    {
-      "Item": "Desc_LiquidSteel",
-      "Amount": 8000
-    },
-    {
-      "Item": "Desc_Water",
-      "Amount": 16000
-    }
-
-  ],
-  "Products": [
-    {
-      "Item": "Desc_SteelRod",
-      "Amount": 15
-    },
-    {
-      "Item": "Desc_Gas_Steam_Hot",
-      "Amount": 16000
-    },
-    {
-      "Item": "Desc_ColdSlag_C",
-      "Amount": 3
-    }
-
-  ],
-  "ManufacturingDuration": 24,
-  "ManufacturingMenuPriority": 3
+    "Name": "Cast Steel Rod",
+    "category": "Cat_KLib_SAC_Cooling_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_LiquidSteel",
+            "Amount": 8000
+        },
+        {
+            "Item": "Desc_Water",
+            "Amount": 16000
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_SteelRod",
+            "Amount": 15
+        },
+        {
+            "Item": "Desc_Gas_Steam_Hot",
+            "Amount": 16000
+        },
+        {
+            "Item": "Desc_ColdSlag_C",
+            "Amount": 3
+        }
+    ],
+    "ManufacturingDuration": 24,
+    "ManufacturingMenuPriority": 3,
+    "$comment": "This file has been removed, no new version exists"
 }

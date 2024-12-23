@@ -4,7 +4,7 @@
   "ClearCost": true,
   "Cost": [
     {
-      "Item": "Desc_Diamond",
+      "Item": "/Game/FactoryGame/Resource/Parts/Diamond/Desc_Diamond.Desc_Diamond_C",
       "Amount": 200
     },
     {

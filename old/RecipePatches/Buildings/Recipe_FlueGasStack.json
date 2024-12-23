@@ -1,24 +1,23 @@
-//RefinedPower/Buildables/Factory/ModularPower/MPBuildings/Coolers/Co2Cooler/Recipe_RP_MP_Co2Cooler.Recipe_RP_MP_Co2Cooler_C
 {
-  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
-  "Name": "Flue Gas Stack",
-  "Ingredients": [
-    {
-      "Item": "Desc_BronzePipe",
-      "Amount": 12
-    },
-    {
-      "Item": "Desc_IronPlate",
-      "Amount": 20
-    },
-    {
-      "Item": "Desc_IronScrew",
-      "Amount": 20
-    },
-    {
-      "Item": "Desc_IronSheet",
-      "Amount": 10
-    }
-  ],
-  "ManufacturingMenuPriority": 3
+    "Name": "Flue Gas Stack",
+    "Ingredients": [
+        {
+            "Item": "Desc_BronzePipe",
+            "Amount": 12
+        },
+        {
+            "Item": "Desc_IronPlate",
+            "Amount": 20
+        },
+        {
+            "Item": "Desc_IronScrew",
+            "Amount": 20
+        },
+        {
+            "Item": "Desc_IronSheet",
+            "Amount": 10
+        }
+    ],
+    "ManufacturingMenuPriority": 3,
+    "$comment": "This file has been removed, no new version exists"
 }

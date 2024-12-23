@@ -1,0 +1,26 @@
+{
+    "Name": "Magnetic Field Generator",
+    "Category": "SpaceElevator_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_SpaceElevatorPart_4_C",
+            "Amount": 3
+        },
+        {
+            "Item": "Desc_ElectromagneticControlRod_C",
+            "Amount": 12
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_SpaceElevatorPart_6_C",
+            "Amount": 4
+        }
+    ],
+    "ProducedIn": [
+        "Build_AssemblerMk1"
+    ],
+    "ManufacturingDuration": 60,
+    "ManufacturingMenuPriority": 6,
+    "$comment": "This is a new file, no old version exists"
+}

@@ -1,0 +1,22 @@
+{
+    "Name": "Concrete",
+    "Category": "Minerals_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_Gangue",
+            "Amount": 3
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_Cement",
+            "Amount": 1
+        }
+    ],
+    "ProducedIn": [
+        "Build_ConstructorMk1"
+    ],
+    "ManufacturingDuration": 4,
+    "ManufacturingMenuPriority": 1,
+    "$comment": "This is a new file, no old version exists"
+}

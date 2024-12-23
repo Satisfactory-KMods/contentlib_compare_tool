@@ -1,24 +1,22 @@
-//SatisfactoryPlus/Content/Recipes/ChemReactor/OilProcessing/Recipe_ChemReactor_Oil_Petroleum.Recipe_ChemReactor_Oil_Petroleum_C
 {
-  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
-  "Name": "Petroleum Coke",
-  "category": "SolidOilProducts_C",
-  "Ingredients": [
-    {
-      "Item": "Desc_HeavyOilResidue",
-      "Amount": 24000
-    }
-
-  ],
-  "Products": [
-
-    {
-      "Item": "Desc_PetroleumCoke",
-      "Amount": 100
-    }
-
-  ],
-  "ProducedIn": [ "Build_OilRefinery" ],
-  "ManufacturingDuration": 48,
-  "ManufacturingMenuPriority": 3
+    "Name": "Petroleum Coke",
+    "category": "SolidOilProducts_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_HeavyOilResidue",
+            "Amount": 4000
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_PetroleumCoke",
+            "Amount": 20
+        }
+    ],
+    "ProducedIn": [
+        "Build_OilRefinery"
+    ],
+    "ManufacturingDuration": 6,
+    "ManufacturingMenuPriority": 3,
+    "$comment": "This file has been removed, no new version exists"
 }

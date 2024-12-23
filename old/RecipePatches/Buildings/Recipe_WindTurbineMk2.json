@@ -1,0 +1,23 @@
+{
+    "Name": "Wind Turbine Mk.2",
+    "Ingredients": [
+        {
+            "Item": "Desc_WaterBlade_C",
+            "Amount": 10
+        },
+        {
+            "Item": "Desc_Motor",
+            "Amount": 5
+        },
+        {
+            "Item": "Desc_SteelPlate",
+            "Amount": 20
+        },
+        {
+            "Item": "Desc_Cement",
+            "Amount": 50
+        }
+    ],
+    "ManufacturingMenuPriority": 4,
+    "$comment": "This file has been removed, no new version exists"
+}

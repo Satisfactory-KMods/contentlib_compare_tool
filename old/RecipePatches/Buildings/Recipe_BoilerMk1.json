@@ -1,20 +1,18 @@
-//RefinedPower/Buildables/Factory/ModularPower/MPBuildings/Boilers/BoilerMk1/Recipe_RP_MP_BoilerMk1.Recipe_RP_MP_BoilerMk1_C
 {
-  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
-  "Ingredients": [
-
-    {
-      "Item": "Desc_CopperSheet",
-      "Amount": 20
-    },
-    {
-      "Item": "Desc_IronPlate",
-      "Amount": 25
-    },
-    {
-      "Item": "Desc_IronScrew",
-      "Amount": 30
-    }
-  ],
-  "ManufacturingMenuPriority": 5
+    "Ingredients": [
+        {
+            "Item": "Desc_CopperSheet",
+            "Amount": 20
+        },
+        {
+            "Item": "Desc_IronPlate",
+            "Amount": 25
+        },
+        {
+            "Item": "Desc_IronScrew",
+            "Amount": 30
+        }
+    ],
+    "ManufacturingMenuPriority": 5,
+    "$comment": "This file has been removed, no new version exists"
 }

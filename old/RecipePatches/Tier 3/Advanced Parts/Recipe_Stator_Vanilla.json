@@ -1,24 +1,22 @@
-//Game/FactoryGame/Recipes/Assembler/Recipe_Stator.Recipe_Stator_C
 {
-  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
-  "OverrideCategory": "IndustrialParts_C",
-  "Ingredients": [
-    {
-      "Item": "Desc_SteelPipe",
-      "Amount": 3
-    },
-    {
-      "Item": "Desc_TinWire",
-      "Amount": 6
-    }
-
-  ],
-  "Products": [
-    {
-      "Item": "Desc_Stator",
-      "Amount": 1
-    }
-  ],
-  "ManufacturingDuration": 10,
-  "ManufacturingMenuPriority": 4
+    "OverrideCategory": "IndustrialParts_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_SteelPipe",
+            "Amount": 3
+        },
+        {
+            "Item": "Desc_TinWire",
+            "Amount": 6
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_Stator",
+            "Amount": 1
+        }
+    ],
+    "ManufacturingDuration": 10,
+    "ManufacturingMenuPriority": 4,
+    "$comment": "This file has been removed, no new version exists"
 }

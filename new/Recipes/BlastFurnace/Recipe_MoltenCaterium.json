@@ -1,0 +1,25 @@
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Molten Caterium",
+  "OverrideCategory": "Molten Metals",
+  "Ingredients": [
+    {
+      "Item": "Desc_CrushedCaterium",
+      "Amount": 16
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_LiquidGold",
+      "Amount": 8000
+    },
+    {
+      "Item": "Desc_LiquidSlag",
+      "Amount": 1000
+    }
+  ],
+  "ProducedIn": [ "Build_FlexibleBlastFurnaceSmelter" ],
+  "ManufacturingDuration": 6,
+  "ManufacturingMenuPriority": 5
+}

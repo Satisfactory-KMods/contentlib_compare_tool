@@ -1,0 +1,94 @@
+{
+    "$comment": "This file has been changed",
+    "new": {
+        "Cost": [
+            {
+                "Item": "Desc_IronPlate",
+                "Amount": 20,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_IronWire",
+                "Amount": 15,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_CopperRod",
+                "Amount": 10,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_Wire",
+                "Amount": 15
+            }
+        ],
+        "Recipes": [
+            "Recipe_ConstructorMk1_C",
+            "Recipe_PowerPoleMk1_C",
+            "Recipe_Handcrafter_Gangue_C",
+            "Recipe_Handcrafter_Cement_C",
+            "Recipe_Constructor_Concrete_C",
+            "Recipe_Constructor_IronScrew_C"
+        ]
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "Cost": [
+            {
+                "Item": "Desc_IronPlate",
+                "Amount": 30
+            },
+            {
+                "Item": "Desc_Cable",
+                "Amount": 20
+            },
+            {
+                "Item": "Desc_Cement",
+                "Amount": 40
+            }
+        ],
+        "Recipes": [
+            "Recipe_ConveyorPole_C",
+            "Recipe_ConveyorBeltMk1_C",
+            "Recipe_ConveyorLiftMk1_C",
+            "Recipe_Crusher_C",
+            "Recipe_Crusher_Rubyte_C",
+            "Recipe_Smelter_Dirty_TinIngots_C",
+            "Recipe_Constructor_TinPlates_C"
+        ]
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "ClearCost": true,
+        "Cost": [
+            {
+                "Item": "Desc_IronPlate",
+                "Amount": 20,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_IronWire",
+                "Amount": 15,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_CopperRod",
+                "Amount": 10,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_Wire",
+                "Amount": 15
+            }
+        ],
+        "ClearRecipes": true,
+        "Recipes": [
+            "Recipe_ConstructorMk1_C",
+            "Recipe_PowerPoleMk1_C",
+            "Recipe_Handcrafter_Gangue_C",
+            "Recipe_Handcrafter_Cement_C",
+            "Recipe_Constructor_Concrete_C",
+            "Recipe_Constructor_IronScrew_C"
+        ]
+    }
+}

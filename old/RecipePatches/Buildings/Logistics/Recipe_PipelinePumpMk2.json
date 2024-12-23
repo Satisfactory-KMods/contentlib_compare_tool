@@ -1,18 +1,17 @@
-//Game/FactoryGame/Recipes/Buildings/Recipe_PipelinePumpMK2.Recipe_PipelinePumpMK2_C
 {
-  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
-  "Ingredients": [
-    {
-      "Item": "Desc_Motor",
-      "Amount": 4
-    },
-    {
-      "Item": "Desc_BrassPipe",
-      "Amount": 6
-    },
-    {
-      "Item": "Desc_SteelScrew",
-      "Amount": 15
-    }
-  ]
+    "Ingredients": [
+        {
+            "Item": "Desc_Motor",
+            "Amount": 4
+        },
+        {
+            "Item": "Desc_BrassPipe",
+            "Amount": 6
+        },
+        {
+            "Item": "Desc_SteelScrew",
+            "Amount": 15
+        }
+    ],
+    "$comment": "This file has been removed, no new version exists"
 }

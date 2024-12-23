@@ -1,0 +1,21 @@
+//SatisfactoryPlus/Content/Recipes/BlastFurnace/Recipe_BlastFurnace_Iron.Recipe_BlastFurnace_Iron_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Molten Iron",
+  "category": "Molten Metals",
+  "Ingredients": [
+    {
+      "Item": "Desc_CrushedIron",
+      "Amount": 24
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_LiquidIron",
+      "Amount": 12000
+    }
+  ],
+  "ManufacturingDuration": 12,
+  "ManufacturingMenuPriority": 1
+}

@@ -1,0 +1,14 @@
+{
+    "ClearRecipes": true,
+    "Recipes": [
+        "Recipe_Handcrafter_CrushedSiterite_C",
+        "Recipe_Smelter_Dirty_IronIngots_C",
+        "Recipe_Constructor_IronRod_C",
+        "Recipe_Constructor_IronPlate_C",
+        "Recipe_WorkBench_C",
+        "Recipe_TradingPost_C",
+        "Recipe_XenoZapper_C",
+        "Recipe_TradingPost_C"
+    ],
+    "$comment": "This is a new file, no old version exists"
+}

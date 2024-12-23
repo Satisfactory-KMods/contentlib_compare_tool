@@ -1,0 +1,19 @@
+{
+    "Name": "Impure Iron Ingot",
+    "Category": "Impure Ingots",
+    "Ingredients": [
+        {
+            "Item": "Desc_CrushedSiterite",
+            "Amount": 1
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_IronIngot",
+            "Amount": 1
+        }
+    ],
+    "ManufacturingDuration": 2,
+    "ManufacturingMenuPriority": 1,
+    "$comment": "This is a new file, no old version exists"
+}

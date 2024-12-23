@@ -1,0 +1,33 @@
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Hydrogen (Toxic Air)",
+  "OverrideCategory": "Cat_AdvancedRefinement_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_ToxicAir",
+      "Amount": 8000
+    },
+    {
+      "Item": "Desc_Air",
+      "Amount": 4000
+    },
+    {
+      "Item": "Desc_Fabric",
+      "Amount": 2
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_Gas_Hydrogen",
+      "Amount": 2400
+    },
+    {
+      "Item": "Desc_KLib_NaturalGas",
+      "Amount": 5000
+    }
+  ],
+  "ProducedIn": [ "Build_ChemReactor" ],
+  "ManufacturingDuration": 4,
+  "ManufacturingMenuPriority": 6
+}

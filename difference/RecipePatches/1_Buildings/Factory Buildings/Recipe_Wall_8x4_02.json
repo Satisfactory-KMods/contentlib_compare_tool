@@ -1,0 +1,13 @@
+{
+    "Ingredients": [
+        {
+            "Item": "Desc_IronPlate",
+            "Amount": 1
+        },
+        {
+            "Item": "Desc_IronSheet",
+            "Amount": 2
+        }
+    ],
+    "$comment": "This is a new file, no old version exists"
+}

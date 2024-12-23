@@ -15,5 +15,6 @@
       "Item": "Desc_BrassPipe",
       "Amount": 100
     }
-  ]
+  ],
+  "Recipes": [ "Recipe_SlugTerrarium_C", "Recipe_SnailFood_T1" ]
 }

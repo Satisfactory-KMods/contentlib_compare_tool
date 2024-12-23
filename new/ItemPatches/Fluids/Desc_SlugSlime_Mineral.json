@@ -1,0 +1,8 @@
+//KLib/Assets/Ressources/Raw/Fluids/Slugs/Desc_SlugSlime_Mineral.Desc_SlugSlime_Mineral_C
+{
+  "Name": "Mineral Slug Slime",
+  "Description": "Slug Slime highly enriched with minerals.\nCan be concentrated further to extract the elements dissolved in it.",
+  "Form": "RF_Liquid",
+  "VisualKit": "Kit_SlugSLimeMineral",
+  "StackSize": "Fluid"
+}

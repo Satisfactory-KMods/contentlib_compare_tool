@@ -1,0 +1,33 @@
+{
+    "Name": "High Voltage Energy Production",
+    "Type": "Milestone",
+    "Tier": 6,
+    "MenuPriority": 6,
+    "VisualKit": "Desc_GeneratorFuel_C",
+    "Cost": [
+        {
+            "Item": "Desc_HighSpeedWire",
+            "Amount": 2000
+        },
+        {
+            "Item": "Desc_FanBlade",
+            "Amount": 500
+        },
+        {
+            "Item": "Desc_Motor",
+            "Amount": 500
+        },
+        {
+            "Item": "Desc_ElectromagneticControlRod",
+            "Amount": 200
+        }
+    ],
+    "Recipes": [
+        "Recipe_RP_MP_TurbineMk2",
+        "Recipe_SF+_MP_HVGenerator",
+        "Recipe_SFP_WindTurbineMk3_C",
+        "Recipe_PowerManagementRelay"
+    ],
+    "Time": 480,
+    "$comment": "This is a new file, no old version exists"
+}

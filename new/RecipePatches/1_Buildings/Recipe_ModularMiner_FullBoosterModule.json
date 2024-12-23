@@ -1,0 +1,25 @@
+//KLib/Assets/Buildings/ModularExtractor/Recipes/Recipe_Module_Energy_Mk2.Recipe_Module_Energy_Mk2_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Full Booster Module",
+  "Ingredients": [
+
+    {
+      "Item": "Desc_ModularFrameHeavy",
+      "Amount": 5
+    },
+    {
+      "Item": "Desc_CrystalShard",
+      "Amount": 5
+    },
+    {
+      "Item": "Desc_HighSpeedWire",
+      "Amount": 100
+    },
+    {
+      "Item": "Desc_Computer",
+      "Amount": 25
+    }
+  ],
+  "ManufacturingMenuPriority": 6
+}

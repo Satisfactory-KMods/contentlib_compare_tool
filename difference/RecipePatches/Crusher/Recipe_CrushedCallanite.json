@@ -1,0 +1,26 @@
+{
+    "Name": "Crushed Callanite",
+    "Category": "Cat_KLib_Prod_Crushing_Ores_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_OreCopper",
+            "Amount": 12
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_CrushedCallanite",
+            "Amount": 12
+        },
+        {
+            "Item": "Desc_Gangue",
+            "Amount": 5
+        }
+    ],
+    "ProducedIn": [
+        "Build_Crusher"
+    ],
+    "ManufacturingDuration": 12,
+    "ManufacturingMenuPriority": 2,
+    "$comment": "This is a new file, no old version exists"
+}

@@ -1,0 +1,37 @@
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Adaptive Control Unit",
+  "OverrideCategory": "SpaceElevator_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_Computer",
+      "Amount": 3
+    },
+    {
+      "Item": "Desc_SpaceElevatorPart_2",
+      "Amount": 3
+    },
+    {
+      "Item": "Desc_SolderWire",
+      "Amount": 36
+    },
+    {
+      "Item": "Desc_IronScrew",
+      "Amount": 100
+    }
+
+
+
+  ],
+  "Products": [
+
+    {
+      "Item": "Desc_SpaceElevatorPart_5",
+      "Amount": 1
+    }
+
+  ],
+  "ProducedIn": [ "Build_ManufacturerMk1" ],
+  "ManufacturingDuration": 30,
+  "ManufacturingMenuPriority": 2
+}

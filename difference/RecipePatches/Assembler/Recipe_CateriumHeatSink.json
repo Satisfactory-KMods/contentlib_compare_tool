@@ -1,0 +1,26 @@
+{
+    "Name": "Caterium Heatsink",
+    "Category": "Cat_StandardParts_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_CateriumPlates",
+            "Amount": 6
+        },
+        {
+            "Item": "Desc_CopperBusbar",
+            "Amount": 2
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_CateriumHeatsink",
+            "Amount": 2
+        }
+    ],
+    "ProducedIn": [
+        "Build_AssemblerMk1"
+    ],
+    "ManufacturingDuration": 12,
+    "ManufacturingMenuPriority": 3,
+    "$comment": "This is a new file, no old version exists"
+}

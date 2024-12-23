@@ -1,0 +1,24 @@
+{
+  "Name": "Industrial Melting & Casting",
+  "Type": "Milestone",
+  "Tier": 6,
+  "MenuPriority": 3,
+  "VisualKit": "Desc_Computer_C",
+  "Cost": [
+    {
+      "Item": "Desc_PackagedGas_Hydrogen",
+      "Amount": 50
+    },
+    {
+      "Item": "Desc_Computer",
+      "Amount": 25
+    },
+    {
+      "Item": "Desc_BeltDriveMk3",
+      "Amount": 25
+    }
+  ],
+
+  "Recipes": [ "Recipe_MoltenCaterium", "Recipe_MoltenZinc", "Recipe_MoltenLead", "Recipe_MoltenCobalt", "Recipe_Cast_CateriumIngot", "Recipe_Cast_ZincIngot", "Recipe_Cast_LeadIngot", "Recipe_Cast_CobaltIngot", "Recipe_CobaltPlate" ],
+  "Time": 240
+}

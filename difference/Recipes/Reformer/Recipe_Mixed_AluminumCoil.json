@@ -1,0 +1,38 @@
+{
+    "Name": "Cast Aluminum Coil",
+    "OverrideCategory": "Cat_KLib_SAC_Cooling_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_LiquidAluminum",
+            "Amount": 10000
+        },
+        {
+            "Item": "Desc_MagnesiumGranules",
+            "Amount": 20
+        },
+        {
+            "Item": "Desc_Water",
+            "Amount": 6000
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_AlumniumSheet_C",
+            "Amount": 32
+        },
+        {
+            "Item": "Desc_AluminumIngot",
+            "Amount": 8
+        },
+        {
+            "Item": "Desc_Gas_Steam_Hot",
+            "Amount": 6000
+        }
+    ],
+    "ProducedIn": [
+        "Build_SoldifierAndCooler"
+    ],
+    "ManufacturingDuration": 12,
+    "ManufacturingMenuPriority": 3,
+    "$comment": "This is a new file, no old version exists"
+}

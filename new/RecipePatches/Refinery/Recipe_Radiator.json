@@ -1,0 +1,26 @@
+//Game/FactoryGame/Recipes/Assembler/Recipe_HeatSink.Recipe_HeatSink_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Aluminum Radiator",
+  "OverrideCategory": "IndustrialParts_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_AluminumPlate_C",
+      "Amount": 12
+    },
+    {
+      "Item": "Desc_CoolingWater",
+      "Amount": 4000
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_AluminumPlateReinforced",
+      "Amount": 2
+    }
+  ],
+  "ManufacturingDuration": 16,
+  "ManufacturingMenuPriority": 2,
+  "ProducedIn": [ "Build_OilRefinery" ]
+}

@@ -1,0 +1,26 @@
+{
+    "Name": "Crushed Larrussite",
+    "Category": "Cat_KLib_Prod_Crushing_Ores_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_Stone",
+            "Amount": 3
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_CrushedLarrussite",
+            "Amount": 2
+        },
+        {
+            "Item": "Desc_Gangue",
+            "Amount": 2
+        }
+    ],
+    "ProducedIn": [
+        "Build_Crusher"
+    ],
+    "ManufacturingDuration": 3,
+    "ManufacturingMenuPriority": 3,
+    "$comment": "This is a new file, no old version exists"
+}

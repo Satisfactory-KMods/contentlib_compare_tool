@@ -1,0 +1,6 @@
+{
+    "Name": "Kerr Crystal",
+    "Description": "A very special phase of Kyalite crystal with birefractive properties. It requires refinement before it can be used.",
+    "VisualKit": "Kit_NLOCrystal",
+    "$comment": "This is a new file, no old version exists"
+}

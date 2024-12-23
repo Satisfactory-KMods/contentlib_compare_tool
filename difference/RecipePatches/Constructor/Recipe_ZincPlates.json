@@ -1,0 +1,22 @@
+{
+    "Name": "Zinc Plate",
+    "OverrideCategory": "StandardParts_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_ZincIngot",
+            "Amount": 5
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_ZincPlates",
+            "Amount": 6
+        }
+    ],
+    "ProducedIn": [
+        "Build_ConstructorMk1"
+    ],
+    "ManufacturingDuration": 24,
+    "ManufacturingMenuPriority": 12,
+    "$comment": "This is a new file, no old version exists"
+}

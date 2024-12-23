@@ -1,23 +1,22 @@
-//SatisfactoryPlus/Content/BuildingRecipes/Slugs/Recipe_SlugHatchery.Recipe_SlugHatchery_C
 {
-  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
-  "Ingredients": [
-    {
-      "Item": "Desc_BronzeFrame",
-      "Amount": 10
-    },
-    {
-      "Item": "Desc_BronzePlates",
-      "Amount": 25
-    },
-    {
-      "Item": "Desc_IronRod",
-      "Amount": 20
-    },
-    {
-      "Item": "Desc_IronScrew",
-      "Amount": 50
-    }
-  ],
-  "ManufacturingMenuPriority": 2
+    "Ingredients": [
+        {
+            "Item": "Desc_BronzeFrame",
+            "Amount": 10
+        },
+        {
+            "Item": "Desc_BronzePipe",
+            "Amount": 25
+        },
+        {
+            "Item": "Desc_IronRod",
+            "Amount": 20
+        },
+        {
+            "Item": "Desc_IronScrew",
+            "Amount": 50
+        }
+    ],
+    "ManufacturingMenuPriority": 2,
+    "$comment": "This file has been removed, no new version exists"
 }

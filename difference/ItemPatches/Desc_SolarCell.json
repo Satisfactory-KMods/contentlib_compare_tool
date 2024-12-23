@@ -1,0 +1,15 @@
+{
+    "$comment": "This file has been changed",
+    "new": {
+        "Description": "A semiconductor photodiode array. Converts light into electricity.\nOften used to construct Solar Panels or in advanced electronics."
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "Description": "Converts light into electricity.\nUsed to construct Solar Panels."
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "Name": "Solar Cell",
+        "Description": "A semiconductor photodiode array. Converts light into electricity.\nOften used to construct Solar Panels or in advanced electronics."
+    }
+}

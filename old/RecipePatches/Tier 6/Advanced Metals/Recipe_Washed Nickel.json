@@ -1,0 +1,27 @@
+{
+    "Name": "Washed Nickel",
+    "OverrideCategory": "Cat_KLib_SAC_Wasching_C",
+    "Ingredients": [
+        {
+            "Item": "Res_SapheritOre",
+            "Amount": 12
+        },
+        {
+            "Item": "Desc_LiquidHydrochloricAcid",
+            "Amount": 3000
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_CrushedNickle",
+            "Amount": 8
+        },
+        {
+            "Item": "Desc_LiquidDirtyWater",
+            "Amount": 4000
+        }
+    ],
+    "ManufacturingDuration": 12,
+    "ManufacturingMenuPriority": 7,
+    "$comment": "This file has been removed, no new version exists"
+}

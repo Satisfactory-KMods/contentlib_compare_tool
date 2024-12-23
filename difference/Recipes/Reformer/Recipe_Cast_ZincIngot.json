@@ -1,0 +1,30 @@
+{
+    "Name": "Cast Zinc Ingot",
+    "OverrideCategory": "Cat_Ingots_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_LiquidZinc",
+            "Amount": 6000
+        },
+        {
+            "Item": "Desc_Water",
+            "Amount": 2000
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_ZincIngot",
+            "Amount": 9
+        },
+        {
+            "Item": "Desc_Gas_Steam_Hot",
+            "Amount": 3000
+        }
+    ],
+    "ProducedIn": [
+        "Build_SoldifierAndCooler"
+    ],
+    "ManufacturingDuration": 6,
+    "ManufacturingMenuPriority": 5,
+    "$comment": "This is a new file, no old version exists"
+}

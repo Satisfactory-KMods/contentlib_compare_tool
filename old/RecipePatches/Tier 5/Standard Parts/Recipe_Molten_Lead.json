@@ -1,0 +1,23 @@
+{
+    "Name": "Molten Lead",
+    "category": "Molten Metals",
+    "Ingredients": [
+        {
+            "Item": "Desc_CrushedLead",
+            "Amount": 6
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_LiquidLead",
+            "Amount": 3000
+        },
+        {
+            "Item": "Desc_LiquidSlag",
+            "Amount": 1000
+        }
+    ],
+    "ManufacturingDuration": 5,
+    "ManufacturingMenuPriority": 5,
+    "$comment": "This file has been removed, no new version exists"
+}

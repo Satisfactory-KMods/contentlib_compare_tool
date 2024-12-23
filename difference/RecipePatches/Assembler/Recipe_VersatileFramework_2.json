@@ -1,0 +1,26 @@
+{
+    "Name": "Versatile Framework",
+    "OverrideCategory": "Cat_SpaceElevator",
+    "Ingredients": [
+        {
+            "Item": "Desc_BronzeFrame",
+            "Amount": 4
+        },
+        {
+            "Item": "Desc_SteelRod",
+            "Amount": 60
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_SpaceElevatorPart_2",
+            "Amount": 6
+        }
+    ],
+    "ProducedIn": [
+        "Build_AssemblerMk1"
+    ],
+    "ManufacturingDuration": 64,
+    "ManufacturingMenuPriority": 2,
+    "$comment": "This is a new file, no old version exists"
+}

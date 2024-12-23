@@ -1,21 +1,21 @@
-//SatisfactoryPlus/Content/Recipes/Constructor/Recipe_Constructor_CopperPipe.Recipe_Constructor_CopperPipe_C
 {
-  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
-  "Category": "StandardParts_C",
-  "Ingredients": [
-    {
-      "Item": "Desc_CopperIngot",
-      "Amount": 4
-    }
-
-  ],
-  "Products": [
-    {
-      "Item": "Desc_CopperPipe",
-      "Amount": 3
-    }
-  ],
-  "ProducedIn": [ "Build_ConstructorMk1" ],
-  "ManufacturingDuration": 5,
-  "ManufacturingMenuPriority": 90
+    "Category": "StandardParts_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_CopperIngot",
+            "Amount": 4
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_CopperPipe",
+            "Amount": 3
+        }
+    ],
+    "ProducedIn": [
+        "Build_ConstructorMk1"
+    ],
+    "ManufacturingDuration": 5,
+    "ManufacturingMenuPriority": 90,
+    "$comment": "This file has been removed, no new version exists"
 }

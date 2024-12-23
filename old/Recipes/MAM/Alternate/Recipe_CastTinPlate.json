@@ -1,25 +1,26 @@
 {
-  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
-  "Name": "Alternate: Cast Tin Plate",
-  "OverrideCategory": "StandardParts_C",
-  "Ingredients": [
-    {
-      "Item": "Desc_TinIngot",
-      "Amount": 18
-    },
-    {
-      "Item": "Desc_IronIngot",
-      "Amount": 9
-    }
-  ],
-  "Products": [
-    {
-      "Item": "Desc_TinPlates",
-      "Amount": 12
-    }
-  ],
-  "ProducedIn": [ "Build_Foundry" ],
-  "ManufacturingDuration": 36,
-  "ManufacturingMenuPriority": 5
-
+    "Name": "Alternate: Cast Tin Plate",
+    "OverrideCategory": "StandardParts_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_TinIngot",
+            "Amount": 18
+        },
+        {
+            "Item": "Desc_IronIngot",
+            "Amount": 9
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_TinPlates",
+            "Amount": 12
+        }
+    ],
+    "ProducedIn": [
+        "Build_Foundry"
+    ],
+    "ManufacturingDuration": 36,
+    "ManufacturingMenuPriority": 5,
+    "$comment": "This file has been removed, no new version exists"
 }

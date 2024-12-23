@@ -1,31 +1,30 @@
 {
-  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
-  "Name": "Ethylene Gas",
-  "OverrideCategory": "SolidOilProducts_C",
-  "Ingredients": [
-    {
-      "Item": "Desc_HeavyOilResidue",
-      "Amount": 2000
-    },
-    {
-      "Item": "Desc_Gas_Steam_Hot",
-      "Amount": 9000
-    }
-
-  ],
-  "Products": [
-
-    {
-      "Item": "Desc_Methane",
-      "Amount": 6000
-    },
-    {
-      "Item": "Desc_PolymerResin",
-      "Amount": 20
-    }
-
-  ],
-  "ProducedIn": [ "Build_SoldifierAndCooler" ],
-  "ManufacturingDuration": 6,
-  "ManufacturingMenuPriority": 1
+    "Name": "Ethylene Gas",
+    "OverrideCategory": "SolidOilProducts_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_HeavyOilResidue",
+            "Amount": 2000
+        },
+        {
+            "Item": "Desc_Gas_Steam_Hot",
+            "Amount": 8000
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_Methane",
+            "Amount": 4000
+        },
+        {
+            "Item": "Desc_PolymerResin",
+            "Amount": 12
+        }
+    ],
+    "ProducedIn": [
+        "Build_SoldifierAndCooler"
+    ],
+    "ManufacturingDuration": 6,
+    "ManufacturingMenuPriority": 1,
+    "$comment": "This file has been removed, no new version exists"
 }

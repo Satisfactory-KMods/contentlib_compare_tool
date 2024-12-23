@@ -1,0 +1,33 @@
+{
+    "$comment": "This file has been changed",
+    "new": {
+        "Cost": [
+            {
+                "Item": "Desc_RawQuartz",
+                "Amount": 50,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ]
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "Cost": [
+            {
+                "Item": "Res_Cryolit",
+                "Amount": 50
+            }
+        ]
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "Name": "Kyalite",
+        "ClearCost": true,
+        "Cost": [
+            {
+                "Item": "Desc_RawQuartz",
+                "Amount": 50,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ]
+    }
+}

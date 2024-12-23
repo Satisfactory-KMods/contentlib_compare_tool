@@ -1,0 +1,26 @@
+{
+    "Class": "/KLib/Assets/Buildings/Cleaner/Build_Cleaner2.Build_Cleaner2_C",
+    "Edits": [
+        {
+            "Property": "mDisplayName",
+            "Value": "Filtrator"
+        },
+        {
+            "Property": "mDescription",
+            "Value": "Processes fluids by reducing them to solid components or treating them with a selected filter.\nEvery slot has its own production time.\n\nHead Lift: 10 meters.\r(Allows fluids to be transported 10 meters upwards.)\r\n\r\nHas a single belt output which outputs the solid products in a set order.\n\nThis fixed output order can be sorted with splitter trees or a smart sorting system."
+        },
+        {
+            "Property": "mNumCyclesForProductivity",
+            "Value": 5
+        },
+        {
+            "Property": "mMinimumStoppedTime",
+            "Value": 4
+        },
+        {
+            "Property": "mPowerConsumptionExponent",
+            "Value": 1.321929
+        }
+    ],
+    "$comment": "This is a new file, no old version exists"
+}

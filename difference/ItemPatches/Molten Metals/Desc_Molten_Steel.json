@@ -1,0 +1,17 @@
+{
+    "$comment": "This file has been changed",
+    "new": {
+        "Description": "Melting Point: 1380°C, Carbon Content: 0.85 %\n\nLiquid Steel. When cooled slowly, tough and ductile Pearlite is formed.\nWhen cooled quickly, hard and brittle Martensite is formed.",
+        "VisualKit": "Kit_MoltenSteel"
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "Description": "Melting Point: 1380°C, Carbon Content: 0.85 %\n\nLiquid Steel. When cooled slowly, tough and malleable Austenite and Cementite are formed.\nWhen cooled quickly, hard and brittle Martensite is formed."
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "Name": "Molten Steel",
+        "Description": "Melting Point: 1380°C, Carbon Content: 0.85 %\n\nLiquid Steel. When cooled slowly, tough and ductile Pearlite is formed.\nWhen cooled quickly, hard and brittle Martensite is formed.",
+        "VisualKit": "Kit_MoltenSteel"
+    }
+}

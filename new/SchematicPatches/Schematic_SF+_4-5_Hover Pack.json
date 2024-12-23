@@ -1,0 +1,27 @@
+//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T4/Schematic_SF+_T4_5.Schematic_SF+_T4_5_C
+{
+  "Name": "Hover Pack",
+  "MenuPriority": 7,
+  "ClearCost": true,
+  "Cost": [
+    {
+      "Item": "Desc_Motor",
+      "Amount": 20
+    },
+    {
+      "Item": "Desc_ModularFrame",
+      "Amount": 25
+    },
+    {
+      "Item": "Desc_FanBlade",
+      "Amount": 75
+    },
+    {
+      "Item": "Desc_SteelBolt",
+      "Amount": 250
+    }
+  ],
+  "ClearRecipes": true,
+  "Recipes": [ "/Game/FactoryGame/Recipes/Equipment/Recipe_Hoverpack.Recipe_Hoverpack_C" ],
+  "Time": 240
+}

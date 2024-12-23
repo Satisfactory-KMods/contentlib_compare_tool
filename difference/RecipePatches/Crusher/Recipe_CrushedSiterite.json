@@ -1,0 +1,26 @@
+{
+    "Name": "Crushed Siterite",
+    "Category": "Cat_KLib_Prod_Crushing_Ores_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_OreIron",
+            "Amount": 12
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_CrushedSiterite",
+            "Amount": 12
+        },
+        {
+            "Item": "Desc_Gangue",
+            "Amount": 5
+        }
+    ],
+    "ProducedIn": [
+        "Build_Crusher"
+    ],
+    "ManufacturingDuration": 12,
+    "ManufacturingMenuPriority": 1,
+    "$comment": "This is a new file, no old version exists"
+}

@@ -1,29 +1,27 @@
-//SatisfactoryPlus/Content/Recipes/SoldifierAndCooler/Ingots/Recipe_SAC_Ingots_Brass.Recipe_SAC_Ingots_Brass_C
 {
-  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
-  "Name": "Cast Brass Ingot",
-  "category": "Cat_Ingots_C",
-  "Ingredients": [
-    {
-      "Item": "Desc_LiquidBrass",
-      "Amount": 8000
-    },
-    {
-      "Item": "Desc_Water",
-      "Amount": 3000
-    }
-
-  ],
-  "Products": [
-    {
-      "Item": "Desc_BrassIngot",
-      "Amount": 10
-    },
-    {
-      "Item": "Desc_Gas_Steam_Hot",
-      "Amount": 3000
-    }
-  ],
-  "ManufacturingDuration": 12,
-  "ManufacturingMenuPriority": 5
+    "Name": "Cast Brass Ingot",
+    "category": "Cat_Ingots_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_LiquidBrass",
+            "Amount": 8000
+        },
+        {
+            "Item": "Desc_Water",
+            "Amount": 3000
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_BrassIngot",
+            "Amount": 10
+        },
+        {
+            "Item": "Desc_Gas_Steam_Hot",
+            "Amount": 3000
+        }
+    ],
+    "ManufacturingDuration": 12,
+    "ManufacturingMenuPriority": 5,
+    "$comment": "This file has been removed, no new version exists"
 }
