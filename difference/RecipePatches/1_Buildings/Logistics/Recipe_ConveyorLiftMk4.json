@@ -10,5 +10,6 @@
         }
     ],
     "ManufacturingMenuPriority": 4,
-    "$comment": "This is a new file, no old version exists"
+    "$comment": "This is a new file, no old version exists",
+    "Class": "//Game/FactoryGame/Recipes/Buildings/Recipe_ConveyorLiftMk4.Recipe_ConveyorLiftMk4_C\r"
 }

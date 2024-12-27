@@ -15,5 +15,6 @@
     ],
     "ManufacturingDuration": 2,
     "ManufacturingMenuPriority": 3,
-    "$comment": "This is a new file, no old version exists"
+    "$comment": "This is a new file, no old version exists",
+    "Class": "//SatisfactoryPlus/Content/Recipes/Workbench/Recipe_Handcrafter_Gangue.Recipe_Handcrafter_Gangue_C\r"
 }

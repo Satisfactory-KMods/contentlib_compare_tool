@@ -10,5 +10,6 @@
         "Recipe_XenoZapper_C",
         "Recipe_TradingPost_C"
     ],
-    "$comment": "This is a new file, no old version exists"
+    "$comment": "This is a new file, no old version exists",
+    "Class": "//SatisfactoryPlus/Content/SchematicManager/Schem_GameStart_new.Schem_GameStart_new_C\r"
 }

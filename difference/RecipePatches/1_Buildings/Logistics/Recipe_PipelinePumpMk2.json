@@ -13,5 +13,6 @@
             "Amount": 15
         }
     ],
-    "$comment": "This is a new file, no old version exists"
+    "$comment": "This is a new file, no old version exists",
+    "Class": "//Game/FactoryGame/Recipes/Buildings/Recipe_PipelinePumpMK2.Recipe_PipelinePumpMK2_C\r"
 }

@@ -30,5 +30,6 @@
         "Recipe_SteelWall_8x4_Window_03_C",
         "Recipe_SteelWall_8x4_Window_04_C"
     ],
-    "$comment": "This is a new file, no old version exists"
+    "$comment": "This is a new file, no old version exists",
+    "Class": "//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T1/Schematic_SF+_T1_0.Schematic_SF+_T1_0_C\r"
 }

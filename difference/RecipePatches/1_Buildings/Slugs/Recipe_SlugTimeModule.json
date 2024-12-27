@@ -19,5 +19,6 @@
         }
     ],
     "ManufacturingMenuPriority": 7,
-    "$comment": "This is a new file, no old version exists"
+    "$comment": "This is a new file, no old version exists",
+    "Class": "//SatisfactoryPlus/Content/BuildingRecipes/Slugs/Recipe_SlugHatchery_Mk1_Night.Recipe_SlugHatchery_Mk1_Night_C\r"
 }

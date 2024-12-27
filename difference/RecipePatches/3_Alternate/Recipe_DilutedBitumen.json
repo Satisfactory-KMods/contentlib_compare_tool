@@ -22,5 +22,6 @@
     ],
     "ManufacturingDuration": 4,
     "ManufacturingMenuPriority": 1,
-    "$comment": "This is a new file, no old version exists"
+    "$comment": "This is a new file, no old version exists",
+    "Class": "//SatisfactoryPlus/Content/SchematicManager/Alternative/HeavyOilResidue/Recipe_Alternative_DilutedBitumen.Recipe_Alternative_DilutedBitumen_C\r"
 }

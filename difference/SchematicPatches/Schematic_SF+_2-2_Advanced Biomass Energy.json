@@ -43,5 +43,6 @@
         "Recipe_RP_MP_SteamCooler_C"
     ],
     "Time": 180,
-    "$comment": "This is a new file, no old version exists"
+    "$comment": "This is a new file, no old version exists",
+    "Class": "//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T2/Schematic_SF+_T2_6.Schematic_SF+_T2_6_C\r"
 }

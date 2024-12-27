@@ -17,5 +17,6 @@
     ],
     "ManufacturingDuration": 20,
     "ManufacturingMenuPriority": 5,
-    "$comment": "This is a new file, no old version exists"
+    "$comment": "This is a new file, no old version exists",
+    "Class": "//SatisfactoryPlus/Content/Recipes/Smelter/Recipe_Smelter_ZincIngot.Recipe_Smelter_ZincIngot_C\r"
 }

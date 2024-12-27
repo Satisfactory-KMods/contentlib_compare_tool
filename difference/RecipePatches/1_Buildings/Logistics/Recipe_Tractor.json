@@ -19,5 +19,6 @@
         }
     ],
     "ManufacturingMenuPriority": 2,
-    "$comment": "This is a new file, no old version exists"
+    "$comment": "This is a new file, no old version exists",
+    "Class": "//Game/FactoryGame/Recipes/Vehicle/Recipe_Tractor.Recipe_Tractor_C\r"
 }

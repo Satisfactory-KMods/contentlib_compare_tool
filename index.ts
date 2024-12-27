@@ -3,6 +3,7 @@ import path, { join } from "path";
 import fs from "fs/promises";
 import { glob } from "glob";
 import json5 from "json5";
+import { first } from "lodash";
 import cloneDeep from "lodash/cloneDeep";
 import isEqual from "lodash/isEqual";
 
@@ -26,6 +27,10 @@ function clearJson(content: string) {
 		.map((line) => line.trim())
 		.filter((line) => !line.startsWith("//"))
 		.join("\n");
+}
+
+function getFirstLine(content: string) {
+	return content.split("\n").find((line) => line.trim() !== "");
 }
 
 for (const file of source) {
@@ -75,6 +80,7 @@ for (const file of target) {
 		.slice(0, -1)
 		.join("/");
 
+	let firstLine;
 	if (!exists) {
 		meta.push({ file, action: "add" });
 		if (!fss.existsSync(fileDir)) {
@@ -82,7 +88,9 @@ for (const file of target) {
 		}
 		let json;
 		try {
-			json = json5.parse(clearJson(await fs.readFile(file, "utf-8")));
+			const c = await fs.readFile(file, "utf-8");
+			json = json5.parse(clearJson(c));
+			firstLine = json.Class ?? getFirstLine(c);
 		} catch (error) {
 			console.error(clearJson(await fs.readFile(file, "utf-8")));
 			process.exit(1);
@@ -90,6 +98,7 @@ for (const file of target) {
 		delete json.$schema;
 		json.$comment = "This is a new file, no old version exists";
 
+		json.Class = firstLine;
 		console.log(
 			"[NEW FILE FOUND]",
 			fileDir,
@@ -111,7 +120,9 @@ for (const file of target) {
 		oldContent = json5.parse(
 			clearJson(await fs.readFile(file.replace("new", "old"), "utf-8")),
 		);
-		newContent = json5.parse(clearJson(await fs.readFile(file, "utf-8")));
+		const c = await fs.readFile(file, "utf-8");
+		newContent = json5.parse(clearJson(c));
+		firstLine = newContent.Class ?? getFirstLine(c);
 	} catch (error) {
 		console.error("[ERR]", file);
 		throw error;
@@ -121,6 +132,7 @@ for (const file of target) {
 		meta.push({ file, action: "change" });
 
 		const changedFields: {
+			Class: string | undefined;
 			new: Record<string, any>;
 			$comment: string;
 			demitter1: string;
@@ -128,6 +140,7 @@ for (const file of target) {
 			demitter2: string;
 			original: Record<string, any>;
 		} = {
+			Class: firstLine,
 			$comment: "This file has been changed",
 			new: {},
 			demitter2:
@@ -192,6 +205,7 @@ for (const file of target) {
 		if (!fss.existsSync(fileDir)) {
 			await fs.mkdir(fileDir, { recursive: true });
 		}
+		changedFields.Class = firstLine;
 		await fs.writeFile(
 			file.replace("new", differenceDir),
 			JSON.stringify(changedFields, null, 4),

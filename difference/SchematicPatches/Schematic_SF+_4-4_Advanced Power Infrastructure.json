@@ -30,5 +30,6 @@
         "Recipe_Crusher_KyaliteSilica"
     ],
     "Time": 300,
-    "$comment": "This is a new file, no old version exists"
+    "$comment": "This is a new file, no old version exists",
+    "Class": "//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T4/Schematic_SF+_T4_4.Schematic_SF+_T4_4_C\r"
 }

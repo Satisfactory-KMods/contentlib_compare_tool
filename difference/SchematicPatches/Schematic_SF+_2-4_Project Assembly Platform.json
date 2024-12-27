@@ -25,5 +25,6 @@
     "Recipes": [
         "Recipe_Assembler_SmartPlating_C"
     ],
-    "$comment": "This is a new file, no old version exists"
+    "$comment": "This is a new file, no old version exists",
+    "Class": "//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T2/Schematic_SF+_T2_4.Schematic_SF+_T2_4_C\r"
 }

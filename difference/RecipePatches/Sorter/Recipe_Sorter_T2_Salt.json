@@ -30,5 +30,6 @@
     ],
     "ManufacturingDuration": 20,
     "ManufacturingMenuPriority": 5,
-    "$comment": "This is a new file, no old version exists"
+    "$comment": "This is a new file, no old version exists",
+    "Class": "//SatisfactoryPlus/Content/Recipes/Sorter/Recipe_Sorter_T2_Salt.Recipe_Sorter_T2_Salt_C\r"
 }

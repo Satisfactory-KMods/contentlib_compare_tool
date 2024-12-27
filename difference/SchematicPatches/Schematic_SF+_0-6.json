@@ -33,5 +33,6 @@
         "Recipe_Constructor_WoodBio_C",
         "Recipe_Biomass_Leaves_C"
     ],
-    "$comment": "This is a new file, no old version exists"
+    "$comment": "This is a new file, no old version exists",
+    "Class": "//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/Tutorial/SFP_Schematic_Tutorial_6.SFP_Schematic_Tutorial_6_C\r"
 }

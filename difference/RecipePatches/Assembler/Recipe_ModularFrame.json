@@ -21,5 +21,6 @@
     "ManufacturingDuration": 80,
     "ManualManufacturingMultiplier": 1.5,
     "ManufacturingMenuPriority": 5.2,
-    "$comment": "This is a new file, no old version exists"
+    "$comment": "This is a new file, no old version exists",
+    "Class": "//SatisfactoryPlus/Content/Recipes/Assembler/Recipe_Assembler_ModularFrame.Recipe_Assembler_ModularFrame_C\r"
 }

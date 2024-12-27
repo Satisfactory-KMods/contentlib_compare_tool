@@ -32,5 +32,6 @@
         "Recipe_SolarPanel_Mk1_C"
     ],
     "Time": 180,
-    "$comment": "This is a new file, no old version exists"
+    "$comment": "This is a new file, no old version exists",
+    "Class": "//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T2/Schematic_SF+_T2_1.Schematic_SF+_T2_1_C\r"
 }

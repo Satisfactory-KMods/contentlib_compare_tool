@@ -19,5 +19,6 @@
         }
     ],
     "ManufacturingDuration": 80,
-    "$comment": "This is a new file, no old version exists"
+    "$comment": "This is a new file, no old version exists",
+    "Class": "//Game/FactoryGame/Recipes/Equipment/Recipe_ZipLine.Recipe_ZipLine_C\r"
 }

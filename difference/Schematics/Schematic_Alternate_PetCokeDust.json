@@ -8,5 +8,6 @@
     "DependsOn": [
         "Schematic_SF+_T5_0_C"
     ],
-    "$comment": "This is a new file, no old version exists"
+    "$comment": "This is a new file, no old version exists",
+    "Class": "{\r"
 }

@@ -30,5 +30,6 @@
     ],
     "ManufacturingDuration": 30,
     "ManufacturingMenuPriority": 2,
-    "$comment": "This is a new file, no old version exists"
+    "$comment": "This is a new file, no old version exists",
+    "Class": "{\r"
 }

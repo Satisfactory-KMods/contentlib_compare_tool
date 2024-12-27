@@ -18,5 +18,6 @@
     ],
     "ManufacturingDuration": 15,
     "ManufacturingMenuPriority": 9,
-    "$comment": "This is a new file, no old version exists"
+    "$comment": "This is a new file, no old version exists",
+    "Class": "//SatisfactoryPlus/Content/Recipes/Constructor/Recipe_Constructor_CateriumSheet.Recipe_Constructor_CateriumSheet_C\r"
 }

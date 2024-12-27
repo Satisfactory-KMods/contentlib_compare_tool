@@ -33,5 +33,6 @@
         "Recipe_MagneticFieldGenerator_6"
     ],
     "Time": 360,
-    "$comment": "This is a new file, no old version exists"
+    "$comment": "This is a new file, no old version exists",
+    "Class": "{\r"
 }

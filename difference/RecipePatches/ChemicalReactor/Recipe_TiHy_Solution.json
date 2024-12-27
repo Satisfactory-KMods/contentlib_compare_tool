@@ -30,5 +30,6 @@
     ],
     "ManufacturingDuration": 10,
     "ManufacturingMenuPriority": 1,
-    "$comment": "This is a new file, no old version exists"
+    "$comment": "This is a new file, no old version exists",
+    "Class": "//SatisfactoryPlus/Content/Recipes/ChemReactor/Recipe_ChemReactor_Titan.Recipe_ChemReactor_Titan_C\r"
 }

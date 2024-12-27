@@ -33,5 +33,6 @@
         "Recipe_Assembler_Stator_C"
     ],
     "Time": 360,
-    "$comment": "This is a new file, no old version exists"
+    "$comment": "This is a new file, no old version exists",
+    "Class": "//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T3/Schematic_SF+_T3_4.Schematic_SF+_T3_4_C\r"
 }

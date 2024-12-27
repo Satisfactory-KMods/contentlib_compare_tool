@@ -26,5 +26,6 @@
     ],
     "ManufacturingDuration": 12,
     "ManufacturingMenuPriority": 4,
-    "$comment": "This is a new file, no old version exists"
+    "$comment": "This is a new file, no old version exists",
+    "Class": "//SatisfactoryPlus/Content/Recipes/Reformer/Recipe_Reformer_ResidualHydrogen.Recipe_Reformer_ResidualHydrogen_C\r"
 }

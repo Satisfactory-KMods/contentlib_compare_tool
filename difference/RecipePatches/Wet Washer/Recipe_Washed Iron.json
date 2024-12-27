@@ -26,5 +26,6 @@
     ],
     "ManufacturingDuration": 16,
     "ManufacturingMenuPriority": 1,
-    "$comment": "This is a new file, no old version exists"
+    "$comment": "This is a new file, no old version exists",
+    "Class": "//SatisfactoryPlus/Content/Recipes/WetWasher/Recipe_WetWasher_Iron.Recipe_WetWasher_Iron_C\r"
 }

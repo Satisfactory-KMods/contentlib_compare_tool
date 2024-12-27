@@ -19,5 +19,6 @@
         }
     ],
     "ManufacturingMenuPriority": 1,
-    "$comment": "This is a new file, no old version exists"
+    "$comment": "This is a new file, no old version exists",
+    "Class": "//Game/FactoryGame/Recipes/Buildings/Recipe_TruckStation.Recipe_TruckStation_C\r"
 }

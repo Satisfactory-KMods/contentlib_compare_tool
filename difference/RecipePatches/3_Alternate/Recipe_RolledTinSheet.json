@@ -18,5 +18,6 @@
     ],
     "ManufacturingDuration": 16,
     "ManufacturingMenuPriority": 20,
-    "$comment": "This is a new file, no old version exists"
+    "$comment": "This is a new file, no old version exists",
+    "Class": "//SatisfactoryPlus/Content/SchematicManager/Alternative/RolledTinSheet/Recipe_Alternative_RolledTinSheet.Recipe_Alternative_RolledTinSheet_C\r"
 }

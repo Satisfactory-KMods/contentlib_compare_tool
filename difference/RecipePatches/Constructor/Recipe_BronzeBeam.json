@@ -18,5 +18,6 @@
     ],
     "ManufacturingDuration": 24,
     "ManufacturingMenuPriority": 10,
-    "$comment": "This is a new file, no old version exists"
+    "$comment": "This is a new file, no old version exists",
+    "Class": "//SatisfactoryPlus/Content/Recipes/Constructor/Recipe_Constructor_BronzeBeam.Recipe_Constructor_BronzeBeam_C\r"
 }

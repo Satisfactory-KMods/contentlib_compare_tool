@@ -22,5 +22,6 @@
         }
     ],
     "ManufacturingMenuPriority": 1,
-    "$comment": "This is a new file, no old version exists"
+    "$comment": "This is a new file, no old version exists",
+    "Class": "//SatisfactoryPlus/Content/BuildingRecipes/Slugs/Recipe_SlugTerrarium.Recipe_SlugTerrarium_C\r"
 }

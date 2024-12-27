@@ -23,5 +23,6 @@
     ],
     "ManufacturingDuration": 18,
     "ManufacturingMenuPriority": 1,
-    "$comment": "This is a new file, no old version exists"
+    "$comment": "This is a new file, no old version exists",
+    "Class": "//SatisfactoryPlus/Content/Recipes/Assembler/Recipe_Assembler_TinPlates.Recipe_Assembler_TinPlates_C\r"
 }

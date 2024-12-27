@@ -32,5 +32,6 @@
     "ManufacturingDuration": 48,
     "ManualManufacturingMultiplier": 2.5,
     "ManufacturingMenuPriority": 2,
-    "$comment": "This is a new file, no old version exists"
+    "$comment": "This is a new file, no old version exists",
+    "Class": "//SatisfactoryPlus/Content/Recipes/Manufacturer/Recipe_Manufacturer_ModularFrameHeavy.Recipe_Manufacturer_ModularFrameHeavy_C\r"
 }

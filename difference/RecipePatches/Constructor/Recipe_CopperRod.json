@@ -14,5 +14,6 @@
     ],
     "ManufacturingDuration": 10,
     "ManufacturingMenuPriority": 5,
-    "$comment": "This is a new file, no old version exists"
+    "$comment": "This is a new file, no old version exists",
+    "Class": "//SatisfactoryPlus/Content/Recipes/Constructor/Recipe_Constructor_CopperRod.Recipe_Constructor_CopperRod_C\r"
 }

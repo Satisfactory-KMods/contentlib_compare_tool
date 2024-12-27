@@ -30,5 +30,6 @@
     ],
     "ManufacturingDuration": 60,
     "ManualManufacturingMultiplier": 2,
-    "$comment": "This is a new file, no old version exists"
+    "$comment": "This is a new file, no old version exists",
+    "Class": "//Game/FactoryGame/Recipes/Equipment/Recipe_Hoverpack.Recipe_Hoverpack_C\r"
 }

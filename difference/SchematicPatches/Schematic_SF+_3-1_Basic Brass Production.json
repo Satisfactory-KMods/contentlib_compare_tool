@@ -29,5 +29,6 @@
         "Recipe_Assembler_FanBlade_C"
     ],
     "Time": 240,
-    "$comment": "This is a new file, no old version exists"
+    "$comment": "This is a new file, no old version exists",
+    "Class": "//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T3/Schematic_SF+_T3_1.Schematic_SF+_T3_1_C\r"
 }

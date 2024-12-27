@@ -27,5 +27,6 @@
     ],
     "ManufacturingDuration": 24,
     "ManufacturingMenuPriority": 1,
-    "$comment": "This is a new file, no old version exists"
+    "$comment": "This is a new file, no old version exists",
+    "Class": "//SatisfactoryPlus/Content/Recipes/Reformer/Recipe_Reformer_SteelRod.Recipe_Reformer_SteelRod_C\r"
 }

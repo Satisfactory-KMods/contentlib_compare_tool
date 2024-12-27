@@ -19,5 +19,6 @@
     ],
     "ManufacturingDuration": 16,
     "ManufacturingMenuPriority": 2,
-    "$comment": "This is a new file, no old version exists"
+    "$comment": "This is a new file, no old version exists",
+    "Class": "//SatisfactoryPlus/Content/Recipes/Assembler/Recipe_Assembler_SlagConcrete.Recipe_Assembler_SlagConcrete_C\r"
 }

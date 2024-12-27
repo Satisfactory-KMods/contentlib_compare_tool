@@ -18,5 +18,6 @@
     ],
     "ManufacturingDuration": 10,
     "ManufacturingMenuPriority": 4,
-    "$comment": "This is a new file, no old version exists"
+    "$comment": "This is a new file, no old version exists",
+    "Class": "//SatisfactoryPlus/Content/Recipes/Assembler/Recipe_Assembler_Stator.Recipe_Assembler_Stator_C\r"
 }

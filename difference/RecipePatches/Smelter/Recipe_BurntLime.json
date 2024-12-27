@@ -18,5 +18,6 @@
     ],
     "ManufacturingDuration": 12,
     "ManufacturingMenuPriority": 4,
-    "$comment": "This is a new file, no old version exists"
+    "$comment": "This is a new file, no old version exists",
+    "Class": "//SatisfactoryPlus/Content/Recipes/Smelter/Recipe_Smelter_BurntLime.Recipe_Smelter_BurntLime_C\r"
 }

@@ -18,5 +18,6 @@
     ],
     "ManufacturingDuration": 15,
     "ManufacturingMenuPriority": 19,
-    "$comment": "This is a new file, no old version exists"
+    "$comment": "This is a new file, no old version exists",
+    "Class": "//SatisfactoryPlus/Content/SchematicManager/Alternative/RolledBronzePipe/Recipe_Alternative_RolledBronzePipe.Recipe_Alternative_RolledBronzePipe_C\r"
 }

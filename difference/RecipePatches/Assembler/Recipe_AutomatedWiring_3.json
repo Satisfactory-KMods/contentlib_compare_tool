@@ -22,5 +22,6 @@
     ],
     "ManufacturingDuration": 48,
     "ManufacturingMenuPriority": 3,
-    "$comment": "This is a new file, no old version exists"
+    "$comment": "This is a new file, no old version exists",
+    "Class": "//SatisfactoryPlus/Content/Recipes/Assembler/Recipe_Assembler_AutomatedWiring.Recipe_Assembler_AutomatedWiring_C\r"
 }

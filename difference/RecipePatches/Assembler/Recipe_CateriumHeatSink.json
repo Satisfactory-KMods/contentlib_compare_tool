@@ -22,5 +22,6 @@
     ],
     "ManufacturingDuration": 12,
     "ManufacturingMenuPriority": 3,
-    "$comment": "This is a new file, no old version exists"
+    "$comment": "This is a new file, no old version exists",
+    "Class": "//SatisfactoryPlus/Content/Recipes/Assembler/Recipe_Assembler_CateriumHeatsink.Recipe_Assembler_CateriumHeatsink_C\r"
 }

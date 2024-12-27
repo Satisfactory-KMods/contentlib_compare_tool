@@ -26,5 +26,6 @@
     "ProducedIn": [
         "Build_HadronCollider"
     ],
-    "$comment": "This is a new file, no old version exists"
+    "$comment": "This is a new file, no old version exists",
+    "Class": "//Game/FactoryGame/Recipes/Converter/Recipe_Ficsonium.Recipe_Ficsonium_C\r"
 }

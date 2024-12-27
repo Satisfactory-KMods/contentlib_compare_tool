@@ -24,5 +24,6 @@
     "ManufacturingDuration": 12,
     "ManualManufacturingMultiplier": 2,
     "ManufacturingMenuPriority": 9,
-    "$comment": "This is a new file, no old version exists"
+    "$comment": "This is a new file, no old version exists",
+    "Class": "//Game/FactoryGame/Recipes/Constructor/Recipe_AluminumCasing.Recipe_AluminumCasing_C\r"
 }

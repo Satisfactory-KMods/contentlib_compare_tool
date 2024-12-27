@@ -21,5 +21,6 @@
     ],
     "ManufacturingDuration": 12,
     "ManufacturingMenuPriority": 1,
-    "$comment": "This is a new file, no old version exists"
+    "$comment": "This is a new file, no old version exists",
+    "Class": "//SatisfactoryPlus/Content/SchematicManager/SaveComp/Recipe_DNAToEgg_Blue.Recipe_DNAToEgg_Blue_C\r"
 }

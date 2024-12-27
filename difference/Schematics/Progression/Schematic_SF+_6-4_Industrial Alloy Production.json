@@ -30,5 +30,6 @@
         "Recipe_CobaltPlate"
     ],
     "Time": 240,
-    "$comment": "This is a new file, no old version exists"
+    "$comment": "This is a new file, no old version exists",
+    "Class": "{\r"
 }

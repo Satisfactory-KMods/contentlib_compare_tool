@@ -1,8 +1,0 @@
-{
-    "Name": "Mineral Slug Slime",
-    "Description": "Slug Slime highly enriched with minerals.\nCan be concentrated further to extract the elements dissolved in it.",
-    "Form": "RF_Liquid",
-    "VisualKit": "Kit_SlugSLimeMineral",
-    "StackSize": "Fluid",
-    "$comment": "This is a new file, no old version exists"
-}

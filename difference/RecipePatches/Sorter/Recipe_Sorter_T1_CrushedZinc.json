@@ -26,5 +26,6 @@
     ],
     "ManufacturingDuration": 10,
     "ManufacturingMenuPriority": 3,
-    "$comment": "This is a new file, no old version exists"
+    "$comment": "This is a new file, no old version exists",
+    "Class": "//SatisfactoryPlus/Content/Recipes/Sorter/Recipe_Sorter_T1_Zinc.Recipe_Sorter_T1_Zinc_C\r"
 }

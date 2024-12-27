@@ -17,5 +17,6 @@
     ],
     "ManufacturingDuration": 6,
     "ManufacturingMenuPriority": 2,
-    "$comment": "This is a new file, no old version exists"
+    "$comment": "This is a new file, no old version exists",
+    "Class": "//SatisfactoryPlus/Content/Recipes/Composter/Recipe_Low_YellowSlug.Recipe_Low_YellowSlug_C\r"
 }

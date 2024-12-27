@@ -23,5 +23,6 @@
     ],
     "ManufacturingDuration": 8,
     "ManufacturingMenuPriority": 3,
-    "$comment": "This is a new file, no old version exists"
+    "$comment": "This is a new file, no old version exists",
+    "Class": "//SatisfactoryPlus/Content/Recipes/Reformer/Recipe_Reformer_TinIngot.Recipe_Reformer_TinIngot_C\r"
 }

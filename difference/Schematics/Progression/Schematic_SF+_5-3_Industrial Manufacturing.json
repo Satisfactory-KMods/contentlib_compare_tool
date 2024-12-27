@@ -32,5 +32,6 @@
         "Recipe_Manu_ModularEngine_4"
     ],
     "Time": 300,
-    "$comment": "This is a new file, no old version exists"
+    "$comment": "This is a new file, no old version exists",
+    "Class": "{\r"
 }

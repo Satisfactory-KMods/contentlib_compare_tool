@@ -28,5 +28,6 @@
         "Recipe_WetWasher_Tin_C"
     ],
     "Time": 180,
-    "$comment": "This is a new file, no old version exists"
+    "$comment": "This is a new file, no old version exists",
+    "Class": "//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T3/Schematic_SF+_T3_2.Schematic_SF+_T3_2_C\r"
 }

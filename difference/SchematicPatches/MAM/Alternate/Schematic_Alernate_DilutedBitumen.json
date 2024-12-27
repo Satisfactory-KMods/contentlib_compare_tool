@@ -9,5 +9,6 @@
     "DependsOn": [
         "Schematic_SF+_5_1_C"
     ],
-    "$comment": "This is a new file, no old version exists"
+    "$comment": "This is a new file, no old version exists",
+    "Class": "//SatisfactoryPlus/Content/SchematicManager/Alternative/HeavyOilResidue/Schematic_Alternative_HeavyOilResidu.Schematic_Alternative_HeavyOilResidu_C\r"
 }

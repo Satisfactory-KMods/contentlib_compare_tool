@@ -22,5 +22,6 @@
     ],
     "ManufacturingDuration": 3,
     "ManufacturingMenuPriority": 3,
-    "$comment": "This is a new file, no old version exists"
+    "$comment": "This is a new file, no old version exists",
+    "Class": "//SatisfactoryPlus/Content/Recipes/Crusher/Recipe_Crusher_CrushedLarrussite.Recipe_Crusher_CrushedLarrussite_C\r"
 }

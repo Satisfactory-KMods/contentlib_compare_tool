@@ -1,6 +1,0 @@
-{
-    "Name": "Molten Cobalt",
-    "Description": "Melting Point: 1495°C\n\nCobalt in liquid form, useful for bulk casting ingots or other parts. Requires additional fuels to be molten down in a Flexible Blast Furnace.",
-    "VisualKit": "Kit_MoltenCobalt",
-    "$comment": "This is a new file, no old version exists"
-}

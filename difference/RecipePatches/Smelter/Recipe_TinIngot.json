@@ -15,5 +15,6 @@
     ],
     "ManufacturingDuration": 3,
     "ManufacturingMenuPriority": 3,
-    "$comment": "This is a new file, no old version exists"
+    "$comment": "This is a new file, no old version exists",
+    "Class": "//SatisfactoryPlus/Content/Recipes/Smelter/Recipe_Smelter_TinIngot.Recipe_Smelter_TinIngot_C\r"
 }

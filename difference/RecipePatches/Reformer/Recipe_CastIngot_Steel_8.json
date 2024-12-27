@@ -31,5 +31,6 @@
     ],
     "ManufacturingDuration": 32,
     "ManufacturingMenuPriority": 6,
-    "$comment": "This is a new file, no old version exists"
+    "$comment": "This is a new file, no old version exists",
+    "Class": "//SatisfactoryPlus/Content/Recipes/Reformer/Recipe_Reformer_SteelIngot.Recipe_Reformer_SteelIngot_C\r"
 }
