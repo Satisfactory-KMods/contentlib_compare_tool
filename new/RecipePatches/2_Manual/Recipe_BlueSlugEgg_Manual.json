@@ -1,0 +1,25 @@
+//SatisfactoryPlus/Content/SchematicManager/SaveComp/Recipe_DNAToEgg_Blue.Recipe_DNAToEgg_Blue_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Blue Slug Egg",
+  "Ingredients": [
+    {
+      "Item": "Desc_EggDNA_Blue",
+      "Amount": 25
+    },
+    {
+      "Item": "Desc_AlienProtein",
+      "Amount": 5
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "EggDesc_EggBlue_C",
+      "Amount": 2
+    }
+  ],
+  "ProducedIn": [ "manual" ],
+  "ManufacturingDuration": 12,
+  "ManufacturingMenuPriority": 1
+}

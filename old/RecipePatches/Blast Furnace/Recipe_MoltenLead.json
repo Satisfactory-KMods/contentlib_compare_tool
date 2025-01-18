@@ -1,0 +1,22 @@
+//SatisfactoryPlus/Content/Recipes/BlastFurnace/Recipe_BlastFurnace_Lead.Recipe_BlastFurnace_Lead_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Molten Lead",
+  "OverrideCategory": "Cat_KLib_MoltenMetals_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_CrushedLead",
+      "Amount": 6
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_LiquidLead",
+      "Amount": 3000
+    }
+  ],
+  "ProducedIn": [ "Build_FlexibleBlastFurnaceSmelter" ],
+  "ManufacturingDuration": 5,
+  "ManufacturingMenuPriority": 4
+}

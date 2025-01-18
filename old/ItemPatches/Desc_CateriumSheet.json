@@ -1,0 +1,8 @@
+//KLib/Assets/Parts/Production/Metal/Plates/Desc_CateriumPlates.Desc_CateriumPlates_C
+{
+  "Form": "Solid",
+  "Visualkit": "Kit_CateriumSheet",
+  "StackSize": "LARGE",
+  "CanBeDiscarded": 1,
+  "EnergyValue": 0
+}

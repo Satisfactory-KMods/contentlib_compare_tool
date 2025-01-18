@@ -19,7 +19,7 @@
     },
     {
       "Property": "mDescription",
-      "Value": "A low pressure water boiler. Uses heat from a Heater to turn Water into Steam.\n\nOperates at 500°C.\n\nDefault Rate: 15/min Water to 30/min Steam"
+      "Value": "A low pressure boiler. Uses heat to turn Water into Steam or to re-energize Slug Slime.\n\nOperates at 500°C.\n\nDefault Rate: 15/min Water to 30/min Steam"
     }
   ]
 }

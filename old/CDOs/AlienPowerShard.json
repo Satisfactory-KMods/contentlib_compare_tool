@@ -1,0 +1,9 @@
+{
+  "Class": "/Game/FactoryGame/Resource/Environment/Crystal/Desc_AlienPowerShard.Desc_AlienPowerShard_C",
+  "Edits": [
+    {
+      "Property": "mExtraPotential",
+      "Value": 1
+    }
+  ]
+}

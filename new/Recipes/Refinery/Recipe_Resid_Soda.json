@@ -1,0 +1,29 @@
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Resid Soda",
+  "OverrideCategory": "AdvancedRefinement_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_CryoliteResidue_C",
+      "Amount": 26
+    },
+    {
+      "Item": "Desc_Water",
+      "Amount": 15000
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_Plastic",
+      "Amount": 5000
+    },
+    {
+      "Item": "Desc_Silica",
+      "Amount": 9
+    }
+  ],
+  "ManufacturingDuration": 10,
+  "ManufacturingMenuPriority": 4,
+  "ProducedIn": [ "Build_OilRefinery" ]
+}

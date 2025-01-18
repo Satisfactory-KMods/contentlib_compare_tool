@@ -4,8 +4,9 @@
   "ClearCost": true,
   "Cost": [
     {
-      "Item": "Desc_CrushedSatmonium",
+      "Item": "Desc_CrushedAurovite",
       "Amount": 75
     }
-  ]
+  ],
+  "Recipes": [ "Recipe_Smelter_Dirty_CateriumIngots_C" ]
 }

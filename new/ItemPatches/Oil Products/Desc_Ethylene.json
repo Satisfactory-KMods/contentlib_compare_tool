@@ -4,5 +4,6 @@
   "Description": "Ethylene is made by cracking Naptha. It is a monomer used to make polymers like Polyethylene, a plastic.",
   "Form": "RF_GAS",
   "StackSize": "Fluid",
-  "VisualKit": "Kit_Ethylene"
+  "VisualKit": "Kit_Ethylene",
+  "CanBeDiscarded": true
 }

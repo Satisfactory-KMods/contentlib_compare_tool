@@ -1,0 +1,21 @@
+//SatisfactoryPlus/Content/Recipes/Crusher/Recipe_Crusher_Sand.Recipe_Crusher_Sand_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Coarse Sand",
+  "Ingredients": [
+    {
+      "Item": "Desc_Gangue",
+      "Amount": 4
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_Sand",
+      "Amount": 2
+    }
+  ],
+  "ProducedIn": [ "Build_Crusher" ],
+  "ManufacturingDuration": 4,
+  "ManufacturingMenuPriority": 1
+}

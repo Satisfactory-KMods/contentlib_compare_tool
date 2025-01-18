@@ -1,0 +1,31 @@
+//SatisfactoryPlus/Content/Recipes/WetWasher/Recipe_WetWasher_Lead.Recipe_WetWasher_Lead_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Washed Lead",
+  "OverrideCategory": "Cat_KLib_SAC_Wasching_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_Stone",
+      "Amount": 16
+    },
+    {
+      "Item": "Desc_SulfuricAcid",
+      "Amount": 4000
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_CrushedLead",
+      "Amount": 12
+    },
+    {
+      "Item": "Desc_LiquidSlag",
+      "Amount": 8000
+    }
+
+  ],
+  "ProducedIn": [ "Build_OreWascher" ],
+  "ManufacturingDuration": 8,
+  "ManufacturingMenuPriority": 6
+}

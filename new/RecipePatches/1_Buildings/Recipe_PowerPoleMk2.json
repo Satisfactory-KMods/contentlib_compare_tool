@@ -1,0 +1,19 @@
+//Game/FactoryGame/Recipes/Buildings/Recipe_PowerPoleMk2.Recipe_PowerPoleMk2_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Ingredients": [
+    {
+      "Item": "Desc_HighSpeedWire",
+      "Amount": 4
+    },
+    {
+      "Item": "Desc_IronScrew",
+      "Amount": 6
+    },
+    {
+      "Item": "Desc_CopperRod",
+      "Amount": 2
+    }
+  ],
+  "ManufacturingMenuPriority": 3
+}

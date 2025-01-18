@@ -1,0 +1,21 @@
+//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T1/Schematic_SF+_T1_1.Schematic_SF+_T1_1_C
+{
+  "Name": "Base Building",
+  "MenuPriority": 0.5,
+  "ClearCost": true,
+  "Cost": [
+    {
+      "Item": "Desc_IronWire",
+      "Amount": 40
+    },
+    {
+      "Item": "Desc_IronScrew",
+      "Amount": 60
+    },
+    {
+      "Item": "Desc_Cement",
+      "Amount": 80
+    }
+  ],
+  "Time": 120
+}

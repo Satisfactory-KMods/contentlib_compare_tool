@@ -1,0 +1,32 @@
+{
+    "$comment": "This is a new file, no old version exists",
+    "$class": "//SatisfactoryPlus/Content/Recipes/Sorter/Recipe_Sorter_T2_Lead.Recipe_Sorter_T2_Lead_C\r",
+    "$classShort": "Recipe_Sorter_T2_Lead",
+    "Name": "Crushed Lead",
+    "OverrideCategory": "T3 Sorting",
+    "Ingredients": [
+        {
+            "Item": "Desc_CrushedLarrussite",
+            "Amount": 12
+        },
+        {
+            "Item": "Desc_Air",
+            "Amount": 6000
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_CrushedLead",
+            "Amount": 10
+        },
+        {
+            "Item": "Desc_Silica",
+            "Amount": 2
+        }
+    ],
+    "ProducedIn": [
+        "Build_SorterMk1"
+    ],
+    "ManufacturingDuration": 4,
+    "ManufacturingMenuPriority": 3
+}

@@ -1,0 +1,32 @@
+//SatisfactoryPlus/Content/Recipes/OilRefinery/Recipe_OilRefinery_BarMagnet.Recipe_OilRefinery_BarMagnet_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Bar Magnet",
+  "OverrideCategory": "Cat_IndustrialParts_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_InvarIngot_C",
+      "Amount": 135
+    },
+    {
+      "Item": "Desc_SlugSlime_High",
+      "Amount": 12000
+    }
+
+  ],
+  "Products": [
+
+    {
+      "Item": "Desc_InvarPlates",
+      "Amount": 65
+    },
+    {
+      "Item": "Desc_SlugSlime_Mid",
+      "Amount": 12000
+    }
+
+  ],
+  "ManufacturingDuration": 120,
+  "ManufacturingMenuPriority": 1,
+  "ProducedIn": [ "Build_OilRefinery" ]
+}

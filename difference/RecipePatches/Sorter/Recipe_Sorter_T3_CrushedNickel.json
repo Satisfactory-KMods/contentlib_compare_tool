@@ -1,0 +1,44 @@
+{
+    "$class": "//SatisfactoryPlus/Content/Recipes/Sorter/Recipe_Sorter_T3_Nickel.Recipe_Sorter_T3_Nickel_C\r",
+    "$classShort": "Recipe_Sorter_T3_Nickel",
+    "$comment": "This file has been changed",
+    "Class": "//SatisfactoryPlus/Content/Recipes/Sorter/Recipe_Sorter_T3_Nickel.Recipe_Sorter_T3_Nickel_C\r",
+    "new": {
+        "ManufacturingMenuPriority": 2
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "ManufacturingMenuPriority": 1
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+        "Name": "Crushed Nickel",
+        "OverrideCategory": "T3 Sorting",
+        "Ingredients": [
+            {
+                "Item": "Desc_CrushedCallanite",
+                "Amount": 12
+            },
+            {
+                "Item": "Desc_CausticSoda",
+                "Amount": 3000
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_CrushedNickle",
+                "Amount": 6
+            },
+            {
+                "Item": "Desc_CrushedCopper",
+                "Amount": 4
+            }
+        ],
+        "ProducedIn": [
+            "Build_SorterMk1"
+        ],
+        "ManufacturingDuration": 3,
+        "ManufacturingMenuPriority": 2
+    }
+}

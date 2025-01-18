@@ -17,15 +17,15 @@
   "Products": [
     {
       "Item": "Desc_CrushedIron",
-      "Amount": 8
+      "Amount": 12
     },
     {
       "Item": "Desc_LiquidSlag",
-      "Amount": 16000
+      "Amount": 8000
     }
 
   ],
   "ProducedIn": [ "Build_OreWascher" ],
-  "ManufacturingDuration": 16,
+  "ManufacturingDuration": 12,
   "ManufacturingMenuPriority": 1
 }

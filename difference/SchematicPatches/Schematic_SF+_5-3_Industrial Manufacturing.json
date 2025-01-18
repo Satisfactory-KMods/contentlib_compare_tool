@@ -1,0 +1,111 @@
+{
+    "$class": "//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T5/Schematic_SF+_T5_2.Schematic_SF+_T5_2_C\r",
+    "$classShort": "Schematic_SF+_T5_2",
+    "$comment": "This file has been changed",
+    "Class": "//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T5/Schematic_SF+_T5_2.Schematic_SF+_T5_2_C\r",
+    "new": {
+        "MenuPriority": 3,
+        "Cost": [
+            {
+                "Item": "Desc_Rubber",
+                "Amount": 1000
+            },
+            {
+                "Item": "Desc_Plastic",
+                "Amount": 1000
+            },
+            {
+                "Item": "Desc_Wire",
+                "Amount": 200,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_SteelPipe",
+                "Amount": 100,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "Recipes": [
+            "Recipe_Sorter_T2_Lead_C",
+            "Recipe_Smelter_LeadIngot",
+            "Recipe_Constructor_LeadSheet",
+            "Recipe_BlastFurnace_Solder_C",
+            "Recipe_Reformer_SolderWire_C",
+            "Recipe_Assembler_CircuitBoard_C",
+            "Recipe_Manufacturer_Computer_C",
+            "Recipe_Manufacturer_ModularEngine_C"
+        ],
+        "ClearCost": true
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "MenuPriority": 2,
+        "Cost": [
+            {
+                "Item": "Desc_Rubber",
+                "Amount": 1000
+            },
+            {
+                "Item": "Desc_Plastic",
+                "Amount": 1000
+            },
+            {
+                "Item": "Desc_CopperSheet",
+                "Amount": 100
+            },
+            {
+                "Item": "Desc_TinPlates",
+                "Amount": 200
+            }
+        ],
+        "Recipes": [
+            "Recipe_Sorter_T2_Lead_C",
+            "Recipe_BlastFurnace_Solder_C",
+            "Recipe_Reformer_SolderWire_C",
+            "Recipe_Assembler_CircuitBoard_C",
+            "Recipe_Manufacturer_Computer_C",
+            "Recipe_Manufacturer_ModularEngine_C"
+        ]
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "Name": "Industrial Manufacturing",
+        "Type": "Milestone",
+        "Tier": 5,
+        "MenuPriority": 3,
+        "ClearCost": true,
+        "Cost": [
+            {
+                "Item": "Desc_Rubber",
+                "Amount": 1000
+            },
+            {
+                "Item": "Desc_Plastic",
+                "Amount": 1000
+            },
+            {
+                "Item": "Desc_Wire",
+                "Amount": 200,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_SteelPipe",
+                "Amount": 100,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "ArmSlotsToGive": 1,
+        "Time": 300,
+        "ClearRecipes": true,
+        "Recipes": [
+            "Recipe_Sorter_T2_Lead_C",
+            "Recipe_Smelter_LeadIngot",
+            "Recipe_Constructor_LeadSheet",
+            "Recipe_BlastFurnace_Solder_C",
+            "Recipe_Reformer_SolderWire_C",
+            "Recipe_Assembler_CircuitBoard_C",
+            "Recipe_Manufacturer_Computer_C",
+            "Recipe_Manufacturer_ModularEngine_C"
+        ]
+    }
+}

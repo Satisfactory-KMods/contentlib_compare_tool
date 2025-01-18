@@ -1,0 +1,102 @@
+{
+    "$class": "//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T6/Schematic_SF+_T6_1.Schematic_SF+_T6_1_C\r",
+    "$classShort": "Schematic_SF+_T6_1",
+    "$comment": "This file has been changed",
+    "Class": "//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T6/Schematic_SF+_T6_1.Schematic_SF+_T6_1_C\r",
+    "new": {
+        "Cost": [
+            {
+                "Item": "Desc_Rotor",
+                "Amount": 250,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_BronzeFrame",
+                "Amount": 100,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_Computer",
+                "Amount": 50,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "Recipes": [
+            "Recipe_WetWasher_Magnesium",
+            "Recipe_WetWasher_Zinc",
+            "Recipe_WetWasher_Lead",
+            "Recipe_WetWasher_Caterium",
+            "Recipe_WetWasher_Nickel",
+            "Recipe_WetWasher_Cobalt",
+            "Recipe_Washed_Silica",
+            "Recipe_ChemReac_FusedQuartzCrystal",
+            "Recipe_ChemReac_ToxicAir_Hydrogen"
+        ]
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "Cost": [
+            {
+                "Item": "Desc_Computer",
+                "Amount": 50
+            },
+            {
+                "Item": "Desc_ModularFrameHeavy",
+                "Amount": 15
+            },
+            {
+                "Item": "Desc_LeadFrame",
+                "Amount": 20
+            }
+        ],
+        "Recipes": [
+            "Recipe_WetWasher_Magnesium",
+            "Recipe_WetWasher_Zinc",
+            "Recipe_WetWasher_Lead",
+            "Recipe_WetWasher_Caterium",
+            "Recipe_WetWasher_Nickel",
+            "Recipe_WetWasher_Cobalt",
+            "Recipe_ChemReac_FusedQuartzCrystal",
+            "Recipe_ChemReac_ToxicAir_Hydrogen",
+            "Info_Kyrium: Add Filtrator Recipe for Wastewater here!"
+        ]
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "Name": "Industrial Washing",
+        "Type": "Milestone",
+        "Tier": 6,
+        "MenuPriority": 2,
+        "ClearCost": true,
+        "Cost": [
+            {
+                "Item": "Desc_Rotor",
+                "Amount": 250,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_BronzeFrame",
+                "Amount": 100,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_Computer",
+                "Amount": 50,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "ClearRecipes": true,
+        "Recipes": [
+            "Recipe_WetWasher_Magnesium",
+            "Recipe_WetWasher_Zinc",
+            "Recipe_WetWasher_Lead",
+            "Recipe_WetWasher_Caterium",
+            "Recipe_WetWasher_Nickel",
+            "Recipe_WetWasher_Cobalt",
+            "Recipe_Washed_Silica",
+            "Recipe_ChemReac_FusedQuartzCrystal",
+            "Recipe_ChemReac_ToxicAir_Hydrogen"
+        ],
+        "Time": 180
+    }
+}

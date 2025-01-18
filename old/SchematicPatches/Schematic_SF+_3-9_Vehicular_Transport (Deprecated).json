@@ -1,9 +1,0 @@
-{
-    "Name": "Vehicular Transport (DEPRECATED)",
-    "MenuPriority": 10,
-    "ClearCost": true,
-    "ClearRecipes": true,
-    "Recipes": [],
-    "Time": 0,
-    "$comment": "This file has been removed, no new version exists"
-}

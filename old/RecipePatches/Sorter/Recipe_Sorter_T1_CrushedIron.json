@@ -1,0 +1,30 @@
+//SatisfactoryPlus/Content/Recipes/Sorter/Recipe_Sorter_T1_Iron.Recipe_Sorter_T1_Iron_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Crushed Iron",
+  "Category": "T1 Sorting",
+  "Ingredients": [
+    {
+      "Item": "Desc_CrushedSiterite",
+      "Amount": 24
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_CrushedIron",
+      "Amount": 18
+    },
+    {
+      "Item": "Desc_CrushedTin",
+      "Amount": 12
+    },
+    {
+      "Item": "Desc_Gangue",
+      "Amount": 8
+    }
+  ],
+  "ProducedIn": [ "Build_SorterMk1" ],
+  "ManufacturingDuration": 12,
+  "ManufacturingMenuPriority": 1
+}

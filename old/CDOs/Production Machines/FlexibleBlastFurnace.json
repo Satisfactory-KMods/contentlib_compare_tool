@@ -1,0 +1,13 @@
+{
+  "Class": "/KLib/Assets/Buildings/FlexibleBlastFurnace/BuildDesc_FlexibleBlastFurnaceSmelter.BuildDesc_FlexibleBlastFurnaceSmelter_C",
+  "Edits": [
+    {
+      "Property": "mDisplayName",
+      "Value": "Flexible Blast Furnace"
+    },
+    {
+      "Property": "mDescription",
+      "Value": "Capable of producing molten metals by either alloying them or melting solid ingredients.\nMaximum Temperature: 1500°C\nHead Lift: 10 meters.\r(Allows fluids to be transported 10 meters upwards.)\n\nContains 1 Conveyor Belt and 2 Pipe Inputs.\nOutput Order (facing thhe outputs):\nThe right Pipe is the first output."
+    }
+  ]
+}

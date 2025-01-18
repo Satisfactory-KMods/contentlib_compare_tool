@@ -1,0 +1,21 @@
+//SatisfactoryPlus/Content/Recipes/Constructor/Recipe_Constructor_CopperSheet.Recipe_Constructor_CopperSheet_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Category": "StandardParts_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_CopperIngot",
+      "Amount": 4
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_CopperSheet",
+      "Amount": 5
+    }
+  ],
+  "ProducedIn": [ "Build_ConstructorMk1" ],
+  "ManufacturingDuration": 10,
+  "ManufacturingMenuPriority": 6
+}

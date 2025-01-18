@@ -1,32 +1,36 @@
+//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T6/Schematic_SF+_T6_1.Schematic_SF+_T6_1_C
 {
-    "Name": "Industrial Washing",
-    "MenuPriority": 2,
-    "ClearCost": true,
-    "Cost": [
-        {
-            "Item": "Desc_PackagedLiquidHydrochloricAcid",
-            "Amount": 50
-        },
-        {
-            "Item": "Desc_PackagedSulfuricAcid",
-            "Amount": 50
-        },
-        {
-            "Item": "Desc_LeadFrame",
-            "Amount": 20
-        }
-    ],
-    "ClearRecipes": true,
-    "Recipes": [
-        "Recipe_ChemReactor_ToxicAir",
-        "Recipe_Wasching_Magn_C",
-        "Recipe_Wasching_Zinc",
-        "Recipe_Wasching_Lead",
-        "Recipe_Wasching_Caterium",
-        "Recipe_Wasching_Nickle",
-        "Recipe_Wasching_Cobalt",
-        "Recipe_FusedQuartzCrystal"
-    ],
-    "Time": 180,
-    "$comment": "This file has been removed, no new version exists"
+  "Name": "Industrial Washing",
+  "Type": "Milestone",
+  "Tier": 6,
+  "MenuPriority": 2,
+  "ClearCost": true,
+  "Cost": [
+    {
+      "Item": "Desc_Computer",
+      "Amount": 50
+    },
+    {
+      "Item": "Desc_ModularFrameHeavy",
+      "Amount": 15
+    },
+    {
+      "Item": "Desc_LeadFrame",
+      "Amount": 20
+    }
+  ],
+
+  "ClearRecipes": true,
+  "Recipes": [
+    "Recipe_WetWasher_Magnesium",
+    "Recipe_WetWasher_Zinc",
+    "Recipe_WetWasher_Lead",
+    "Recipe_WetWasher_Caterium",
+    "Recipe_WetWasher_Nickel",
+    "Recipe_WetWasher_Cobalt",
+    "Recipe_ChemReac_FusedQuartzCrystal",
+    "Recipe_ChemReac_ToxicAir_Hydrogen",
+    "Info_Kyrium: Add Filtrator Recipe for Wastewater here!"
+  ],
+  "Time": 180
 }

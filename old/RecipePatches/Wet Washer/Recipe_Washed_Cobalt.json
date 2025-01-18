@@ -1,0 +1,31 @@
+//SatisfactoryPlus/Content/Recipes/WetWasher/Recipe_WetWasher_Cobalt.Recipe_WetWasher_Cobalt_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Washed Cobalt",
+  "OverrideCategory": "Cat_KLib_SAC_Wasching_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_OreBauxite",
+      "Amount": 8
+    },
+    {
+      "Item": "Desc_LiquidHydrochloricAcid",
+      "Amount": 2000
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_CrushedCobalt",
+      "Amount": 6
+    },
+    {
+      "Item": "Desc_Wastewater",
+      "Amount": 4000
+    }
+
+  ],
+  "ProducedIn": [ "Build_OreWascher" ],
+  "ManufacturingDuration": 8,
+  "ManufacturingMenuPriority": 9
+}

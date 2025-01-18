@@ -1,0 +1,17 @@
+{
+  "Class": "/Game/FactoryGame/Buildable/Factory/SmelterMk1/Build_SmelterMk1.Build_SmelterMk1_C",
+  "Edits": [
+    {
+      "Property": "mOverrideProductionShardSlotSize",
+      "Value": true
+    },
+    {
+      "Property": "mProductionShardSlotSize",
+      "Value": "2"
+    },
+    {
+      "Property": "mProductionShardBoostMultiplier",
+      "Value": "0.5"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "Class": "/Game/FactoryGame/Buildable/Factory/QuantumEncoder/Build_QuantumEncoder.Build_QuantumEncoder_C",
+  "Edits": [
+    {
+      "Property": "mProductionShardSlotSize",
+      "Value": "8"
+    },
+    {
+      "Property": "mProductionShardBoostMultiplier",
+      "Value": "0.125"
+    },
+    {
+      "Property": "mFluidStackSizeMultiplier",
+      "Value": "4"
+    }
+  ]
+}

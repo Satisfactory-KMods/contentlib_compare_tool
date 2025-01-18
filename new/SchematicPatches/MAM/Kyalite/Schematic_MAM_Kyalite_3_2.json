@@ -15,5 +15,7 @@
       "Item": "Desc_Sand",
       "Amount": 100
     }
-  ]
+  ],
+  "ClearRecipes": true,
+  "Recipes": [ "Recipe_Smelter_BurntLime_C"]
 }

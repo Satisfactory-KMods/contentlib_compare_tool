@@ -1,4 +1,4 @@
-//SatisfactoryPlus/Content/Recipes/Wascher/Recipe_Wasching_Copper.Recipe_Wasching_Copper_C
+//SatisfactoryPlus/Content/Recipes/WetWasher/Recipe_WetWasher_Copper.Recipe_WetWasher_Copper_C
 {
   "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
   "Name": "Washed Copper",
@@ -17,11 +17,11 @@
   "Products": [
     {
       "Item": "Desc_CrushedCopper",
-      "Amount": 8
+      "Amount": 12
     },
     {
       "Item": "Desc_LiquidSlag",
-      "Amount": 16000
+      "Amount": 8000
     }
 
   ],

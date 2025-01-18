@@ -1,9 +1,0 @@
-{
-    "Name": "Nuclear Power",
-    "MenuPriority": 2,
-    "Recipes": [
-        "Recipe_RP_MP_NuclearHeater"
-    ],
-    "Time": 480,
-    "$comment": "This file has been removed, no new version exists"
-}

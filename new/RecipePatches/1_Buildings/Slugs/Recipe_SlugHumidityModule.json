@@ -1,0 +1,23 @@
+//SatisfactoryPlus/Content/BuildingRecipes/Slugs/Recipe_SlugHatchery_Mk1_Humidity.Recipe_SlugHatchery_Mk1_Humidity_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Ingredients": [
+    {
+      "Item": "Desc_BronzeFrame",
+      "Amount": 5
+    },
+    {
+      "Item": "Desc_Glass",
+      "Amount": 25
+    },
+    {
+      "Item": "Desc_BronzePipe",
+      "Amount": 25
+    },
+    {
+      "Item": "Desc_IronScrew",
+      "Amount": 50
+    }
+  ],
+  "ManufacturingMenuPriority": 4
+}

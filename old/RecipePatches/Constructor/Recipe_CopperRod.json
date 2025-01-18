@@ -1,0 +1,20 @@
+//SatisfactoryPlus/Content/Recipes/Constructor/Recipe_Constructor_CopperRod.Recipe_Constructor_CopperRod_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Category": "StandardParts_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_CopperIngot",
+      "Amount": 2
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_CopperRod",
+      "Amount": 3
+    }
+  ],
+  "ManufacturingDuration": 10,
+  "ManufacturingMenuPriority": 5
+}

@@ -96,9 +96,15 @@ for (const file of target) {
 			process.exit(1);
 		}
 		delete json.$schema;
-		json.$comment = "This is a new file, no old version exists";
 
-		json.Class = firstLine;
+		json.$comment = "This is a new file, no old version exists";
+		json.$class = firstLine;
+		json.$classShort =
+			firstLine.split("/").at(-1)?.split(".").at(0) ??
+			firstLine.split("/").at(-1);
+
+		const { $comment, $class, $classShort, ...rest } = json;
+
 		console.log(
 			"[NEW FILE FOUND]",
 			fileDir,
@@ -109,7 +115,16 @@ for (const file of target) {
 		);
 		await fs.writeFile(
 			file.replace("new", differenceDir),
-			JSON.stringify(json, null, 4),
+			JSON.stringify(
+				{
+					$comment,
+					$class,
+					$classShort,
+					...rest,
+				},
+				null,
+				4,
+			),
 		);
 		continue;
 	}
@@ -132,16 +147,22 @@ for (const file of target) {
 		meta.push({ file, action: "change" });
 
 		const changedFields: {
+			$comment: string;
+			$class: string;
+			$classShort: string | undefined;
 			Class: string | undefined;
 			new: Record<string, any>;
-			$comment: string;
 			demitter1: string;
 			old: Record<string, any>;
 			demitter2: string;
 			original: Record<string, any>;
 		} = {
-			Class: firstLine,
+			$class: firstLine,
+			$classShort:
+				firstLine.split("/").at(-1)?.split(".").at(0) ??
+				firstLine.split("/").at(-1),
 			$comment: "This file has been changed",
+			Class: firstLine,
 			new: {},
 			demitter2:
 				"-----------------------------------------------------------------------------------",
@@ -206,6 +227,10 @@ for (const file of target) {
 			await fs.mkdir(fileDir, { recursive: true });
 		}
 		changedFields.Class = firstLine;
+		changedFields.$class = firstLine;
+		changedFields.$classShort =
+			firstLine.split("/").at(-1)?.split(".").at(0) ??
+			firstLine.split("/").at(-1);
 		await fs.writeFile(
 			file.replace("new", differenceDir),
 			JSON.stringify(changedFields, null, 4),

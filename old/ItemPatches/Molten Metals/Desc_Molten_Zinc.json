@@ -1,6 +1,6 @@
 //KLib/Assets/Ressources/Raw/Fluids/Metals/Desc_LiquidZinc.Desc_LiquidZinc_C
 {
   "Name": "Molten Zinc",
-  "Description": "Melting Point: 419°C\n\nZinc in liquid form, useful for bulk casting ingots or other parts."
-
+  "Description": "Melting Point: 419°C\n\nZinc in liquid form, useful for bulk casting ingots or other parts.",
+  "VisualKit": "Kit_MoltenZinc"
 }

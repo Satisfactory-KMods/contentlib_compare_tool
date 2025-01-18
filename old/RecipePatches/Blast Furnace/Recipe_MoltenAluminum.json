@@ -1,0 +1,30 @@
+//SatisfactoryPlus/Content/Recipes/BlastFurnace/Recipe_BlastFurnace_Aluminum.Recipe_BlastFurnace_Aluminum_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Molten Aluminum",
+  "OverrideCategory": "Cat_KLib_MoltenMetals_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_AluminaSolution",
+      "Amount": 6000
+    },
+    {
+      "Item": "Desc_CarbonDust",
+      "Amount": 9
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_LiquidAluminum",
+      "Amount": 9000
+    },
+    {
+      "Item": "Desc_FlueGas",
+      "Amount": 3000
+    }
+  ],
+  "ProducedIn": [ "Build_FlexibleBlastFurnaceSmelter" ],
+  "ManufacturingDuration": 6,
+  "ManufacturingMenuPriority": 11
+}

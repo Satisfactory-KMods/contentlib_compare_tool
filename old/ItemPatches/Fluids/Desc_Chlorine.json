@@ -1,0 +1,8 @@
+//KLib/Assets/Ressources/Raw/Gas/Desc_Gas_Chlor.Desc_Gas_Chlor_C
+{
+  "Name": "Chlorine Gas",
+  "Description": "A non-flammable, pungent-smelling gas commonly used to make acids... better hold your nose.",
+  "Form": "RF_GAS",
+  "StackSize": "Fluid",
+  "VisualKit": "Kit_Chlorine"
+}

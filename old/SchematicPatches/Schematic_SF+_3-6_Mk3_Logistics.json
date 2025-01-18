@@ -1,0 +1,31 @@
+//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T3/Schematic_SF+_T3_6_.Schematic_SF+_T3_6__C
+{
+  "Name": "Mk.3 Logistics",
+  "MenuPriority": 7,
+  "ClearCost": true,
+  "Cost": [
+    {
+      "Item": "Desc_Stator",
+      "Amount": 50
+    },
+    {
+      "Item": "Desc_Rotor",
+      "Amount": 75
+    },
+    {
+      "Item": "Desc_BrassPlates",
+      "Amount": 75
+    },
+    {
+      "Item": "Desc_BrassPipe",
+      "Amount": 50
+    },
+    {
+      "Item": "Desc_SteelPipe",
+      "Amount": 50
+    }
+  ],
+  "ClearRecipes": true,
+  "Recipes": [ "Recipe_Reformer_DrumDriveMk2_C", "Recipe_ConveyorBeltMk3_C", "Recipe_ConveyorLiftMk3_C", "Recipe_TruckStation_C", "Recipe_Tractor_C" ],
+  "Time": 360
+}

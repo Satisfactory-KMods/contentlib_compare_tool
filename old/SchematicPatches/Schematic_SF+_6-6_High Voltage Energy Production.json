@@ -1,0 +1,30 @@
+//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T6/Schematic_SF+_T6_4.Schematic_SF+_T6_4_C
+{
+  "Name": "High Voltage Energy Production",
+  "Type": "Milestone",
+  "Tier": 6,
+  "MenuPriority": 6,
+  "VisualKit": "Desc_GeneratorFuel_C",
+  "ClearCost": true,
+  "Cost": [
+    {
+      "Item": "Desc_HighSpeedWire",
+      "Amount": 2000
+    },
+    {
+      "Item": "Desc_FanBlade",
+      "Amount": 500
+    },
+    {
+      "Item": "Desc_Motor",
+      "Amount": 500
+    },
+    {
+      "Item": "Desc_ElectromagneticControlRod",
+      "Amount": 200
+    }
+  ],
+  "ClearRecipes": true,
+  "Recipes": [ "Recipe_RP_MP_TurbineMk2", "Recipe_SF+_MP_HVGenerator", "Recipe_SFP_WindTurbineMk3_C", "Recipe_Manufacturer_PowerManagementRelay" ],
+  "Time": 480
+}

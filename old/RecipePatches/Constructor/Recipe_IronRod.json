@@ -1,0 +1,22 @@
+//SatisfactoryPlus/Content/Recipes/Constructor/Recipe_Constructor_IronRod.Recipe_Constructor_IronRod_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Iron Rod",
+  "Category": "StandardParts_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_IronIngot",
+      "Amount": 1
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_IronRod",
+      "Amount": 1
+    }
+  ],
+  "ProducedIn": [ "Build_ConstructorMk1" ],
+  "ManufacturingDuration": 4,
+  "ManufacturingMenuPriority": 1
+}

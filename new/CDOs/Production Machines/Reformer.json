@@ -10,8 +10,8 @@
       "Value": "Able to re-form parts into other products through heating, refrigeration and pressurization processes.\n\nHead Lift: 10 meters.\r(Allows fluids to be transported 10 meters upwards.)\r\n\r\nContains both Conveyor Belt and Pipe inputs and outputs.\n\nSolid Output: The first solid output is on the right (viewed from the output side.)"
     },
     {
-      "Property": "mNumCyclesForProductivity",
-      "Value": 5
+      "Property": "mPowerConsumption",
+      "Value": 25
     },
     {
       "Property": "mMinimumStoppedTime",

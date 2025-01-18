@@ -1,0 +1,27 @@
+//KLib/Assets/Buildings/AirCollector/Recipe_AirCollector.Recipe_AirCollector_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Ingredients": [
+    {
+      "Item": "Desc_Rotor",
+      "Amount": 10
+    },
+    {
+      "Item": "Desc_ModularFrame",
+      "Amount": 15
+    },
+    {
+      "Item": "Desc_TinPlates",
+      "Amount": 25
+    },
+    {
+      "Item": "Desc_BrassPipe",
+      "Amount": 20
+    },
+    {
+      "Item": "Desc_Cable",
+      "Amount": 10
+    }
+  ],
+  "ManufacturingMenuPriority": 3
+}

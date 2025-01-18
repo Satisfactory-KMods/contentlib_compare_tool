@@ -1,0 +1,29 @@
+//SatisfactoryPlus/Content/Recipes/Reformer/Recipe_Reformer_IronIngot.Recipe_Reformer_IronIngot_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Cast Iron Ingot",
+  "category": "Cat_Ingots_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_LiquidIron",
+      "Amount": 12000
+    },
+    {
+      "Item": "Desc_Water",
+      "Amount": 6000
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_IronIngot",
+      "Amount": 30
+    },
+    {
+      "Item": "Desc_Gas_Steam_Hot",
+      "Amount": 6000
+    }
+  ],
+  "ManufacturingDuration": 12,
+  "ManufacturingMenuPriority": 1
+}

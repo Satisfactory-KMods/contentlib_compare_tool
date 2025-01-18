@@ -1,0 +1,34 @@
+//SatisfactoryPlus/Content/Recipes/Sorter/Recipe_Sorter_T2_Tin.Recipe_Sorter_T2_Tin_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Crushed Tin",
+  "OverrideCategory": "T2 Sorting",
+  "Ingredients": [
+    {
+      "Item": "Desc_CrushedSiterite",
+      "Amount": 24
+    },
+    {
+      "Item": "Desc_Air",
+      "Amount": 18000
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_CrushedTin",
+      "Amount": 18
+    },
+    {
+      "Item": "Desc_CrushedIron",
+      "Amount": 9
+    },
+    {
+      "Item": "Desc_Gangue",
+      "Amount": 8
+    }
+  ],
+  "ProducedIn": [ "Build_SorterMk1" ],
+  "ManufacturingDuration": 12,
+  "ManufacturingMenuPriority": 1
+}

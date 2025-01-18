@@ -1,0 +1,32 @@
+//SatisfactoryPlus/Content/Recipes/Blender/Recipe_Blender_CoolingSystem.Recipe_Blender_CoolingSystem_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Ingredients": [
+    {
+      "Item": "Desc_AluminumPlateReinforced",
+      "Amount": 2
+    },
+    {
+      "Item": "Desc_Rubber",
+      "Amount": 4
+    },
+    {
+      "Item": "Desc_CoolingWater",
+      "Amount": 4000
+    },
+    {
+      "Item": "Desc_NitrogenGas",
+      "Amount": 24000
+    }
+  ],
+  "Products": [
+    {
+      "Item": "Desc_CoolingSystem",
+      "Amount": 2
+    }
+  ],
+  "ManufacturingDuration": 20,
+  "ManufacturingMenuPriority": 2,
+  "ProducedIn": [ "Build_Blender" ]
+
+}

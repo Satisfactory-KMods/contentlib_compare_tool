@@ -1,0 +1,30 @@
+//SatisfactoryPlus/Content/Recipes/Reformer/Recipe_Reformer_CobaltIngot.Recipe_Reformer_CobaltIngot_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Cast Cobalt Ingot",
+  "OverrideCategory": "Cat_Ingots_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_LiquidCobalt",
+      "Amount": 6000
+    },
+    {
+      "Item": "Desc_Water",
+      "Amount": 4000
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_CobaltIngot",
+      "Amount": 16
+    },
+    {
+      "Item": "Desc_Gas_Steam_Hot",
+      "Amount": 4000
+    }
+  ],
+  "ProducedIn": [ "Build_SoldifierAndCooler" ],
+  "ManufacturingDuration": 4,
+  "ManufacturingMenuPriority": 9
+}

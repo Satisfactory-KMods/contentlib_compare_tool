@@ -1,0 +1,14 @@
+//SatisfactoryPlus/Content/ModifyedBuildings/Pipes/Recipe_SF+_PipelineMk3.Recipe_SF+_PipelineMk3_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Ingredients": [
+    {
+      "Item": "Desc_InvarPipe",
+      "Amount": 1
+    },
+    {
+      "Item": "Desc_Rubber",
+      "Amount": 1
+    }
+  ]
+}

@@ -1,7 +1,8 @@
-//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T5/Schematic_SF+_5_1.Schematic_SF+_5_1_C
+//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T5/Schematic_SF+_T5_1.Schematic_SF+_T5_1_C
 {
   "Name": "Liquid & Gas Energy",
   "MenuPriority": 2,
+  "Tier": 5,
   "ClearCost": true,
   "Cost": [
     {
@@ -23,6 +24,6 @@
 
   ],
   "ClearRecipes": true,
-  "Recipes": [ "Recipe_RP_MP_SolutionHeater", "Recipe_RP_MP_BoilerMk2", "Recipe_SolarPanel_Mk2_New_C", "Recipe_ChemReactor_Oil_Desulfurization", "Recipe_ChemReactor_NaturalGas", "Recipe_ResidualHydrogen" ],
+  "Recipes": [ "Recipe_RP_MP_SolutionHeater", "Recipe_RP_MP_BoilerMk2", "Recipe_SolarPanel_Mk2_New_C", "Recipe_ChemReac_SweetFuel_C", "Recipe_ChemReac_SyngasHydrogen_C", "Recipe_Reformer_ResidualHydrogen_C" ],
   "Time": 180
 }

@@ -1,0 +1,31 @@
+//SatisfactoryPlus/Content/Recipes/WetWasher/Recipe_WetWasher_Zinc.Recipe_WetWasher_Zinc_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Washed Zinc",
+  "OverrideCategory": "Cat_KLib_SAC_Wasching_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_Stone",
+      "Amount": 16
+    },
+    {
+      "Item": "Desc_Water",
+      "Amount": 3000
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_CrushedZinc",
+      "Amount": 12
+    },
+    {
+      "Item": "Desc_Wastewater",
+      "Amount": 8000
+    }
+
+  ],
+  "ProducedIn": [ "Build_OreWascher" ],
+  "ManufacturingDuration": 12,
+  "ManufacturingMenuPriority": 5
+}

@@ -1,0 +1,26 @@
+//SatisfactoryPlus/Content/Recipes/BlastFurnace/Recipe_BlastFurnace_Caterium.Recipe_BlastFurnace_Caterium_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Molten Caterium",
+  "OverrideCategory": "Cat_KLib_MoltenMetals_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_CrushedCaterium",
+      "Amount": 16
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_LiquidGold",
+      "Amount": 8000
+    },
+    {
+      "Item": "Desc_LiquidSlag",
+      "Amount": 1000
+    }
+  ],
+  "ProducedIn": [ "Build_FlexibleBlastFurnaceSmelter" ],
+  "ManufacturingDuration": 6,
+  "ManufacturingMenuPriority": 5
+}

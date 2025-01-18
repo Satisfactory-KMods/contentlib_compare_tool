@@ -1,0 +1,22 @@
+//SatisfactoryPlus/Content/Recipes/Constructor/Recipe_Constructor_HighPressureDiamond.Recipe_Constructor_HighPressureDiamond_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "High Pressure Diamonds",
+  "Category": "Minerals_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_CarbonDust",
+      "Amount": 100
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "/Game/FactoryGame/Resource/Parts/Diamond/Desc_Diamond.Desc_Diamond_C",
+      "Amount": 5
+    }
+  ],
+  "ProducedIn": [ "Build_ConstructorMk1" ],
+  "ManufacturingDuration": 300,
+  "ManufacturingMenuPriority": 4
+}

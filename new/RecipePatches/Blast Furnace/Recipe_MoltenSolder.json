@@ -1,0 +1,31 @@
+//SatisfactoryPlus/Content/Recipes/BlastFurnace/Recipe_BlastFurnace_Solder.Recipe_BlastFurnace_Solder_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Molten Solder",
+  "OverrideCategory": "Cat_KLib_Alloys_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_LiquidTin",
+      "Amount": 5000
+    },
+    {
+      "Item": "Desc_CrushedLead",
+      "Amount": 10
+    },
+    {
+      "Item": "Desc_Air",
+      "Amount": 8000
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_LiquidSolder",
+      "Amount": 6000
+    }
+
+  ],
+  "ProducedIn": [ "Build_FlexibleBlastFurnaceSmelter" ],
+  "ManufacturingDuration": 10,
+  "ManufacturingMenuPriority": 1.5
+}

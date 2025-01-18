@@ -1,0 +1,13 @@
+{
+  "Class": "/Game/FactoryGame/Buildable/Factory/FoundryMk1/Build_FoundryMk1.Build_FoundryMk1_C",
+  "Edits": [
+    {
+      "Property": "mProductionShardSlotSize",
+      "Value": "4"
+    },
+    {
+      "Property": "mProductionShardBoostMultiplier",
+      "Value": "0.25"
+    }
+  ]
+}

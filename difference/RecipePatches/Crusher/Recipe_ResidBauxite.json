@@ -1,0 +1,48 @@
+{
+    "$class": "//SatisfactoryPlus/Content/Recipes/Crusher/Recipe_Crusher_ResidBauxite.Recipe_Crusher_ResidBauxite_C\r",
+    "$classShort": "Recipe_Crusher_ResidBauxite",
+    "$comment": "This file has been changed",
+    "Class": "//SatisfactoryPlus/Content/Recipes/Crusher/Recipe_Crusher_ResidBauxite.Recipe_Crusher_ResidBauxite_C\r",
+    "new": {
+        "Products": [
+            {
+                "Item": "Desc_CrushedBauxite",
+                "Amount": 6,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ]
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "Products": [
+            {
+                "Item": "Desc_CrushedBauxite",
+                "Amount": 4
+            }
+        ]
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+        "Name": "Resid Bauxite",
+        "OverrideCategory": "Minerals_C",
+        "Ingredients": [
+            {
+                "Item": "Desc_CryoliteResidue",
+                "Amount": 39
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_CrushedBauxite",
+                "Amount": 6,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "ProducedIn": [
+            "Build_Crusher"
+        ],
+        "ManufacturingDuration": 60,
+        "ManufacturingMenuPriority": 5
+    }
+}

@@ -1,0 +1,22 @@
+//SatisfactoryPlus/Content/Recipes/Constructor/Recipe_Constructor_Cable.Recipe_Constructor_Cable_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Cable",
+  "Category": "Electronics_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_Wire",
+      "Amount": 6
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_Cable",
+      "Amount": 3
+    }
+  ],
+  "ProducedIn": [ "Build_ConstructorMk1" ],
+  "ManufacturingDuration": 6,
+  "ManufacturingMenuPriority": 3
+}

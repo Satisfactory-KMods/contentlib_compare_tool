@@ -1,0 +1,22 @@
+//SatisfactoryPlus/Content/SchematicManager/Alternative/CompactedIronPlate/Recipe_Alternative_CompactedIronPlate.Recipe_Alternative_CompactedIronPlate_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Alternate: Compacted Iron Plate",
+  "OverrideCategory": "StandardParts_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_IronPlate",
+      "Amount": 24
+    }
+  ],
+  "Products": [
+    {
+      "Item": "Desc_IronPlateReinforced",
+      "Amount": 2
+    }
+  ],
+  "ProducedIn": [ "Build_ConstructorMk1" ],
+  "ManufacturingDuration": 40,
+  "ManufacturingMenuPriority": 20
+
+}

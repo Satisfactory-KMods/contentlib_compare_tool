@@ -1,0 +1,27 @@
+//SatisfactoryPlus/Content/BuildingRecipes/Slugs/Recipe_SlugTerrarium.Recipe_SlugTerrarium_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Ingredients": [
+    {
+      "Item": "Desc_BronzeFrame",
+      "Amount": 10
+    },
+    {
+      "Item": "Desc_Glass",
+      "Amount": 30
+    },
+    {
+      "Item": "Desc_IronRod",
+      "Amount": 40
+    },
+    {
+      "Item": "Desc_IronScrew",
+      "Amount": 50
+    },
+    {
+      "Item": "Desc_FF_Dirt",
+      "Amount": 75
+    }
+  ],
+  "ManufacturingMenuPriority": 1
+}

@@ -6,6 +6,10 @@
       "Value": true
     },
     {
+      "Property": "mPowerConsumption",
+      "Value": 50
+    },
+    {
       "Property": "mProductionShardSlotSize",
       "Value": "2"
     },

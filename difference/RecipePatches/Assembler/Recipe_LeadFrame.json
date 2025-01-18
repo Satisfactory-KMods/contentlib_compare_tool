@@ -1,0 +1,64 @@
+{
+    "$class": "//SatisfactoryPlus/Content/Recipes/Assembler/Recipe_Assembler_LeadFrame.Recipe_Assembler_LeadFrame_C\r",
+    "$classShort": "Recipe_Assembler_LeadFrame",
+    "$comment": "This file has been changed",
+    "Class": "//SatisfactoryPlus/Content/Recipes/Assembler/Recipe_Assembler_LeadFrame.Recipe_Assembler_LeadFrame_C\r",
+    "new": {
+        "Ingredients": [
+            {
+                "Item": "Desc_BrassPipe",
+                "Amount": 9,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_LeadSheet",
+                "Amount": 15
+            }
+        ],
+        "ManufacturingDuration": 30,
+        "ManufacturingMenuPriority": 8.5
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "Ingredients": [
+            {
+                "Item": "Desc_LeadPlates",
+                "Amount": 10
+            },
+            {
+                "Item": "Desc_LeadSheet",
+                "Amount": 15
+            }
+        ],
+        "ManufacturingDuration": 40,
+        "ManufacturingMenuPriority": 8
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+        "Name": "Lead Frame",
+        "OverrideCategory": "StandardParts_C",
+        "Ingredients": [
+            {
+                "Item": "Desc_BrassPipe",
+                "Amount": 9,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_LeadSheet",
+                "Amount": 15
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_LeadFrame",
+                "Amount": 2
+            }
+        ],
+        "ProducedIn": [
+            "Build_AssemblerMk1"
+        ],
+        "ManufacturingDuration": 30,
+        "ManufacturingMenuPriority": 8.5
+    }
+}

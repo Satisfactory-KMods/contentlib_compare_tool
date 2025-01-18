@@ -3,5 +3,6 @@
   "Name": "Slug Slime",
   "Description": "Slime from Slugs in low concentration. Can be crystallized in the Filtrator to form Power Shard Crystals.",
   "Form": "RF_Liquid",
+  "VisualKit": "Kit_SlugSlime",
   "StackSize": "Fluid"
 }

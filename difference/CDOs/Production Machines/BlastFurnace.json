@@ -1,0 +1,69 @@
+{
+    "$class": "/KLib/Assets/Buildings/FlexibleBlastFurnace/Build_FlexibleBlastFurnaceSmelter.Build_FlexibleBlastFurnaceSmelter_C",
+    "$classShort": "Build_FlexibleBlastFurnaceSmelter",
+    "$comment": "This file has been changed",
+    "Class": "/KLib/Assets/Buildings/FlexibleBlastFurnace/Build_FlexibleBlastFurnaceSmelter.Build_FlexibleBlastFurnaceSmelter_C",
+    "new": {
+        "Edits": [
+            {
+                "Property": "mOverrideProductionShardSlotSize",
+                "Value": true
+            },
+            {
+                "Property": "mPowerConsumption",
+                "Value": 50,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Property": "mProductionShardSlotSize",
+                "Value": "2",
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Property": "mProductionShardBoostMultiplier",
+                "Value": "0.5"
+            }
+        ]
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "Edits": [
+            {
+                "Property": "mOverrideProductionShardSlotSize",
+                "Value": true
+            },
+            {
+                "Property": "mProductionShardSlotSize",
+                "Value": "2"
+            },
+            {
+                "Property": "mProductionShardBoostMultiplier",
+                "Value": "0.5"
+            }
+        ]
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "Class": "/KLib/Assets/Buildings/FlexibleBlastFurnace/Build_FlexibleBlastFurnaceSmelter.Build_FlexibleBlastFurnaceSmelter_C",
+        "Edits": [
+            {
+                "Property": "mOverrideProductionShardSlotSize",
+                "Value": true
+            },
+            {
+                "Property": "mPowerConsumption",
+                "Value": 50,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Property": "mProductionShardSlotSize",
+                "Value": "2",
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Property": "mProductionShardBoostMultiplier",
+                "Value": "0.5"
+            }
+        ]
+    }
+}

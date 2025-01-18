@@ -1,4 +1,4 @@
-//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T3/Schematic_SF+_3_5.Schematic_SF+_3_5_C
+//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T3/Schematic_SF+_T3_5.Schematic_SF+_T3_5_C
 {
   "Name": "Xeno-Basher",
   "MenuPriority": 5,
@@ -13,7 +13,7 @@
       "Amount": 50
     },
     {
-      "Item": "Desc_SteelScrew",
+      "Item": "Desc_SteelBolt",
       "Amount": 100
     }
   ],

@@ -1,4 +1,4 @@
-//SatisfactoryPlus/Content/SchematicManager/Tutorial/SF+_Schematic_Tutorial1.SF+_Schematic_Tutorial1_C
+//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/Tutorial/SFP_Schematic_Tutorial_1.SFP_Schematic_Tutorial_1_C
 {
   "ClearCost": true,
   "Cost": [
@@ -8,5 +8,5 @@
     }
   ],
   "ClearRecipes": true,
-  "Recipes": [ "Recipe_Workshop_C","Recipe_PortableMiner_C","Recipe_Constructor_IronWire_C" ]
+  "Recipes": [ "Recipe_Workshop_C", "Recipe_PortableMiner_C", "Recipe_Constructor_IronWire_C" ]
 }

@@ -1,0 +1,22 @@
+//SatisfactoryPlus/Content/Recipes/Smelter/Recipe_Smelter_LeadIngot.Recipe_Smelter_LeadIngot_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Lead Ingot",
+  "OverrideCategory": "Ingots_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_CrushedLead",
+      "Amount": 2
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_LeadIngot",
+      "Amount": 3
+    }
+  ],
+  "ProducedIn": [ "Build_SmelterMk1" ],
+  "ManufacturingDuration": 4,
+  "ManufacturingMenuPriority": 6
+}

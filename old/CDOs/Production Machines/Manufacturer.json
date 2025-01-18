@@ -1,0 +1,13 @@
+{
+  "Class": "/Game/FactoryGame/Buildable/Factory/ManufacturerMk1/Build_ManufacturerMk1.Build_ManufacturerMk1_C",
+  "Edits": [
+    {
+      "Property": "mProductionShardSlotSize",
+      "Value": "8"
+    },
+    {
+      "Property": "mProductionShardBoostMultiplier",
+      "Value": "0.125"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+    "$class": "//SatisfactoryPlus/Content/Recipes/WetWasher/Recipe_WetWasher_Caterium.Recipe_WetWasher_Caterium_C\r",
+    "$classShort": "Recipe_WetWasher_Caterium",
+    "$comment": "This file has been changed",
+    "Class": "//SatisfactoryPlus/Content/Recipes/WetWasher/Recipe_WetWasher_Caterium.Recipe_WetWasher_Caterium_C\r",
+    "new": {
+        "OverrideCategory": "Industrial_Washing"
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "OverrideCategory": "Cat_KLib_SAC_Wasching_C"
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+        "Name": "Washed Caterium",
+        "OverrideCategory": "Industrial_Washing",
+        "Ingredients": [
+            {
+                "Item": "Desc_OreGold",
+                "Amount": 24
+            },
+            {
+                "Item": "Desc_LiquidHydrochloricAcid",
+                "Amount": 2500
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_CrushedCaterium",
+                "Amount": 20
+            },
+            {
+                "Item": "Desc_Wastewater",
+                "Amount": 8000
+            }
+        ],
+        "ProducedIn": [
+            "Build_OreWascher"
+        ],
+        "ManufacturingDuration": 15,
+        "ManufacturingMenuPriority": 4
+    }
+}

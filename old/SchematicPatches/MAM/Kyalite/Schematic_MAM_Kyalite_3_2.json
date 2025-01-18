@@ -4,7 +4,7 @@
   "ClearCost": true,
   "Cost": [
     {
-      "Item": "Res_Cryolit",
+      "Item": "Desc_RawQuartz",
       "Amount": 250
     },
     {

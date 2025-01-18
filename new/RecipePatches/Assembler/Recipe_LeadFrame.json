@@ -1,0 +1,26 @@
+//SatisfactoryPlus/Content/Recipes/Assembler/Recipe_Assembler_LeadFrame.Recipe_Assembler_LeadFrame_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Lead Frame",
+  "OverrideCategory": "StandardParts_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_BrassPipe",
+      "Amount": 9
+    },
+    {
+      "Item": "Desc_LeadSheet",
+      "Amount": 15
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_LeadFrame",
+      "Amount": 2
+    }
+  ],
+  "ProducedIn": [ "Build_AssemblerMk1" ],
+  "ManufacturingDuration": 30,
+  "ManufacturingMenuPriority": 8.5
+}

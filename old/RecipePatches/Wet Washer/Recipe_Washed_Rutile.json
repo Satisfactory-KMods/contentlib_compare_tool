@@ -1,0 +1,30 @@
+//SatisfactoryPlus/Content/Recipes/WetWasher/Recipe_WetWasher_Rutile.Recipe_WetWasher_Rutile_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Washed Rutile",
+  "OverrideCategory": "Cat_KLib_SAC_Wasching_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_OreIron",
+      "Amount": 78
+    },
+    {
+      "Item": "Desc_SulfuricAcid",
+      "Amount": 10000
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_CrushedRutile",
+      "Amount": 12
+    },
+    {
+      "Item": "Desc_Wastewater",
+      "Amount": 8
+    }
+  ],
+  "ProducedIn": [ "Build_OreWascher" ],
+  "ManufacturingDuration": 24,
+  "ManufacturingMenuPriority": 10
+}

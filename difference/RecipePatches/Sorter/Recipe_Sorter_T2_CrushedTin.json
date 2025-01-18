@@ -1,0 +1,70 @@
+{
+    "$class": "//SatisfactoryPlus/Content/Recipes/Sorter/Recipe_Sorter_T2_Tin.Recipe_Sorter_T2_Tin_C\r",
+    "$classShort": "Recipe_Sorter_T2_Tin",
+    "$comment": "This file has been changed",
+    "Class": "//SatisfactoryPlus/Content/Recipes/Sorter/Recipe_Sorter_T2_Tin.Recipe_Sorter_T2_Tin_C\r",
+    "new": {
+        "Ingredients": [
+            {
+                "Item": "Desc_CrushedSiterite",
+                "Amount": 24
+            },
+            {
+                "Item": "Desc_Air",
+                "Amount": 10000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "ManufacturingDuration": 8
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "Ingredients": [
+            {
+                "Item": "Desc_CrushedSiterite",
+                "Amount": 24
+            },
+            {
+                "Item": "Desc_Air",
+                "Amount": 18000
+            }
+        ],
+        "ManufacturingDuration": 12
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+        "Name": "Crushed Tin",
+        "OverrideCategory": "T2 Sorting",
+        "Ingredients": [
+            {
+                "Item": "Desc_CrushedSiterite",
+                "Amount": 24
+            },
+            {
+                "Item": "Desc_Air",
+                "Amount": 10000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_CrushedTin",
+                "Amount": 18
+            },
+            {
+                "Item": "Desc_CrushedIron",
+                "Amount": 9
+            },
+            {
+                "Item": "Desc_Gangue",
+                "Amount": 8
+            }
+        ],
+        "ProducedIn": [
+            "Build_SorterMk1"
+        ],
+        "ManufacturingDuration": 8,
+        "ManufacturingMenuPriority": 1
+    }
+}

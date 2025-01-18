@@ -1,0 +1,24 @@
+//SatisfactoryPlus/Content/BuildingRecipes/Slugs/Recipe_SlugHatchery_Mk1_Temerature.Recipe_SlugHatchery_Mk1_Temerature_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Temperature Module",
+  "Ingredients": [
+    {
+      "Item": "Desc_BronzeFrame",
+      "Amount": 15
+    },
+    {
+      "Item": "Desc_CateeriumHeatsink",
+      "Amount": 10
+    },
+    {
+      "Item": "Desc_CopperSheet",
+      "Amount": 25
+    },
+    {
+      "Item": "Desc_SteelBolt",
+      "Amount": 50
+    }
+  ],
+  "ManufacturingMenuPriority": 9
+}

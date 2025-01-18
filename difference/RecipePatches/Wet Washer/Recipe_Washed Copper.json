@@ -1,28 +1,63 @@
 {
-    "Name": "Washed Copper",
-    "OverrideCategory": "Cat_KLib_SAC_Wasching_C",
-    "Ingredients": [
-        {
-            "Item": "Desc_OreCopper",
-            "Amount": 8
-        },
-        {
-            "Item": "Desc_Water",
-            "Amount": 8000
-        }
-    ],
-    "Products": [
-        {
-            "Item": "Desc_CrushedCopper",
-            "Amount": 8
-        },
-        {
-            "Item": "Desc_LiquidSlag",
-            "Amount": 16000
-        }
-    ],
-    "ManufacturingDuration": 20,
-    "ManufacturingMenuPriority": 2,
-    "$comment": "This is a new file, no old version exists",
-    "Class": "//SatisfactoryPlus/Content/Recipes/Wascher/Recipe_Wasching_Copper.Recipe_Wasching_Copper_C\r"
+    "$class": "//SatisfactoryPlus/Content/Recipes/WetWasher/Recipe_WetWasher_Copper.Recipe_WetWasher_Copper_C\r",
+    "$classShort": "Recipe_WetWasher_Copper",
+    "$comment": "This file has been changed",
+    "Class": "//SatisfactoryPlus/Content/Recipes/WetWasher/Recipe_WetWasher_Copper.Recipe_WetWasher_Copper_C\r",
+    "new": {
+        "Products": [
+            {
+                "Item": "Desc_CrushedCopper",
+                "Amount": 12,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_LiquidSlag",
+                "Amount": 8000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ]
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "Products": [
+            {
+                "Item": "Desc_CrushedCopper",
+                "Amount": 8
+            },
+            {
+                "Item": "Desc_LiquidSlag",
+                "Amount": 16000
+            }
+        ]
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+        "Name": "Washed Copper",
+        "OverrideCategory": "Cat_KLib_SAC_Wasching_C",
+        "Ingredients": [
+            {
+                "Item": "Desc_OreCopper",
+                "Amount": 8
+            },
+            {
+                "Item": "Desc_Water",
+                "Amount": 8000
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_CrushedCopper",
+                "Amount": 12,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_LiquidSlag",
+                "Amount": 8000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "ManufacturingDuration": 20,
+        "ManufacturingMenuPriority": 2
+    }
 }

@@ -1,18 +1,14 @@
-//SatisfactoryPlus/Content/SchematicManager/Tutorial/SF+_Schematic_Tutorial4.SF+_Schematic_Tutorial4_C
+//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/Tutorial/SFP_Schematic_Tutorial_4.SFP_Schematic_Tutorial_4_C
 {
   "ClearCost": true,
   "Cost": [
     {
-      "Item": "Desc_TinPlates",
-      "Amount": 20
+      "Item": "Desc_IronPlate",
+      "Amount": 30
     },
     {
       "Item": "Desc_Cable",
       "Amount": 20
-    },
-    {
-      "Item": "Desc_IronRod",
-      "Amount": 30
     },
     {
       "Item": "Desc_Cement",
@@ -20,5 +16,6 @@
     }
   ],
   "ClearRecipes": true,
-  "Recipes": [ "Recipe_ModularMiner_C", "Recipe_Module_Drill_T1_C", "Recipe_StorageContainerMk1_C", "Recipe_Constructor_TinRod_C","Recipe_Assamble_RIronPlates_C" ]
+  "Recipes": [ "Recipe_ConveyorPole_C", "Recipe_ConveyorBeltMk1_C", "Recipe_ConveyorLiftMk1_C", "Recipe_Crusher_C", "Recipe_Crusher_CrushedLarrussite_C", "Recipe_Crusher_CrushedSiterite_C", "Recipe_Crusher_CrushedCallanite_C", "Recipe_Smelter_Dirty_TinIngots_C", "Recipe_Assembler_TinPlates_C" ]
+
 }

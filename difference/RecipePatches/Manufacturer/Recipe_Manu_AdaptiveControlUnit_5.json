@@ -1,0 +1,102 @@
+{
+    "$class": "//SatisfactoryPlus/Content/Recipes/Manufacturer/Recipe_Manufacturer_AdaptiveControlUnit.Recipe_Manufacturer_AdaptiveControlUnit_C\r",
+    "$classShort": "Recipe_Manufacturer_AdaptiveControlUnit",
+    "$comment": "This file has been changed",
+    "Class": "//SatisfactoryPlus/Content/Recipes/Manufacturer/Recipe_Manufacturer_AdaptiveControlUnit.Recipe_Manufacturer_AdaptiveControlUnit_C\r",
+    "new": {
+        "Ingredients": [
+            {
+                "Item": "Desc_Computer",
+                "Amount": 3
+            },
+            {
+                "Item": "Desc_SpaceElevatorPart_1",
+                "Amount": 9,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_BrassPipe",
+                "Amount": 15,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_SolderWire",
+                "Amount": 36,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_SpaceElevatorPart_5",
+                "Amount": 2,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ]
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "Ingredients": [
+            {
+                "Item": "Desc_Computer",
+                "Amount": 3
+            },
+            {
+                "Item": "Desc_SpaceElevatorPart_2",
+                "Amount": 3
+            },
+            {
+                "Item": "Desc_LeadFrame",
+                "Amount": 2
+            },
+            {
+                "Item": "Desc_IronScrew",
+                "Amount": 100
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_SpaceElevatorPart_5",
+                "Amount": 1
+            }
+        ]
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+        "Name": "Adaptive Control Unit",
+        "OverrideCategory": "SpaceElevator_C",
+        "Ingredients": [
+            {
+                "Item": "Desc_Computer",
+                "Amount": 3
+            },
+            {
+                "Item": "Desc_SpaceElevatorPart_1",
+                "Amount": 9,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_BrassPipe",
+                "Amount": 15,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_SolderWire",
+                "Amount": 36,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_SpaceElevatorPart_5",
+                "Amount": 2,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "ProducedIn": [
+            "Build_ManufacturerMk1"
+        ],
+        "ManufacturingDuration": 30,
+        "ManufacturingMenuPriority": 2
+    }
+}

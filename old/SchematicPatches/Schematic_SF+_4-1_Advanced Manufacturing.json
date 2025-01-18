@@ -1,4 +1,4 @@
-//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T4/Schematic_SF+_4_1.Schematic_SF+_4_1_C
+//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T4/Schematic_SF+_T4_1.Schematic_SF+_T4_1_C
 {
   "Name": "Advanced Manufacturing",
   "MenuPriority": 2,
@@ -26,6 +26,6 @@
     }
   ],
   "ClearRecipes": true,
-  "Recipes": [ "Recipe_ManufacturerMk1_C", "Recipe_Assamble_EncasedBeam", "Recipe_Assamble_Motor", "Recipe_Manu_HeavyFrame", "Recipe_Assamble_Lift_2", "Recipe_Assamble_Lift_3" ],
+  "Recipes": [ "Recipe_ManufacturerMk1_C", "Recipe_Assembler_EncasedBeam_C", "Recipe_Manufacturer_Motor_C", "Recipe_Manufacturer_ModularFrameHeavy_C", "Recipe_Assembler_VersatileFramework_C", "Recipe_Assembler_AutomatedWiring_C" ],
   "Time": 360
 }

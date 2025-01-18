@@ -1,0 +1,6 @@
+//KLib/Assets/Ressources/Raw/Fluids/Metals/Desc_LiquidAluminum.Desc_LiquidAluminum_C
+{
+  "Name": "Molten Aluminum",
+  "Description": "Melting Point: 660°C\n\nPure Aluminum in liquid form, useful for bulk casting ingots or other parts.",
+  "VisualKit": "Kit_MoltenAluminum"
+}

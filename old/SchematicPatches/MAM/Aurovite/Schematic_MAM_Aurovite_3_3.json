@@ -11,5 +11,7 @@
       "Item": "Desc_HighSpeedWire",
       "Amount": 150
     }
-  ]
+  ],
+  "ClearRecipes": true,
+  "Recipes": [ "Recipe_Constructor_CateriumPlate_C", "Recipe_Constructor_CateriumSheet_C", "Recipe_Assembler_AiLimiter_C" ]
 }

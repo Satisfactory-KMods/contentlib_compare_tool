@@ -1,34 +1,37 @@
+//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T5/Schematic_SF+_T5_2.Schematic_SF+_T5_2_C
 {
-    "Name": "Industrial Manufacturing",
-    "MenuPriority": 2,
-    "ClearCost": true,
-    "Cost": [
-        {
-            "Item": "Desc_Rubber",
-            "Amount": 1000
-        },
-        {
-            "Item": "Desc_Plastic",
-            "Amount": 1000
-        },
-        {
-            "Item": "Desc_CopperSheet",
-            "Amount": 100
-        },
-        {
-            "Item": "Desc_TinPlates",
-            "Amount": 200
-        }
-    ],
-    "ClearRecipes": true,
-    "Recipes": [
-        "Recipe_Sorter_T2_Rubyte_C",
-        "Recipe_FBFS_Alloy_Solder_C",
-        "Recipe_SAC_Parts_Solder_C",
-        "Recipe_Manu_CicuitBoard_C",
-        "Recipe_Manu_Computer",
-        "Recipe_Manu_Lift_4_C"
-    ],
-    "Time": 300,
-    "$comment": "This file has been removed, no new version exists"
+  "Name": "Industrial Manufacturing",
+  "Type": "Milestone",
+  "Tier": 5,
+  "MenuPriority": 2,
+  "Cost": [
+    {
+      "Item": "Desc_Rubber",
+      "Amount": 1000
+    },
+    {
+      "Item": "Desc_Plastic",
+      "Amount": 1000
+    },
+    {
+      "Item": "Desc_CopperSheet",
+      "Amount": 100
+    },
+    {
+      "Item": "Desc_TinPlates",
+      "Amount": 200
+    }
+
+  ],
+  "ArmSlotsToGive": 1,
+  "Time": 300,
+  "ClearRecipes": true,
+  "Recipes": [
+    "Recipe_Sorter_T2_Lead_C",
+    "Recipe_BlastFurnace_Solder_C",
+    "Recipe_Reformer_SolderWire_C",
+    "Recipe_Assembler_CircuitBoard_C",
+    "Recipe_Manufacturer_Computer_C",
+    "Recipe_Manufacturer_ModularEngine_C"
+  ]
 }

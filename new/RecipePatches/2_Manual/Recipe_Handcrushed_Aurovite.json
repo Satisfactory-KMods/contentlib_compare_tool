@@ -1,0 +1,20 @@
+//SatisfactoryPlus/Content/Recipes/Workbench/Recipe_Handcrafter_CrushedAurovite.Recipe_Handcrafter_CrushedAurovite_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Handcrushed Aurovite",
+  "Category": "Cat_KLib_Prod_Crushing_Ores_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_OreGold",
+      "Amount": 3
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_CrushedAurovite",
+      "Amount": 3
+    }
+  ],
+  "ManufacturingMenuPriority": 2.5
+}

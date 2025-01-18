@@ -1,0 +1,35 @@
+//SatisfactoryPlus/Content/Recipes/Reformer/Recipe_Reformer_SolderWire.Recipe_Reformer_SolderWire_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Cast Solder",
+  "OverrideCategory": "Cat_KLib_SAC_Cooling_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_LiquidSolder",
+      "Amount": 6000
+    },
+    {
+      "Item": "Desc_Air",
+      "Amount": 10000
+    },
+    {
+      "Item": "Desc_Wire",
+      "Amount": 30
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_SolderWire",
+      "Amount": 30
+    },
+    {
+      "Item": "Desc_SolderRod",
+      "Amount": 5
+    }
+
+  ],
+  "ProducedIn": [ "Build_SoldifierAndCooler" ],
+  "ManufacturingDuration": 20,
+  "ManufacturingMenuPriority": 2
+}

@@ -1,0 +1,69 @@
+{
+    "$class": "//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T5/Schematic_SF+_T5_5.Schematic_SF+_T5_5_C\r",
+    "$classShort": "Schematic_SF+_T5_5",
+    "$comment": "This file has been changed",
+    "Class": "//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T5/Schematic_SF+_T5_5.Schematic_SF+_T5_5_C\r",
+    "new": {
+        "Name": "Basic Lead Production (Deprecated)",
+        "Type": "NONE",
+        "MenuPriority": 10,
+        "Cost": [
+            {
+                "Item": "Desc_Plastic",
+                "Amount": 1,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "Recipes": [],
+        "Time": 0
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "Name": "Industrial Lead Production",
+        "Type": "Milestone",
+        "MenuPriority": 3,
+        "Cost": [
+            {
+                "Item": "Desc_CrushedLead",
+                "Amount": 500
+            },
+            {
+                "Item": "Desc_Plastic",
+                "Amount": 1000
+            },
+            {
+                "Item": "Desc_CopperSheet",
+                "Amount": 200
+            },
+            {
+                "Item": "Desc_TinPlates",
+                "Amount": 200
+            }
+        ],
+        "Recipes": [
+            "Recipe_Smelter_LeadIngot",
+            "Recipe_Constructor_LeadPlate",
+            "Recipe_Constructor_LeadSheet",
+            "Recipe_Assembler_LeadFrame"
+        ],
+        "Time": 180
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "Name": "Basic Lead Production (Deprecated)",
+        "Type": "NONE",
+        "Tier": 5,
+        "MenuPriority": 10,
+        "ClearCost": true,
+        "Cost": [
+            {
+                "Item": "Desc_Plastic",
+                "Amount": 1,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "ClearRecipes": true,
+        "Recipes": [],
+        "Time": 0
+    }
+}
