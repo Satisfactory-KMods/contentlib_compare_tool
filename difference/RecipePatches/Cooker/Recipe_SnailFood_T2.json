@@ -1,0 +1,32 @@
+{
+    "$comment": "This is a new file, no old version exists",
+    "$class": "//SatisfactoryPlus/Content/Recipes/Cooker/Recipe_Cooker_SnailFoodMk_2.Recipe_Cooker_SnailFoodMk_2_C\r",
+    "$classShort": "Recipe_Cooker_SnailFoodMk_2",
+    "Name": "Vegetable Meal",
+    "OverrideCategory": "Cat_Klib_Food",
+    "Ingredients": [
+        {
+            "Item": "Desc_FF_Crop_Potato",
+            "Amount": 2
+        },
+        {
+            "Item": "Desc_FF_Crop_Carrot",
+            "Amount": 2
+        },
+        {
+            "Item": "Desc_Water",
+            "Amount": 3000
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_SnailFood_Tier_2_C",
+            "Amount": 4
+        }
+    ],
+    "ProducedIn": [
+        "Build_FF_CookingHub_C"
+    ],
+    "ManufacturingDuration": 6,
+    "ManufacturingMenuPriority": 2
+}

@@ -1,0 +1,30 @@
+//SatisfactoryPlus/Content/Recipes/OilRefinery/Recipe_OilRefinery_Resid_Soda.Recipe_OilRefinery_Resid_Soda_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Residual Soda",
+  "OverrideCategory": "AdvancedRefinement_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_CryoliteResidue_C",
+      "Amount": 26
+    },
+    {
+      "Item": "Desc_Water",
+      "Amount": 8000
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_CausticSoda_C",
+      "Amount": 6000
+    },
+    {
+      "Item": "Desc_Silica",
+      "Amount": 9
+    }
+  ],
+  "ManufacturingDuration": 12,
+  "ManufacturingMenuPriority": 4,
+  "ProducedIn": [ "Build_OilRefinery" ]
+}

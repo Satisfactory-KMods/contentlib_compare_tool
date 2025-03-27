@@ -1,0 +1,20 @@
+//SatisfactoryPlus/Content/Recipes/Workbench/Recipe_Handcrafter_Stritarit.Recipe_Handcrafter_Stritarit_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Handcrushed Siterite",
+  "Category": "Cat_KLib_Prod_Crushing_Ores_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_OreIron",
+      "Amount": 4
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_CrushedSiterite",
+      "Amount": 4
+    }
+  ],
+  "ManufacturingMenuPriority": 1
+}

@@ -1,0 +1,26 @@
+//SatisfactoryPlus/Content/Recipes/Assembler/Recipe_Assembler_AiLimiter.Recipe_Assembler_AiLimiter_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "A.I. Limiter",
+  "OverrideCategory": "Electronics_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_CateriumSheet",
+      "Amount": 5
+    },
+    {
+      "Item": "Desc_TinnedWire",
+      "Amount": 4
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_CircuitBoardHighSpeed",
+      "Amount": 1
+    }
+  ],
+  "ProducedIn": [ "Build_AssemblerMk1" ],
+  "ManufacturingDuration": 12,
+  "ManufacturingMenuPriority": 2
+}

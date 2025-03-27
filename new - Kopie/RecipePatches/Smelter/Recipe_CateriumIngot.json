@@ -1,0 +1,21 @@
+//SatisfactoryPlus/Content/Recipes/Smelter/Recipe_Smelter_CateriumIngot.Recipe_Smelter_CateriumIngot_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Caterium Ingot",
+  "Category": "Ingots_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_CrushedCaterium",
+      "Amount": 4
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_GoldIngot",
+      "Amount": 4
+    }
+  ],
+  "ManufacturingDuration": 6,
+  "ManufacturingMenuPriority": 4
+}

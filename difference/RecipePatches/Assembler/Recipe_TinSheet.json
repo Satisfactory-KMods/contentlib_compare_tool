@@ -1,0 +1,37 @@
+{
+    "$class": "//SatisfactoryPlus/Content/Recipes/Assembler/Recipe_Assembler_TinSheet.Recipe_Assembler_TinSheet_C\r",
+    "$classShort": "Recipe_Assembler_TinSheet",
+    "$comment": "This file has been changed",
+    "Class": "//SatisfactoryPlus/Content/Recipes/Assembler/Recipe_Assembler_TinSheet.Recipe_Assembler_TinSheet_C\r",
+    "new": {},
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "ProducedIn": [
+            "Build_AssemblerMk1"
+        ]
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+        "Name": "Tin Sheet",
+        "Category": "StandardParts_C",
+        "Ingredients": [
+            {
+                "Item": "Desc_TinIngot",
+                "Amount": 2
+            },
+            {
+                "Item": "Desc_CopperSheet",
+                "Amount": 2
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_TinSheet",
+                "Amount": 4
+            }
+        ],
+        "ManufacturingDuration": 6,
+        "ManufacturingMenuPriority": 2
+    }
+}

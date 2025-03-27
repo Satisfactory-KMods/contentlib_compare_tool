@@ -1,0 +1,73 @@
+{
+    "$class": "//Game/FactoryGame/Recipes/Buildings/Recipe_SmelterMk1.Recipe_SmelterMk1_C\r",
+    "$classShort": "Recipe_SmelterMk1",
+    "$comment": "This file has been changed",
+    "Class": "//Game/FactoryGame/Recipes/Buildings/Recipe_SmelterMk1.Recipe_SmelterMk1_C\r",
+    "new": {
+        "Ingredients": [
+            {
+                "Item": "Desc_Wire",
+                "Amount": 15,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_IronPlateReinforced",
+                "Amount": 5
+            },
+            {
+                "Item": "Desc_Cable",
+                "Amount": 10
+            },
+            {
+                "Item": "Desc_Cement",
+                "Amount": 15
+            }
+        ]
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "Ingredients": [
+            {
+                "Item": "Desc_Wire",
+                "Amount": 20
+            },
+            {
+                "Item": "Desc_IronPlateReinforced",
+                "Amount": 5
+            },
+            {
+                "Item": "Desc_Cable",
+                "Amount": 10
+            },
+            {
+                "Item": "Desc_Cement",
+                "Amount": 15
+            }
+        ]
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+        "Name": "Foundry",
+        "Ingredients": [
+            {
+                "Item": "Desc_Wire",
+                "Amount": 15,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_IronPlateReinforced",
+                "Amount": 5
+            },
+            {
+                "Item": "Desc_Cable",
+                "Amount": 10
+            },
+            {
+                "Item": "Desc_Cement",
+                "Amount": 15
+            }
+        ],
+        "ManufacturingMenuPriority": 2
+    }
+}

@@ -15,10 +15,9 @@
   "Products": [
     {
       "Item": "Desc_ModularFrame",
-      "Amount": 4
+      "Amount": 8
     }
   ],
-  "ProducedIn": [ "Build_AssemblerMk1" ],
   "ManufacturingDuration": 80,
   "ManualManufacturingMultiplier": 1.5,
   "ManufacturingMenuPriority": 5.2

@@ -7,16 +7,20 @@
   "ClearCost": true,
   "Cost": [
     {
+      "Item": "Desc_IronWire",
+      "Amount": 500
+    },
+    {
+      "Item": "Desc_IronPlateReinforced",
+      "Amount": 200
+    },
+    {
       "Item": "Desc_Salt",
-      "Amount": 250
+      "Amount": 100
     },
     {
-      "Item": "Desc_ModularFrameHeavy",
-      "Amount": 15
-    },
-    {
-      "Item": "Desc_BeltDriveMk3",
-      "Amount": 25
+      "Item": "Desc_Computer",
+      "Amount": 50
     }
 
   ],
@@ -29,6 +33,7 @@
     "Recipe_Sorter_T2_Lead",
     "Recipe_Sorter_T3_Nickel",
     "Recipe_Sorter_T1_Cobalt",
+    "Recipe_Sorter_T2_Silica_C",
     "Recipe_SulfiteGas",
     "Recipe_ChemReac_SulfuricAcid",
     "Recipe_ChemReac_AcidBaseMix",

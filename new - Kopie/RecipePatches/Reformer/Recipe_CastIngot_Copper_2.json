@@ -1,0 +1,29 @@
+//SatisfactoryPlus/Content/Recipes/Reformer/Recipe_Reformer_CopperIngot.Recipe_Reformer_CopperIngot_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Cast Copper Ingot",
+  "category": "Cat_Ingots_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_LiquidCopper",
+      "Amount": 8000
+    },
+    {
+      "Item": "Desc_Water",
+      "Amount": 4000
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_CopperIngot",
+      "Amount": 24
+    },
+    {
+      "Item": "Desc_Gas_Steam_Hot",
+      "Amount": 4000
+    }
+  ],
+  "ManufacturingDuration": 6,
+  "ManufacturingMenuPriority": 2
+}

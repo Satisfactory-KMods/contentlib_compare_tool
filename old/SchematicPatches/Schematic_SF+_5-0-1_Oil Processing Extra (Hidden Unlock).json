@@ -1,7 +1,11 @@
-//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T5/Schematic_SF+_5_0_1.Schematic_SF+_5_0_1_C
 {
-  "Name": "Oil Processing 2",
-  "MenuPriority": 1,
-  "ClearRecipes": true,
-  "Recipes": [ "Recipe_ChemReac_Oil_Destila_2_C", "Recipe_Foundry_ResidualRubber", "Recipe_OilRefinery_ResidualPlastic" ]
+    "Name": "Oil Processing 2",
+    "MenuPriority": 1,
+    "ClearRecipes": true,
+    "Recipes": [
+        "Recipe_ChemReac_Oil_Destila_2_C",
+        "Recipe_Foundry_ResidualRubber",
+        "Recipe_OilRefinery_ResidualPlastic"
+    ],
+    "$comment": "This file has been removed, no new version exists"
 }

@@ -1,0 +1,40 @@
+{
+    "$class": "//SatisfactoryPlus/Content/SchematicManager/MAM/Schematics/Satmonium/Schematic_Trees_Satmonium_3_3.Schematic_Trees_Satmonium_3_3_C\r",
+    "$classShort": "Schematic_Trees_Satmonium_3_3",
+    "$comment": "This file has been changed",
+    "Class": "//SatisfactoryPlus/Content/SchematicManager/MAM/Schematics/Satmonium/Schematic_Trees_Satmonium_3_3.Schematic_Trees_Satmonium_3_3_C\r",
+    "new": {
+        "Recipes": [
+            "Recipe_Constructor_CateriumPlate_C",
+            "Recipe_Assembler_AiLimiter_C"
+        ]
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "Recipes": [
+            "Recipe_Constructor_CateriumPlate_C",
+            "Recipe_Constructor_CateriumSheet_C",
+            "Recipe_Assembler_AiLimiter_C"
+        ]
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "Name": "A.I. Limiter",
+        "ClearCost": true,
+        "Cost": [
+            {
+                "Item": "Desc_TinWire",
+                "Amount": 100
+            },
+            {
+                "Item": "Desc_HighSpeedWire",
+                "Amount": 150
+            }
+        ],
+        "ClearRecipes": true,
+        "Recipes": [
+            "Recipe_Constructor_CateriumPlate_C",
+            "Recipe_Assembler_AiLimiter_C"
+        ]
+    }
+}

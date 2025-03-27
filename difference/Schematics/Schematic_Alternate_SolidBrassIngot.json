@@ -1,0 +1,14 @@
+{
+    "$comment": "This is a new file, no old version exists",
+    "$class": "{\r",
+    "$classShort": "{\r",
+    "Name": "Alternate: Solid Brass Ingot",
+    "Type": "Alternate",
+    "VisualKit": "Desc_BrassIngot_C",
+    "Recipes": [
+        "Recipe_Alternative_SolidBrassIngot"
+    ],
+    "DependsOn": [
+        "Schematic_SF+_T3_1_C"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+  "Class": "/KLib/Assets/Buildings/Faxit/Build_CS_Output_Fluid.Build_CS_Output_Fluid_C",
+  "Edits": [
+    {
+      "Property": "mDisplayName",
+      "Value": "FaxIt Fluid Copier"
+    },
+    {
+      "Property": "mDescription",
+      "Value": "Reconstructs an exact copy of a fluid out of photons by using hologram templates.\nThe hologram data and photon stream are received from the Storage Nexus.\n\nData throughput is limited in wireless mode. Connecting it to the Storage Network with Data Cables increases throughput by 100%.\n\nHead Lift: 10 m\n(Allows fluids to be transported 10 meters upwards.)"
+    }
+  ]
+}

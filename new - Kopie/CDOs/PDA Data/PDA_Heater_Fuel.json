@@ -1,0 +1,9 @@
+{
+  "Class": "/SatisfactoryPlus/AssetDatas/RRD/RP/Heater/PDA_SFP_Heater_Solu_Fuel.PDA_SFP_Heater_Solu_Fuel",
+  "Edits": [
+    {
+      "Property": "mDuration",
+      "Value": 4
+    }
+  ]
+}

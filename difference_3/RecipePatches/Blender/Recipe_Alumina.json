@@ -1,0 +1,106 @@
+{
+    "$class": "//SatisfactoryPlus/Content/Recipes/Blender/Recipe_Blender_Alumina.Recipe_Blender_Alumina_C\r",
+    "$classShort": "Recipe_Blender_Alumina",
+    "$comment": "This file has been changed",
+    "Class": "//SatisfactoryPlus/Content/Recipes/Blender/Recipe_Blender_Alumina.Recipe_Blender_Alumina_C\r",
+    "new": {
+        "Ingredients": [
+            {
+                "Item": "Desc_CrushedBauxite",
+                "Amount": 24,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_RawQuartz",
+                "Amount": 3,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_CausticSoda_C",
+                "Amount": 9000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_AluminaSolution",
+                "Amount": 12000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_CryoliteResidue",
+                "Amount": 52,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "ManufacturingDuration": 12
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "Ingredients": [
+            {
+                "Item": "Desc_CrushedBauxite",
+                "Amount": 8
+            },
+            {
+                "Item": "Desc_RawQuartz",
+                "Amount": 1
+            },
+            {
+                "Item": "Desc_CausticSoda_C",
+                "Amount": 2000
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_AluminaSolution",
+                "Amount": 4000
+            },
+            {
+                "Item": "Desc_CryoliteResidue",
+                "Amount": 13
+            }
+        ],
+        "ManufacturingDuration": 3
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+        "Name": "Aluminate Solution",
+        "OverrideCategory": "AdvancedRefinement_C",
+        "Ingredients": [
+            {
+                "Item": "Desc_CrushedBauxite",
+                "Amount": 24,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_RawQuartz",
+                "Amount": 3,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_CausticSoda_C",
+                "Amount": 9000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_AluminaSolution",
+                "Amount": 12000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_CryoliteResidue",
+                "Amount": 52,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "ProducedIn": [
+            "Build_Blender"
+        ],
+        "ManufacturingDuration": 12,
+        "ManufacturingMenuPriority": 3
+    }
+}

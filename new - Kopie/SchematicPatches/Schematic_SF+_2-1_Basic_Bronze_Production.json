@@ -1,0 +1,27 @@
+//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T2/Schematic_SF+_T2_0.Schematic_SF+_T2_0_C
+{
+  "Name": "Basic Bronze Production",
+  "MenuPriority": 1,
+  "ClearCost": true,
+  "Cost": [
+    {
+      "Item": "Desc_IronPlateReinforced",
+      "Amount": 20
+    },
+    {
+      "Item": "Desc_IronSheet",
+      "Amount": 40
+    },
+    {
+      "Item": "Desc_TinRod",
+      "Amount": 50
+    },
+    {
+      "Item": "Desc_Wire",
+      "Amount": 100
+    }
+  ],
+  "ClearRecipes": true,
+  "Recipes": [ "Recipe_SmelterMk1", "Recipe_Foundry_BronzeIngot_C", "Recipe_Foundry_BronzePipe_C", "Recipe_Constructor_BronzeBeam_C", "Recipe_Constructor_BronzePlate", "Recipe_Assembler_BronzeFrame_C", "Recipe_Assembler_ModularFrame_C", "Recipe_Assembler_TinWire_C" ],
+  "Time": 150
+}

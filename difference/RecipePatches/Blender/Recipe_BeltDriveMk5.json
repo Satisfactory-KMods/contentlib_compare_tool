@@ -1,0 +1,86 @@
+{
+    "$class": "//SatisfactoryPlus/Content/Recipes/Blender/Recipe_Blender_BeltDriveMk5.Recipe_Blender_BeltDriveMk5_C\r",
+    "$classShort": "Recipe_Blender_BeltDriveMk5",
+    "$comment": "This file has been changed",
+    "Class": "//SatisfactoryPlus/Content/Recipes/Blender/Recipe_Blender_BeltDriveMk5.Recipe_Blender_BeltDriveMk5_C\r",
+    "new": {
+        "Ingredients": [
+            {
+                "Item": "Desc_BeltDriveMk2",
+                "Amount": 16
+            },
+            {
+                "Item": "Desc_AluminumPlate",
+                "Amount": 48
+            },
+            {
+                "Item": "Desc_SlugSlime_Low_C",
+                "Amount": 12000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_CoolingWater",
+                "Amount": 12000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ]
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "Ingredients": [
+            {
+                "Item": "Desc_BeltDriveMk2",
+                "Amount": 16
+            },
+            {
+                "Item": "Desc_AluminumPlate",
+                "Amount": 48
+            },
+            {
+                "Item": "Desc_LiquidHydrochloricAcid",
+                "Amount": 6000
+            },
+            {
+                "Item": "Desc_SlugSlime_Low_C",
+                "Amount": 12000
+            }
+        ]
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+        "Name": "Belt Drive Mk.5",
+        "OverrideCategory": "Cat_KLib_BuildingParts_C",
+        "Ingredients": [
+            {
+                "Item": "Desc_BeltDriveMk2",
+                "Amount": 16
+            },
+            {
+                "Item": "Desc_AluminumPlate",
+                "Amount": 48
+            },
+            {
+                "Item": "Desc_SlugSlime_Low_C",
+                "Amount": 12000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_CoolingWater",
+                "Amount": 12000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_BeltDriveMk4_C",
+                "Amount": 10
+            }
+        ],
+        "ProducedIn": [
+            "Build_Blender"
+        ],
+        "ManufacturingDuration": 48,
+        "ManufacturingMenuPriority": 3
+    }
+}

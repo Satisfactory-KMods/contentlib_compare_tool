@@ -1,0 +1,28 @@
+//SatisfactoryPlus/Content/Recipes/Assembler/Recipe_Assembler_ElectromagneticControlRod.Recipe_Assembler_ElectromagneticControlRod_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "EP Control Rod",
+  "Category": "Electronics_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_InvarPipe_C",
+      "Amount": 27
+    },
+    {
+      "Item": "Desc_InvarPlates_C",
+      "Amount": 13
+    }
+
+  ],
+  "Products": [
+
+    {
+      "Item": "Desc_ElectromagneticControlRod_C",
+      "Amount": 8
+    }
+
+  ],
+  "ProducedIn": [ "Build_AssemblerMk1" ],
+  "ManufacturingDuration": 120,
+  "ManufacturingMenuPriority": 5
+}

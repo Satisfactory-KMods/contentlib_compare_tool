@@ -1,0 +1,64 @@
+{
+    "$class": "//SatisfactoryPlus/Content/Recipes/OilRefinery/Recipe_OilRefinery_Condensed_SlugSlime.Recipe_OilRefinery_Condensed_SlugSlime_C\r",
+    "$classShort": "Recipe_OilRefinery_Condensed_SlugSlime",
+    "$comment": "This file has been changed",
+    "Class": "//SatisfactoryPlus/Content/Recipes/OilRefinery/Recipe_OilRefinery_Condensed_SlugSlime.Recipe_OilRefinery_Condensed_SlugSlime_C\r",
+    "new": {
+        "Ingredients": [
+            {
+                "Item": "Desc_SlugSlime_Low",
+                "Amount": 6000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_SlugSlime_High",
+                "Amount": 600,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "ManufacturingDuration": 6
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "Ingredients": [
+            {
+                "Item": "Desc_SlugSlime_Low",
+                "Amount": 3000
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_SlugSlime_High",
+                "Amount": 100
+            }
+        ],
+        "ManufacturingDuration": 3
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+        "Name": "Concentrated Slug Slime",
+        "OverrideCategory": "AdvancedRefinement_C",
+        "Ingredients": [
+            {
+                "Item": "Desc_SlugSlime_Low",
+                "Amount": 6000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_SlugSlime_High",
+                "Amount": 600,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "ProducedIn": [
+            "Build_OilRefinery"
+        ],
+        "ManufacturingDuration": 6,
+        "ManufacturingMenuPriority": 1
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "$class": "//SatisfactoryPlus/Content/Recipes/Composter/Recipe_Mid_WhiteSlug.Recipe_Mid_WhiteSlug_C\r",
+    "$classShort": "Recipe_Mid_WhiteSlug",
+    "$comment": "This file has been changed",
+    "Class": "//SatisfactoryPlus/Content/Recipes/Composter/Recipe_Mid_WhiteSlug.Recipe_Mid_WhiteSlug_C\r",
+    "new": {
+        "Ingredients": [
+            {
+                "Item": "SlugDesc_WhiteSlug",
+                "Amount": 2,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_SlugSlime_High_C",
+                "Amount": 200,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ]
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "Ingredients": [
+            {
+                "Item": "SlugDesc_WhiteSlug",
+                "Amount": 1
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_SlugSlime_High_C",
+                "Amount": 100
+            }
+        ]
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+        "Name": "White Slug Concentrate",
+        "Ingredients": [
+            {
+                "Item": "SlugDesc_WhiteSlug",
+                "Amount": 2,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_SlugSlime_High_C",
+                "Amount": 200,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "ProducedIn": [
+            "Build_FF_Composter_C"
+        ],
+        "ManufacturingDuration": 1,
+        "ManufacturingMenuPriority": 1
+    }
+}

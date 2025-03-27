@@ -3,7 +3,8 @@
   "Name": "Industrial Manufacturing",
   "Type": "Milestone",
   "Tier": 5,
-  "MenuPriority": 2,
+  "MenuPriority": 3,
+  "ClearCost": true,
   "Cost": [
     {
       "Item": "Desc_Rubber",
@@ -14,12 +15,12 @@
       "Amount": 1000
     },
     {
-      "Item": "Desc_CopperSheet",
-      "Amount": 100
+      "Item": "Desc_Wire",
+      "Amount": 200
     },
     {
-      "Item": "Desc_TinPlates",
-      "Amount": 200
+      "Item": "Desc_SteelPipe",
+      "Amount": 100
     }
 
   ],
@@ -28,6 +29,8 @@
   "ClearRecipes": true,
   "Recipes": [
     "Recipe_Sorter_T2_Lead_C",
+    "Recipe_Smelter_LeadIngot",
+    "Recipe_Constructor_LeadSheet",
     "Recipe_BlastFurnace_Solder_C",
     "Recipe_Reformer_SolderWire_C",
     "Recipe_Assembler_CircuitBoard_C",

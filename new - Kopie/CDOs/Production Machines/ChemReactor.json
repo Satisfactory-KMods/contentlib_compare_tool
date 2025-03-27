@@ -1,0 +1,41 @@
+{
+  "Class": "/KLib/Assets/Buildings/ChemReactor/Build_ChemReactor.Build_ChemReactor_C",
+  "Edits": [
+    {
+      "Property": "mDisplayName",
+      "Value": "Chemical Reactor"
+    },
+    {
+      "Property": "mDescription",
+      "Value": "Capable of complex distillation and refining processes.\nHead Lift: 10 m\r(Allows fluids to be transported 10 meters upwards.)\r\n\r\nContains both Conveyor Belt and Pipeline inputs and output ports.\n\nFluid Output: The first fluid output port is at the bottom\nSolid Output: The first solid output port is on the right. "
+    },
+    {
+      "Property": "mNumCyclesForProductivity",
+      "Value": 8
+    },
+    {
+      "Property": "mMinimumStoppedTime",
+      "Value": 4
+    },
+    {
+      "Property": "mPowerConsumptionExponent",
+      "Value": 1.321929
+    },
+    {
+      "Property": "mOverrideProductionShardSlotSize",
+      "Value": true
+    },
+    {
+      "Property": "mProductionShardSlotSize",
+      "Value": "4"
+    },
+    {
+      "Property": "mProductionShardBoostMultiplier",
+      "Value": "0.25"
+    },
+    {
+      "Property": "mFluidStackSizeMultiplier",
+      "Value": 2
+    }
+  ]
+}

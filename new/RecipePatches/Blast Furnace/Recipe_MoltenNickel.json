@@ -9,12 +9,8 @@
       "Amount": 24
     },
     {
-      "Item": "Desc_Air",
-      "Amount": 16000
-    },
-    {
-      "Item": "Desc_KLIB_NaturalGas_C",
-      "Amount": 10000
+      "Item": "Desc_Gas_Hydrogen",
+      "Amount": 8000
     }
 
   ],
@@ -26,7 +22,7 @@
     },
     {
       "Item": "Desc_LiquidSlag",
-      "Amount": 6000
+      "Amount": 8000
     }
   ],
   "ProducedIn": [ "Build_FlexibleBlastFurnaceSmelter" ],

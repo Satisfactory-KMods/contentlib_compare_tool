@@ -1,0 +1,32 @@
+{
+    "$comment": "This is a new file, no old version exists",
+    "$class": "//SatisfactoryPlus/Content/Recipes/WetWasher/Recipe_WetWasher_Silica.Recipe_WetWasher_Silica_C\r",
+    "$classShort": "Recipe_WetWasher_Silica",
+    "Name": "Washed Silica",
+    "OverrideCategory": "Cat_KLib_SAC_Wasching_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_Stone",
+            "Amount": 18
+        },
+        {
+            "Item": "Desc_LiquidHydrochloricAcid",
+            "Amount": 3000
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_Silica",
+            "Amount": 18
+        },
+        {
+            "Item": "Desc_LiquidSlag",
+            "Amount": 3000
+        }
+    ],
+    "ProducedIn": [
+        "Build_OreWascher"
+    ],
+    "ManufacturingDuration": 12,
+    "ManufacturingMenuPriority": 8
+}

@@ -1,0 +1,35 @@
+//SatisfactoryPlus/Content/Recipes/Manufacturer/Recipe_Manufacturer_RadioControlUnit.Recipe_Manufacturer_RadioControlUnit_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Radio Control Unit",
+  "OverrideCategory": "Communications_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_CrystalOscillator",
+      "Amount": 4
+    },
+    {
+      "Item": "Desc_Computer",
+      "Amount": 5
+    },
+    {
+      "Item": "Desc_AluminumCAsing",
+      "Amount": 40
+    }
+
+
+
+  ],
+  "Products": [
+
+    {
+      "Item": "Desc_ModularFrameLightweight",
+      "Amount": 6
+    }
+
+  ],
+  "ProducedIn": [ "Build_ManufacturerMk1" ],
+  "ManufacturingDuration": 80,
+  "ManualManufacturingMultiplier": 1.2,
+  "ManufacturingMenuPriority": 2
+}

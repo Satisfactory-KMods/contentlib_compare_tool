@@ -1,0 +1,29 @@
+//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T2/Schematic_SF+_T2_5.Schematic_SF+_T2_5_C
+{
+  "Name": "Mk.2 Blueprint Designer",
+  "MenuPriority": 8,
+  "ClearCost": true,
+  "Cost": [
+    {
+      "Item": "Desc_IronPlateReinforced",
+      "Amount": 50
+    },
+    {
+      "Item": "Desc_IronSheet",
+      "Amount": 100
+    },
+    {
+      "Item": "Desc_Cable",
+      "Amount": 120
+    },
+    {
+      "Item": "Desc_Cement",
+      "Amount": 150
+    },
+    {
+      "Item": "Desc_IronScrew",
+      "Amount": 200
+    }
+  ],
+  "Time": 240
+}

@@ -1,4 +1,4 @@
-//Game/FactoryGame/Recipes/Equipment/Recipe_ZipLine.Recipe_ZipLine_C
+//SatisfactoryPlus/CDOHelper/RecipeCDO/MainGame/Equip/CDOHelper_Zipper.CDOHelper_Zipper_C
 {
   "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
   "Name": "Zipline",

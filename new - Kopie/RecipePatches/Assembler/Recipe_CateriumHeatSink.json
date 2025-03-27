@@ -1,0 +1,27 @@
+//SatisfactoryPlus/Content/Recipes/Assembler/Recipe_Assembler_CateriumHeatsink.Recipe_Assembler_CateriumHeatsink_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Caterium Heatsink",
+  "Category": "Cat_IndustrialParts_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_CateriumPlates",
+      "Amount": 6
+    },
+    {
+      "Item": "Desc_CopperBusbar",
+      "Amount": 2
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_CateriumHeatsink",
+      "Amount": 2
+    }
+
+  ],
+  "ProducedIn": [ "Build_AssemblerMk1" ],
+  "ManufacturingDuration": 12,
+  "ManufacturingMenuPriority": 1
+}

@@ -1,0 +1,36 @@
+{
+    "$class": "//SatisfactoryPlus/Content/SchematicManager/Alternative/BurntLime/Recipe_Alternative_BurntLime.Recipe_Alternative_BurntLime_C\r",
+    "$classShort": "Recipe_Alternative_BurntLime",
+    "$comment": "This file has been changed",
+    "Class": "//SatisfactoryPlus/Content/SchematicManager/Alternative/BurntLime/Recipe_Alternative_BurntLime.Recipe_Alternative_BurntLime_C\r",
+    "new": {
+        "Name": "Burnt Lime"
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "Name": "Alternate: Burnt Lime"
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+        "Name": "Burnt Lime",
+        "OverrideCategory": "Other_C",
+        "Ingredients": [
+            {
+                "Item": "Desc_Gangue",
+                "Amount": 12
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_Limedust",
+                "Amount": 10
+            }
+        ],
+        "ProducedIn": [
+            "Build_SmelterMk1"
+        ],
+        "ManufacturingDuration": 12,
+        "ManufacturingMenuPriority": 4
+    }
+}

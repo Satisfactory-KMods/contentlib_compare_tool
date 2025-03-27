@@ -1,0 +1,25 @@
+{
+    "$comment": "This is a new file, no old version exists",
+    "$class": "//SatisfactoryPlus/Content/SchematicManager/MAM/Schematics/Satmonium/Schematic_Trees_Satmonium_3_5.Schematic_Trees_Satmonium_3_5_C\r",
+    "$classShort": "Schematic_Trees_Satmonium_3_5",
+    "Name": "High-Speed Connector",
+    "ClearCost": true,
+    "Cost": [
+        {
+            "Item": "Desc_CircuitBoard",
+            "Amount": 50
+        },
+        {
+            "Item": "Desc_HighSpeedWire",
+            "Amount": 300
+        },
+        {
+            "Item": "Desc_CobaltPlates",
+            "Amount": 25
+        }
+    ],
+    "ClearRecipes": true,
+    "Recipes": [
+        "Recipe_Manufacturer_HSConnector"
+    ]
+}

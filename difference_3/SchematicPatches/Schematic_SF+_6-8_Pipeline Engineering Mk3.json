@@ -1,0 +1,41 @@
+{
+    "$class": "//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T6/Schematic_SF+_T6_5.Schematic_SF+_T6_5_C\r",
+    "$classShort": "Schematic_SF+_T6_5",
+    "$comment": "This file has been changed",
+    "Class": "//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T6/Schematic_SF+_T6_5.Schematic_SF+_T6_5_C\r",
+    "new": {
+        "MenuPriority": 5
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "MenuPriority": 3.5
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "Name": "Pipeline Engineering Mk. 3",
+        "Type": "Milestone",
+        "Tier": 6,
+        "MenuPriority": 5,
+        "ClearCost": true,
+        "Cost": [
+            {
+                "Item": "Desc_ModularFrame",
+                "Amount": 100
+            },
+            {
+                "Item": "Desc_InvarPipe",
+                "Amount": 200
+            },
+            {
+                "Item": "Desc_Rubber",
+                "Amount": 250
+            }
+        ],
+        "ClearRecipes": true,
+        "Recipes": [
+            "Recipe_SF+_PipelineMk3",
+            "Recipe_IndustrialTank"
+        ],
+        "Time": 180
+    }
+}

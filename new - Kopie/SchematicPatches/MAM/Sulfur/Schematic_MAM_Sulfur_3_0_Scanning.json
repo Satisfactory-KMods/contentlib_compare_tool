@@ -1,0 +1,11 @@
+//SatisfactoryPlus/Content/SchematicManager/MAM/Schematics/Sulfur/Schematic_Trees_Sulfur_3_0.Schematic_Trees_Sulfur_3_0_C
+{
+  "Name": "Sulfur Scanning",
+  "ClearCost": true,
+  "Cost": [
+    {
+      "Item": "Desc_Sulfur",
+      "Amount": 50
+    }
+  ]
+}

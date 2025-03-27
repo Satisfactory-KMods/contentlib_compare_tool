@@ -1,0 +1,66 @@
+{
+    "$class": "//SatisfactoryPlus/Content/Recipes/Sorter/Recipe_Sorter_T3_CryoliteResidue.Recipe_Sorter_T3_CryoliteResidue_C\r",
+    "$classShort": "Recipe_Sorter_T3_CryoliteResidue",
+    "$comment": "This file has been changed",
+    "Class": "//SatisfactoryPlus/Content/Recipes/Sorter/Recipe_Sorter_T3_CryoliteResidue.Recipe_Sorter_T3_CryoliteResidue_C\r",
+    "new": {
+        "Products": [
+            {
+                "Item": "/KLib/Assets/Parts/CryoliteResidue/Desc_CryoliteResidue.Desc_CryoliteResidue_C",
+                "Amount": 13,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_Silica",
+                "Amount": 3
+            }
+        ],
+        "ManufacturingMenuPriority": 5
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "Products": [
+            {
+                "Item": "Desc_CrashedKryolith",
+                "Amount": 12
+            },
+            {
+                "Item": "Desc_Silica",
+                "Amount": 3
+            }
+        ],
+        "ManufacturingMenuPriority": 7
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+        "Name": "Cryolite Residue",
+        "OverrideCategory": "T3 Sorting",
+        "Ingredients": [
+            {
+                "Item": "Desc_RawQuartz",
+                "Amount": 16
+            },
+            {
+                "Item": "Desc_CausticSoda",
+                "Amount": 3000
+            }
+        ],
+        "Products": [
+            {
+                "Item": "/KLib/Assets/Parts/CryoliteResidue/Desc_CryoliteResidue.Desc_CryoliteResidue_C",
+                "Amount": 13,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_Silica",
+                "Amount": 3
+            }
+        ],
+        "ProducedIn": [
+            "Build_SorterMk1"
+        ],
+        "ManufacturingDuration": 4,
+        "ManufacturingMenuPriority": 5
+    }
+}

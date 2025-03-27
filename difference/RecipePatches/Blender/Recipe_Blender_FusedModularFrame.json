@@ -1,0 +1,36 @@
+{
+    "$comment": "This is a new file, no old version exists",
+    "$class": "//SatisfactoryPlus/Content/Recipes/Blender/Recipe_Blender_FusedModularFrame.Recipe_Blender_FusedModularFrame_C\r",
+    "$classShort": "Recipe_Blender_FusedModularFrame",
+    "Name": "Fused Modular Frame",
+    "Category": "IndustrialParts_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_ModularFrameHeavy",
+            "Amount": 2
+        },
+        {
+            "Item": "Desc_AluminumCasing",
+            "Amount": 12
+        },
+        {
+            "Item": "Desc_LiquidHydrochloricAcid",
+            "Amount": 6000
+        },
+        {
+            "Item": "Desc_NitrogenGas",
+            "Amount": 24000
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_ModularFrameFused",
+            "Amount": 2
+        }
+    ],
+    "ProducedIn": [
+        "Build_Blender"
+    ],
+    "ManufacturingDuration": 32,
+    "ManufacturingMenuPriority": 2
+}

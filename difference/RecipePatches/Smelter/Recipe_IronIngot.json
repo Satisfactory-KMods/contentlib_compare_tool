@@ -1,0 +1,61 @@
+{
+    "$class": "//SatisfactoryPlus/Content/Recipes/Smelter/Recipe_Smelter_IronIngot.Recipe_Smelter_IronIngot_C\r",
+    "$classShort": "Recipe_Smelter_IronIngot",
+    "$comment": "This file has been changed",
+    "Class": "//SatisfactoryPlus/Content/Recipes/Smelter/Recipe_Smelter_IronIngot.Recipe_Smelter_IronIngot_C\r",
+    "new": {
+        "Ingredients": [
+            {
+                "Item": "Desc_CrushedIron",
+                "Amount": 3,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_IronIngot",
+                "Amount": 3,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "ManufacturingDuration": 6
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "Ingredients": [
+            {
+                "Item": "Desc_CrushedIron",
+                "Amount": 15
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_IronIngot",
+                "Amount": 15
+            }
+        ],
+        "ManufacturingDuration": 30
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+        "Name": "Iron Ingot",
+        "Category": "Ingots_C",
+        "Ingredients": [
+            {
+                "Item": "Desc_CrushedIron",
+                "Amount": 3,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_IronIngot",
+                "Amount": 3,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "ManufacturingDuration": 6,
+        "ManufacturingMenuPriority": 1
+    }
+}

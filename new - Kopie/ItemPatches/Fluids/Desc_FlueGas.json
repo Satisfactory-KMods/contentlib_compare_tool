@@ -1,0 +1,8 @@
+//KLib/Assets/Ressources/Raw/Gas/Desc_FlueGas.Desc_FlueGas_C
+{
+  "Name": "Flue Gas",
+  "Description": "Mainly composed of carbon oxides and some sulfur compounds. A common product of burning carbon based fuels.",
+  "Form": "RF_GAS",
+  "StackSize": "Fluid",
+  "VisualKit": "Kit_CO2"
+}

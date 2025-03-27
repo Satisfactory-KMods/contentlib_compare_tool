@@ -1,0 +1,60 @@
+{
+    "$class": "//SatisfactoryPlus/Content/SchematicManager/Alternative/TransformerCore/Recipe_Alternative_TransformerCore.Recipe_Alternative_TransformerCore_C\r",
+    "$classShort": "Recipe_Alternative_TransformerCore",
+    "$comment": "This file has been changed",
+    "Class": "//SatisfactoryPlus/Content/SchematicManager/Alternative/TransformerCore/Recipe_Alternative_TransformerCore.Recipe_Alternative_TransformerCore_C\r",
+    "new": {
+        "Ingredients": [
+            {
+                "Item": "Desc_InvarPipe",
+                "Amount": 4
+            },
+            {
+                "Item": "Desc_HighSpeedWire",
+                "Amount": 16,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ]
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "Ingredients": [
+            {
+                "Item": "Desc_InvarPipe",
+                "Amount": 4
+            },
+            {
+                "Item": "Desc_HighSpeedWire",
+                "Amount": 24
+            }
+        ]
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+        "Name": "Alternate: Transformer Core",
+        "OverrideCategory": "IndustrialParts_C",
+        "Ingredients": [
+            {
+                "Item": "Desc_InvarPipe",
+                "Amount": 4
+            },
+            {
+                "Item": "Desc_HighSpeedWire",
+                "Amount": 16,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_Stator",
+                "Amount": 2
+            }
+        ],
+        "ProducedIn": [
+            "Build_AssemblerMk1"
+        ],
+        "ManufacturingDuration": 16,
+        "ManufacturingMenuPriority": 4.1
+    }
+}

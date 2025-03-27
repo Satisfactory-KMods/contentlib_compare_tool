@@ -8,11 +8,11 @@
     },
     {
       "Property": "mExtractCycleTime",
-      "Value": 2
+      "Value": 1
     },
     {
       "Property": "mItemsPerCycle",
-      "Value": 3000
+      "Value": 1500
     }
   ]
 }

@@ -1,0 +1,22 @@
+//SatisfactoryPlus/Content/Recipes/Constructor/Recipe_Constructor_LeadPlate.Recipe_Constructor_LeadPlate_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Lead Plate",
+  "OverrideCategory": "StandardParts_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_LeadIngot",
+      "Amount": 3
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_LeadPlates",
+      "Amount": 2
+    }
+  ],
+  "ProducedIn": [ "Build_ConstructorMk1" ],
+  "ManufacturingDuration": 6,
+  "ManufacturingMenuPriority": 23
+}

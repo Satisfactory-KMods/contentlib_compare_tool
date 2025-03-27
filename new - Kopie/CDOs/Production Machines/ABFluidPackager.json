@@ -1,0 +1,17 @@
+{
+  "Class": "/AB_FluidExtras/FluidPacker/Audio/ABFP_Attenuation.ABFP_Attenuation",
+  "Edits": [
+    {
+      "Property": "mLPFRadiusMin",
+      "Value": 0.5
+    },
+    {
+      "Property": "mEnableOcclusion",
+      "Value": true
+    },
+    {
+      "Property": "dBAttenuationAtMax",
+      "Value": -120
+    }
+  ]
+}

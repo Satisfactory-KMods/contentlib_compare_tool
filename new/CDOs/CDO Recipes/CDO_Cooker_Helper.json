@@ -1,0 +1,30 @@
+{
+  "Class": "/SatisfactoryPlus/CDOHelper/RecipeCDO/MainGame/CDOHelper_Cooker.CDOHelper_Cooker_C",
+  "Edits": [
+    {
+      "Property": "mIngredients",
+      "Value": [
+        {
+          "ItemClass": "/Game/FactoryGame/Resource/Parts/ModularFrame/Desc_ModularFrame.Desc_ModularFrame_C",
+          "Amount": 10
+        },
+        {
+          "ItemClass": "/Game/FactoryGame/Resource/Parts/Rotor/Desc_Rotor.Desc_Rotor_C",
+          "Amount": 15
+        },
+        {
+          "ItemClass": "/KLib/Assets/Parts/Production/Metal/Plates/Desc_Glass.Desc_Glass_C",
+          "Amount": 50
+        },
+        {
+          "ItemClass": "/Game/FactoryGame/Resource/Parts/IronScrew/Desc_IronScrew.Desc_IronScrew_C",
+          "Amount": 100
+        }
+      ]
+    },
+    {
+      "Property": "mManufacturingMenuPriority",
+      "Value":  3
+    }
+  ]
+}

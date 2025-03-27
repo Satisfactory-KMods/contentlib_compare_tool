@@ -1,0 +1,31 @@
+//SatisfactoryPlus/Content/Recipes/WetWasher/Recipe_WetWasher_Bauxite.Recipe_WetWasher_Bauxite_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Washed Bauxite",
+  "OverrideCategory": "Industrial_Washing",
+  "Ingredients": [
+    {
+      "Item": "Desc_OreBauxite",
+      "Amount": 6
+    },
+    {
+      "Item": "Desc_SulfuricAcid",
+      "Amount": 5000
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_CrushedBauxite",
+      "Amount": 8
+    },
+    {
+      "Item": "Desc_Wastewater",
+      "Amount": 4000
+    }
+
+  ],
+  "ManufacturingDuration": 6,
+  "ManufacturingMenuPriority": 9.5,
+  "ProducedIn": [ "Build_OreWascher" ]
+}

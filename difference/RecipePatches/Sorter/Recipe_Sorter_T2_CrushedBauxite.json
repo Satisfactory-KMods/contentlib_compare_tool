@@ -12,33 +12,26 @@
             {
                 "Item": "Desc_LiquidHydrochloricAcid",
                 "Amount": 3000
-            },
-            {
-                "Item": "Desc_LimeDust",
-                "Amount": 2
             }
         ],
-        "ManufacturingDuration": 4
-    },
-    "demitter2": "-----------------------------------------------------------------------------------",
-    "old": {
-        "Ingredients": [
+        "Products": [
             {
-                "Item": "Desc_CrushedCrotinium",
+                "Item": "Desc_CrushedBauxite",
                 "Amount": 12
             },
             {
-                "Item": "Desc_LiquidHydrochloricAcid",
-                "Amount": 3000
+                "Item": "Desc_CrushedCobalt",
+                "Amount": 2
+            },
+            {
+                "Item": "Desc_Sand",
+                "Amount": 2,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
             }
-        ],
-        "ManufacturingDuration": 6
+        ]
     },
-    "demitter1": "-----------------------------------------------------------------------------------",
-    "original": {
-        "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
-        "Name": "Crushed Bauxite",
-        "OverrideCategory": "T2 Sorting",
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
         "Ingredients": [
             {
                 "Item": "Desc_CrushedCrotinium",
@@ -65,6 +58,37 @@
             {
                 "Item": "Desc_Gangue",
                 "Amount": 3
+            }
+        ]
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+        "Name": "Crushed Bauxite",
+        "OverrideCategory": "T2 Sorting",
+        "Ingredients": [
+            {
+                "Item": "Desc_CrushedCrotinium",
+                "Amount": 12
+            },
+            {
+                "Item": "Desc_LiquidHydrochloricAcid",
+                "Amount": 3000
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_CrushedBauxite",
+                "Amount": 12
+            },
+            {
+                "Item": "Desc_CrushedCobalt",
+                "Amount": 2
+            },
+            {
+                "Item": "Desc_Sand",
+                "Amount": 2,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
             }
         ],
         "ProducedIn": [

@@ -6,22 +6,21 @@
   "Ingredients": [
     {
       "Item": "Desc_CateriumPlates",
-      "Amount": 6
+      "Amount": 12
     },
     {
       "Item": "Desc_CopperBusbar",
-      "Amount": 2
+      "Amount": 5
     }
 
   ],
   "Products": [
     {
       "Item": "Desc_CateriumHeatsink",
-      "Amount": 2
+      "Amount": 5
     }
 
   ],
-  "ProducedIn": [ "Build_AssemblerMk1" ],
-  "ManufacturingDuration": 12,
+  "ManufacturingDuration": 30,
   "ManufacturingMenuPriority": 1
 }

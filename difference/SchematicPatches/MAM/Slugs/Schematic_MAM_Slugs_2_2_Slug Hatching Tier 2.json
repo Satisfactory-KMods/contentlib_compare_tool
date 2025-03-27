@@ -1,0 +1,22 @@
+{
+    "$comment": "This is a new file, no old version exists",
+    "$class": "//SatisfactoryPlus/Content/SchematicManager/MAM/Schematics/Slugs/Schematic_Trees_Slugs_2_2_NEW.Schematic_Trees_Slugs_2_2_NEW_C\r",
+    "$classShort": "Schematic_Trees_Slugs_2_2_NEW",
+    "Name": "Slug Hatching Tier 2",
+    "ClearCost": true,
+    "Cost": [
+        {
+            "Item": "SlugDesc_WhiteSlug_C",
+            "Amount": 50
+        },
+        {
+            "Item": "SlugDesc_Lime",
+            "Amount": 50
+        }
+    ],
+    "ClearRecipes": true,
+    "Recipes": [
+        "Recipe_SlugHatchery_Mk1_Night_C",
+        "Recipe_Crusher_SnailFoodMk_3_C"
+    ]
+}

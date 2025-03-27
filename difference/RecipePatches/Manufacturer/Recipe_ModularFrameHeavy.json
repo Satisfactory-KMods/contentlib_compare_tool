@@ -1,0 +1,47 @@
+{
+    "$class": "//SatisfactoryPlus/Content/Recipes/Manufacturer/Recipe_Manufacturer_ModularFrameHeavy.Recipe_Manufacturer_ModularFrameHeavy_C\r",
+    "$classShort": "Recipe_Manufacturer_ModularFrameHeavy",
+    "$comment": "This file has been changed",
+    "Class": "//SatisfactoryPlus/Content/Recipes/Manufacturer/Recipe_Manufacturer_ModularFrameHeavy.Recipe_Manufacturer_ModularFrameHeavy_C\r",
+    "new": {},
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "ProducedIn": [
+            "Build_ManufacturerMk1",
+            "manual"
+        ]
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+        "Name": "Heavy Modular Frame",
+        "Category": "IndustrialParts_C",
+        "Ingredients": [
+            {
+                "Item": "Desc_ModularFrame",
+                "Amount": 8
+            },
+            {
+                "Item": "Desc_SteelPlateReinforced",
+                "Amount": 12
+            },
+            {
+                "Item": "Desc_BrassPipe",
+                "Amount": 30
+            },
+            {
+                "Item": "Desc_SteelBolt",
+                "Amount": 180
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_ModularFrameHeavy",
+                "Amount": 3
+            }
+        ],
+        "ManufacturingDuration": 48,
+        "ManualManufacturingMultiplier": 2.5,
+        "ManufacturingMenuPriority": 2
+    }
+}

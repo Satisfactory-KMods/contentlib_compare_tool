@@ -1,0 +1,26 @@
+//SatisfactoryPlus/Content/Recipes/Foundry/Recipe_Foundry_MagneticCore.Recipe_Foundry_MagneticCore_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Magnetic Core",
+  "OverrideCategory": "IndustrialParts_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_InvarIngot",
+      "Amount": 36
+    },
+    {
+      "Item": "Desc_CateriumRod",
+      "Amount": 32
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_InvarPipe",
+      "Amount": 18
+    }
+  ],
+  "ManufacturingDuration": 96,
+  "ManufacturingMenuPriority": 3,
+  "ProducedIn": [ "Build_FoundryMk1" ]
+}

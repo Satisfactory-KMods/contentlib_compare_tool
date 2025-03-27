@@ -1,0 +1,25 @@
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Cobalt Ingot",
+  "OverrideCategory": "Ingots_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_CrushedCobalt",
+      "Amount": 10
+    },
+    {
+      "Item": "Desc_MagnesiumGranules",
+      "Amount": 3
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_CobaltIngot",
+      "Amount": 5
+    }
+  ],
+  "ProducedIn": [ "Build_FoundryMk1" ],
+  "ManufacturingDuration": 10,
+  "ManufacturingMenuPriority": 2
+}

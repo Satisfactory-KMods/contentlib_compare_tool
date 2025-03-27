@@ -4,27 +4,21 @@
     "$comment": "This file has been changed",
     "Class": "//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T6/Schematic_SF+_T6_0.Schematic_SF+_T6_0_C\r",
     "new": {
-        "Cost": [
-            {
-                "Item": "Desc_IronWire",
-                "Amount": 500,
-                "$comment": "THIS OBJECT HAS BEEN CHANGED"
-            },
-            {
-                "Item": "Desc_IronPlateReinforced",
-                "Amount": 200,
-                "$comment": "THIS OBJECT HAS BEEN CHANGED"
-            },
-            {
-                "Item": "Desc_Salt",
-                "Amount": 100,
-                "$comment": "THIS OBJECT HAS BEEN CHANGED"
-            },
-            {
-                "Item": "Desc_Computer",
-                "Amount": 50
-            }
-        ],
+        "Recipes": [
+            "Recipe_Crusher_CrushedMontanion",
+            "Recipe_Sorter_T2_Tin",
+            "Recipe_Sorter_T2_Copper",
+            "Recipe_Sorter_T2_Magnesium",
+            "Recipe_Sorter_T2_Lead",
+            "Recipe_Sorter_T3_Nickel",
+            "Recipe_Sorter_T1_Cobalt",
+            "Recipe_Sorter_T2_Silica_C",
+            "Recipe_SulfiteGas",
+            "Recipe_ChemReac_SulfuricAcid"
+        ]
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
         "Recipes": [
             "Recipe_Crusher_CrushedMontanion",
             "Recipe_Sorter_T2_Tin",
@@ -34,42 +28,6 @@
             "Recipe_Sorter_T3_Nickel",
             "Recipe_Sorter_T1_Cobalt",
             "Recipe_Sorter_T2_Silica_C",
-            "Recipe_SulfiteGas",
-            "Recipe_ChemReac_SulfuricAcid",
-            "Recipe_ChemReac_AcidBaseMix",
-            "Recipe_FBFS_Oil_Sulfurtri_C",
-            "Recipe_Packaged_Sulfurtrixid_C",
-            "Recipe_Unpackaged_Sulfurtrixid_C",
-            "Recipe_Packaged_LiquidHydrocAcid",
-            "Recipe_Unpackaged_LiquidHydroAcid",
-            "Recipe_Packaged_CausticSoda",
-            "Recipe_Unpackaged_CausticSodad"
-        ]
-    },
-    "demitter2": "-----------------------------------------------------------------------------------",
-    "old": {
-        "Cost": [
-            {
-                "Item": "Desc_Salt",
-                "Amount": 250
-            },
-            {
-                "Item": "Desc_ModularFrameHeavy",
-                "Amount": 15
-            },
-            {
-                "Item": "Desc_BeltDriveMk3",
-                "Amount": 25
-            }
-        ],
-        "Recipes": [
-            "Recipe_Crusher_CrushedMontanion",
-            "Recipe_Sorter_T2_Tin",
-            "Recipe_Sorter_T2_Magnesium",
-            "Recipe_Sorter_T2_Copper",
-            "Recipe_Sorter_T2_Lead",
-            "Recipe_Sorter_T3_Nickel",
-            "Recipe_Sorter_T1_Cobalt",
             "Recipe_SulfiteGas",
             "Recipe_ChemReac_SulfuricAcid",
             "Recipe_ChemReac_AcidBaseMix",
@@ -92,18 +50,15 @@
         "Cost": [
             {
                 "Item": "Desc_IronWire",
-                "Amount": 500,
-                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+                "Amount": 500
             },
             {
                 "Item": "Desc_IronPlateReinforced",
-                "Amount": 200,
-                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+                "Amount": 200
             },
             {
                 "Item": "Desc_Salt",
-                "Amount": 100,
-                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+                "Amount": 100
             },
             {
                 "Item": "Desc_Computer",
@@ -114,22 +69,14 @@
         "Recipes": [
             "Recipe_Crusher_CrushedMontanion",
             "Recipe_Sorter_T2_Tin",
-            "Recipe_Sorter_T2_Magnesium",
             "Recipe_Sorter_T2_Copper",
+            "Recipe_Sorter_T2_Magnesium",
             "Recipe_Sorter_T2_Lead",
             "Recipe_Sorter_T3_Nickel",
             "Recipe_Sorter_T1_Cobalt",
             "Recipe_Sorter_T2_Silica_C",
             "Recipe_SulfiteGas",
-            "Recipe_ChemReac_SulfuricAcid",
-            "Recipe_ChemReac_AcidBaseMix",
-            "Recipe_FBFS_Oil_Sulfurtri_C",
-            "Recipe_Packaged_Sulfurtrixid_C",
-            "Recipe_Unpackaged_Sulfurtrixid_C",
-            "Recipe_Packaged_LiquidHydrocAcid",
-            "Recipe_Unpackaged_LiquidHydroAcid",
-            "Recipe_Packaged_CausticSoda",
-            "Recipe_Unpackaged_CausticSodad"
+            "Recipe_ChemReac_SulfuricAcid"
         ],
         "Time": 180
     }

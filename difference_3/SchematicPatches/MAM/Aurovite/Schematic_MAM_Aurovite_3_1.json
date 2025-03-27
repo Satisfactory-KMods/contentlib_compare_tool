@@ -1,0 +1,26 @@
+{
+    "$class": "//SatisfactoryPlus/Content/SchematicManager/MAM/Schematics/Satmonium/Schematic_Trees_Satmonium_3_1.Schematic_Trees_Satmonium_3_1_C\r",
+    "$classShort": "Schematic_Trees_Satmonium_3_1",
+    "$comment": "This file has been changed",
+    "Class": "//SatisfactoryPlus/Content/SchematicManager/MAM/Schematics/Satmonium/Schematic_Trees_Satmonium_3_1.Schematic_Trees_Satmonium_3_1_C\r",
+    "new": {
+        "ClearRecipes": true
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {},
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "Name": "Caterium Ingots",
+        "ClearCost": true,
+        "Cost": [
+            {
+                "Item": "Desc_CrushedAurovite",
+                "Amount": 75
+            }
+        ],
+        "ClearRecipes": true,
+        "Recipes": [
+            "Recipe_Smelter_Dirty_CateriumIngots_C"
+        ]
+    }
+}

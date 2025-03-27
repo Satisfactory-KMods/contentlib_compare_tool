@@ -1,0 +1,23 @@
+//Game/FactoryGame/Recipes/Buildings/Recipe_SmelterBasicMk1.Recipe_SmelterBasicMk1_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Ingredients": [
+    {
+      "Item": "Desc_Wire",
+      "Amount": 10
+    },
+    {
+      "Item": "Desc_IronPlate",
+      "Amount": 5
+    },
+    {
+      "Item": "Desc_Cable",
+      "Amount": 2
+    },
+    {
+      "Item": "Desc_IronRod",
+      "Amount": 2
+    }
+  ],
+  "ManufacturingMenuPriority": 1
+}

@@ -1,0 +1,71 @@
+{
+    "$class": "//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/Tutorial/SFP_Schematic_Tutorial_4.SFP_Schematic_Tutorial_4_C\r",
+    "$classShort": "SFP_Schematic_Tutorial_4",
+    "$comment": "This file has been changed",
+    "Class": "//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/Tutorial/SFP_Schematic_Tutorial_4.SFP_Schematic_Tutorial_4_C\r",
+    "new": {
+        "Cost": [
+            {
+                "Item": "Desc_IronPlate",
+                "Amount": 30
+            },
+            {
+                "Item": "Desc_Cable",
+                "Amount": 20
+            },
+            {
+                "Item": "Desc_Cement",
+                "Amount": 50,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ]
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "Cost": [
+            {
+                "Item": "Desc_IronPlate",
+                "Amount": 30
+            },
+            {
+                "Item": "Desc_Cable",
+                "Amount": 20
+            },
+            {
+                "Item": "Desc_Cement",
+                "Amount": 40
+            }
+        ]
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "ClearCost": true,
+        "Cost": [
+            {
+                "Item": "Desc_IronPlate",
+                "Amount": 30
+            },
+            {
+                "Item": "Desc_Cable",
+                "Amount": 20
+            },
+            {
+                "Item": "Desc_Cement",
+                "Amount": 50,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "ClearRecipes": true,
+        "Recipes": [
+            "Recipe_ConveyorPole_C",
+            "Recipe_ConveyorBeltMk1_C",
+            "Recipe_ConveyorLiftMk1_C",
+            "Recipe_Crusher_C",
+            "Recipe_Crusher_CrushedLarrussite_C",
+            "Recipe_Crusher_CrushedSiterite_C",
+            "Recipe_Crusher_CrushedCallanite_C",
+            "Recipe_Smelter_Dirty_TinIngots_C",
+            "Recipe_Assembler_TinPlates_C"
+        ]
+    }
+}

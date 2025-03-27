@@ -1,0 +1,27 @@
+//SatisfactoryPlus/Content/Recipes/Reformer/Recipe_Reformer_DrumDriveMk2.Recipe_Reformer_DrumDriveMk2_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Belt Drive Mk.3",
+  "OverrideCategory": "Cat_KLib_BuildingParts_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_Stator",
+      "Amount": 4
+    },
+    {
+      "Item": "Desc_BrassPlates",
+      "Amount": 9
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_BeltDriveMk2",
+      "Amount": 10
+    }
+
+  ],
+  "ProducedIn": [ "Build_AssemblerMk1" ],
+  "ManufacturingDuration": 30,
+  "ManufacturingMenuPriority": 2
+}

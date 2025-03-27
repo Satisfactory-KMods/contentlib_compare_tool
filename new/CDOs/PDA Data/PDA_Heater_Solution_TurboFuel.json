@@ -1,0 +1,40 @@
+{
+  "Class": "/SatisfactoryPlus/AssetDatas/RRD/RP/Heater/PDA_SFP_Heater_Solu_TurboFuel.PDA_SFP_Heater_Solu_TurboFuel",
+  "Edits": [
+    {
+      "Property": "mInput",
+      "Value": {
+        "ItemClass": "/Game/FactoryGame/Resource/Parts/Turbofuel/Desc_LiquidTurboFuel.Desc_LiquidTurboFuel_C",
+        "amount": 800
+      }
+    },
+    {
+      "Property": "mOutput",
+      "Value": {
+        "ItemClass": "/KLib/Assets/Ressources/Raw/Gas/Desc_FlueGas.Desc_FlueGas_C",
+        "amount": 2000
+      }
+    },
+    {
+      "Property": "mDuration",
+      "Value": 6
+    },
+    {
+      "Property": "mPriority",
+      "Value": 0
+    },
+    {
+      "Property": "mHeat",
+      "Value": 75
+    },
+    {
+      "Property": "mMinHeatValue",
+      "Value": 20
+    },
+    {
+      "Property": "mMaxHeatValue",
+      "Value": 750
+    }
+
+  ]
+}

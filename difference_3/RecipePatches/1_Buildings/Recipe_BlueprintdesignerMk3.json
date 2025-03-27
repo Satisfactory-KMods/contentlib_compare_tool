@@ -1,0 +1,81 @@
+{
+    "$class": "//KBlueprintDesignPlus/Recipe_BlueprintDesignerMk3.Recipe_BlueprintDesignerMk3_C\r",
+    "$classShort": "Recipe_BlueprintDesignerMk3",
+    "$comment": "This file has been changed",
+    "Class": "//KBlueprintDesignPlus/Recipe_BlueprintDesignerMk3.Recipe_BlueprintDesignerMk3_C\r",
+    "new": {
+        "Ingredients": [
+            {
+                "ItemClass": "Desc_SteelPipe",
+                "Amount": 200,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "ItemClass": "Desc_Cable",
+                "Amount": 100
+            },
+            {
+                "ItemClass": "Desc_Cement",
+                "Amount": 250,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "ItemClass": "Desc_SteelScrew",
+                "Amount": 250
+            }
+        ]
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "Ingredients": [
+            {
+                "ItemClass": "Desc_SteelRod",
+                "Amount": 200
+            },
+            {
+                "ItemClass": "Desc_Cable",
+                "Amount": 100
+            },
+            {
+                "ItemClass": "Desc_Cement",
+                "Amount": 350
+            },
+            {
+                "ItemClass": "Desc_SteelScrew",
+                "Amount": 250
+            }
+        ]
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+        "Name": "Blueprint Designer Mk.3",
+        "Ingredients": [
+            {
+                "ItemClass": "Desc_SteelPipe",
+                "Amount": 200,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "ItemClass": "Desc_Cable",
+                "Amount": 100
+            },
+            {
+                "ItemClass": "Desc_Cement",
+                "Amount": 250,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "ItemClass": "Desc_SteelScrew",
+                "Amount": 250
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_BlueprintDesignerMk3_C",
+                "Amount": 1
+            }
+        ],
+        "ManufacturingMenuPriority": 6
+    }
+}

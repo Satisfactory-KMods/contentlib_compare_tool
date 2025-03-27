@@ -7,31 +7,32 @@
         "Ingredients": [
             {
                 "Item": "Desc_Computer",
-                "Amount": 3
-            },
-            {
-                "Item": "Desc_SpaceElevatorPart_1",
-                "Amount": 9,
+                "Amount": 6,
                 "$comment": "THIS OBJECT HAS BEEN CHANGED"
             },
             {
-                "Item": "Desc_BrassPipe",
+                "Item": "Desc_SpaceElevatorPart_1",
+                "Amount": 9
+            },
+            {
+                "Item": "Desc_HighSpeedConnector",
                 "Amount": 15,
                 "$comment": "THIS OBJECT HAS BEEN CHANGED"
             },
             {
                 "Item": "Desc_SolderWire",
-                "Amount": 36,
+                "Amount": 72,
                 "$comment": "THIS OBJECT HAS BEEN CHANGED"
             }
         ],
         "Products": [
             {
                 "Item": "Desc_SpaceElevatorPart_5",
-                "Amount": 2,
+                "Amount": 4,
                 "$comment": "THIS OBJECT HAS BEEN CHANGED"
             }
-        ]
+        ],
+        "ManufacturingDuration": 60
     },
     "demitter2": "-----------------------------------------------------------------------------------",
     "old": {
@@ -41,24 +42,25 @@
                 "Amount": 3
             },
             {
-                "Item": "Desc_SpaceElevatorPart_2",
-                "Amount": 3
+                "Item": "Desc_SpaceElevatorPart_1",
+                "Amount": 9
             },
             {
-                "Item": "Desc_LeadFrame",
-                "Amount": 2
+                "Item": "Desc_BrassPipe",
+                "Amount": 15
             },
             {
-                "Item": "Desc_IronScrew",
-                "Amount": 100
+                "Item": "Desc_SolderWire",
+                "Amount": 36
             }
         ],
         "Products": [
             {
                 "Item": "Desc_SpaceElevatorPart_5",
-                "Amount": 1
+                "Amount": 2
             }
-        ]
+        ],
+        "ManufacturingDuration": 30
     },
     "demitter1": "-----------------------------------------------------------------------------------",
     "original": {
@@ -68,35 +70,35 @@
         "Ingredients": [
             {
                 "Item": "Desc_Computer",
-                "Amount": 3
-            },
-            {
-                "Item": "Desc_SpaceElevatorPart_1",
-                "Amount": 9,
+                "Amount": 6,
                 "$comment": "THIS OBJECT HAS BEEN CHANGED"
             },
             {
-                "Item": "Desc_BrassPipe",
+                "Item": "Desc_SpaceElevatorPart_1",
+                "Amount": 9
+            },
+            {
+                "Item": "Desc_HighSpeedConnector",
                 "Amount": 15,
                 "$comment": "THIS OBJECT HAS BEEN CHANGED"
             },
             {
                 "Item": "Desc_SolderWire",
-                "Amount": 36,
+                "Amount": 72,
                 "$comment": "THIS OBJECT HAS BEEN CHANGED"
             }
         ],
         "Products": [
             {
                 "Item": "Desc_SpaceElevatorPart_5",
-                "Amount": 2,
+                "Amount": 4,
                 "$comment": "THIS OBJECT HAS BEEN CHANGED"
             }
         ],
         "ProducedIn": [
             "Build_ManufacturerMk1"
         ],
-        "ManufacturingDuration": 30,
+        "ManufacturingDuration": 60,
         "ManufacturingMenuPriority": 2
     }
 }

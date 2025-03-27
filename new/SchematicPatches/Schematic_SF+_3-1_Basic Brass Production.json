@@ -5,8 +5,8 @@
   "ClearCost": true,
   "Cost": [
     {
-      "Item": "Desc_BronzeFrame",
-      "Amount": 50
+      "Item": "Desc_HighSpeedWire",
+      "Amount": 100
     },
     {
       "Item": "Desc_BronzePipe",
@@ -14,7 +14,7 @@
     },
     {
       "Item": "Desc_IronPlateReinforced",
-      "Amount": 50
+      "Amount": 100
     },
     {
       "Item": "Desc_Cement",

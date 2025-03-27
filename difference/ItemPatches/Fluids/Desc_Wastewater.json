@@ -1,0 +1,18 @@
+{
+    "$class": "//KLib/Assets/Ressources/Raw/Fluids/Desc_LiquidDirtyWater.Desc_LiquidDirtyWater_C\r",
+    "$classShort": "Desc_LiquidDirtyWater",
+    "$comment": "This file has been changed",
+    "Class": "//KLib/Assets/Ressources/Raw/Fluids/Desc_LiquidDirtyWater.Desc_LiquidDirtyWater_C\r",
+    "new": {
+        "Description": "Wastewater (or Leachate) is a watery solution which remains after wet washing of impure ores.\n\nCan be processed in the Filtrator to extract remaining ores."
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "Description": "Wastewater (or Leachate) is a watery solution which remains after wet washing of impure ores.\rCan be filtrated to extract remaining ores."
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "Name": "Wastewater",
+        "Description": "Wastewater (or Leachate) is a watery solution which remains after wet washing of impure ores.\n\nCan be processed in the Filtrator to extract remaining ores."
+    }
+}

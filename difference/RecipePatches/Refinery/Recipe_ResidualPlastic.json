@@ -1,0 +1,73 @@
+{
+    "$class": "//SatisfactoryPlus/Content/Recipes/OilRefinery/Recipe_OilRefinery_ResidualPlastic.Recipe_OilRefinery_ResidualPlastic_C\r",
+    "$classShort": "Recipe_OilRefinery_ResidualPlastic",
+    "$comment": "This file has been changed",
+    "Class": "//SatisfactoryPlus/Content/Recipes/OilRefinery/Recipe_OilRefinery_ResidualPlastic.Recipe_OilRefinery_ResidualPlastic_C\r",
+    "new": {
+        "Ingredients": [
+            {
+                "Item": "Desc_PolymerResin",
+                "Amount": 24,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_LiquidFuel",
+                "Amount": 3000
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_Plastic",
+                "Amount": 12,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ]
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "Ingredients": [
+            {
+                "Item": "Desc_PolymerResin",
+                "Amount": 12
+            },
+            {
+                "Item": "Desc_LiquidFuel",
+                "Amount": 3000
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_Plastic",
+                "Amount": 6
+            }
+        ]
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+        "Name": "Cured Plastic",
+        "Ingredients": [
+            {
+                "Item": "Desc_PolymerResin",
+                "Amount": 24,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_LiquidFuel",
+                "Amount": 3000
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_Plastic",
+                "Amount": 12,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "ManufacturingDuration": 12,
+        "ManufacturingMenuPriority": 1,
+        "ProducedIn": [
+            "Build_OilRefinery"
+        ]
+    }
+}

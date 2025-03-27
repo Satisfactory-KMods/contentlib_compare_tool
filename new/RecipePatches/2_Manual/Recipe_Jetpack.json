@@ -1,0 +1,24 @@
+//Game/FactoryGame/Recipes/Equipment/Recipe_JetPack.Recipe_JetPack_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Jetpack",
+  "Ingredients": [
+    {
+      "Item": "Desc_Plastic",
+      "Amount": 200
+    },
+    {
+      "Item": "Desc_SteelPipe",
+      "Amount": 200
+    },
+    {
+      "Item": "Desc_IronSheet",
+      "Amount": 150
+    },
+    {
+      "Item": "Desc_SteelBolt",
+      "Amount": 250
+    }
+  ],
+  "ManufacturingDuration": 60
+}

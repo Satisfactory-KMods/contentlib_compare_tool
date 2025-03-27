@@ -1,0 +1,23 @@
+{
+  "Class": "/SatisfactoryPlus/Content/Recipes/Cleaner/CleanerDesc_SlugSlimeLow.CleanerDesc_SlugSlimeLow_C",
+  "Edits": [
+    {
+      "Property": "mConsumeInFluid",
+      "Value": 18000
+    },
+    {
+      "Property": "mBypassProducts",
+      "Value": [
+        {
+          "mProduceItem": "/KLib/Assets/Parts/Production/Parts/PowerShardCrystal/Desc_PowerShardCrystal.Desc_PowerShardCrystal_C",
+          "mProductionTime": 40,
+          "mProduceAmount": 1
+        }
+      ]
+    },
+    {
+      "Property": "mNeedCleanItem",
+      "Value": false
+    }
+  ]
+}

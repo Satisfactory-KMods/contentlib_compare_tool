@@ -32,8 +32,10 @@
   "Recipes": [
     "Recipe_Blender",
     "Recipe_Sorter_T2_Bauxite",
+    "Recipe_Washed_Bauxite",
     "Recipe_Blender_Alumina",
     "Recipe_Crusher_ResidBauxite",
+    "Recipe_Resid_Soda",
     "Recipe_BlastFurnace_Aluminum",
     "Recipe_Reformer_Mixed_AluminiumIngot",
     "Recipe_Reformer_Mixed_AluminumCoil",

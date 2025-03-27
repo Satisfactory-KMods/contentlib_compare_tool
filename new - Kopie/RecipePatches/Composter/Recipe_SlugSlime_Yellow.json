@@ -1,0 +1,21 @@
+//SatisfactoryPlus/Content/Recipes/Composter/Recipe_Low_YellowSlug.Recipe_Low_YellowSlug_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Yellow Slug Slime",
+  "Ingredients": [
+    {
+      "Item": "SlugDesc_YellowSlug",
+      "Amount": 3
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_SlugSlime_Low_C",
+      "Amount": 4000
+    }
+  ],
+  "ProducedIn": [ "Build_FF_Composter_C" ],
+  "ManufacturingDuration": 6,
+  "ManufacturingMenuPriority": 2
+}

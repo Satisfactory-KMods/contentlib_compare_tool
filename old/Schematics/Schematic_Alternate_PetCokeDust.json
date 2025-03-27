@@ -1,7 +1,12 @@
 {
-  "Name": "Alternate: PetCoke Dust",
-  "Type": "Alternate",
-  "VisualKit": "Desc_PetroleumCoke_C",
-  "Recipes": [ "Recipe_PetCokeDust" ],
-  "DependsOn": [ "Schematic_SF+_T5_0_C" ]
+    "Name": "Alternate: PetCoke Dust",
+    "Type": "Alternate",
+    "VisualKit": "Desc_PetroleumCoke_C",
+    "Recipes": [
+        "Recipe_PetCokeDust"
+    ],
+    "DependsOn": [
+        "Schematic_SF+_T5_0_C"
+    ],
+    "$comment": "This file has been removed, no new version exists"
 }

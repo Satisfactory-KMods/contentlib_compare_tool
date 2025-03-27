@@ -1,9 +1,10 @@
 {
-  "Class": "/KLib/Assets/Buildings/SlugHatching/Modular/Hatchery/Build_Hatchery_Small_Module.Build_Hatchery_Small_Module_C",
-  "Edits": [
-    {
-      "Property": "mTier",
-      "Value": 4
-    }
-  ]
+    "Class": "/KLib/Assets/Buildings/SlugHatching/Modular/Hatchery/Build_Hatchery_Small_Module.Build_Hatchery_Small_Module_C",
+    "Edits": [
+        {
+            "Property": "mTier",
+            "Value": 4
+        }
+    ],
+    "$comment": "This file has been removed, no new version exists"
 }

@@ -1,0 +1,26 @@
+//SatisfactoryPlus/Content/Recipes/Foundry/Recipe_Foundry_AlcladSheet.Recipe_Foundry_AlcladSheet_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Alclad Aluminum Sheet",
+  "Category": "StandardParts_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_AlumniumSheet_C",
+      "Amount": 10
+    },
+    {
+      "Item": "Desc_CopperSheet",
+      "Amount": 9
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_AluminumPlate",
+      "Amount": 15
+    }
+  ],
+  "ProducedIn": [ "Build_FoundryMk1" ],
+  "ManufacturingDuration": 12,
+  "ManufacturingMenuPriority": 4
+}

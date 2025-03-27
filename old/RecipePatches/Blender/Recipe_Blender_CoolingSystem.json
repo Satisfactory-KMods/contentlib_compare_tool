@@ -1,6 +1,7 @@
 //SatisfactoryPlus/Content/Recipes/Blender/Recipe_Blender_CoolingSystem.Recipe_Blender_CoolingSystem_C
 {
   "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "OverrideCategory": "IndustrialParts_C",
   "Ingredients": [
     {
       "Item": "Desc_AluminumPlateReinforced",
@@ -26,7 +27,7 @@
     }
   ],
   "ManufacturingDuration": 20,
-  "ManufacturingMenuPriority": 2,
+  "ManufacturingMenuPriority": 1,
   "ProducedIn": [ "Build_Blender" ]
 
 }

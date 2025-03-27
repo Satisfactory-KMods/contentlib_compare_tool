@@ -1,0 +1,11 @@
+//SatisfactoryPlus/Content/SchematicManager/MAM/Schematics/Sulfur/Schematic_Trees_Sulfur_3_1.Schematic_Trees_Sulfur_3_1_C
+{
+  "Name": "Modular Miner: Fluid Module",
+  "ClearCost": true,
+  "Cost": [
+    {
+      "Item": "Desc_Sulfur",
+      "Amount": 100
+    }
+  ]
+}

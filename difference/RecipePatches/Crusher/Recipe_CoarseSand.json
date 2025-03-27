@@ -1,0 +1,34 @@
+{
+    "$class": "//SatisfactoryPlus/Content/Recipes/Crusher/Recipe_Crusher_Sand.Recipe_Crusher_Sand_C\r",
+    "$classShort": "Recipe_Crusher_Sand",
+    "$comment": "This file has been changed",
+    "Class": "//SatisfactoryPlus/Content/Recipes/Crusher/Recipe_Crusher_Sand.Recipe_Crusher_Sand_C\r",
+    "new": {
+        "OverrideCategory": "Cat_KLib_Prod_Crushing_Powders_C"
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {},
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+        "Name": "Coarse Sand",
+        "OverrideCategory": "Cat_KLib_Prod_Crushing_Powders_C",
+        "Ingredients": [
+            {
+                "Item": "Desc_Gangue",
+                "Amount": 4
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_Sand",
+                "Amount": 2
+            }
+        ],
+        "ProducedIn": [
+            "Build_Crusher"
+        ],
+        "ManufacturingDuration": 4,
+        "ManufacturingMenuPriority": 1
+    }
+}

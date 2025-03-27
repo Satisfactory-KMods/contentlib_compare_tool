@@ -5,8 +5,8 @@
   "OverrideCategory": "Cat_KLib_SAC_Cooling_C",
   "Ingredients": [
     {
-      "Item": "Desc_LiquidAluminum",
-      "Amount": 8000
+      "Item": "Desc_AluminaSolution",
+      "Amount": 12000
     },
     {
       "Item": "Desc_Silica",
@@ -30,7 +30,7 @@
     },
     {
       "Item": "Desc_Gas_Steam_Hot",
-      "Amount": 10000
+      "Amount": 9000
     }
   ],
   "ProducedIn": [ "Build_SoldifierAndCooler" ],

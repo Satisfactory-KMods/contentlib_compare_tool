@@ -1,0 +1,22 @@
+{
+  "Class": "/SatisfactoryPlus/CDOHelper/RecipeCDO/MainGame/CDOHelper_Recipes_ConstructorMk1.CDOHelper_Recipes_ConstructorMk1_C",
+  "Edits": [
+    {
+      "Property": "mIngredients",
+      "Value": [
+        {
+          "ItemClass": "/Game/FactoryGame/Resource/Parts/IronPlate/Desc_IronPlate.Desc_IronPlate_C",
+          "Amount": 10
+        },
+        {
+          "ItemClass": "/Game/FactoryGame/Resource/Parts/Cable/Desc_Cable.Desc_Cable_C",
+          "Amount": 2
+        },
+        {
+          "ItemClass": "/Game/FactoryGame/Resource/Parts/IronScrew/Desc_IronScrew.Desc_IronScrew_C",
+          "Amount": 10
+        }
+      ]
+    }
+  ]
+}

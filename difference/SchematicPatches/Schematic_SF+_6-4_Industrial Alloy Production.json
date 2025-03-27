@@ -4,43 +4,34 @@
     "$comment": "This file has been changed",
     "Class": "//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T6/Schematic_SF+_T6_2.Schematic_SF+_T6_2_C\r",
     "new": {
-        "Cost": [
-            {
-                "Item": "Desc_CateriumHeatSink",
-                "Amount": 200,
-                "$comment": "THIS OBJECT HAS BEEN CHANGED"
-            },
-            {
-                "Item": "Desc_BronzeFrame",
-                "Amount": 50,
-                "$comment": "THIS OBJECT HAS BEEN CHANGED"
-            },
-            {
-                "Item": "Desc_Computer",
-                "Amount": 25,
-                "$comment": "THIS OBJECT HAS BEEN CHANGED"
-            },
-            {
-                "Item": "Desc_BeltDriveMk3",
-                "Amount": 25
-            }
+        "Recipes": [
+            "Recipe_BlastFurnace_Caterium",
+            "Recipe_BlastFurnace_Zinc",
+            "Recipe_BlastFurnace_Lead",
+            "Recipe_BlastFurnace_Cobalt",
+            "Recipe_ChemReac_ToxicAir_Hydrogen",
+            "Recipe_Reformer_CateriumIngot",
+            "Recipe_Reformer_ZincIngot",
+            "Recipe_Reformer_LeadIngot",
+            "Recipe_Reformer_CobaltIngot",
+            "Recipe_Foundry_CobaltIngot",
+            "Recipe_Constructor_CobaltPlate",
+            "Recipe_Manufacturer_HSConnector"
         ]
     },
     "demitter2": "-----------------------------------------------------------------------------------",
     "old": {
-        "Cost": [
-            {
-                "Item": "Desc_PackagedGas_Hydrogen",
-                "Amount": 50
-            },
-            {
-                "Item": "Desc_Computer",
-                "Amount": 25
-            },
-            {
-                "Item": "Desc_BeltDriveMk3",
-                "Amount": 25
-            }
+        "Recipes": [
+            "Recipe_BlastFurnace_Caterium",
+            "Recipe_BlastFurnace_Zinc",
+            "Recipe_BlastFurnace_Lead",
+            "Recipe_BlastFurnace_Cobalt",
+            "Recipe_Reformer_CateriumIngot",
+            "Recipe_Reformer_ZincIngot",
+            "Recipe_Reformer_LeadIngot",
+            "Recipe_Reformer_CobaltIngot",
+            "Recipe_Constructor_CobaltPlate",
+            "Info_Kyrium: Add Filtrator Recipe for Flue Gas here!"
         ]
     },
     "demitter1": "-----------------------------------------------------------------------------------",
@@ -53,18 +44,15 @@
         "Cost": [
             {
                 "Item": "Desc_CateriumHeatSink",
-                "Amount": 200,
-                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+                "Amount": 200
             },
             {
                 "Item": "Desc_BronzeFrame",
-                "Amount": 50,
-                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+                "Amount": 50
             },
             {
                 "Item": "Desc_Computer",
-                "Amount": 25,
-                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+                "Amount": 25
             },
             {
                 "Item": "Desc_BeltDriveMk3",
@@ -77,12 +65,14 @@
             "Recipe_BlastFurnace_Zinc",
             "Recipe_BlastFurnace_Lead",
             "Recipe_BlastFurnace_Cobalt",
+            "Recipe_ChemReac_ToxicAir_Hydrogen",
             "Recipe_Reformer_CateriumIngot",
             "Recipe_Reformer_ZincIngot",
             "Recipe_Reformer_LeadIngot",
             "Recipe_Reformer_CobaltIngot",
+            "Recipe_Foundry_CobaltIngot",
             "Recipe_Constructor_CobaltPlate",
-            "Info_Kyrium: Add Filtrator Recipe for Flue Gas here!"
+            "Recipe_Manufacturer_HSConnector"
         ],
         "Time": 240
     }

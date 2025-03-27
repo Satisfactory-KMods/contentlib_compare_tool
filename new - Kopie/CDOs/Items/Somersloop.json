@@ -1,0 +1,9 @@
+{
+  "Class": "/Game/FactoryGame/Prototype/WAT/Desc_WAT1.Desc_WAT1_C",
+  "Edits": [
+    {
+      "Property": "mExtraProductionBoost",
+      "Value": 1
+    }
+  ]
+}

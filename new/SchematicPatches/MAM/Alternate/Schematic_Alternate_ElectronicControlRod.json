@@ -1,0 +1,8 @@
+//SatisfactoryPlus/Content/SchematicManager/Alternative/ElectronicControlRod/Schematic_Alternative_ElectronicControlRod.Schematic_Alternative_ElectronicControlRod_C
+{
+  "Name": "Alternate: Electronic Control Rod",
+  "Type": "Alternate",
+  "VisualKit": "Desc_ElectromagneticControlRod_C",
+  "Recipes": [ "Recipe_Alternative_ElectronicControlRod" ],
+  "DependsOn": [ "Schematic_SF+_T6_3_C" ]
+}

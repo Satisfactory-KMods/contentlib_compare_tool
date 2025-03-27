@@ -1,0 +1,17 @@
+{
+  "Mesh": "/Game/FactoryGame/Resource/Parts/PackagedNitrogen/Mesh/SM_PackagedNitrogen_01.SM_PackagedNitrogen_01",
+  "BigIcon": "Desc_Gas_Titantetrachlorid",
+  "SmallIcon": "Desc_Gas_Titantetrachlorid",
+  "FluidColor": {
+    "r": 85,
+    "g": 40,
+    "b": 155,
+    "a": 4
+  },
+  "GasColor": {
+    "r": 255,
+    "g": 220,
+    "b": 255,
+    "a": 0
+  }
+}

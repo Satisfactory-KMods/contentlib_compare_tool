@@ -7,54 +7,40 @@
         "Ingredients": [
             {
                 "Item": "Desc_SpaceElevatorPart_2_C",
-                "Amount": 15,
+                "Amount": 3,
                 "$comment": "THIS OBJECT HAS BEEN CHANGED"
             },
             {
                 "Item": "Desc_Motor",
-                "Amount": 15
+                "Amount": 3,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
             },
             {
                 "Item": "Desc_CircuitBoard",
-                "Amount": 20
+                "Amount": 4,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
             },
             {
                 "Item": "Desc_Rubber",
-                "Amount": 50
+                "Amount": 20,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
             }
-        ]
+        ],
+        "Products": [
+            {
+                "Item": "Desc_SpaceElevatorPart_4_C",
+                "Amount": 1,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "ManufacturingDuration": 24
     },
     "demitter2": "-----------------------------------------------------------------------------------",
     "old": {
         "Ingredients": [
             {
-                "Item": "Desc_SpaceElevatorPart_1_C",
-                "Amount": 9
-            },
-            {
-                "Item": "Desc_Motor",
-                "Amount": 15
-            },
-            {
-                "Item": "Desc_CircuitBoard",
-                "Amount": 20
-            },
-            {
-                "Item": "Desc_Rubber",
-                "Amount": 50
-            }
-        ]
-    },
-    "demitter1": "-----------------------------------------------------------------------------------",
-    "original": {
-        "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
-        "Name": "Modular Engine",
-        "Category": "SpaceElevator_C",
-        "Ingredients": [
-            {
                 "Item": "Desc_SpaceElevatorPart_2_C",
-                "Amount": 15,
-                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+                "Amount": 15
             },
             {
                 "Item": "Desc_Motor",
@@ -75,10 +61,46 @@
                 "Amount": 5
             }
         ],
+        "ManufacturingDuration": 120
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+        "Name": "Modular Engine",
+        "Category": "SpaceElevator_C",
+        "Ingredients": [
+            {
+                "Item": "Desc_SpaceElevatorPart_2_C",
+                "Amount": 3,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_Motor",
+                "Amount": 3,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_CircuitBoard",
+                "Amount": 4,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_Rubber",
+                "Amount": 20,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_SpaceElevatorPart_4_C",
+                "Amount": 1,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
         "ProducedIn": [
             "Build_ManufacturerMk1"
         ],
-        "ManufacturingDuration": 120,
+        "ManufacturingDuration": 24,
         "ManufacturingMenuPriority": 1
     }
 }

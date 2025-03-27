@@ -1,0 +1,40 @@
+{
+    "$class": "//SatisfactoryPlus/Content/Recipes/Assembler/Recipe_Assembler_CircuitBoard.Recipe_Assembler_CircuitBoard_C\r",
+    "$classShort": "Recipe_Assembler_CircuitBoard",
+    "$comment": "This file has been changed",
+    "Class": "//SatisfactoryPlus/Content/Recipes/Assembler/Recipe_Assembler_CircuitBoard.Recipe_Assembler_CircuitBoard_C\r",
+    "new": {
+        "ManufacturingMenuPriority": 3
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "ProducedIn": [
+            "Build_AssemblerMk1"
+        ],
+        "ManufacturingMenuPriority": 1.5
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+        "Name": "Circuit Board",
+        "category": "Electronics_C",
+        "Ingredients": [
+            {
+                "Item": "Desc_Plastic",
+                "Amount": 15
+            },
+            {
+                "Item": "Desc_SolderWire",
+                "Amount": 8
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_CircuitBoard",
+                "Amount": 4
+            }
+        ],
+        "ManufacturingDuration": 24,
+        "ManufacturingMenuPriority": 3
+    }
+}

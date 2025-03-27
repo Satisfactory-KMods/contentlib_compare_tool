@@ -1,0 +1,119 @@
+{
+    "$class": "/KLib/Assets/Buildings/SoldifierAndCooler/Build_SoldifierAndCooler.Build_SoldifierAndCooler_C",
+    "$classShort": "Build_SoldifierAndCooler",
+    "$comment": "This file has been changed",
+    "Class": "/KLib/Assets/Buildings/SoldifierAndCooler/Build_SoldifierAndCooler.Build_SoldifierAndCooler_C",
+    "new": {
+        "Edits": [
+            {
+                "Property": "mDisplayName",
+                "Value": "Reformer"
+            },
+            {
+                "Property": "mDescription",
+                "Value": "Able to re-form parts into other products through heating, refrigeration and pressurization processes.\n\nHead Lift: 10 meters.\r(Allows fluids to be transported 10 meters upwards.)\r\n\r\nContains both Conveyor Belt and Pipeline input and output ports.\n\nSolid Output: The first solid output port is on the right (viewed from the output side.)",
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Property": "mPowerConsumption",
+                "Value": 25
+            },
+            {
+                "Property": "mMinimumStoppedTime",
+                "Value": 4
+            },
+            {
+                "Property": "mPowerConsumptionExponent",
+                "Value": 1.321929
+            },
+            {
+                "Property": "mOverrideProductionShardSlotSize",
+                "Value": true
+            },
+            {
+                "Property": "mProductionShardSlotSize",
+                "Value": "4"
+            },
+            {
+                "Property": "mProductionShardBoostMultiplier",
+                "Value": "0.25"
+            }
+        ]
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "Edits": [
+            {
+                "Property": "mDisplayName",
+                "Value": "Reformer"
+            },
+            {
+                "Property": "mDescription",
+                "Value": "Able to re-form parts into other products through heating, refrigeration and pressurization processes.\n\nHead Lift: 10 meters.\r(Allows fluids to be transported 10 meters upwards.)\r\n\r\nContains both Conveyor Belt and Pipe inputs and outputs.\n\nSolid Output: The first solid output is on the right (viewed from the output side.)"
+            },
+            {
+                "Property": "mPowerConsumption",
+                "Value": 25
+            },
+            {
+                "Property": "mMinimumStoppedTime",
+                "Value": 4
+            },
+            {
+                "Property": "mPowerConsumptionExponent",
+                "Value": 1.321929
+            },
+            {
+                "Property": "mOverrideProductionShardSlotSize",
+                "Value": true
+            },
+            {
+                "Property": "mProductionShardSlotSize",
+                "Value": "4"
+            },
+            {
+                "Property": "mProductionShardBoostMultiplier",
+                "Value": "0.25"
+            }
+        ]
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "Class": "/KLib/Assets/Buildings/SoldifierAndCooler/Build_SoldifierAndCooler.Build_SoldifierAndCooler_C",
+        "Edits": [
+            {
+                "Property": "mDisplayName",
+                "Value": "Reformer"
+            },
+            {
+                "Property": "mDescription",
+                "Value": "Able to re-form parts into other products through heating, refrigeration and pressurization processes.\n\nHead Lift: 10 meters.\r(Allows fluids to be transported 10 meters upwards.)\r\n\r\nContains both Conveyor Belt and Pipeline input and output ports.\n\nSolid Output: The first solid output port is on the right (viewed from the output side.)",
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Property": "mPowerConsumption",
+                "Value": 25
+            },
+            {
+                "Property": "mMinimumStoppedTime",
+                "Value": 4
+            },
+            {
+                "Property": "mPowerConsumptionExponent",
+                "Value": 1.321929
+            },
+            {
+                "Property": "mOverrideProductionShardSlotSize",
+                "Value": true
+            },
+            {
+                "Property": "mProductionShardSlotSize",
+                "Value": "4"
+            },
+            {
+                "Property": "mProductionShardBoostMultiplier",
+                "Value": "0.25"
+            }
+        ]
+    }
+}

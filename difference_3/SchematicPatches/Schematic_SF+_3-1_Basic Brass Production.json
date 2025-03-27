@@ -1,0 +1,82 @@
+{
+    "$class": "//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T3/Schematic_SF+_T3_1.Schematic_SF+_T3_1_C\r",
+    "$classShort": "Schematic_SF+_T3_1",
+    "$comment": "This file has been changed",
+    "Class": "//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T3/Schematic_SF+_T3_1.Schematic_SF+_T3_1_C\r",
+    "new": {
+        "Cost": [
+            {
+                "Item": "Desc_BronzeFrame",
+                "Amount": 50
+            },
+            {
+                "Item": "Desc_BronzePipe",
+                "Amount": 150
+            },
+            {
+                "Item": "Desc_IronPlateReinforced",
+                "Amount": 100,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_Cement",
+                "Amount": 200
+            }
+        ]
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "Cost": [
+            {
+                "Item": "Desc_BronzeFrame",
+                "Amount": 50
+            },
+            {
+                "Item": "Desc_BronzePipe",
+                "Amount": 150
+            },
+            {
+                "Item": "Desc_IronPlateReinforced",
+                "Amount": 50
+            },
+            {
+                "Item": "Desc_Cement",
+                "Amount": 200
+            }
+        ]
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "Name": "Basic Brass Production",
+        "MenuPriority": 2,
+        "ClearCost": true,
+        "Cost": [
+            {
+                "Item": "Desc_BronzeFrame",
+                "Amount": 50
+            },
+            {
+                "Item": "Desc_BronzePipe",
+                "Amount": 150
+            },
+            {
+                "Item": "Desc_IronPlateReinforced",
+                "Amount": 100,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_Cement",
+                "Amount": 200
+            }
+        ],
+        "ClearRecipes": true,
+        "Recipes": [
+            "Recipe_BlastFurnace_Brass_C",
+            "Recipe_Reformer_BrassIngot_C",
+            "Recipe_Constructor_BrassPlate_C",
+            "Recipe_Assembler_BrassPipe_C",
+            "Recipe_Assembler_FanBlade_C"
+        ],
+        "Time": 240
+    }
+}

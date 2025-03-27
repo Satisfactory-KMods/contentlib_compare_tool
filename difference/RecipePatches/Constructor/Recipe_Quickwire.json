@@ -1,0 +1,33 @@
+{
+    "$class": "//SatisfactoryPlus/Content/Recipes/Constructor/Recipe_Constructor_Quickwire.Recipe_Constructor_Quickwire_C\r",
+    "$classShort": "Recipe_Constructor_Quickwire",
+    "$comment": "This file has been changed",
+    "Class": "//SatisfactoryPlus/Content/Recipes/Constructor/Recipe_Constructor_Quickwire.Recipe_Constructor_Quickwire_C\r",
+    "new": {},
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "ProducedIn": [
+            "Build_ConstructorMk1"
+        ]
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+        "Name": "Quickwire",
+        "Category": "Electronics_C",
+        "Ingredients": [
+            {
+                "Item": "Desc_CateriumRod",
+                "Amount": 3
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_HighSpeedWire",
+                "Amount": 10
+            }
+        ],
+        "ManufacturingDuration": 7.5,
+        "ManufacturingMenuPriority": 4
+    }
+}

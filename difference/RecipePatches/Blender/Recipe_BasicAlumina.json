@@ -1,0 +1,36 @@
+{
+    "$comment": "This is a new file, no old version exists",
+    "$class": "//SatisfactoryPlus/Content/Recipes/Blender/Recipe_Blender_Alumina.Recipe_Blender_Alumina_C\r",
+    "$classShort": "Recipe_Blender_Alumina",
+    "Name": "Alumina Solution - Basic",
+    "OverrideCategory": "AdvancedRefinement_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_CrushedBauxite",
+            "Amount": 12
+        },
+        {
+            "Item": "Desc_CausticSoda_C",
+            "Amount": 12000
+        },
+        {
+            "Item": "Desc_CarbonDust",
+            "Amount": 8
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_AluminaSolution",
+            "Amount": 10000
+        },
+        {
+            "Item": "Desc_CryoliteResidue",
+            "Amount": 16
+        }
+    ],
+    "ProducedIn": [
+        "Build_Blender"
+    ],
+    "ManufacturingDuration": 8,
+    "ManufacturingMenuPriority": 0
+}

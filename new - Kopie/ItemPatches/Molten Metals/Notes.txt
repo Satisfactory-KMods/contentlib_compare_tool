@@ -1,0 +1,8 @@
+Maximum Temperature of FBF: 1500°C
+
+Remove:
+
+Molten Magnesium - Unused & Danger of combustion
+Molten Bronze - Maybe?
+Molten Nickel - Redundant & Melting Point too high
+Molten Cobalt - Melting point too high

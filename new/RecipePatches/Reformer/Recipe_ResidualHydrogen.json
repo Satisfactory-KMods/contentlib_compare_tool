@@ -6,11 +6,11 @@
   "Ingredients": [
     {
       "Item": "Desc_FlueGas",
-      "Amount": 16000
+      "Amount": 8000
     },
     {
       "Item": "Desc_Gas_Steam_Hot",
-      "Amount": 12000
+      "Amount": 8000
     }
 
   ],
@@ -18,15 +18,15 @@
 
     {
       "Item": "Desc_Gas_Hydrogen",
-      "Amount": 20000
+      "Amount": 10000
     },
     {
-      "Item": "Desc_PetroleumCoke",
-      "Amount": 5
+      "Item": "Desc_Sulfur",
+      "Amount": 1
     }
 
   ],
   "ProducedIn": [ "Build_SoldifierAndCooler" ],
-  "ManufacturingDuration": 12,
+  "ManufacturingDuration": 6,
   "ManufacturingMenuPriority": 4
 }

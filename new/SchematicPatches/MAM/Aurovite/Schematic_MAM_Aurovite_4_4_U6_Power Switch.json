@@ -1,0 +1,19 @@
+//SatisfactoryPlus/Content/SchematicManager/MAM/Schematics/Satmonium/Schematic_Trees_Satmonium_4_4_U6.Schematic_Trees_Satmonium_4_4_U6_C
+{
+  "Name": "Power Switch",
+  "ClearCost": true,
+  "Cost": [
+    {
+      "Item": "Desc_CircuitBoardHighSpeed",
+      "Amount": 50
+    },
+    {
+      "Item": "Desc_HighSpeedWire",
+      "Amount": 250
+    },
+    {
+      "Item": "Desc_SteelBeam",
+      "Amount": 100
+    }
+  ]
+}

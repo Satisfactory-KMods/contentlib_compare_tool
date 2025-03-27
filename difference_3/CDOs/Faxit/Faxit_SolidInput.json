@@ -1,0 +1,16 @@
+{
+    "$comment": "This is a new file, no old version exists",
+    "$class": "/KLib/Assets/Buildings/Faxit/Build_CS_InputSolid.Build_CS_InputSolid_C",
+    "$classShort": "Build_CS_InputSolid",
+    "Class": "/KLib/Assets/Buildings/Faxit/Build_CS_InputSolid.Build_CS_InputSolid_C",
+    "Edits": [
+        {
+            "Property": "mDisplayName",
+            "Value": "FaxIt Solid Scanner"
+        },
+        {
+            "Property": "mDescription",
+            "Value": "Generates an exact holographic copy of an object before it is deconstructed into photons.\nThe hologram data and photon stream are sent to the Storage Nexus.\n\nData throughput is limited in wireless mode. Connecting it to the Storage Network with Data Cables increases throughput by 100%."
+        }
+    ]
+}

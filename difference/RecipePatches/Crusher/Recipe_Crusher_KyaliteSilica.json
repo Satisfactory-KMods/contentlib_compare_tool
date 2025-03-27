@@ -1,0 +1,40 @@
+{
+    "$class": "//SatisfactoryPlus/Content/Recipes/Crusher/Recipe_Crusher_KyaliteSilica.Recipe_Crusher_KyaliteSilica_C\r",
+    "$classShort": "Recipe_Crusher_KyaliteSilica",
+    "$comment": "This file has been changed",
+    "Class": "//SatisfactoryPlus/Content/Recipes/Crusher/Recipe_Crusher_KyaliteSilica.Recipe_Crusher_KyaliteSilica_C\r",
+    "new": {
+        "OverrideCategory": "Cat_KLib_Prod_Crushing_Powders_C"
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "OverrideCategory": "Minerals_C"
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+        "Name": "Crushed Silica",
+        "OverrideCategory": "Cat_KLib_Prod_Crushing_Powders_C",
+        "Ingredients": [
+            {
+                "Item": "Desc_RawQuartz",
+                "Amount": 20
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_Silica",
+                "Amount": 9
+            },
+            {
+                "Item": "Desc_Sand",
+                "Amount": 10
+            }
+        ],
+        "ProducedIn": [
+            "Build_Crusher"
+        ],
+        "ManufacturingDuration": 15,
+        "ManufacturingMenuPriority": 3
+    }
+}

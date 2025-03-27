@@ -1,0 +1,23 @@
+{
+  "Class": "/KLib/Assets/Buildings/CentralStorage/Build_CS_Core.Build_CS_Core_C",
+  "Edits": [
+    {
+      "Property": "mInputConsume",
+      "Value": {
+          "ItemClass": "/KLib/Assets/Ressources/Raw/Fluids/Desc_CoolingWater.Desc_CoolingWater_C",
+          "Amount": 20
+      }
+    },
+    {
+      "Property": "mOutputProduction",
+      "Value": {
+          "ItemClass": "/KLib/Assets/Ressources/Raw/Gas/Desc_Gas_Steam.Desc_Gas_Steam_C",
+          "Amount": 15
+      }
+    },
+    {
+      "Property": "mMaxProduceAmount",
+      "Value": 8000
+    }
+  ]
+}

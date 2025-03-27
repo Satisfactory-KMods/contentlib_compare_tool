@@ -1,0 +1,32 @@
+{
+    "$comment": "This is a new file, no old version exists",
+    "$class": "{\r",
+    "$classShort": "{\r",
+    "Name": "High-Speed Connector",
+    "OverrideCategory": "Electronics_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_HighSpeedWire_C",
+            "Amount": 72
+        },
+        {
+            "Item": "Desc_CircuitBoard",
+            "Amount": 12
+        },
+        {
+            "Item": "Desc_CobaltPlates",
+            "Amount": 6
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_HighSpeedConnector",
+            "Amount": 5
+        }
+    ],
+    "ProducedIn": [
+        "Build_ManufacturerMk1"
+    ],
+    "ManufacturingDuration": 32,
+    "ManufacturingMenuPriority": 3
+}

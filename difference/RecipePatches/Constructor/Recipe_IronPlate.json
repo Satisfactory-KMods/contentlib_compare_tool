@@ -1,0 +1,33 @@
+{
+    "$class": "//Game/FactoryGame/Recipes/Constructor/Recipe_IronPlate.Recipe_IronPlate_C\r",
+    "$classShort": "Recipe_IronPlate",
+    "$comment": "This file has been changed",
+    "Class": "//Game/FactoryGame/Recipes/Constructor/Recipe_IronPlate.Recipe_IronPlate_C\r",
+    "new": {},
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "ProducedIn": [
+            "Build_ConstructorMk1"
+        ]
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+        "Name": "Iron Plate",
+        "Category": "StandardParts_C",
+        "Ingredients": [
+            {
+                "Item": "Desc_IronIngot",
+                "Amount": 6
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_IronPlate",
+                "Amount": 4
+            }
+        ],
+        "ManufacturingDuration": 12,
+        "ManufacturingMenuPriority": 2
+    }
+}

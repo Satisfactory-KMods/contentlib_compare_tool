@@ -1,0 +1,86 @@
+{
+    "$class": "//SatisfactoryPlus/Content/Recipes/Blender/Recipe_Blender_Coolant.Recipe_Blender_Coolant_C\r",
+    "$classShort": "Recipe_Blender_Coolant",
+    "$comment": "This file has been changed",
+    "Class": "//SatisfactoryPlus/Content/Recipes/Blender/Recipe_Blender_Coolant.Recipe_Blender_Coolant_C\r",
+    "new": {
+        "Ingredients": [
+            {
+                "Item": "Desc_Water",
+                "Amount": 4000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_Ethylene",
+                "Amount": 6000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_Silica",
+                "Amount": 2,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_Salt",
+                "Amount": 2
+            }
+        ],
+        "ManufacturingDuration": 6
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "Ingredients": [
+            {
+                "Item": "Desc_Salt",
+                "Amount": 8
+            },
+            {
+                "Item": "Desc_Water",
+                "Amount": 6000
+            },
+            {
+                "Item": "Desc_Ethylene",
+                "Amount": 4000
+            }
+        ],
+        "ManufacturingDuration": 12
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+        "Name": "Coolant",
+        "OverrideCategory": "AdvancedRefinement_C",
+        "Ingredients": [
+            {
+                "Item": "Desc_Water",
+                "Amount": 4000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_Ethylene",
+                "Amount": 6000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_Silica",
+                "Amount": 2,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_Salt",
+                "Amount": 2
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_CoolingWater",
+                "Amount": 8000
+            }
+        ],
+        "ProducedIn": [
+            "Build_Blender"
+        ],
+        "ManufacturingDuration": 6,
+        "ManufacturingMenuPriority": 3
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "$comment": "This is a new file, no old version exists",
+    "$class": "//Game/FactoryGame/Recipes/Equipment/Recipe_JetPack.Recipe_JetPack_C\r",
+    "$classShort": "Recipe_JetPack",
+    "Name": "Jetpack",
+    "Ingredients": [
+        {
+            "Item": "Desc_Plastic",
+            "Amount": 200
+        },
+        {
+            "Item": "Desc_SteelPipe",
+            "Amount": 200
+        },
+        {
+            "Item": "Desc_IronSheet",
+            "Amount": 150
+        },
+        {
+            "Item": "Desc_SteelBolt",
+            "Amount": 250
+        }
+    ],
+    "ManufacturingDuration": 60
+}

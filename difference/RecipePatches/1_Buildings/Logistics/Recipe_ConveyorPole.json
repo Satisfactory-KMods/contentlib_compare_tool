@@ -1,0 +1,60 @@
+{
+    "$class": "//Game/FactoryGame/Recipes/Buildings/Recipe_ConveyorPole.Recipe_ConveyorPole_C\r",
+    "$classShort": "Recipe_ConveyorPole",
+    "$comment": "This file has been changed",
+    "Class": "//Game/FactoryGame/Recipes/Buildings/Recipe_ConveyorPole.Recipe_ConveyorPole_C\r",
+    "new": {
+        "Ingredients": [
+            {
+                "Item": "Desc_IronRod",
+                "Amount": 1
+            },
+            {
+                "Item": "Desc_IronScrew",
+                "Amount": 2,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_Cement",
+                "Amount": 2
+            }
+        ]
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "Ingredients": [
+            {
+                "Item": "Desc_IronRod",
+                "Amount": 1
+            },
+            {
+                "Item": "Desc_IronScrew",
+                "Amount": 4
+            },
+            {
+                "Item": "Desc_Cement",
+                "Amount": 2
+            }
+        ]
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+        "Ingredients": [
+            {
+                "Item": "Desc_IronRod",
+                "Amount": 1
+            },
+            {
+                "Item": "Desc_IronScrew",
+                "Amount": 2,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_Cement",
+                "Amount": 2
+            }
+        ],
+        "ManufacturingMenuPriority": 1
+    }
+}

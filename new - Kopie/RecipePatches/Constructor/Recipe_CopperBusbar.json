@@ -1,0 +1,20 @@
+//SatisfactoryPlus/Content/Recipes/Constructor/Recipe_Constructor_CopperBusbar.Recipe_Constructor_CopperBusbar_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Category": "Electronics_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_CopperRod",
+      "Amount": 8
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_CopperBusbar",
+      "Amount": 5
+    }
+  ],
+  "ManufacturingDuration": 20,
+  "ManufacturingMenuPriority": 4
+}

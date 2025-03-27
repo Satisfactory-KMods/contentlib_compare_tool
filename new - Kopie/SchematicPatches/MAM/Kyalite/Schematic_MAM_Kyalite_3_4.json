@@ -1,0 +1,15 @@
+//SatisfactoryPlus/Content/SchematicManager/MAM/Schematics/Cryolite/Schematic_Trees_Cryolit_3_4.Schematic_Trees_Cryolit_3_4_C
+{
+  "Name": "Miner Module: Crusher",
+  "ClearCost": true,
+  "Cost": [
+    {
+      "Item": "/Game/FactoryGame/Resource/Parts/Diamond/Desc_Diamond.Desc_Diamond_C",
+      "Amount": 200
+    },
+    {
+      "Item": "Desc_SteelRod",
+      "Amount": 500
+    }
+  ]
+}

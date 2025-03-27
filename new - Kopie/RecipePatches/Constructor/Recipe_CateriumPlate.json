@@ -1,0 +1,22 @@
+//SatisfactoryPlus/Content/Recipes/Constructor/Recipe_Constructor_CateriumPlate.Recipe_Constructor_CateriumPlate_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Caterium Plate",
+  "Category": "StandardParts_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_GoldIngot",
+      "Amount": 5
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_CateriumPlates",
+      "Amount": 3
+    }
+  ],
+  "ProducedIn": [ "Build_ConstructorMk1" ],
+  "ManufacturingDuration": 5,
+  "ManufacturingMenuPriority": 7
+}

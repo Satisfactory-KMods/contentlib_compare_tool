@@ -1,0 +1,21 @@
+//SatisfactoryPlus/Content/Recipes/Smelter/Recipe_Smelter_TinIngot.Recipe_Smelter_TinIngot_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Tin Ingot",
+  "Category": "Ingots_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_CrushedTin",
+      "Amount": 1
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_TinIngot",
+      "Amount": 1
+    }
+  ],
+  "ManufacturingDuration": 4,
+  "ManufacturingMenuPriority": 3
+}

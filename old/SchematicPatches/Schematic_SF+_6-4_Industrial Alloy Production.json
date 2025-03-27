@@ -6,8 +6,13 @@
   "MenuPriority": 3,
   "ClearCost": true,
   "Cost": [
+
     {
-      "Item": "Desc_PackagedGas_Hydrogen",
+      "Item": "Desc_CateriumHeatSink",
+      "Amount": 200
+    },
+    {
+      "Item": "Desc_BronzeFrame",
       "Amount": 50
     },
     {

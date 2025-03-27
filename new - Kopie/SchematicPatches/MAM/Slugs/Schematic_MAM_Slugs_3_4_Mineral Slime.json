@@ -1,0 +1,13 @@
+//SatisfactoryPlus/Content/SchematicManager/MAM/Schematics/Slugs/Schematic_Trees_Slugs_3_4_NEW.Schematic_Trees_Slugs_3_4_NEW_C
+{
+  "Name": "Mineral Slime Processing",
+  "ClearCost": true,
+  "Cost": [
+    {
+      "Item": "SlugDesc_Copper_C",
+      "Amount": 50
+    }
+  ],
+  "ClearRecipes": true,
+  "Recipes": [ "Recipe_Mineral_Copper_C" ]
+}

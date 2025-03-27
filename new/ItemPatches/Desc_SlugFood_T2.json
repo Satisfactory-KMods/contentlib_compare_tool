@@ -1,0 +1,6 @@
+//KLib/Assets/Parts/Production/Food/Desc_SnailFood_Tier_2.Desc_SnailFood_Tier_2_C
+{
+  "Name": "Vegetable Meal",
+  "Description": "Food for Slugs.\r\n\r\nFood Tier: {Tier}"
+
+}

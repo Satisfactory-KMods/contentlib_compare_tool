@@ -1,0 +1,76 @@
+{
+    "$class": "//SatisfactoryPlus/Content/Recipes/Foundry/Recipe_Foundry_MagneticCore.Recipe_Foundry_MagneticCore_C\r",
+    "$classShort": "Recipe_Foundry_MagneticCore",
+    "$comment": "This file has been changed",
+    "Class": "//SatisfactoryPlus/Content/Recipes/Foundry/Recipe_Foundry_MagneticCore.Recipe_Foundry_MagneticCore_C\r",
+    "new": {
+        "Ingredients": [
+            {
+                "Item": "Desc_InvarIngot",
+                "Amount": 30,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_CateriumRod",
+                "Amount": 32
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_InvarPipe",
+                "Amount": 15,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "ManufacturingDuration": 80
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "Ingredients": [
+            {
+                "Item": "Desc_InvarIngot",
+                "Amount": 36
+            },
+            {
+                "Item": "Desc_CateriumRod",
+                "Amount": 32
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_InvarPipe",
+                "Amount": 18
+            }
+        ],
+        "ManufacturingDuration": 96
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+        "Name": "Magnetic Core",
+        "OverrideCategory": "IndustrialParts_C",
+        "Ingredients": [
+            {
+                "Item": "Desc_InvarIngot",
+                "Amount": 30,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_CateriumRod",
+                "Amount": 32
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_InvarPipe",
+                "Amount": 15,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "ManufacturingDuration": 80,
+        "ManufacturingMenuPriority": 3,
+        "ProducedIn": [
+            "Build_FoundryMk1"
+        ]
+    }
+}

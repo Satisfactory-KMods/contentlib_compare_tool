@@ -11,6 +11,10 @@
     {
       "Item": "Desc_LiquidHydrochloricAcid",
       "Amount": 3000
+    },
+    {
+      "Item": "Desc_LimeDust",
+      "Amount": 2
     }
 
   ],
@@ -29,6 +33,6 @@
     }
   ],
   "ProducedIn": [ "Build_SorterMk1" ],
-  "ManufacturingDuration": 6,
+  "ManufacturingDuration": 4,
   "ManufacturingMenuPriority": 6
 }

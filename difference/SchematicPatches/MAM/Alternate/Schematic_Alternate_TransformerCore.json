@@ -1,0 +1,14 @@
+{
+    "$comment": "This is a new file, no old version exists",
+    "$class": "//SatisfactoryPlus/Content/SchematicManager/Alternative/TransformerCore/Schematic_Alternative_TransformerCore.Schematic_Alternative_TransformerCore_C\r",
+    "$classShort": "Schematic_Alternative_TransformerCore",
+    "Name": "Alternate: Transformer Core",
+    "Type": "Alternate",
+    "VisualKit": "Desc_Stator_C",
+    "Recipes": [
+        "Recipe_Alternative_TransformerCore"
+    ],
+    "DependsOn": [
+        "Schematic_SF+_T6_3_C"
+    ]
+}

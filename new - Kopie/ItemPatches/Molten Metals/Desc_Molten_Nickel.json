@@ -1,0 +1,6 @@
+//KLib/Assets/Ressources/Raw/Fluids/Metals/Desc_LiquidNickle.Desc_LiquidNickle_C
+{
+  "Name": "Molten Nickel",
+  "Description": "Melting Point: 1453°C\n\nNickel in liquid form, mainly used to produce magnetic alloys. ",
+  "VisualKit": "Kit_MoltenNickel"
+}

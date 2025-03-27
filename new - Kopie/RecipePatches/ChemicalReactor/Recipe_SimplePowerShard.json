@@ -1,0 +1,26 @@
+//SatisfactoryPlus/Content/Recipes/ChemicalReactor/Recipe_ChemReac_SimplePowerShard.Recipe_ChemReac_SimplePowerShard_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Simple Power Shard",
+  "OverrideCategory": "PowerShard_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_PowerShardCrystal_C",
+      "Amount": 15
+    },
+    {
+      "Item": "Desc_SlugSlime_High",
+      "Amount": 20000
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_CrystalShard_C",
+      "Amount": 1
+    }
+  ],
+  "ProducedIn": [ "Build_ChemReactor" ],
+  "ManufacturingDuration": 40,
+  "ManufacturingMenuPriority": 1
+}

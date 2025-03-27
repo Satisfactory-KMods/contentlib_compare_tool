@@ -1,0 +1,21 @@
+//SatisfactoryPlus/Content/SchematicManager/MAM/Schematics/Slugs/Schematic_Trees_Slugs_3_2_NEW.Schematic_Trees_Slugs_3_2_NEW_C
+{
+  "Name": "Slug Breeding",
+  "ClearCost": true,
+  "Cost": [
+    {
+      "Item": "Desc_FF_Dirt",
+      "Amount": 50
+    },
+    {
+      "Item": "Desc_ModularFrame",
+      "Amount": 50
+    },
+    {
+      "Item": "Desc_BrassPipe",
+      "Amount": 100
+    }
+  ],
+  "ClearRecipes": true,
+  "Recipes": [ "Recipe_SlugTerrarium_C", "Recipe_Crusher_SnailFoodMk_1_C" ]
+}

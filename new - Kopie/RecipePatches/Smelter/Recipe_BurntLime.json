@@ -1,0 +1,22 @@
+//SatisfactoryPlus/Content/Recipes/Smelter/Recipe_Smelter_BurntLime.Recipe_Smelter_BurntLime_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Alternate: Burnt Lime",
+  "OverrideCategory": "Other_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_Gangue",
+      "Amount": 12
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_Limedust",
+      "Amount": 10
+    }
+  ],
+  "ProducedIn": [ "Build_SmelterMk1" ],
+  "ManufacturingDuration": 12,
+  "ManufacturingMenuPriority": 4
+}

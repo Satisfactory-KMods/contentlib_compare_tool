@@ -1,0 +1,40 @@
+{
+  "Class": "/SatisfactoryPlus/AssetDatas/RRD/RP/Heater/PDA_SFP_Heater_Solu_Ionized.PDA_SFP_Heater_Solu_Ionized",
+  "Edits": [
+    {
+      "Property": "mInput",
+      "Value": {
+        "ItemClass": "/Game/FactoryGame/Resource/Parts/IonizedFuel/Desc_IonizedFuel.Desc_IonizedFuel_C",
+        "amount": 500
+      }
+    },
+    {
+      "Property": "mOutput",
+      "Value": {
+        "ItemClass": "/KLib/Assets/Ressources/Raw/Gas/Desc_FlueGas.Desc_FlueGas_C",
+        "amount": 2000
+      }
+    },
+    {
+      "Property": "mDuration",
+      "Value": 6
+    },
+    {
+      "Property": "mPriority",
+      "Value": 0
+    },
+    {
+      "Property": "mHeat",
+      "Value": 50
+    },
+    {
+      "Property": "mMinHeatValue",
+      "Value": 50
+    },
+    {
+      "Property": "mMaxHeatValue",
+      "Value": 1185
+    }
+
+  ]
+}

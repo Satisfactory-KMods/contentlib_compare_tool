@@ -1,0 +1,7 @@
+//KLib/Assets/Ressources/Raw/Gas/Desc_Sulfurtrixid.Desc_Sulfurtrixid_C
+{
+  "Name": "Sulfurous Gas",
+  "Description": "A gas with a high proportion of sulfur. It is used in various processes such as the production of Sulfuric Acid.\n\nProduced by combusting Sulfur Powder in a Solid Fuel Heater or extracted from Flue Gas via filtration.",
+  "Form": "Gas",
+  "StackSize": "Fluid"
+}

@@ -1,0 +1,9 @@
+//KLib/Assets/Ressources/Raw/Gas/Desc_KLIB_NaturalGas.Desc_KLIB_NaturalGas_C
+{
+  "Name": "Natural Gas",
+  "Description": "Also known as Methane Gas. It is the lightest crude oil distillate and is often used as fuel for oil refineries.\n May also be reformed to produce 'Syngas', a mixture of Hydrogen and Carbon Monoxide.",
+  "Form": "RF_GAS",
+  "StackSize": "Fluid",
+  "VisualKit": "Kit_NaturalGas",
+  "CanBeDiscarded": true
+}

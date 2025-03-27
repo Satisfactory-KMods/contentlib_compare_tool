@@ -5,8 +5,8 @@
   "OverrideCategory": "Cat_KLib_SAC_Cooling_C",
   "Ingredients": [
     {
-      "Item": "Desc_LiquidAluminum",
-      "Amount": 10000
+      "Item": "Desc_AluminaSolution",
+      "Amount": 18000
     },
     {
       "Item": "Desc_MagnesiumGranules",

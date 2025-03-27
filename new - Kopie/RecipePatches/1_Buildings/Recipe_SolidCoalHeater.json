@@ -1,0 +1,25 @@
+//RefinedPower/Buildables/Factory/ModularPower/MPBuildings/Heaters/CoalHeater/Recipe_RP_MP_CoalHeater.Recipe_RP_MP_CoalHeater_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Solid Fuel Heater",
+  "Ingredients": [
+
+    {
+      "Item": "Desc_ModularFrame",
+      "Amount": 5
+    },
+    {
+      "Item": "Desc_BrassPlates",
+      "Amount": 25
+    },
+    {
+      "Item": "Desc_Cable",
+      "Amount": 25
+    },
+    {
+      "Item": "Desc_SteelBolt",
+      "Amount": 50
+    }
+  ],
+  "ManufacturingMenuPriority": 5
+}

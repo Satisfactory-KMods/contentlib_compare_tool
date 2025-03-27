@@ -32,15 +32,15 @@
   "Recipes": [
     "Recipe_Blender",
     "Recipe_Sorter_T2_Bauxite",
-    "Recipe_Washed_Bauxite",
+    "Recipe_Sorter_T3_CryoliteResidue_C",
+    "Recipe_WetWasher_Bauxite_C",
     "Recipe_Blender_Alumina",
+    "Recipe_Blender_AcidAlumina",
     "Recipe_Crusher_ResidBauxite",
-    "Recipe_Resid_Soda",
-    "Recipe_BlastFurnace_Aluminum",
+    "Recipe_OilRefinery_Resid_Soda_C",
     "Recipe_Reformer_Mixed_AluminiumIngot",
     "Recipe_Reformer_Mixed_AluminumCoil",
     "Recipe_Assembler_AluminumCasing",
-    "Recipe_Foundry_AlcladSheet",
     "Recipe_Blender_BeltDriveMk5"
   ],
   "Time": 360

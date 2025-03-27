@@ -1,0 +1,28 @@
+{
+  "Class": "/SatisfactoryPlus/AssetDatas/RRD/RP/Turbine/PDA_SFP_TurbineMk2_Steam.PDA_SFP_TurbineMk2_Steam",
+  "Edits": [
+    {
+      "Property": "mItem",
+      "Value": {
+        "ItemClass": "/KLib/Assets/Ressources/Raw/Gas/Desc_Gas_Steam_Hot.Desc_Gas_Steam_Hot_C",
+        "amount": 6000
+      }
+    },
+    {
+      "Property": "mWasteItem",
+      "Value": {
+        "ItemClass": "/Game/FactoryGame/Resource/RawResources/Water/Desc_Water.Desc_Water_C",
+        "amount": 1500
+      }
+    },
+    {
+      "Property": "mDuration",
+      "Value": 6
+    },
+    {
+      "Property": "mPriority",
+      "Value": 3
+    }
+
+  ]
+}

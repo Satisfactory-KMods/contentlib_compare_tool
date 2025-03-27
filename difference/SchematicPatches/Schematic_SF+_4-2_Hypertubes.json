@@ -1,0 +1,69 @@
+{
+    "$class": "//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T4/Schematic_SF+_T4_2.Schematic_SF+_T4_2_C\r",
+    "$classShort": "Schematic_SF+_T4_2",
+    "$comment": "This file has been changed",
+    "Class": "//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T4/Schematic_SF+_T4_2.Schematic_SF+_T4_2_C\r",
+    "new": {
+        "Cost": [
+            {
+                "Item": "Desc_SteelPipe",
+                "Amount": 75
+            },
+            {
+                "Item": "Desc_Rotor",
+                "Amount": 50
+            },
+            {
+                "Item": "Desc_SteelPLateReinforced",
+                "Amount": 50,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ]
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "Cost": [
+            {
+                "Item": "Desc_SteelPipe",
+                "Amount": 75
+            },
+            {
+                "Item": "Desc_Rotor",
+                "Amount": 50
+            },
+            {
+                "Item": "Desc_SteelPLateReinforced",
+                "Amount": 20
+            }
+        ]
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "Name": "Hypertubes",
+        "MenuPriority": 3,
+        "ClearCost": true,
+        "Cost": [
+            {
+                "Item": "Desc_SteelPipe",
+                "Amount": 75
+            },
+            {
+                "Item": "Desc_Rotor",
+                "Amount": 50
+            },
+            {
+                "Item": "Desc_SteelPLateReinforced",
+                "Amount": 50,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "ClearRecipes": true,
+        "Recipes": [
+            "Recipe_PipeHyper",
+            "Recipe_PipeHyperStart",
+            "Recipe_PipeHyperSupport",
+            "Recipe_HyperPoleStackable"
+        ],
+        "Time": 240
+    }
+}

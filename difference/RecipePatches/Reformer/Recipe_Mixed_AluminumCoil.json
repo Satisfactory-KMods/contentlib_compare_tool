@@ -6,13 +6,13 @@
     "new": {
         "Ingredients": [
             {
-                "Item": "Desc_LiquidAluminum",
-                "Amount": 10000
+                "Item": "Desc_AluminaSolution",
+                "Amount": 18000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
             },
             {
                 "Item": "Desc_MagnesiumGranules",
-                "Amount": 18,
-                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+                "Amount": 18
             },
             {
                 "Item": "Desc_Water",
@@ -29,7 +29,7 @@
             },
             {
                 "Item": "Desc_MagnesiumGranules",
-                "Amount": 20
+                "Amount": 18
             },
             {
                 "Item": "Desc_Water",
@@ -44,13 +44,13 @@
         "OverrideCategory": "Cat_KLib_SAC_Cooling_C",
         "Ingredients": [
             {
-                "Item": "Desc_LiquidAluminum",
-                "Amount": 10000
+                "Item": "Desc_AluminaSolution",
+                "Amount": 18000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
             },
             {
                 "Item": "Desc_MagnesiumGranules",
-                "Amount": 18,
-                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+                "Amount": 18
             },
             {
                 "Item": "Desc_Water",

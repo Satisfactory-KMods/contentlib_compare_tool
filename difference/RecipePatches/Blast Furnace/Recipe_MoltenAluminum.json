@@ -4,11 +4,30 @@
     "$comment": "This file has been changed",
     "Class": "//SatisfactoryPlus/Content/Recipes/BlastFurnace/Recipe_BlastFurnace_Aluminum.Recipe_BlastFurnace_Aluminum_C\r",
     "new": {
-        "ManufacturingDuration": 12
+        "Products": [
+            {
+                "Item": "Desc_LiquidAluminum",
+                "Amount": 9000
+            },
+            {
+                "Item": "Desc_Gas_Chlor",
+                "Amount": 4000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ]
     },
     "demitter2": "-----------------------------------------------------------------------------------",
     "old": {
-        "ManufacturingDuration": 6
+        "Products": [
+            {
+                "Item": "Desc_LiquidAluminum",
+                "Amount": 9000
+            },
+            {
+                "Item": "Desc_FlueGas",
+                "Amount": 3000
+            }
+        ]
     },
     "demitter1": "-----------------------------------------------------------------------------------",
     "original": {
@@ -31,8 +50,9 @@
                 "Amount": 9000
             },
             {
-                "Item": "Desc_FlueGas",
-                "Amount": 3000
+                "Item": "Desc_Gas_Chlor",
+                "Amount": 4000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
             }
         ],
         "ProducedIn": [

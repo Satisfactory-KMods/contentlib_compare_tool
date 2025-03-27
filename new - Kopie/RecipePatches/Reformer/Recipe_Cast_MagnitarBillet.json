@@ -1,0 +1,32 @@
+//SatisfactoryPlus/Content/Recipes/Reformer/Recipe_Reformer_MagneatarBillet.Recipe_Reformer_MagneatarBillet_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Cast Magnitar™ Billet",
+  "OverrideCategory": "Cat_Ingots_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_LiquidInvar",
+      "Amount": 6000
+    },
+    {
+      "Item": "Desc_Water",
+      "Amount": 8000
+    }
+
+  ],
+  "Products": [
+
+    {
+      "Item": "Desc_InvarIngot",
+      "Amount": 18
+    },
+    {
+      "Item": "Desc_Gas_Steam_Hot",
+      "Amount": 4000
+    }
+  ],
+
+  "ProducedIn": [ "Build_SoldifierAndCooler" ],
+  "ManufacturingDuration": 8,
+  "ManufacturingMenuPriority": 10
+}

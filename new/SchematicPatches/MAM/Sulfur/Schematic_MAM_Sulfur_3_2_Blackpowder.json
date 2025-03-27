@@ -1,0 +1,17 @@
+//SatisfactoryPlus/Content/SchematicManager/MAM/Schematics/Sulfur/Schematic_Trees_Sulfur_3_2.Schematic_Trees_Sulfur_3_2_C
+{
+  "Name": "Black Powder",
+  "ClearCost": true,
+  "Cost": [
+    {
+      "Item": "Desc_Sulfur",
+      "Amount": 200
+    },
+    {
+      "Item": "Desc_Coal",
+      "Amount": 200
+    }
+  ],
+  "ClearRecipes": true,
+  "Recipes": [ "Recipe_Assembler_Blackpowder" ]
+}

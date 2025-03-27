@@ -1,0 +1,46 @@
+{
+    "$class": "//SatisfactoryPlus/Content/SchematicManager/MAM/Schematics/Slugs/Schematic_Trees_Slugs_3_2_NEW.Schematic_Trees_Slugs_3_2_NEW_C\r",
+    "$classShort": "Schematic_Trees_Slugs_3_2_NEW",
+    "$comment": "This file has been changed",
+    "Class": "//SatisfactoryPlus/Content/SchematicManager/MAM/Schematics/Slugs/Schematic_Trees_Slugs_3_2_NEW.Schematic_Trees_Slugs_3_2_NEW_C\r",
+    "new": {
+        "Recipes": [
+            "Recipe_SlugTerrarium_C",
+            "Recipe_Crusher_SnailFoodMk_1_C",
+            "Recipe_Cooker_SnailFoodMk_2_C"
+        ],
+        "ClearRecipes": true
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "Recipes": [
+            "Recipe_SlugTerrarium_C",
+            "Recipe_SnailFood_T1"
+        ]
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "Name": "Slug Breeding",
+        "ClearCost": true,
+        "Cost": [
+            {
+                "Item": "Desc_FF_Dirt",
+                "Amount": 50
+            },
+            {
+                "Item": "Desc_ModularFrame",
+                "Amount": 50
+            },
+            {
+                "Item": "Desc_BrassPipe",
+                "Amount": 100
+            }
+        ],
+        "ClearRecipes": true,
+        "Recipes": [
+            "Recipe_SlugTerrarium_C",
+            "Recipe_Crusher_SnailFoodMk_1_C",
+            "Recipe_Cooker_SnailFoodMk_2_C"
+        ]
+    }
+}

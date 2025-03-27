@@ -1,0 +1,9 @@
+{
+  "Class": "/Game/FactoryGame/Buildable/Factory/WaterPump/Build_WaterPump.Build_WaterPump_C",
+  "Edits": [
+    {
+      "Property": "mItemsPerCycle",
+      "Value": 1500
+    }
+  ]
+}

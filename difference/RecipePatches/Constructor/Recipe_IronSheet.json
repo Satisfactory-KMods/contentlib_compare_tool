@@ -1,0 +1,33 @@
+{
+    "$class": "//SatisfactoryPlus/Content/Recipes/Constructor/Recipe_Constructor_IronSheet.Recipe_Constructor_IronSheet_C\r",
+    "$classShort": "Recipe_Constructor_IronSheet",
+    "$comment": "This file has been changed",
+    "Class": "//SatisfactoryPlus/Content/Recipes/Constructor/Recipe_Constructor_IronSheet.Recipe_Constructor_IronSheet_C\r",
+    "new": {},
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "ProducedIn": [
+            "Build_ConstructorMk1"
+        ]
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+        "Name": "Iron Sheet",
+        "Category": "StandardParts_C",
+        "Ingredients": [
+            {
+                "Item": "Desc_IronPlate",
+                "Amount": 4
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_IronSheet",
+                "Amount": 5
+            }
+        ],
+        "ManufacturingDuration": 6,
+        "ManufacturingMenuPriority": 4
+    }
+}

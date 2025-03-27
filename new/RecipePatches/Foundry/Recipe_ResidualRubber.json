@@ -6,7 +6,7 @@
   "Ingredients": [
     {
       "Item": "Desc_PolymerResin",
-      "Amount": 12
+      "Amount": 24
     },
     {
       "Item": "Desc_Sulfur",
@@ -17,7 +17,7 @@
   "Products": [
     {
       "Item": "Desc_Rubber",
-      "Amount": 6
+      "Amount": 12
     }
   ],
   "ManufacturingDuration": 18,

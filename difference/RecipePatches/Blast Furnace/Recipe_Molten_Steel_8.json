@@ -1,0 +1,103 @@
+{
+    "$class": "//SatisfactoryPlus/Content/Recipes/BlastFurnace/Recipe_BlastFurnace_Steel.Recipe_BlastFurnace_Steel_C\r",
+    "$classShort": "Recipe_BlastFurnace_Steel",
+    "$comment": "This file has been changed",
+    "Class": "//SatisfactoryPlus/Content/Recipes/BlastFurnace/Recipe_BlastFurnace_Steel.Recipe_BlastFurnace_Steel_C\r",
+    "new": {
+        "Ingredients": [
+            {
+                "Item": "Desc_LiquidIron",
+                "Amount": 4000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_CarbonDust",
+                "Amount": 2,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_Gas_Steam_Hot",
+                "Amount": 6000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_LiquidSteel",
+                "Amount": 4000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_FlueGas",
+                "Amount": 3000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "ManufacturingDuration": 6
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "Ingredients": [
+            {
+                "Item": "Desc_LiquidIron",
+                "Amount": 8000
+            },
+            {
+                "Item": "Desc_CarbonDust",
+                "Amount": 4
+            },
+            {
+                "Item": "Desc_Gas_Steam_Hot",
+                "Amount": 12000
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_LiquidSteel",
+                "Amount": 8000
+            },
+            {
+                "Item": "Desc_FlueGas",
+                "Amount": 6000
+            }
+        ],
+        "ManufacturingDuration": 12
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+        "Name": "Molten Steel",
+        "category": "Cat_KLib_Alloys_C",
+        "Ingredients": [
+            {
+                "Item": "Desc_LiquidIron",
+                "Amount": 4000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_CarbonDust",
+                "Amount": 2,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_Gas_Steam_Hot",
+                "Amount": 6000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_LiquidSteel",
+                "Amount": 4000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_FlueGas",
+                "Amount": 3000,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "ManufacturingDuration": 6,
+        "ManufacturingMenuPriority": 2
+    }
+}

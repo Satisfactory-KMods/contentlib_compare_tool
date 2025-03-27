@@ -1,0 +1,21 @@
+{
+    "$class": "//KLib/Assets/Ressources/Raw/Gas/Desc_FlueGas.Desc_FlueGas_C\r",
+    "$classShort": "Desc_FlueGas",
+    "$comment": "This file has been changed",
+    "Class": "//KLib/Assets/Ressources/Raw/Gas/Desc_FlueGas.Desc_FlueGas_C\r",
+    "new": {
+        "Description": "Mainly composed of carbon oxides and some sulfur compounds. A common product of burning carbon based fuels.\n\nCan be processed in the Filtrator to extract componds."
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "Description": "Mainly composed of carbon oxides and some sulfur compounds. A common product of burning carbon based fuels."
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "Name": "Flue Gas",
+        "Description": "Mainly composed of carbon oxides and some sulfur compounds. A common product of burning carbon based fuels.\n\nCan be processed in the Filtrator to extract componds.",
+        "Form": "RF_GAS",
+        "StackSize": "Fluid",
+        "VisualKit": "Kit_CO2"
+    }
+}

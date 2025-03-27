@@ -1,0 +1,33 @@
+{
+    "$class": "//SatisfactoryPlus/Content/Recipes/Constructor/Recipe_Constructor_TinRod.Recipe_Constructor_TinRod_C\r",
+    "$classShort": "Recipe_Constructor_TinRod",
+    "$comment": "This file has been changed",
+    "Class": "//SatisfactoryPlus/Content/Recipes/Constructor/Recipe_Constructor_TinRod.Recipe_Constructor_TinRod_C\r",
+    "new": {},
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "ProducedIn": [
+            "Build_ConstructorMk1"
+        ]
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+        "Name": "Tin Rod",
+        "Category": "StandardParts_C",
+        "Ingredients": [
+            {
+                "Item": "Desc_TinIngot",
+                "Amount": 2
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_TinRod",
+                "Amount": 1
+            }
+        ],
+        "ManufacturingDuration": 4,
+        "ManufacturingMenuPriority": 6.5
+    }
+}

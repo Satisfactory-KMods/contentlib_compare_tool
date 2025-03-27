@@ -1,0 +1,14 @@
+{
+    "$comment": "This is a new file, no old version exists",
+    "$class": "//SatisfactoryPlus/Content/SchematicManager/Alternative/Alternator/Schematic_Alternative_Alternator.Schematic_Alternative_Alternator_C\r",
+    "$classShort": "Schematic_Alternative_Alternator",
+    "Name": "Alternate: Alternator",
+    "Type": "Alternate",
+    "VisualKit": "Desc_Rotor_C",
+    "Recipes": [
+        "Recipe_Alternative_Alternator"
+    ],
+    "DependsOn": [
+        "Schematic_SF+_T6_3_C"
+    ]
+}

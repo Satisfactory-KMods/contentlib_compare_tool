@@ -1,0 +1,27 @@
+//SatisfactoryPlus/Content/Recipes/Foundry/Recipe_Foundry_SolarCell.Recipe_Foundry_SolarCell_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Solar Cell",
+  "Category": "Other_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_ZincPlates",
+      "Amount": 6
+    },
+    {
+      "Item": "Desc_Silica",
+      "Amount": 18
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_PhotovoltaicCell",
+      "Amount": 3
+    }
+
+  ],
+  "ProducedIn": [ "Build_FoundryMk1" ],
+  "ManufacturingDuration": 16,
+  "ManufacturingMenuPriority": 8
+}

@@ -1,0 +1,36 @@
+//SatisfactoryPlus/Content/Recipes/ChemReactor/Recipe_ChemReactor_ToxicAir.Recipe_ChemReactor_ToxicAir_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Toxic Air Hydrogen",
+  "category": "AdvancedRefinement_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_ToxicAir_C",
+      "Amount": 6000
+    },
+    {
+      "Item": "Desc_Air",
+      "Amount": 8000
+    },
+    {
+      "Item": "Desc_Fabric",
+      "Amount": 2
+    }
+
+  ],
+  "Products": [
+
+    {
+      "Item": "Desc_Gas_Hydrogen",
+      "Amount": 4000
+    },
+    {
+      "Item": "Desc_KLIB_NaturalGas_C",
+      "Amount": 2000
+    }
+
+  ],
+  "ManufacturingDuration": 4,
+  "ManufacturingMenuPriority": 2,
+  "ProducedIn": [ "Build_ChemReactor" ]
+}

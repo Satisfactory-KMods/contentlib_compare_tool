@@ -1,0 +1,28 @@
+//SatisfactoryPlus/Content/Recipes/Reformer/Recipe_Reformer_Polyethylenes.Recipe_Reformer_Polyethylenes_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Polyethylene",
+  "category": "SolidOilProducts_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_Ethylene",
+      "Amount": 12000
+    }
+
+  ],
+  "Products": [
+
+    {
+      "Item": "Desc_Plastic",
+      "Amount": 25
+    },
+    {
+      "Item": "Desc_Rubber",
+      "Amount": 25
+    }
+
+  ],
+  "ProducedIn": [ "Build_SoldifierAndCooler" ],
+  "ManufacturingDuration": 24,
+  "ManufacturingMenuPriority": 2
+}

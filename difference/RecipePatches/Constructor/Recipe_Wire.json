@@ -1,0 +1,33 @@
+{
+    "$class": "//SatisfactoryPlus/Content/Recipes/Constructor/Recipe_Constructor_CopperWire.Recipe_Constructor_CopperWire_C\r",
+    "$classShort": "Recipe_Constructor_CopperWire",
+    "$comment": "This file has been changed",
+    "Class": "//SatisfactoryPlus/Content/Recipes/Constructor/Recipe_Constructor_CopperWire.Recipe_Constructor_CopperWire_C\r",
+    "new": {},
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "ProducedIn": [
+            "Build_ConstructorMk1"
+        ]
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+        "Name": "Copper Wire",
+        "Category": "Electronics",
+        "Ingredients": [
+            {
+                "Item": "Desc_CopperRod",
+                "Amount": 3
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_Wire",
+                "Amount": 5
+            }
+        ],
+        "ManufacturingDuration": 10,
+        "ManufacturingMenuPriority": 2
+    }
+}

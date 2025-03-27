@@ -1,0 +1,7 @@
+//Game/FactoryGame/Resource/Environment/Crystal/Desc_AlienPowerShard.Desc_AlienPowerShard_C
+{
+  "Name": "Booster Matrix",
+  "Description": "A kind of semi-synthetic Somersloop, capable of matter-to-energy conversion, albeit at a less efficient rate than real Somersloops.",
+  "VisualKit": "Kit_BoosterMatrix"
+
+}

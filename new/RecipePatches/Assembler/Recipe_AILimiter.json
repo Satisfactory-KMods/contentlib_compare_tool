@@ -5,12 +5,12 @@
   "OverrideCategory": "Electronics_C",
   "Ingredients": [
     {
-      "Item": "Desc_CateriumSheet",
-      "Amount": 5
+      "Item": "Desc_CateriumPlates",
+      "Amount": 4
     },
     {
       "Item": "Desc_TinnedWire",
-      "Amount": 4
+      "Amount": 3
     }
 
   ],
@@ -21,6 +21,6 @@
     }
   ],
   "ProducedIn": [ "Build_AssemblerMk1" ],
-  "ManufacturingDuration": 12,
-  "ManufacturingMenuPriority": 2
+  "ManufacturingDuration": 10,
+  "ManufacturingMenuPriority": 4
 }

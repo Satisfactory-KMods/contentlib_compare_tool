@@ -1,0 +1,41 @@
+//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T6/Schematic_SF+_T6_0.Schematic_SF+_T6_0_C
+{
+  "Name": "Industrial Sorting",
+  "Type": "Milestone",
+  "Tier": 6,
+  "MenuPriority": 2,
+  "ClearCost": true,
+  "Cost": [
+    {
+      "Item": "Desc_IronWire",
+      "Amount": 500
+    },
+    {
+      "Item": "Desc_IronPlateReinforced",
+      "Amount": 200
+    },
+    {
+      "Item": "Desc_Salt",
+      "Amount": 100
+    },
+    {
+      "Item": "Desc_Computer",
+      "Amount": 50
+    }
+
+  ],
+  "ClearRecipes": true,
+  "Recipes": [
+    "Recipe_Crusher_CrushedMontanion",
+    "Recipe_Sorter_T2_Tin",
+    "Recipe_Sorter_T2_Copper",
+    "Recipe_Sorter_T2_Magnesium",
+    "Recipe_Sorter_T2_Lead",
+    "Recipe_Sorter_T3_Nickel",
+    "Recipe_Sorter_T1_Cobalt",
+    "Recipe_Sorter_T2_Silica_C",
+    "Recipe_SulfiteGas",
+    "Recipe_ChemReac_SulfuricAcid"
+  ],
+  "Time": 180
+}

@@ -1,0 +1,6 @@
+//KLib/Assets/Ressources/Raw/Fluids/Metals/Desc_LiquidBrass.Desc_LiquidBrass_C
+{
+  "Name": "Molten Brass",
+  "Description": "Melting Point: 930°C\n\nBrass in liquid form, useful for bulk casting ingots or other parts.",
+  "VisualKit": "Kit_MoltenBrass"
+}

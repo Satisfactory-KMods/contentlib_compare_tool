@@ -6,25 +6,25 @@
   "Ingredients": [
     {
       "Item": "Desc_OreIron",
-      "Amount": 10
+      "Amount": 8
     },
     {
       "Item": "Desc_Water",
-      "Amount": 9000
+      "Amount": 8000
     }
 
   ],
   "Products": [
     {
       "Item": "Desc_CrushedTin",
-      "Amount": 5
+      "Amount": 4
     },
     {
       "Item": "Desc_LiquidSlag",
-      "Amount": 10000
+      "Amount": 8000
     }
 
   ],
-  "ManufacturingDuration": 15,
+  "ManufacturingDuration": 12,
   "ManufacturingMenuPriority": 3
 }

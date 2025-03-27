@@ -1,0 +1,21 @@
+{
+    "$comment": "This is a new file, no old version exists",
+    "$class": "//SatisfactoryPlus/Content/SchematicManager/MAM/Schematics/Sulfur/U6/Schematic_Trees_Sulfur_3_4.Schematic_Trees_Sulfur_3_4_C\r",
+    "$classShort": "Schematic_Trees_Sulfur_3_4",
+    "Name": "Smokeless Powder",
+    "ClearCost": true,
+    "Cost": [
+        {
+            "Item": "Desc_Gunpowder",
+            "Amount": 200
+        },
+        {
+            "Item": "Desc_Plastic",
+            "Amount": 500
+        }
+    ],
+    "ClearRecipes": true,
+    "Recipes": [
+        "Recipe_Refinery_SmokelessPowder"
+    ]
+}

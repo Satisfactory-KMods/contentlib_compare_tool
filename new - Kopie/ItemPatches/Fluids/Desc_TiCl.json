@@ -1,0 +1,8 @@
+//KLib/Assets/Ressources/Raw/Gas/Desc_Gas_Titantetrachlorid.Desc_Gas_Titantetrachlorid_C
+{
+  "Name": "TiCl Gas",
+  "Description": "A mix of Titanium Chlorides, also known 'Tickle'.\nThe purple hue stems from TiCl3.\r\nMainly used to produce purified Titanium.",
+  "Form": "RF_GAS",
+  "StackSize": "Fluid",
+  "VisualKit": "Kit_TiCl"
+}

@@ -1,0 +1,29 @@
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Accelerator Madness",
+  "OverrideCategory": "SolidOilProducts_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_Cement",
+      "Amount": 240
+    },
+    {
+      "Item": "Desc_ModularFrame",
+      "Amount": 75
+    }
+
+  ],
+  "Products": [
+
+    {
+      "Item": "Desc_ModularFrameHeavy",
+      "Amount": 45
+    }
+
+  ],
+  "VariablePowerConsumptionConstant": 1200.0,
+  "VariablePowerConsumptionFactor": 4800.0,
+  "ProducedIn": [ "Build_HadronCollider" ],
+  "ManufacturingDuration": 3000,
+  "ManufacturingMenuPriority": 1
+}

@@ -1,0 +1,28 @@
+{
+  "Class": "/SatisfactoryPlus/AssetDatas/RRD/RP/Boiler/PDA_SFP_Boiler_Mk2_Water.PDA_SFP_Boiler_Mk2_Water",
+  "Edits": [
+    {
+      "Property": "mInput",
+      "Value": {
+        "ItemClass": "/Game/FactoryGame/Resource/RawResources/Water/Desc_Water.Desc_Water_C",
+        "amount": 1500
+      }
+    },
+    {
+      "Property": "mOutput",
+      "Value": {
+        "ItemClass": "/KLib/Assets/Ressources/Raw/Gas/Desc_Gas_Steam_Hot.Desc_Gas_Steam_Hot_C",
+        "amount": 3000
+      }
+    },
+    {
+      "Property": "mDuration",
+      "Value": 4
+    },
+    {
+      "Property": "mPriority",
+      "Value": 3
+    }
+
+  ]
+}

@@ -1,0 +1,34 @@
+//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T1/Schematic_SF+_T1_0.Schematic_SF+_T1_0_C
+{
+  "Name": "Windows",
+  "MenuPriority": 4,
+  "ClearCost": true,
+  "Cost": [
+    {
+      "Item": "Desc_Gangue",
+      "Amount": 100
+    },
+    {
+      "Item": "Desc_IronPlate",
+      "Amount": 50
+    }
+  ],
+  "Time": 120,
+  "ClearRecipes": true,
+  "Recipes": [
+    "Recipe_Wall_Window_8x4_01_C",
+    "Recipe_Wall_Window_8x4_02_C",
+    "Recipe_Wall_Window_8x4_03_C",
+    "Recipe_Wall_Window_8x4_04_C",
+    "Recipe_Crusher_Sand_C",
+    "Recipe_Smelter_Dirty_Glass_C",
+    "Recipe_Wall_Concrete_8x4_Window_01_C",
+    "Recipe_Wall_Concrete_8x4_Window_02_C",
+    "Recipe_Wall_Concrete_8x4_Window_03_C",
+    "Recipe_Wall_Concrete_8x4_Window_04_C",
+    "Recipe_SteelWall_8x4_Window_01_C",
+    "Recipe_SteelWall_8x4_Window_02_C",
+    "Recipe_SteelWall_8x4_Window_03_C",
+    "Recipe_SteelWall_8x4_Window_04_C"
+  ]
+}

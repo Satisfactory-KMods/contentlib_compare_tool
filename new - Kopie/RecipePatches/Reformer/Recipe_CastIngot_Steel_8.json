@@ -1,0 +1,37 @@
+//SatisfactoryPlus/Content/Recipes/Reformer/Recipe_Reformer_SteelIngot.Recipe_Reformer_SteelIngot_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Cast Steel Ingot",
+  "category": "Cat_Ingots_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_LiquidSteel",
+      "Amount": 16000
+    },
+    {
+      "Item": "Desc_Air",
+      "Amount": 24000
+    },
+    {
+      "Item": "Desc_Gangue",
+      "Amount": 20
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_SteelIngot",
+      "Amount": 48
+    },
+    {
+      "Item": "Desc_FlueGas",
+      "Amount": 16000
+    },
+    {
+      "Item": "Desc_ColdSlag_C",
+      "Amount": 20
+    }
+  ],
+  "ManufacturingDuration": 32,
+  "ManufacturingMenuPriority": 6
+}

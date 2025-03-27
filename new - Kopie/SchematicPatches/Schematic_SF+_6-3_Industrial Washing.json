@@ -1,0 +1,37 @@
+//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T6/Schematic_SF+_T6_1.Schematic_SF+_T6_1_C
+{
+  "Name": "Industrial Washing",
+  "Type": "Milestone",
+  "Tier": 6,
+  "MenuPriority": 1,
+  "ClearCost": true,
+  "Cost": [
+    {
+      "Item": "Desc_Rotor",
+      "Amount": 250
+    },
+    {
+      "Item": "Desc_BronzeFrame",
+      "Amount": 100
+    },
+    {
+      "Item": "Desc_Computer",
+      "Amount": 50
+    }
+  ],
+
+  "ClearRecipes": true,
+  "Recipes": [
+    "INFO KYRIUM: Need to unlock Scanner upgrade for Raw Quartz here",
+    "Recipe_WetWasher_Magnesium",
+    "Recipe_WetWasher_Zinc",
+    "Recipe_WetWasher_Lead",
+    "Recipe_WetWasher_Caterium",
+    "Recipe_WetWasher_Nickel",
+    "Recipe_WetWasher_Cobalt",
+    "Recipe_Washed_Silica",
+    "Recipe_ChemReac_FusedQuartzCrystal",
+    "Recipe_ChemReac_AcidBaseMix"
+  ],
+  "Time": 180
+}

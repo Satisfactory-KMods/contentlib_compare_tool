@@ -1,0 +1,27 @@
+{
+  "Class": "/SatisfactoryPlus/CDOHelper/RecipeCDO/MainGame/Equip/CDOHelper_Recipes_JetPack.CDOHelper_Recipes_JetPack_C",
+  "Edits": [
+    {
+      "Property": "mIngredients",
+      "Value": [
+        {
+          "ItemClass": "/Game/FactoryGame/Resource/Parts/Plastic/Desc_Plastic.Desc_Plastic_C",
+          "amount": 200
+        },
+        {
+          "ItemClass": "/Game/FactoryGame/Resource/Parts/SteelPipe/Desc_SteelPipe.Desc_SteelPipe_C",
+          "amount": 200
+        },
+        {
+          "ItemClass": "/KLib/Assets/Parts/Production/Metal/Sheets/Desc_IronSheet.Desc_IronSheet_C",
+          "amount": 150
+        },
+        {
+          "ItemClass": "/KLib/Assets/Parts/Production/Metal/Screw/Desc_SteelBolt.Desc_SteelBolt_C",
+          "amount": 250
+        }
+      ]
+    }
+
+  ]
+}

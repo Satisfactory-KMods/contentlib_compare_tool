@@ -1,0 +1,6 @@
+//KLib/Assets/Ressources/Raw/Fluids/Metals/Desc_LiquidTin.Desc_LiquidTin_C
+{
+  "Name": "Molten Tin",
+  "Description": "Melting Point: 232°C\n\nTin in liquid form, useful for bulk casting ingots or other parts.\nMelting it in a Flexible Blast Furance is energy inefficient.",
+  "VisualKit": "Kit_MoltenTin"
+}

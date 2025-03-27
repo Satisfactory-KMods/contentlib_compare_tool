@@ -1,31 +1,29 @@
-//KBlueprintDesignPlus/Recipe_BlueprintDesignerMk2.Recipe_BlueprintDesignerMk2_C
 {
-  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
-  "Name": "Blueprint Designer Mk.2",
-  "Ingredients": [
-    {
-      "ItemClass": "Desc_IronPlateReinforced",
-      "Amount": 25
-    },
-    {
-      "ItemClass": "Desc_Cable",
-      "Amount": 60
-    },
-    {
-      "ItemClass": "Desc_Cement",
-      "Amount": 250
-    },
-    {
-      "ItemClass": "Desc_IronScrew",
-      "Amount": 200
-    }
-
-  ],
-  "Products": [
-    {
-      "Item": "Desc_BlueprintDesignerMk2_C",
-      "Amount": 1
-    }
-  ],
-  "ManufacturingMenuPriority": 5
+    "Name": "Blueprint Designer Mk.2",
+    "Ingredients": [
+        {
+            "ItemClass": "Desc_IronPlateReinforced",
+            "Amount": 25
+        },
+        {
+            "ItemClass": "Desc_Cable",
+            "Amount": 60
+        },
+        {
+            "ItemClass": "Desc_Cement",
+            "Amount": 250
+        },
+        {
+            "ItemClass": "Desc_IronScrew",
+            "Amount": 200
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_BlueprintDesignerMk2_C",
+            "Amount": 1
+        }
+    ],
+    "ManufacturingMenuPriority": 5,
+    "$comment": "This file has been removed, no new version exists"
 }

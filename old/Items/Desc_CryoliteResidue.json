@@ -1,7 +1,8 @@
 {
-  "Name": "Cryolite Residue",
-  "VisualKit": "Kit_CryoResidue",
-  "Description": "A mixture of Aluminum and other compounds.",
-  "Form": "Solid",
-  "StackSize": "Huge"
+    "Name": "Cryolite Residue",
+    "VisualKit": "Kit_CryoResidue",
+    "Description": "A mixture of Aluminum and other compounds.",
+    "Form": "Solid",
+    "StackSize": "Huge",
+    "$comment": "This file has been removed, no new version exists"
 }

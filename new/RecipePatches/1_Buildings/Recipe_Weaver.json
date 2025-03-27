@@ -1,5 +1,24 @@
-//KLib/Assets/Buildings/Weavingmachine/Recipe_Weavingmachine.Recipe_Weavingmachine_C"
+//KLib/Assets/Buildings/Weavingmachine/Recipe_Weavingmachine.Recipe_Weavingmachine_C
 {
   "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
-  "ManufacturingMenuPriority": 9
+  "Name": "NONE - DO NOT BUILD",
+  "Ingredients": [
+    {
+      "Item": "Desc_ModularFrame",
+      "Amount": 5
+    },
+    {
+      "Item": "Desc_IronPLateReinforced",
+      "Amount": 5
+    },
+    {
+      "Item": "Desc_Cable",
+      "Amount": 10
+    },
+    {
+      "Item": "Desc_IronScrew",
+      "Amount": 20
+    }
+  ],
+  "ManufacturingMenuPriority": 7
 }

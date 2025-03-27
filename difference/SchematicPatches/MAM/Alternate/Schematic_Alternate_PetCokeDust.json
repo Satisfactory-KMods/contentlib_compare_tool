@@ -1,0 +1,14 @@
+{
+    "$comment": "This is a new file, no old version exists",
+    "$class": "//SatisfactoryPlus/Content/SchematicManager/Alternative/PetCokeDust/Schematic_Alternative_PetCokeDust.Schematic_Alternative_PetCokeDust_C\r",
+    "$classShort": "Schematic_Alternative_PetCokeDust",
+    "Name": "Alternate: PetCoke Dust",
+    "Type": "Alternate",
+    "VisualKit": "Desc_PetroleumCoke_C",
+    "Recipes": [
+        "Recipe_PetCokeDust"
+    ],
+    "DependsOn": [
+        "Schematic_SF+_T5_0_C"
+    ]
+}

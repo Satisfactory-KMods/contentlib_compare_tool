@@ -17,10 +17,6 @@
     {
       "Item": "Desc_TinWire",
       "Amount": 15
-    },
-    {
-      "Item": "Desc_IronScrew",
-      "Amount": 10
     }
   ],
   "ManufacturingMenuPriority": 7

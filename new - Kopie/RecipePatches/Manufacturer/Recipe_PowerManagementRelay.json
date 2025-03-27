@@ -1,0 +1,35 @@
+//SatisfactoryPlus/Content/Recipes/Manufacturer/Recipe_Manufacturer_PowerManagementRelay.Recipe_Manufacturer_PowerManagementRelay_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Power Management Relay",
+  "OverrideCategory": "SpaceElevator_C",
+  "Ingredients": [
+
+    {
+      "Item": "Desc_ElectromagneticControlRod",
+      "Amount": 4
+    },
+    {
+      "Item": "Desc_SpaceElevatorPart_3",
+      "Amount": 3
+    },
+    {
+      "Item": "Desc_Battery",
+      "Amount": 10
+    },
+    {
+      "Item": "Desc_Plastic",
+      "Amount": 25
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_PowerRelay",
+      "Amount": 4
+    }
+  ],
+  "ManufacturingDuration": 40,
+  "ManufacturingMenuPriority": 3,
+  "ProducedIn": [ "Build_ManufacturerMk1" ]
+}

@@ -1,0 +1,47 @@
+//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T7/Schematic_SF+_T7_0.Schematic_SF+_T7_0_C
+{
+  "Name": "Bauxite Refinement",
+  "Type": "Milestone",
+  "Tier": 7,
+  "MenuPriority": 1,
+  "VisualKit": "Desc_OreBauxite_C",
+  "ClearCost": true,
+  "Cost": [
+    {
+      "Item": "Desc_ModularFrameHeavy",
+      "Amount": 25
+    },
+    {
+      "Item": "Desc_SteelPlateReinforced",
+      "Amount": 50
+    },
+    {
+      "Item": "Desc_Motor",
+      "Amount": 100
+    },
+    {
+      "Item": "Desc_BrassPlates",
+      "Amount": 150
+    },
+    {
+      "Item": "Desc_SteelPipe",
+      "Amount": 150
+    }
+  ],
+  "ClearRecipes": true,
+  "Recipes": [
+    "Recipe_Blender",
+    "Recipe_Sorter_T2_Bauxite",
+    "Recipe_Sorter_T3_CryoliteResidue_C",
+    "Recipe_Washed_Bauxite",
+    "Recipe_Blender_Alumina",
+    "Recipe_Crusher_ResidBauxite",
+    "Recipe_Resid_Soda",
+    "Recipe_BlastFurnace_Aluminum",
+    "Recipe_Reformer_Mixed_AluminiumIngot",
+    "Recipe_Reformer_Mixed_AluminumCoil",
+    "Recipe_Assembler_AluminumCasing",
+    "Recipe_Blender_BeltDriveMk5"
+  ],
+  "Time": 360
+}

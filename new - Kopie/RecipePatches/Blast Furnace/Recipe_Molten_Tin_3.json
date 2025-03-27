@@ -1,0 +1,21 @@
+//SatisfactoryPlus/Content/Recipes/BlastFurnace/Recipe_BlastFurnace_Tin.Recipe_BlastFurnace_Tin_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Molten Tin",
+  "category": "Cat_KLib_MoltenMetals_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_CrushedTin",
+      "Amount": 6
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_LiquidTin",
+      "Amount": 5000
+    }
+  ],
+  "ManufacturingDuration": 6,
+  "ManufacturingMenuPriority": 3
+}

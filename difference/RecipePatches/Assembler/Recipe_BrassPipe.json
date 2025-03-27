@@ -3,12 +3,12 @@
     "$classShort": "Recipe_Assembler_BrassPipe",
     "$comment": "This file has been changed",
     "Class": "//SatisfactoryPlus/Content/Recipes/Assembler/Recipe_Assembler_BrassPipe.Recipe_Assembler_BrassPipe_C\r",
-    "new": {
-        "ManufacturingMenuPriority": 8
-    },
+    "new": {},
     "demitter2": "-----------------------------------------------------------------------------------",
     "old": {
-        "ManufacturingMenuPriority": 8.5
+        "ProducedIn": [
+            "Build_AssemblerMk1"
+        ]
     },
     "demitter1": "-----------------------------------------------------------------------------------",
     "original": {
@@ -30,9 +30,6 @@
                 "Item": "Desc_BrassPipe",
                 "Amount": 5
             }
-        ],
-        "ProducedIn": [
-            "Build_AssemblerMk1"
         ],
         "ManufacturingDuration": 24,
         "ManufacturingMenuPriority": 8

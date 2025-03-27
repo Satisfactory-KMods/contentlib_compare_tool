@@ -1,0 +1,6 @@
+//KLib/Assets/Ressources/Raw/Fluids/Metals/Desc_LiquidIron.Desc_LiquidIron_C
+{
+  "Name": "Molten Iron",
+  "Description": "Melting Point: 1160°C, Carbon Content: 3.80 %\n\nGrey Cast Iron in liquid form, useful for bulk casting ingots or other parts, as well as making steel.",
+  "VisualKit": "Kit_MoltenIron"
+}

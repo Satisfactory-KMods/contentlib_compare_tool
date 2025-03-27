@@ -1,0 +1,6 @@
+//KLib/Assets/Parts/Production/Metal/Wires/Desc_SolderWire.Desc_SolderWire_C
+{
+  "Name": "Solder Wire",
+  "Description": "A pre-soldered Wire, ready for use in electronics.\nOne of the most basic Solder parts."
+
+}

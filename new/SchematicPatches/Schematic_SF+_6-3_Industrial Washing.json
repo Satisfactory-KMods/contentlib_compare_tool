@@ -22,6 +22,7 @@
 
   "ClearRecipes": true,
   "Recipes": [
+    "INFO KYRIUM: Need to unlock Scanner upgrade for Raw Quartz (Kyalite) here",
     "Recipe_WetWasher_Magnesium",
     "Recipe_WetWasher_Zinc",
     "Recipe_WetWasher_Lead",
@@ -30,7 +31,7 @@
     "Recipe_WetWasher_Cobalt",
     "Recipe_Washed_Silica",
     "Recipe_ChemReac_FusedQuartzCrystal",
-    "Recipe_ChemReac_ToxicAir_Hydrogen"
+    "Recipe_ChemReac_AcidBaseMix"
   ],
   "Time": 180
 }

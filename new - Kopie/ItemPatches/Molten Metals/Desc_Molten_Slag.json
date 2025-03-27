@@ -1,0 +1,6 @@
+//KLib/Assets/Ressources/Raw/Fluids/Metals/Desc_LiquidSlag.Desc_LiquidSlag_C
+{
+  "Name": "Tailings Slurry",
+  "Description": "Tailings are by-products from ore processing which are not desired in the finished product.\nThis includes rocks, silicates and other metal oxides.",
+  "VisualKit": "Kit_Tailings"
+}

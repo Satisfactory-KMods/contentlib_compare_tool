@@ -7,7 +7,7 @@
     },
     {
       "Property": "mDescription",
-      "Value": "Capable of complex distillation and refining processes.\nHead Lift: 10 meters.\r(Allows fluids to be transported 10 meters upwards.)\r\n\r\nContains both Conveyor Belt and Pipe inputs and outputs.\n\nFluid Output: The first fluid output is at the bottom\nSolid Output: The first solid output is on the right. "
+      "Value": "Capable of complex distillation and refining processes.\nHead Lift: 10 m\r(Allows fluids to be transported 10 meters upwards.)\r\n\r\nContains both Conveyor Belt and Pipe inputs and outputs.\n\nFluid Output: The first fluid output is at the bottom\nSolid Output: The first solid output is on the right. "
     },
     {
       "Property": "mNumCyclesForProductivity",

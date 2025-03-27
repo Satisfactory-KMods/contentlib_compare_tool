@@ -25,5 +25,7 @@
       "Amount": 200
     }
   ],
+  "ClearRecipes": true,
+  "Recipes": [ "/Game/FactoryGame/Recipes/Buildings/Recipe_BlueprintDesigner_Mk2.Recipe_BlueprintDesigner_Mk2_C" ],
   "Time": 240
 }

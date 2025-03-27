@@ -4,11 +4,30 @@
     "$comment": "This file has been changed",
     "Class": "//SatisfactoryPlus/Content/Recipes/Sorter/Recipe_Sorter_T3_Nickel.Recipe_Sorter_T3_Nickel_C\r",
     "new": {
-        "ManufacturingMenuPriority": 2
+        "Products": [
+            {
+                "Item": "Desc_CrushedNickle",
+                "Amount": 6
+            },
+            {
+                "Item": "Desc_CrushedMagnesium",
+                "Amount": 4,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ]
     },
     "demitter2": "-----------------------------------------------------------------------------------",
     "old": {
-        "ManufacturingMenuPriority": 1
+        "Products": [
+            {
+                "Item": "Desc_CrushedNickle",
+                "Amount": 6
+            },
+            {
+                "Item": "Desc_CrushedCopper",
+                "Amount": 4
+            }
+        ]
     },
     "demitter1": "-----------------------------------------------------------------------------------",
     "original": {
@@ -31,8 +50,9 @@
                 "Amount": 6
             },
             {
-                "Item": "Desc_CrushedCopper",
-                "Amount": 4
+                "Item": "Desc_CrushedMagnesium",
+                "Amount": 4,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
             }
         ],
         "ProducedIn": [

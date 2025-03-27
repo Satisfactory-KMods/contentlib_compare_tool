@@ -18,11 +18,15 @@
 
     {
       "Item": "Desc_Ethylene",
-      "Amount": 4000
+      "Amount": 6000
     },
     {
       "Item": "Desc_PolymerResin",
       "Amount": 12
+    },
+    {
+      "Item": "Desc_Sulfur",
+      "Amount": 1
     }
 
   ],

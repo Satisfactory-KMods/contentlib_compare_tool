@@ -1,0 +1,24 @@
+{
+    "$comment": "This is a new file, no old version exists",
+    "$class": "//Game/FactoryGame/Recipes/Buildings/Recipe_SmelterBasicMk1.Recipe_SmelterBasicMk1_C\r",
+    "$classShort": "Recipe_SmelterBasicMk1",
+    "Ingredients": [
+        {
+            "Item": "Desc_Wire",
+            "Amount": 10
+        },
+        {
+            "Item": "Desc_IronPlate",
+            "Amount": 5
+        },
+        {
+            "Item": "Desc_Cable",
+            "Amount": 2
+        },
+        {
+            "Item": "Desc_IronRod",
+            "Amount": 2
+        }
+    ],
+    "ManufacturingMenuPriority": 1
+}

@@ -1,0 +1,71 @@
+{
+    "$class": "/KLib/Assets/Buildings/Crusher/Build_Crusher.Build_Crusher_C",
+    "$classShort": "Build_Crusher",
+    "$comment": "This file has been changed",
+    "Class": "/KLib/Assets/Buildings/Crusher/Build_Crusher.Build_Crusher_C",
+    "new": {
+        "Edits": [
+            {
+                "Property": "mDescription",
+                "Value": "Crushed raw ores and seperates the wanted from the unwanted materials.\nThe first step of processing for many ores.\n\nSolid Output: The first solid output port is on the right.",
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Property": "mOverrideProductionShardSlotSize",
+                "Value": true,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Property": "mProductionShardSlotSize",
+                "Value": "2",
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Property": "mProductionShardBoostMultiplier",
+                "Value": "0.5"
+            }
+        ]
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "Edits": [
+            {
+                "Property": "mOverrideProductionShardSlotSize",
+                "Value": true
+            },
+            {
+                "Property": "mProductionShardSlotSize",
+                "Value": "2"
+            },
+            {
+                "Property": "mProductionShardBoostMultiplier",
+                "Value": "0.5"
+            }
+        ]
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "Class": "/KLib/Assets/Buildings/Crusher/Build_Crusher.Build_Crusher_C",
+        "Edits": [
+            {
+                "Property": "mDescription",
+                "Value": "Crushed raw ores and seperates the wanted from the unwanted materials.\nThe first step of processing for many ores.\n\nSolid Output: The first solid output port is on the right.",
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Property": "mOverrideProductionShardSlotSize",
+                "Value": true,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Property": "mProductionShardSlotSize",
+                "Value": "2",
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Property": "mProductionShardBoostMultiplier",
+                "Value": "0.5"
+            }
+        ]
+    }
+}

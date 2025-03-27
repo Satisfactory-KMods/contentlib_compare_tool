@@ -1,0 +1,35 @@
+//SatisfactoryPlus/Content/Recipes/Blender/Recipe_Blender_Alumina.Recipe_Blender_Alumina_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Aluminate Solution",
+  "OverrideCategory": "AdvancedRefinement_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_CrushedBauxite",
+      "Amount": 24
+    },
+    {
+      "Item": "Desc_RawQuartz",
+      "Amount": 3
+    },
+    {
+      "Item": "Desc_CausticSoda_C",
+      "Amount": 9000
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_AluminaSolution",
+      "Amount": 12000
+    },
+    {
+      "Item": "Desc_CryoliteResidue",
+      "Amount": 52
+    }
+
+  ],
+  "ProducedIn": [ "Build_Blender" ],
+  "ManufacturingDuration": 12,
+  "ManufacturingMenuPriority": 3
+}

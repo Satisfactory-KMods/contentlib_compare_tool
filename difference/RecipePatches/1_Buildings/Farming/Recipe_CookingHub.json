@@ -1,0 +1,25 @@
+{
+    "$comment": "This is a new file, no old version exists",
+    "$class": "//FicsitFarming/Buildings/CookingHub/Recipe_FF_CookingHub.Recipe_FF_CookingHub_C\r",
+    "$classShort": "Recipe_FF_CookingHub",
+    "Name": "Cooking Hub",
+    "Ingredients": [
+        {
+            "Item": "Desc_ModularFrame",
+            "Amount": 10
+        },
+        {
+            "Item": "Desc_Rotor",
+            "Amount": 15
+        },
+        {
+            "Item": "Desc_Glass",
+            "Amount": 50
+        },
+        {
+            "Item": "Desc_IronScrew",
+            "Amount": 100
+        }
+    ],
+    "ManufacturingMenuPriority": 3
+}

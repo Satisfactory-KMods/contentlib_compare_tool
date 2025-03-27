@@ -1,0 +1,35 @@
+{
+    "$class": "//SatisfactoryPlus/Content/Recipes/Composter/Recipe_Low_Purple.Recipe_Low_Purple_C\r",
+    "$classShort": "Recipe_Low_Purple",
+    "$comment": "This file has been changed",
+    "Class": "//SatisfactoryPlus/Content/Recipes/Composter/Recipe_Low_Purple.Recipe_Low_Purple_C\r",
+    "new": {
+        "ManufacturingMenuPriority": 3
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "ManufacturingMenuPriority": 2
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+        "Name": "Purple Slug Slime",
+        "Ingredients": [
+            {
+                "Item": "SlugDesc_Purple",
+                "Amount": 2
+            }
+        ],
+        "Products": [
+            {
+                "Item": "Desc_SlugSlime_Low_C",
+                "Amount": 4000
+            }
+        ],
+        "ProducedIn": [
+            "Build_FF_Composter_C"
+        ],
+        "ManufacturingDuration": 6,
+        "ManufacturingMenuPriority": 3
+    }
+}

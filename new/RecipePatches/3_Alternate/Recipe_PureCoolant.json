@@ -6,11 +6,11 @@
   "Ingredients": [
     {
       "Item": "Desc_Gas_Hydrogen",
-      "Amount": 17000
+      "Amount": 13000
     },
     {
       "Item": "Desc_PackagedGas_CarbonDioxide",
-      "Amount": 4
+      "Amount": 2
     }
 
   ],
@@ -22,11 +22,11 @@
     },
     {
       "Item": "Desc_GasTank",
-      "Amount": 4
+      "Amount": 2
     }
 
   ],
   "ProducedIn": [ "Build_OilRefinery" ],
-  "ManufacturingDuration": 12,
+  "ManufacturingDuration": 6,
   "ManufacturingMenuPriority": 6
 }

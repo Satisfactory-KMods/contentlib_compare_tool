@@ -20,8 +20,8 @@
       "Amount": 9000
     },
     {
-      "Item": "Desc_FlueGas",
-      "Amount": 3000
+      "Item": "Desc_Gas_Chlor",
+      "Amount": 4000
     }
   ],
   "ProducedIn": [ "Build_FlexibleBlastFurnaceSmelter" ],

@@ -1,0 +1,24 @@
+//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/Tutorial/SFP_Schematic_Tutorial_3.SFP_Schematic_Tutorial_3_C
+{
+  "ClearCost": true,
+  "Cost": [
+    {
+      "Item": "Desc_IronPlate",
+      "Amount": 20
+    },
+    {
+      "Item": "Desc_IronWire",
+      "Amount": 15
+    },
+    {
+      "Item": "Desc_CopperRod",
+      "Amount": 10
+    },
+    {
+      "Item": "Desc_Wire",
+      "Amount": 15
+    }
+  ],
+  "ClearRecipes": true,
+  "Recipes": [ "Recipe_ConstructorMk1_C", "Recipe_PowerPoleMk1_C", "Recipe_Handcrafter_Gangue_C", "Recipe_Handcrafter_Cement_C", "Recipe_Constructor_Concrete_C", "Recipe_Constructor_IronScrew_C" ]
+}

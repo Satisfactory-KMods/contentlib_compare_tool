@@ -1,0 +1,7 @@
+//KLib/Assets/Parts/Production/Parts/PowerShardCrystal/Desc_PowerShardCrystal.Desc_PowerShardCrystal_C
+{
+  "Name": "Power Shard Fragment",
+  "Description": "Power Slug Slime in crystallized form, used for construction of Booster Modules or to produce Power Shards.",
+  "VisualKit": "Kit_PowerFragment"
+
+}

@@ -1,0 +1,20 @@
+//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/Tutorial/SFP_Schematic_Tutorial_2.SFP_Schematic_Tutorial_2_C
+{
+  "ClearCost": true,
+  "Cost": [
+    {
+      "Item": "Desc_IronRod",
+      "Amount": 20
+    },
+    {
+      "Item": "Desc_IronPlate",
+      "Amount": 10
+    },
+    {
+      "Item": "Desc_IronWire",
+      "Amount": 15
+    }
+  ],
+  "ClearRecipes": true,
+  "Recipes": [ "Recipe_SmelterBasicMk1_C", "Recipe_PowerLine_C", "Recipe_Handcrafter_CrushedCallanite_C", "Recipe_Smelter_Dirty_CopperIngot_C", "Recipe_Constructor_CopperRod_C", "Recipe_Constructor_CopperWire_C", "Recipe_Constructor_Cable_C" ]
+}

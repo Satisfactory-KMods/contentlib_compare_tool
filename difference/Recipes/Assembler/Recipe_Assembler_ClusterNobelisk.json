@@ -1,0 +1,30 @@
+{
+    "$comment": "This is a new file, no old version exists",
+    "$class": "{\r",
+    "$classShort": "{\r",
+    "Name": "Cluster Nobelisk",
+    "OverrideCategory": "Ammunition_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_NobeliskExplosive",
+            "Amount": 3
+        },
+        {
+            "Item": "Desc_GunpowderMK2",
+            "Amount": 4
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_NobeliskCluster",
+            "Amount": 1
+        }
+    ],
+    "ProducedIn": [
+        "Build_AssemblerMk1",
+        "manual"
+    ],
+    "ManufacturingDuration": 24,
+    "ManualManufacturingMultiplier": 1.5,
+    "ManufacturingMenuPriority": 31
+}

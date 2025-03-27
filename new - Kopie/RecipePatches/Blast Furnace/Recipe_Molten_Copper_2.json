@@ -1,0 +1,21 @@
+//SatisfactoryPlus/Content/Recipes/BlastFurnace/Recipe_BlastFurnace_Copper.Recipe_BlastFurnace_Copper_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Molten Copper",
+  "category": "Cat_KLib_MoltenMetals_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_CrushedCopper",
+      "Amount": 20
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_LiquidCopper",
+      "Amount": 10000
+    }
+  ],
+  "ManufacturingDuration": 10,
+  "ManufacturingMenuPriority": 2
+}

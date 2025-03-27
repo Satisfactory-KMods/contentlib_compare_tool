@@ -1,0 +1,96 @@
+{
+    "$class": "//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/Tutorial/SFP_Schematic_Tutorial_6.SFP_Schematic_Tutorial_6_C\r",
+    "$classShort": "SFP_Schematic_Tutorial_6",
+    "$comment": "This file has been changed",
+    "Class": "//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/Tutorial/SFP_Schematic_Tutorial_6.SFP_Schematic_Tutorial_6_C\r",
+    "new": {
+        "Cost": [
+            {
+                "Item": "Desc_TinPlates",
+                "Amount": 12
+            },
+            {
+                "Item": "Desc_TinRod",
+                "Amount": 24
+            },
+            {
+                "Item": "Desc_Cable",
+                "Amount": 30
+            },
+            {
+                "Item": "Desc_IronPlate",
+                "Amount": 50,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_Cement",
+                "Amount": 50,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ]
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "Cost": [
+            {
+                "Item": "Desc_TinPlates",
+                "Amount": 12
+            },
+            {
+                "Item": "Desc_TinRod",
+                "Amount": 24
+            },
+            {
+                "Item": "Desc_Cable",
+                "Amount": 30
+            },
+            {
+                "Item": "Desc_IronPlate",
+                "Amount": 30
+            },
+            {
+                "Item": "Desc_Cement",
+                "Amount": 30
+            }
+        ]
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "ClearCost": true,
+        "Cost": [
+            {
+                "Item": "Desc_TinPlates",
+                "Amount": 12
+            },
+            {
+                "Item": "Desc_TinRod",
+                "Amount": 24
+            },
+            {
+                "Item": "Desc_Cable",
+                "Amount": 30
+            },
+            {
+                "Item": "Desc_IronPlate",
+                "Amount": 50,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            },
+            {
+                "Item": "Desc_Cement",
+                "Amount": 50,
+                "$comment": "THIS OBJECT HAS BEEN CHANGED"
+            }
+        ],
+        "ClearRecipes": true,
+        "Recipes": [
+            "Recipe_SpaceElevator_C",
+            "Recipe_GeneratorBiomass_Automated_C",
+            "Recipe_SFP_WindTurbineMk1_C",
+            "Recipe_Constructor_CopperBusbar",
+            "Recipe_Constructor_CopperSheet_C",
+            "Recipe_Constructor_IronSheet_C",
+            "Recipe_Constructor_WoodBio_C",
+            "Recipe_Biomass_Leaves_C"
+        ]
+    }
+}
