@@ -22,7 +22,7 @@ importers:
         version: 4.17.21
       prettier:
         specifier: ^3.2.5
-        version: 3.2.5
+        version: 3.6.2
       tsx:
         specifier: ^4.7.3
         version: 4.9.0
@@ -291,8 +291,8 @@ packages:
     resolution: {integrity: sha512-7xTavNy5RQXnsjANvVvMkEjvloOinkAjv/Z6Ildz9v2RinZ4SBKTWFOVRbaF8p0vpHnyjV/UwNDdKuUv6M5qcA==}
     engines: {node: '>=16 || 14 >=14.17'}
 
-  prettier@3.2.5:
-    resolution: {integrity: sha512-3/GWa9aOC0YeD7LUfvOG2NiDyhOWRvt1k+rcKhOuYnMY24iiCphgneUfJDyFXd6rZCAnuLBv6UeAULtrhT/F4A==}
+  prettier@3.6.2:
+    resolution: {integrity: sha512-I7AIg5boAr5R0FFtJ6rCfD+LFsWHp81dolrFD8S79U9tb8Az2nGrJncnMSnys+bpQJfRUzqs9hnA81OAA3hCuQ==}
     engines: {node: '>=14'}
     hasBin: true
 
@@ -551,7 +551,7 @@ snapshots:
       lru-cache: 10.2.1
       minipass: 7.0.4
 
-  prettier@3.2.5: {}
+  prettier@3.6.2: {}
 
   resolve-pkg-maps@1.0.0: {}
 
