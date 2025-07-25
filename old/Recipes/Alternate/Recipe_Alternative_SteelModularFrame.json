@@ -1,0 +1,26 @@
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Alternate: Modular Steel Frame",
+  "OverrideCategory": "StandardParts_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_SteelPlate",
+      "Amount": 3
+    },
+    {
+      "Item": "Desc_IronPlateReinforced",
+      "Amount": 4
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_ModularFrame",
+      "Amount": 2
+    }
+  ],
+  "ProducedIn": [ "Build_AssemblerMk1" ],
+  "ManufacturingDuration": 24,
+  "ManualManufacturingMultiplier": 1.5,
+  "ManufacturingMenuPriority": 5.3
+}

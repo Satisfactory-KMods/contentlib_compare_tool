@@ -1,0 +1,13 @@
+{
+  "Class": "/RefinedPower/Buildables/Factory/ModularPower/MPBuildings/Generators/MVGenerator/Build_RP_MP_MVGenerator.Build_RP_MP_MVGenerator_C",
+  "Edits": [
+    {
+      "Property": "mDisplayName",
+      "Value": "MV Generator"
+    },
+    {
+      "Property": "mDescription",
+      "Value": "Turns the rotational energy from connected Turbines into electrical power. Power output scales with RPM.\nMust be placed on a Converter Platform.\n\nNominal Power output: 150 MW at 15000 RPM"
+    }
+  ]
+}

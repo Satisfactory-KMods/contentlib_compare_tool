@@ -14,11 +14,11 @@
     },
     {
       "Item": "Desc_Cable",
-      "Amount": 100
+      "Amount": 200
     },
     {
       "Item": "Desc_SteelBolt",
-      "Amount": 150
+      "Amount": 250
     }
   ],
   "ClearRecipes": true,

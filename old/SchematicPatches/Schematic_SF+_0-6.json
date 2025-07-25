@@ -16,11 +16,11 @@
     },
     {
       "Item": "Desc_IronPlate",
-      "Amount": 30
+      "Amount": 50
     },
     {
       "Item": "Desc_Cement",
-      "Amount": 30
+      "Amount": 50
     }
   ],
   "ClearRecipes": true,

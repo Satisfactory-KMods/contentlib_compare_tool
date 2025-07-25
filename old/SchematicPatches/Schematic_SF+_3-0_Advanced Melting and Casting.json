@@ -5,7 +5,7 @@
   "ClearCost": true,
   "Cost": [
     {
-      "Item": "Desc_BronzeRod",
+      "Item": "Desc_BronzeBeam",
       "Amount": 25
     },
     {
@@ -18,7 +18,7 @@
     },
     {
       "Item": "Desc_Cement",
-      "Amount": 100
+      "Amount": 150
     }
   ],
   "ClearRecipes": true,

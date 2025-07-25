@@ -6,7 +6,7 @@
   "Ingredients": [
     {
       "Item": "Desc_PowerShardCrystal_C",
-      "Amount": 15
+      "Amount": 5
     },
     {
       "Item": "Desc_SlugSlime_High",
@@ -21,6 +21,6 @@
     }
   ],
   "ProducedIn": [ "Build_ChemReactor" ],
-  "ManufacturingDuration": 40,
+  "ManufacturingDuration": 160,
   "ManufacturingMenuPriority": 1
 }

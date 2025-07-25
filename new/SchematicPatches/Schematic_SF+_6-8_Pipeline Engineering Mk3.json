@@ -8,15 +8,15 @@
   "Cost": [
     {
       "Item": "Desc_ModularFrame",
-      "Amount": 100
-    },
-    {
-      "Item": "Desc_InvarPipe",
       "Amount": 200
     },
     {
+      "Item": "Desc_InvarPipe",
+      "Amount": 500
+    },
+    {
       "Item": "Desc_Rubber",
-      "Amount": 250
+      "Amount": 500
     }
   ],
   "ClearRecipes": true,

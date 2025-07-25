@@ -17,12 +17,12 @@
       "Amount": 100
     },
     {
-      "Item": "Desc_SteelRod",
+      "Item": "Desc_SteelPipe",
       "Amount": 100
     },
     {
       "Item": "Desc_SteelBolt",
-      "Amount": 150
+      "Amount": 200
     }
   ],
   "ClearRecipes": true,

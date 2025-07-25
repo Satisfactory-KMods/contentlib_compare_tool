@@ -1,13 +1,17 @@
 {
-  "Class": "/Game/FactoryGame/Buildable/Factory/Converter/Build_Converter.Build_Converter_C",
+  "Class": "/SatisfactoryPlus/CDOHelper/BuildableCDO/CDOHelper_Converter.CDOHelper_Converter_C",
   "Edits": [
     {
       "Property": "mProductionShardSlotSize",
-      "Value": "4"
+      "Value": "2"
     },
     {
       "Property": "mProductionShardBoostMultiplier",
-      "Value": "0.25"
+      "Value": "0.5"
+    },
+    {
+      "Property": "mFluidStackSizeMultiplier",
+      "Value": "2"
     }
   ]
 }

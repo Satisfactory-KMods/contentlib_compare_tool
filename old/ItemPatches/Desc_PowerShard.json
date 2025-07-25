@@ -1,0 +1,5 @@
+//Game/FactoryGame/Resource/Environment/Crystal/Desc_CrystalShard.Desc_CrystalShard_C
+{
+  "CanBeDiscarded": true,
+  "ResourceSinkPoints": 1
+}

@@ -1,0 +1,34 @@
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Montanion Ore (Kerr Crystal)",
+  "OverrideCategory": "Cat_RawConversion_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_SAMIngot_C",
+      "Amount": 1
+    },
+    {
+      "Item": "Res_TimeCrystal_C",
+      "Amount": 6
+    }
+
+  ],
+  "Products": [
+
+    {
+      "Item": "Desc_OreBauxite",
+      "Amount": 12
+    },
+    {
+      "Item": "Desc_DarkEnergy",
+      "Amount": 1000
+    }
+
+
+  ],
+  "ManufacturingDuration": 3,
+  "ManufacturingMenuPriority": 6.5,
+  "VariablePowerConsumptionConstant": 500,
+  "VariablePowerConsumptionFactor": -500,
+  "ProducedIn": [ "Build_Converter" ]
+}

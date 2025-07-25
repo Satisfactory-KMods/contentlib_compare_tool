@@ -1,7 +1,8 @@
 //SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T3/Schematic_SF+_T3_3.Schematic_SF+_T3_3_C
 {
   "Name": "Hydroelectric Power",
-  "MenuPriority": 5,
+  "Tier": 4,
+  "MenuPriority": 1,
   "ClearCost": true,
   "Cost": [
     {
@@ -17,8 +18,8 @@
       "Amount": 75
     },
     {
-      "Item": "Desc_Cable",
-      "Amount": 100
+      "Item": "Desc_SteelBolt",
+      "Amount": 250
     },
     {
       "Item": "Desc_Cement",

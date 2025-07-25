@@ -1,0 +1,24 @@
+{
+    "Class": "/SatisfactoryPlus/AssetDatas/RRD/RP/Boiler/PDA_SFP_Boiler_Mk1_SlugSlime_Low.PDA_SFP_Boiler_Mk1_SlugSlime_Low",
+    "Edits": [
+        {
+            "Property": "mInput",
+            "Value": {
+                "ItemClass": "/KLib/Assets/Ressources/Raw/Fluids/Slugs/Desc_SlugSlime_Mid.Desc_SlugSlime_Mid_C",
+                "amount": 500
+            }
+        },
+        {
+            "Property": "mOutput",
+            "Value": {
+                "ItemClass": "/KLib/Assets/Ressources/Raw/Fluids/Slugs/Desc_SlugSlime_High.Desc_SlugSlime_High_C",
+                "amount": 500
+            }
+        },
+        {
+            "Property": "mDuration",
+            "Value": 15
+        }
+    ],
+    "$comment": "This file has been removed, no new version exists"
+}

@@ -21,7 +21,6 @@
       "Amount": 8
     }
   ],
-  "ProducedIn": [ "Build_AssemblerMk1", "manual" ],
   "ManufacturingDuration": 12,
   "ManualManufacturingMultiplier": 2,
   "ManufacturingMenuPriority": 9

@@ -14,11 +14,11 @@
     },
     {
       "Item": "Desc_IronScrew",
-      "Amount": 50
+      "Amount": 100
     },
     {
       "Item": "Desc_Cement",
-      "Amount": 50
+      "Amount": 100
     }
   ],
   "ClearRecipes": true,

@@ -1,5 +1,5 @@
 {
-  "Class": "/SatisfactoryPlus/Content/ModifyedBuildings/Modular/Boiler/SF+_Build_RP_MP_BoilerMk2.SF+_Build_RP_MP_BoilerMk2_C",
+  "Class": "/RefinedPower/Buildables/Factory/ModularPower/MPBuildings/Boilers/BoilerMk2/Build_RP_MP_BoilerMk2.Build_RP_MP_BoilerMk2_C",
   "Edits": [
     {
       "Property": "mWaterConsumeMultiplier",
@@ -19,7 +19,7 @@
     },
     {
       "Property": "mDescription",
-      "Value": "A high pressure boiler. Uses heat to turn Water into Steam or to re-energize Slug Slime.\n\nOperates similar to the Mk.1 Boiler below 500°C.\nOptimal temperature is 750°C.\nMaximum Temperature: 2000°C\n\nDefault Rate: 45/min Water to 90/min Steam"
+      "Value": "A high pressure boiler. Uses heat to turn Water into Steam or to re-energize Slug Slime.\n\nOptimal temperature at 750°C.\nMaximum temperature: 2000°C\n\nDefault Rate: 45/min Water to 90/min Steam"
     }
   ]
 }

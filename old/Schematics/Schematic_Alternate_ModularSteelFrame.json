@@ -1,0 +1,7 @@
+{
+  "Name": "Alternate: Modular Steel Frame",
+  "Type": "Alternate",
+  "VisualKit": "Desc_ModularFrame_C",
+  "Recipes": [ "Recipe_Alternative_SteelModularFrame" ],
+  "DependsOn": [ "Schematic_SF+_T3_4_C" ]
+}

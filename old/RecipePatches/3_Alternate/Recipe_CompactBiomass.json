@@ -1,26 +1,26 @@
-//SatisfactoryPlus/Content/SchematicManager/Alternative/CompactBiomass/Recipe_Alternative_CompactBiomass.Recipe_Alternative_CompactBiomass_C
 {
-  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
-  "Name": "Alternate: Compact Biomass",
-  "Ingredients": [
-    {
-      "Item": "Desc_Biofuel",
-      "Amount": 1
-    },
-    {
-      "Item": "Desc_GenericBiomass",
-      "Amount": 2
-    }
-
-  ],
-  "Products": [
-    {
-      "Item": "Desc_CompactBiomass",
-      "Amount": 3
-    }
-
-  ],
-  "ProducedIn": [ "Build_AssemblerMk1" ],
-  "ManufacturingDuration": 3,
-  "ManufacturingMenuPriority": 4
+    "Name": "Alternate: Compact Biomass",
+    "OverrideCategory": "Minerals_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_Biofuel",
+            "Amount": 1
+        },
+        {
+            "Item": "Desc_GenericBiomass",
+            "Amount": 2
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_CompactBiomass",
+            "Amount": 3
+        }
+    ],
+    "ProducedIn": [
+        "Build_AssemblerMk1"
+    ],
+    "ManufacturingDuration": 3,
+    "ManufacturingMenuPriority": 4,
+    "$comment": "This file has been removed, no new version exists"
 }

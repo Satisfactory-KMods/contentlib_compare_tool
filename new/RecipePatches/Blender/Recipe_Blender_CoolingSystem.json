@@ -13,7 +13,7 @@
     },
     {
       "Item": "Desc_CoolingWater",
-      "Amount": 10000
+      "Amount": 8000
     },
     {
       "Item": "Desc_NitrogenGas",
@@ -23,7 +23,7 @@
   "Products": [
     {
       "Item": "Desc_CoolingSystem",
-      "Amount": 1
+      "Amount": 2
     }
   ],
   "ManufacturingDuration": 12,

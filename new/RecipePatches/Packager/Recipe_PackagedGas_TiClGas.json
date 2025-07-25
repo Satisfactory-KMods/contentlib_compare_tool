@@ -1,0 +1,28 @@
+//KLib/Assets/Parts/Packaged/Recipes/Packaged/Recipe_Packaged_Gas_Titantetrachlorid.Recipe_Packaged_Gas_Titantetrachlorid_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Packaged TiCl Gas",
+  "OverrideCategory": "Cat_Packaging_Gas_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_GasTank",
+      "Amount": 1
+    },
+    {
+      "Item": "Desc_Gas_Titantetrachlorid_C",
+      "Amount": 2000
+    }
+
+  ],
+  "Products": [
+
+    {
+      "Item": "Desc_PackagedGas_Titantetrachlorid_C",
+      "Amount": 1
+    }
+
+  ],
+  "ManufacturingDuration": 1,
+  "ManufacturingMenuPriority": 1,
+  "ProducedIn": [ "Build_AB_FluidPacker" ]
+}

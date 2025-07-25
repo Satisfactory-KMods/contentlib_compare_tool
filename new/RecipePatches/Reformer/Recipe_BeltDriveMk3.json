@@ -2,7 +2,7 @@
 {
   "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
   "Name": "Belt Drive Mk.3",
-  "OverrideCategory": "Cat_KLib_BuildingParts_C",
+  "OverrideCategory": "Other_C",
   "Ingredients": [
     {
       "Item": "Desc_Stator",
@@ -27,5 +27,5 @@
   ],
   "ProducedIn": [ "Build_SoldifierAndCooler" ],
   "ManufacturingDuration": 30,
-  "ManufacturingMenuPriority": 2
+  "ManufacturingMenuPriority": 1
 }

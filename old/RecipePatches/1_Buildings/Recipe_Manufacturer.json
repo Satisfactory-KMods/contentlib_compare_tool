@@ -1,29 +1,27 @@
-//Game/FactoryGame/Recipes/Buildings/Recipe_ManufacturerMk1.Recipe_ManufacturerMk1_C
 {
-  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
-  "mDisplayName": "Manufacturer",
-  "Ingredients": [
-    {
-      "Item": "Desc_Motor",
-      "Amount": 4
-    },
-    {
-      "Item": "Desc_ModularFrameHeavy",
-      "Amount": 4
-    },
-    {
-      "Item": "Desc_BrassPlates",
-      "Amount": 25
-    },
-    {
-      "Item": "Desc_SteelPlateReinforced",
-      "Amount": 20
-    },
-    {
-      "Item": "Desc_SteelBolt",
-      "Amount": 50
-    }
-
-  ],
-  "ManufacturingMenuPriority": 3
+    "mDisplayName": "Manufacturer",
+    "Ingredients": [
+        {
+            "Item": "Desc_Motor",
+            "Amount": 4
+        },
+        {
+            "Item": "Desc_ModularFrameHeavy",
+            "Amount": 4
+        },
+        {
+            "Item": "Desc_BrassPlates",
+            "Amount": 25
+        },
+        {
+            "Item": "Desc_SteelPlateReinforced",
+            "Amount": 20
+        },
+        {
+            "Item": "Desc_SteelBolt",
+            "Amount": 50
+        }
+    ],
+    "ManufacturingMenuPriority": 3,
+    "$comment": "This file has been removed, no new version exists"
 }

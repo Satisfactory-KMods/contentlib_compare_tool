@@ -21,7 +21,7 @@
     },
     {
       "Item": "Desc_CrushedTin",
-      "Amount": 1
+      "Amount": 2
     }
   ],
   "ProducedIn": [ "Build_SorterMk1" ],

@@ -1,0 +1,25 @@
+//SatisfactoryPlus/Content/Recipes/Plots/Norm/Recipe_SF+_Crop_Apple.Recipe_SF+_Crop_Apple_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Apple",
+  "Ingredients": [
+    {
+      "Item": "Desc_FF_AppleSeed",
+      "Amount": 10
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_FF_Crop_Apple",
+      "Amount": 15
+    },
+    {
+      "Item": "Desc_Leaves_C",
+      "Amount": 10
+    }
+  ],
+  "ProducedIn": [ "Build_FF_TreePlot_C" ],
+  "ManufacturingDuration": 60,
+  "ManufacturingMenuPriority": 1
+}

@@ -7,7 +7,7 @@
     },
     {
       "Property": "mDescription",
-      "Value": "Attached to the Modular Miner.\nIncreases the power required by the modular miner.\nSome ores require higher tier mining heads.\r\nChanges the standard extraction rate of both outputs to 60 / min each.\r\n\r\nAll mining bonuses ('Mining Efficiency') are directly applied to the extraction rate of the miner.\nExample: 50% x 60 / min = 30 / min per output.\n\nNOTE: Node purity counts towards the mining bonus and NOT towards the base extraction rate."
+      "Value": "Attached to the Modular Miner.\nIncreases the power required by the Modular Miner.\nSome ores require higher tier mining heads.\r\nChanges the standard extraction rate of both outputs to 60 / min each.\r\n\r\nAll mining bonuses ('Mining Efficiency') are directly applied to the extraction rate of the miner.\nExample: 50% x 60 / min = 30 / min per output.\n\nNOTE: Node purity counts towards the mining bonus and NOT towards the base extraction rate."
     }
   ]
 }

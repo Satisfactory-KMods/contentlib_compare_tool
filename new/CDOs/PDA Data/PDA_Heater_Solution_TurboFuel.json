@@ -5,7 +5,7 @@
       "Property": "mInput",
       "Value": {
         "ItemClass": "/Game/FactoryGame/Resource/Parts/Turbofuel/Desc_LiquidTurboFuel.Desc_LiquidTurboFuel_C",
-        "amount": 800
+        "amount": 1000
       }
     },
     {
@@ -17,7 +17,7 @@
     },
     {
       "Property": "mDuration",
-      "Value": 6
+      "Value": 7.5
     },
     {
       "Property": "mPriority",

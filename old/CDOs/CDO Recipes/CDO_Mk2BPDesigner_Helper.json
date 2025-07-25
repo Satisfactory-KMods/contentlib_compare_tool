@@ -1,0 +1,30 @@
+{
+  "Class": "/SatisfactoryPlus/CDOHelper/RecipeCDO/BlueprintDesignerPlus/CDODesc_Recipe_BlueprintDesignerMk2.CDODesc_Recipe_BlueprintDesignerMk2_C",
+  "Edits": [
+    {
+      "Property": "mRecipes",
+      "Value": [ "/Game/FactoryGame/Recipes/Buildings/Recipe_BlueprintDesigner_Mk3.Recipe_BlueprintDesigner_Mk3_C" ]
+    },
+    {
+      "Property": "mIngredients",
+      "Value": [
+        {
+          "ItemClass": "/Game/FactoryGame/Resource/Parts/SteelPipe/Desc_SteelPipe.Desc_SteelPipe_C",
+          "Amount": 200
+        },
+        {
+          "ItemClass": "/Game/FactoryGame/Resource/Parts/Cable/Desc_Cable.Desc_Cable_C",
+          "Amount": 100
+        },
+        {
+          "ItemClass": "/Game/FactoryGame/Resource/Parts/Cement/Desc_Cement.Desc_Cement_C",
+          "Amount": 250
+        },
+        {
+          "ItemClass": "/KLib/Assets/Parts/Production/Metal/Screw/Desc_SteelBolt.Desc_SteelBolt_C",
+          "Amount": 250
+        }
+      ]
+    }
+  ]
+}

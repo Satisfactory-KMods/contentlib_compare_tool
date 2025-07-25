@@ -9,8 +9,8 @@
       "Amount": 9000
     },
     {
-      "Item": "Desc_Gas_Steam_Hot",
-      "Amount": 9000
+      "Item": "Desc_Water",
+      "Amount": 6000
     }
 
   ],
@@ -18,7 +18,7 @@
 
     {
       "Item": "Desc_LiquidFuel",
-      "Amount": 9000
+      "Amount": 12000
     },
     {
       "Item": "Desc_HeavyOilResidue",

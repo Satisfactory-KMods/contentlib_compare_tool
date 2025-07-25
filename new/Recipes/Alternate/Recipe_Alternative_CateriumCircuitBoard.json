@@ -1,0 +1,25 @@
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Alternate: Caterium Circuit Board",
+  "OverrideCategory": "Electronics_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_Plastic",
+      "Amount": 10
+    },
+    {
+      "Item": "Desc_CateriumPlates",
+      "Amount": 2
+    }
+  ],
+  "Products": [
+    {
+      "Item": "Desc_CircuitBoard",
+      "Amount": 3
+    }
+  ],
+  "ProducedIn": [ "Build_AssemblerMk1" ],
+  "ManufacturingDuration": 15,
+  "ManufacturingMenuPriority": 3.5
+
+}

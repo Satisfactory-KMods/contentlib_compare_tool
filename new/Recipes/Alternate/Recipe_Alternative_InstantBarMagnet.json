@@ -1,0 +1,31 @@
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Alternate: Instant Bar Magnet",
+  "OverrideCategory": "Cat_IndustrialParts_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_LiquidInvar",
+      "Amount": 15000
+    },
+    {
+      "Item": "Desc_PowerShardCrystal_C",
+      "Amount": 1
+    }
+
+  ],
+  "Products": [
+
+    {
+      "Item": "Desc_InvarPlates",
+      "Amount": 26
+    },
+    {
+      "Item": "Desc_SlugSlime_Mid",
+      "Amount": 6000
+    }
+
+  ],
+  "ManufacturingDuration": 20,
+  "ManufacturingMenuPriority": 1.2,
+  "ProducedIn": [ "Build_OilRefinery" ]
+}

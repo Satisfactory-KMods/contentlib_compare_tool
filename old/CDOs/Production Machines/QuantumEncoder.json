@@ -1,7 +1,9 @@
 {
   "Class": "/Game/FactoryGame/Buildable/Factory/QuantumEncoder/Build_QuantumEncoder.Build_QuantumEncoder_C",
   "Edits": [
-    {
+    {"Property":"mDescription",
+    "Value":"Uses Excited Photonic Matter to develop the most complex of parts, controlling development down to the sub-atomic level.\n\nWarning: Power usage is extremely high and unstable."
+    },{
       "Property": "mProductionShardSlotSize",
       "Value": "8"
     },

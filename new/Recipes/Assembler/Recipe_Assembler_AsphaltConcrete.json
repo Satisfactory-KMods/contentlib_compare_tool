@@ -3,8 +3,8 @@
   "Name": "Asphalt Concrete",
   "OverrideCategory": "Minerals_C",
   "Ingredients": [
-    {
-      "Item": "Desc_CrushedGangue",
+   {
+      "Item": "Desc_Gangue",
       "Amount": 10
     },
     {

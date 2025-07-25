@@ -1,0 +1,23 @@
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Alternate: Pure Solder Wire",
+  "category": "Electronics_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_SolderRod",
+      "Amount": 2
+    }
+
+  ],
+  "Products": [
+
+    {
+      "Item": "Desc_SolderWire",
+      "Amount": 3
+    }
+
+  ],
+  "ProducedIn": [ "Build_ConstructorMk1" ],
+  "ManufacturingDuration": 12,
+  "ManufacturingMenuPriority": 4.5
+}

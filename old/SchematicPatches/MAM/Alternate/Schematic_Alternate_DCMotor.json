@@ -1,0 +1,8 @@
+//SatisfactoryPlus/Content/SchematicManager/Alternative/DCMotor/Schematic_Alternative_DCMotor.Schematic_Alternative_DCMotor_C
+{
+  "Name": "Alternate: DC Motor",
+  "Type": "Alternate",
+  "VisualKit": "Desc_Motor_C",
+  "Recipes": [ "Recipe_Alternative_DCMotor" ],
+  "DependsOn": [ "Schematic_SF+_T7_0_C" ]
+}

@@ -1,0 +1,17 @@
+{
+  "Class": "/KLib/Assets/Buildings/Sorter/Build_SorterMk1.Build_SorterMk1_C",
+  "Edits": [
+    {
+      "Property": "mOverrideProductionShardSlotSize",
+      "Value": true
+    },
+    {
+      "Property": "mProductionShardSlotSize",
+      "Value": "2"
+    },
+    {
+      "Property": "mProductionShardBoostMultiplier",
+      "Value": "0.5"
+    }
+  ]
+}

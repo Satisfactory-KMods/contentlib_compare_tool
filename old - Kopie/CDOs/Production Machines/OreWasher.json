@@ -1,0 +1,33 @@
+{
+  "Class": "/KLib/Assets/Buildings/OreWasher/Build_OreWascher.Build_OreWascher_C",
+  "Edits": [
+    {
+      "Property": "mDisplayName",
+      "Value": "Wet Washer"
+    },
+    {
+      "Property": "mDescription",
+      "Value": "Purifies loose materials through industrial washing with a fluid. Outputs unwanted byproducts (like gangue) as a liquid slurry.\n\nHead Lift: 10 meters.\r(Allows fluids to be transported 10 meters upwards.)\r\n\r\nContains both Conveyor Belt and Pipe inputs and outputs."
+    },
+    {
+      "Property": "mNumCyclesForProductivity",
+      "Value": 5
+    },
+    {
+      "Property": "mMinimumStoppedTime",
+      "Value": 4
+    },
+    {
+      "Property": "mPowerConsumptionExponent",
+      "Value": 1.321929
+    },
+    {
+      "Property": "mCanChangeProductionBoost",
+      "Value": false
+    },
+    {
+      "Property": "mFluidStackSizeMultiplier",
+      "Value": 1
+    }
+  ]
+}

@@ -6,32 +6,33 @@
   "Ingredients": [
     {
       "Item": "Desc_LiquidSteel",
-      "Amount": 16000
+      "Amount": 8000
     },
     {
       "Item": "Desc_Air",
-      "Amount": 24000
+      "Amount": 8000
     },
     {
       "Item": "Desc_Gangue",
-      "Amount": 20
+      "Amount": 10
     }
 
   ],
   "Products": [
     {
       "Item": "Desc_SteelIngot",
-      "Amount": 48
+      "Amount": 24
     },
     {
       "Item": "Desc_FlueGas",
-      "Amount": 16000
+      "Amount": 8000
     },
     {
       "Item": "Desc_ColdSlag_C",
-      "Amount": 20
+      "Amount": 10
+
     }
   ],
-  "ManufacturingDuration": 32,
+  "ManufacturingDuration": 16,
   "ManufacturingMenuPriority": 6
 }

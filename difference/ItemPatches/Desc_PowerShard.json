@@ -1,7 +1,0 @@
-{
-    "$comment": "This is a new file, no old version exists",
-    "$class": "//Game/FactoryGame/Resource/Environment/Crystal/Desc_CrystalShard.Desc_CrystalShard_C\r",
-    "$classShort": "Desc_CrystalShard",
-    "CanBeDiscarded": true,
-    "ResourceSinkPoints": 1
-}

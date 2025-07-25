@@ -1,26 +1,26 @@
-//SatisfactoryPlus/Content/SchematicManager/Alternative/HeavyOilResidue/Recipe_Alternative_DilutedBitumen.Recipe_Alternative_DilutedBitumen_C
 {
-  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
-  "Name": "Alternate: Diluted Bitumen",
-  "OverrideCategory": "SolidOilProducts_C",
-  "Ingredients": [
-    {
-      "Item": "Desc_Asphalt",
-      "Amount": 1
-    },
-    {
-      "Item": "Desc_Water",
-      "Amount": 6000
-    }
-
-  ],
-  "Products": [
-    {
-      "Item": "Desc_HeavyOilResidue",
-      "Amount": 1000
-    }
-  ],
-  "ProducedIn": [ "Build_OilRefinery" ],
-  "ManufacturingDuration": 4,
-  "ManufacturingMenuPriority": 0.9
+    "Name": "Alternate: Diluted Bitumen",
+    "OverrideCategory": "SolidOilProducts_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_Asphalt",
+            "Amount": 1
+        },
+        {
+            "Item": "Desc_Water",
+            "Amount": 6000
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_HeavyOilResidue",
+            "Amount": 1000
+        }
+    ],
+    "ProducedIn": [
+        "Build_OilRefinery"
+    ],
+    "ManufacturingDuration": 4,
+    "ManufacturingMenuPriority": 0.9,
+    "$comment": "This file has been removed, no new version exists"
 }

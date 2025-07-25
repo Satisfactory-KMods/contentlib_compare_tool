@@ -6,29 +6,29 @@
   "Ingredients": [
     {
       "Item": "Desc_LiquidIron",
-      "Amount": 8000
+      "Amount": 4000
     },
     {
       "Item": "Desc_CarbonDust",
-      "Amount": 4
+      "Amount": 2
     },
     {
       "Item": "Desc_Gas_Steam_Hot",
-      "Amount": 12000
+      "Amount": 6000
     }
 
   ],
   "Products": [
     {
       "Item": "Desc_LiquidSteel",
-      "Amount": 8000
+      "Amount": 4000
     },
     {
       "Item": "Desc_FlueGas",
-      "Amount": 6000
+      "Amount": 3000
     }
 
   ],
-  "ManufacturingDuration": 12,
+  "ManufacturingDuration": 6,
   "ManufacturingMenuPriority": 2
 }

@@ -6,7 +6,7 @@
   "Ingredients": [
     {
       "Item": "Desc_InvarIngot",
-      "Amount": 36
+      "Amount": 30
     },
     {
       "Item": "Desc_CateriumRod",
@@ -17,10 +17,10 @@
   "Products": [
     {
       "Item": "Desc_InvarPipe",
-      "Amount": 18
+      "Amount": 15
     }
   ],
-  "ManufacturingDuration": 96,
+  "ManufacturingDuration": 80,
   "ManufacturingMenuPriority": 3,
   "ProducedIn": [ "Build_FoundryMk1" ]
 }

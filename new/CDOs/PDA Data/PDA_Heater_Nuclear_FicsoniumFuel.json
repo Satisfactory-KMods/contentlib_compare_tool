@@ -1,0 +1,29 @@
+{
+  "Class": "/RefinedPower/Buildables/Factory/ModularPower/MPBuildings/Heaters/NuclearHeater/Data/PDA_RP_Heater_Nuc_Ficsonium.PDA_RP_Heater_Nuc_Ficsonium",
+  "Edits": [
+    {
+      "Property": "mInput",
+      "Value": {
+        "ItemClass": "/Game/FactoryGame/Resource/Parts/FicsoniumFuelRod/Desc_FicsoniumFuelRod.Desc_FicsoniumFuelRod_C",
+        "amount": 1
+      }
+    },
+    {
+      "Property": "mDuration",
+      "Value": 120
+    },
+    {
+      "Property": "mHeat",
+      "Value": 5000
+    },
+    {
+      "Property": "mMinHeatValue",
+      "Value": 100
+    },
+    {
+      "Property": "mMaxHeatValue",
+      "Value": 2000
+    }
+
+  ]
+}

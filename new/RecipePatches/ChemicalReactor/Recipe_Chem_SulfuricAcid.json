@@ -1,4 +1,4 @@
-//SatisfactoryPlus/Content/Recipes/Reformer/Recipe_Reformer_SulfuricAcid.Recipe_Reformer_SulfuricAcid_C
+//SatisfactoryPlus/Content/Recipes/ChemicalReactor/Recipe_ChemReac_SulfuricAcid.Recipe_ChemReac_SulfuricAcid_C
 {
   "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
   "Name": "Sulfuric Acid",
@@ -19,13 +19,9 @@
     {
       "Item": "Desc_SulfuricAcid_C",
       "Amount": 5000
-    },
-    {
-      "Item": "Desc_SulfurPowder_C",
-      "Amount": 4
     }
   ],
   "ManufacturingDuration": 8,
-  "ManufacturingMenuPriority": 1,
+  "ManufacturingMenuPriority": 2,
   "ProducedIn": [ "Build_ChemReactor" ]
 }

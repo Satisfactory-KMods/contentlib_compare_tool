@@ -1,0 +1,7 @@
+{
+  "Name": "Alternate: Condensed Graphene",
+  "Type": "Alternate",
+  "VisualKit": "Desc_CarbonDust_C",
+  "Recipes": [ "Recipe_Alternative_CondensedGraphene" ],
+  "DependsOn": [ "Schematic_SF+_T5_1_C" ]
+}

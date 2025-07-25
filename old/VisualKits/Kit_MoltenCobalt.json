@@ -4,8 +4,8 @@
   "SmallIcon": "Desc_LiquidFuel",
   "FluidColor": {
     "r": 40,
-    "g": 90,
-    "b": 180,
+    "g": 40,
+    "b": 120,
     "a": 60
   },
   "GasColor": {

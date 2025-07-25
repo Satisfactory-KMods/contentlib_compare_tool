@@ -1,8 +1,8 @@
 //KLib/Assets/Parts/CryoliteResidue/Desc_CryoliteResidue.Desc_CryoliteResidue_C
 {
-  "Name": "Cryolite Residue",
+  "Name": "Kyalite Residue",
   "VisualKit": "Kit_CryoResidue",
-  "Description": "A mixture of Silica and Magnesium compounds left over after refining Bauxite.",
+  "Description": "A mixture of byproducts left over after refining Bauxite.",
   "Form": "Solid",
   "StackSize": "Huge"
 }

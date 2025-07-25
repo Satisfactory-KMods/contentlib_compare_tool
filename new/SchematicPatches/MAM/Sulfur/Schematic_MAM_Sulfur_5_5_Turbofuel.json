@@ -1,0 +1,21 @@
+//SatisfactoryPlus/Content/SchematicManager/MAM/Schematics/Sulfur/U6/Schematic_Trees_Sulfur_5_5.Schematic_Trees_Sulfur_5_5_C
+{
+  "Name": "Alternative Power: Turbofuel",
+  "ClearCost": true,
+  "Cost": [
+    {
+      "Item": "Desc_SulfurPowder",
+      "Amount": 200
+    },
+    {
+      "Item": "Desc_Plastic",
+      "Amount": 500
+    },
+    {
+      "Item": "Desc_Harddrive_C",
+      "Amount": 1
+    }
+  ],
+  "ClearRecipes": true,
+  "Recipes": [ "Recipe_Alternative_Turbofuel"]
+}

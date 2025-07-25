@@ -8,6 +8,10 @@
     {
       "Property": "mDescription",
       "Value": "Attached to the Modular Miner.\n\nEnergy consumption now varies by:\n({PowerMin}-{PowerMax} MW per Module) \nOverclocks the miner's power circuit.\n\nMining Efficiency Bonus: {BonusOnProduction}%"
+    },
+    {
+      "Property": "mBonus",
+      "Value": 0.5
     }
   ]
 }

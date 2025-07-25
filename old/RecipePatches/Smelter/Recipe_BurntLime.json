@@ -1,7 +1,7 @@
-//SatisfactoryPlus/Content/Recipes/Smelter/Recipe_Smelter_BurntLime.Recipe_Smelter_BurntLime_C
+//SatisfactoryPlus/Content/SchematicManager/Alternative/BurntLime/Recipe_Alternative_BurntLime.Recipe_Alternative_BurntLime_C
 {
   "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
-  "Name": "Alternate: Burnt Lime",
+  "Name": "Burnt Lime",
   "OverrideCategory": "Other_C",
   "Ingredients": [
     {

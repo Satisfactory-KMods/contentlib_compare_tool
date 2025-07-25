@@ -1,0 +1,6 @@
+//KLib/Assets/Ressources/Raw/Fluids/Desc_LiquidHydrochloricAcid.Desc_LiquidHydrochloricAcid_C
+{
+  "Name": "Muriatic Acid",
+  "Description": "Muriatic Acid, more commonly known as Hydrochloric Acid, is the acidic counterpart of Caustic Soda.\nBoth are produced from Salt.\n\nCommonly used in ore washing processes and in Chlorine production.",
+  "VisualKit": "Kit_CausticAcid"
+}

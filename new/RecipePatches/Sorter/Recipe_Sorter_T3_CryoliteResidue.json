@@ -1,30 +1,30 @@
 //SatisfactoryPlus/Content/Recipes/Sorter/Recipe_Sorter_T3_CryoliteResidue.Recipe_Sorter_T3_CryoliteResidue_C
 {
   "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
-  "Name": "Cryolite Residue",
+  "Name": "Kyalite Residue",
   "OverrideCategory": "T3 Sorting",
   "Ingredients": [
     {
       "Item": "Desc_RawQuartz",
-      "Amount": 16
+      "Amount": 18
     },
     {
-      "Item": "Desc_CausticSoda",
-      "Amount": 3000
+      "Item": "Desc_Sand",
+      "Amount": 6
     }
 
   ],
   "Products": [
     {
       "Item": "/KLib/Assets/Parts/CryoliteResidue/Desc_CryoliteResidue.Desc_CryoliteResidue_C",
-      "Amount": 13
+      "Amount": 24
     },
     {
-      "Item": "Desc_Silica",
+      "Item": "Desc_Salt",
       "Amount": 3
     }
   ],
   "ProducedIn": [ "Build_SorterMk1" ],
-  "ManufacturingDuration": 4,
+  "ManufacturingDuration": 6,
   "ManufacturingMenuPriority": 5
 }

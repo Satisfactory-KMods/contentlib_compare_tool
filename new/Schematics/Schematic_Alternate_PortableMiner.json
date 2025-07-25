@@ -1,0 +1,7 @@
+{
+  "Name": "Alternate: Automated Portable Miner",
+  "Type": "Alternate",
+  "VisualKit": "BP_ItemDescriptorPortableMiner",
+  "Recipes": [ "Recipe_Alternative_PortableMiner" ],
+  "DependsOn": [ "Schematic_SF+_T1_3_C" ]
+}

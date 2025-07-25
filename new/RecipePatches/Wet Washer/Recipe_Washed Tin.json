@@ -10,14 +10,14 @@
     },
     {
       "Item": "Desc_Water",
-      "Amount": 8000
+      "Amount": 4000
     }
 
   ],
   "Products": [
     {
       "Item": "Desc_CrushedTin",
-      "Amount": 4
+      "Amount": 6
     },
     {
       "Item": "Desc_LiquidSlag",
@@ -25,6 +25,6 @@
     }
 
   ],
-  "ManufacturingDuration": 12,
+  "ManufacturingDuration": 8,
   "ManufacturingMenuPriority": 3
 }

@@ -4,7 +4,7 @@
   "Type": "Milestone",
   "Tier": 9,
   "MenuPriority": 1,
-  "VisualKit": "Desc_CopperDust_C",
+  "VisualKit": "Desc_Converter_C",
   "ClearCost": true,
   "Cost": [
     {
@@ -14,12 +14,7 @@
   ],
   "ClearRecipes": true,
   "Recipes": [
-    "Recipe_Converter",
-    "Recipe_Converter_ElectronGas",
-    "Recipe_FicsiteIngot_Iron",
-    "Recipe_Converter_FicsiteIngot_Bronze",
-    "Recipe_FicsiteIngot_CAT",
-    "Recipe_FicsiteIngot_AL"
+
   ],
-  "Time": 60
+  "Time": 600
 }

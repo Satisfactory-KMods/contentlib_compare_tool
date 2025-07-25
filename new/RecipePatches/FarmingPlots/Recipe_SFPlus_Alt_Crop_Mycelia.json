@@ -1,0 +1,25 @@
+//SatisfactoryPlus/Content/Recipes/Plots/Norm/Recipe_SF+_Alt_Crop_Mycelia.Recipe_SF+_Alt_Crop_Mycelia_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Mycelia",
+  "Ingredients": [
+    {
+      "Item": "Desc_FF_MyceliaSeed",
+      "Amount": 5
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_Mycelia_C",
+      "Amount": 5
+    },
+    {
+      "Item": "Desc_Leaves_C",
+      "Amount": 2
+    }
+  ],
+  "ProducedIn": [ "Build_FF_MyceliaPlot_C" ],
+  "ManufacturingDuration": 20,
+  "ManufacturingMenuPriority": 1
+}

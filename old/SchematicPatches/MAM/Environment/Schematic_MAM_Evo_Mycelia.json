@@ -1,0 +1,13 @@
+//SatisfactoryPlus/Content/SchematicManager/MAM/Schematics/Evo/Schematic_Trees_Evo_Mush_3_0.Schematic_Trees_Evo_Mush_3_0_C
+{
+  "Name": "Mycelia",
+  "ClearCost": true,
+  "Cost": [
+    {
+      "Item": "Desc_Mycelia",
+      "Amount": 100
+    }
+  ],
+  "ClearRecipes": true,
+  "Recipes": [ "Recipe_Assembler_Fabric", "Recipe_Refinery_Fabric" ]
+}

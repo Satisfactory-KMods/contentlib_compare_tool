@@ -1,0 +1,41 @@
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Alternate: Silicon High-Speed Interface",
+  "OverrideCategory": "Electronics_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_Silica",
+      "Amount": 80
+    },
+    {
+      "Item": "Desc_CateriumPlates",
+      "Amount": 12
+    },
+    {
+      "Item": "Desc_CircuitBoard",
+      "Amount": 12
+    },
+    {
+      "Item": "Desc_QuantumEnergy",
+      "Amount": 24000
+    }
+  ],
+
+  "Products": [
+    {
+      "Item": "Desc_HighSpeedConnector",
+      "Amount": 12
+    },
+    {
+      "Item": "Desc_DarkEnergy",
+      "Amount": 8000
+    }
+
+
+  ],
+  "ManufacturingDuration": 32,
+  "ManufacturingMenuPriority": 3,
+  "VariablePowerConsumptionConstant": 1000,
+  "VariablePowerConsumptionFactor": -500,
+  "ProducedIn": [ "Build_QuantumEncoder" ]
+}

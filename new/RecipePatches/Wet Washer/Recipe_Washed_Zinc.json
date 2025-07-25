@@ -6,26 +6,26 @@
   "Ingredients": [
     {
       "Item": "Desc_Stone",
-      "Amount": 16
+      "Amount": 15
     },
     {
       "Item": "Desc_Water",
-      "Amount": 3000
+      "Amount": 5000
     }
 
   ],
   "Products": [
     {
       "Item": "Desc_CrushedZinc",
-      "Amount": 12
+      "Amount": 15
     },
     {
       "Item": "Desc_Wastewater",
-      "Amount": 8000
+      "Amount": 6000
     }
 
   ],
   "ProducedIn": [ "Build_OreWascher" ],
-  "ManufacturingDuration": 12,
+  "ManufacturingDuration": 15,
   "ManufacturingMenuPriority": 5
 }

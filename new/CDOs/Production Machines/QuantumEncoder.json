@@ -1,15 +1,21 @@
 {
-  "Class": "/Game/FactoryGame/Buildable/Factory/QuantumEncoder/Build_QuantumEncoder.Build_QuantumEncoder_C",
+  "Class": "/SatisfactoryPlus/CDOHelper/BuildableCDO/CDOHelper_QuantumEncoder.CDOHelper_QuantumEncoder_C",
   "Edits": [
-    {"Property":"mDescription",
-    "Value":"Uses Excited Photonic Matter to develop the most complex of parts, controlling development down to the sub-atomic level.\n\nWarning: Power usage is extremely high and unstable."
-    },{
+    {
+      "Property": "mDescription",
+      "Value": "Uses Excited Photonic Matter to develop the most complex of parts, controlling development down to the sub-atomic level.\n\nAlternatively, it is able to develop standard electronic components at an incredible scale with multibeam quantum lithography techniques.\n\nWarning: Power usage is extremely high and unstable."
+    },
+    {
+      "Property": "mOverrideProductionShardSlotSize",
+      "Value": true
+    },
+    {
       "Property": "mProductionShardSlotSize",
-      "Value": "8"
+      "Value": "4"
     },
     {
       "Property": "mProductionShardBoostMultiplier",
-      "Value": "0.125"
+      "Value": "0.25"
     },
     {
       "Property": "mFluidStackSizeMultiplier",

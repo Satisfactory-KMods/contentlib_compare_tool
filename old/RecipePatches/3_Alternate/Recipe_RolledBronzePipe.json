@@ -1,23 +1,22 @@
-//SatisfactoryPlus/Content/SchematicManager/Alternative/RolledBronzePipe/Recipe_Alternative_RolledBronzePipe.Recipe_Alternative_RolledBronzePipe_C
 {
-  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
-  "Name": "Alternate: Rolled Bronze Pipe",
-  "Category": "StandardParts_C",
-  "Ingredients": [
-    {
-      "Item": "Desc_BronzePlates",
-      "Amount": 2
-    }
-
-  ],
-  "Products": [
-    {
-      "Item": "Desc_BronzePipe",
-      "Amount": 4
-    }
-
-  ],
-  "ProducedIn": [ "Build_ConstructorMk1" ],
-  "ManufacturingDuration": 15,
-  "ManufacturingMenuPriority": 19
+    "Name": "Alternate: Rolled Bronze Pipe",
+    "Category": "StandardParts_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_BronzePlates",
+            "Amount": 2
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_BronzePipe",
+            "Amount": 4
+        }
+    ],
+    "ProducedIn": [
+        "Build_ConstructorMk1"
+    ],
+    "ManufacturingDuration": 15,
+    "ManufacturingMenuPriority": 19,
+    "$comment": "This file has been removed, no new version exists"
 }

@@ -17,7 +17,7 @@
   "Products": [
     {
       "Item": "Desc_LiquidFuel",
-      "Amount": 9000
+      "Amount": 12000
     },
     {
       "Item": "Desc_Sulfur",
@@ -28,5 +28,5 @@
   ],
   "ProducedIn": [ "Build_ChemReactor" ],
   "ManufacturingDuration": 6,
-  "ManufacturingMenuPriority": 4
+  "ManufacturingMenuPriority": 1
 }

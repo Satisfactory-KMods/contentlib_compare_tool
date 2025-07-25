@@ -5,14 +5,14 @@
   "Ingredients": [
     {
       "Item": "SlugDesc_WhiteSlug",
-      "Amount": 1
+      "Amount": 2
     }
 
   ],
   "Products": [
     {
       "Item": "Desc_SlugSlime_High_C",
-      "Amount": 100
+      "Amount": 200
     }
   ],
   "ProducedIn": [ "Build_FF_Composter_C" ],

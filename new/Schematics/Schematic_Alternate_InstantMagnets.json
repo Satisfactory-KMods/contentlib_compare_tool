@@ -1,0 +1,7 @@
+{
+  "Name": "Alternate: Instant Bar Magnet",
+  "Type": "Alternate",
+  "VisualKit": "Desc_InvarPlates_C",
+  "Recipes": [ "Recipe_Alternative_InstantBarMagnet" ],
+  "DependsOn": [ "Schematic_SF+_T6_6_C" ]
+}

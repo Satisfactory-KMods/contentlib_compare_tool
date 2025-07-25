@@ -6,11 +6,11 @@
   "Ingredients": [
     {
       "Item": "Desc_InvarIngot_C",
-      "Amount": 135
+      "Amount": 81
     },
     {
       "Item": "Desc_SlugSlime_High",
-      "Amount": 12000
+      "Amount": 7200
     }
 
   ],
@@ -18,15 +18,15 @@
 
     {
       "Item": "Desc_InvarPlates",
-      "Amount": 65
+      "Amount": 39
     },
     {
       "Item": "Desc_SlugSlime_Mid",
-      "Amount": 12000
+      "Amount": 7200
     }
 
   ],
-  "ManufacturingDuration": 120,
+  "ManufacturingDuration": 72,
   "ManufacturingMenuPriority": 1,
   "ProducedIn": [ "Build_OilRefinery" ]
 }

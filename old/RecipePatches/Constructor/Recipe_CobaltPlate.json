@@ -6,7 +6,7 @@
   "Ingredients": [
     {
       "Item": "Desc_CobaltIngot",
-      "Amount": 3
+      "Amount": 4
     }
 
   ],
@@ -17,6 +17,6 @@
     }
   ],
   "ProducedIn": [ "Build_ConstructorMk1" ],
-  "ManufacturingDuration": 4,
+  "ManufacturingDuration": 8,
   "ManufacturingMenuPriority": 21
 }

@@ -1,0 +1,13 @@
+{
+  "Class": "/KLib/Assets/Buildings/ModularExtractor/Modules/Fluid/Build_Module_Fluid.Build_Module_Fluid_C",
+  "Edits": [
+    {
+      "Property": "mDisplayName",
+      "Value": "Fluid Module"
+    },
+    {
+      "Property": "mDescription",
+      "Value": "Attached to the Modular Miner.\nIncreases the power required by the Modular Miner.\n\nIncreases the Miner's Mining Efficiency based on the supplied fluid. Miner will not activate unless a fluid is supplied.  \n\nBonus to Mining Efficiency can be viewed from inside the Miner Menu 'Fluid Info' panel.\n\nNOTE: Module is not compatible with Crusher or Smelter Module."
+    }
+  ]
+}

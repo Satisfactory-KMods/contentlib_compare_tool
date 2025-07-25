@@ -5,25 +5,25 @@
   "Ingredients": [
     {
       "Item": "Desc_HighSpeedWire_C",
-      "Amount": 72
+      "Amount": 40
     },
     {
       "Item": "Desc_CircuitBoard",
-      "Amount": 12
+      "Amount": 6
     },
     {
       "Item": "Desc_CobaltPlates",
-      "Amount": 6
+      "Amount": 3
     }
 
   ],
   "Products": [
     {
       "Item": "Desc_HighSpeedConnector",
-      "Amount": 5
+      "Amount": 2
     }
   ],
   "ProducedIn": [ "Build_ManufacturerMk1" ],
-  "ManufacturingDuration": 32,
-  "ManufacturingMenuPriority": 3
+  "ManufacturingDuration": 16,
+  "ManufacturingMenuPriority": 2
 }

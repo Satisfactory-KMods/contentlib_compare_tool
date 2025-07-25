@@ -11,5 +11,7 @@
       "Item": "Desc_IronPlateReinforced",
       "Amount": 50
     }
-  ]
+  ],
+  "ClearRecipes": true,
+  "Recipes": [ "Recipe_SF+_SeedExtractor_C" ]
 }

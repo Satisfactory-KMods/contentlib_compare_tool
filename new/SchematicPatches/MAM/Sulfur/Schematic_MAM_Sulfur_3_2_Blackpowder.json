@@ -13,5 +13,5 @@
     }
   ],
   "ClearRecipes": true,
-  "Recipes": [ "Recipe_Assembler_Blackpowder" ]
+  "Recipes": [ "Recipe_Assembler_Blackpowder", "Recipe_Crusher_SulfurPowder" ]
 }

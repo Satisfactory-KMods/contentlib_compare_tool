@@ -1,0 +1,13 @@
+{
+  "Class": "/RefinedPower/Buildables/Factory/ModularPower/MPBuildings/Turbines/TurbineMk2/Build_RP_MP_TurbineMk2.Build_RP_MP_TurbineMk2_C",
+  "Edits": [
+    {
+      "Property": "mDisplayName",
+      "Value": "Steam Turbine Mk.2"
+    },
+    {
+      "Property": "mDescription",
+      "Value": "Uses Steam to turn a turbine which makes connected Generators produce electricity.\nHas higher RPM the Mk.1 Turbine, needed to full power HV Generators.\nMust be placed on a Converter Platform."
+    }
+  ]
+}

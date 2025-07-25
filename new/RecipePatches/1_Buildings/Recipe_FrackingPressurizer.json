@@ -1,0 +1,29 @@
+//SatisfactoryPlus/Content/Recipes/Buildings/Recipe_FrackingSmasher.Recipe_FrackingSmasher_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Resource Well Pressurizer",
+  "Ingredients": [
+    {
+      "Item": "Desc_ModularFrameHeavy",
+      "Amount": 15
+    },
+    {
+      "Item": "Desc_Motor",
+      "Amount": 50
+    },
+    {
+      "Item": "Desc_InvarPipe",
+      "Amount": 100
+    },
+    {
+      "Item": "Desc_AlumniumSheet",
+      "Amount": 100
+    },
+    {
+      "Item": "Desc_Rubber",
+      "Amount": 100
+    }
+  
+  ],
+  "ManufacturingMenuPriority": 5
+}

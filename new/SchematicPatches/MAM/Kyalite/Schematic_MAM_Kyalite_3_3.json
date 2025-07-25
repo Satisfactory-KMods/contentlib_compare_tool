@@ -1,6 +1,6 @@
 //SatisfactoryPlus/Content/SchematicManager/MAM/Schematics/Cryolite/Schematic_Trees_Cryolit_3_3.Schematic_Trees_Cryolit_3_3_C
 {
-  "Name": "Diamond Synthesis",
+  "Name": "Crystal Synthesis",
   "ClearCost": true,
   "Cost": [
     {
@@ -15,5 +15,7 @@
       "Item": "Desc_Sand",
       "Amount": 200
     }
-  ]
+  ],
+  "ClearRecipes": true,
+  "Recipes": [ "Recipe_Constructor_HighPressureDiamond_C", "Recipe_ChemReac_FusedQuartzCrystal_C" ]
 }

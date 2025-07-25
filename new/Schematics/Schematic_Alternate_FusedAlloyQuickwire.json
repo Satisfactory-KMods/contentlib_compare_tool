@@ -1,0 +1,7 @@
+{
+  "Name": "Alternate: Fused Alloy Quickwire",
+  "Type": "Alternate",
+  "VisualKit": "Desc_HighSpeedWire",
+  "Recipes": [ "Recipe_Alternative_FusedAlloyQuickwire" ],
+  "DependsOn": [ "Schematic_SF+_T6_2_C" ]
+}

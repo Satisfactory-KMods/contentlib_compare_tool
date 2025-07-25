@@ -1,0 +1,22 @@
+{
+  "Class": "/SatisfactoryPlus/CDOHelper/RecipeCDO/MainGame/CDOHelper_Recipes_SplitterSmart.CDOHelper_Recipes_SplitterSmart_C",
+  "Edits": [
+    {
+      "Property": "mIngredients",
+      "Value": [
+        {
+          "ItemClass": "/Game/FactoryGame/Resource/Parts/IronPlate/Desc_IronPlate.Desc_IronPlate_C",
+          "Amount": 5
+        },
+        {
+          "ItemClass": "/Game/FactoryGame/Resource/Parts/CircuitBoardHighSpeed/Desc_CircuitBoardHighSpeed.Desc_CircuitBoardHighSpeed_C",
+          "Amount": 1
+        },
+        {
+          "ItemClass": "/Game/FactoryGame/Resource/Parts/IronScrew/Desc_IronScrew.Desc_IronScrew_C",
+          "Amount": 5
+        }
+      ]
+    }
+  ]
+}

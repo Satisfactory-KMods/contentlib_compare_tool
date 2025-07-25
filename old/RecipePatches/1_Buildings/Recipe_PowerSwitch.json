@@ -1,0 +1,19 @@
+//Game/FactoryGame/Recipes/Buildings/Recipe_PowerSwitch.Recipe_PowerSwitch_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Ingredients": [
+    {
+      "Item": "Desc_CopperRod",
+      "Amount": 2
+    },
+    {
+      "Item": "Desc_Cable",
+      "Amount": 10
+    },
+    {
+      "Item": "Desc_SteelBeam",
+      "Amount": 10
+    }
+  ],
+  "ManufacturingMenuPriority": 7
+}

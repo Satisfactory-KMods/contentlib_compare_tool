@@ -1,0 +1,30 @@
+//SatisfactoryPlus/Content/Recipes/OilRefinery/Recipe_OilRefinery_Titaniumtetrachlorid.Recipe_OilRefinery_Titaniumtetrachlorid_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "TiCl Gas",
+  "OverrideCategory": "AdvancedRefinement_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_PurifiedTitan",
+      "Amount": 16
+    },
+    {
+      "Item": "Desc_Gas_Chlor",
+      "Amount": 16000
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_Gas_Titantetrachlorid",
+      "Amount": 12000
+    },
+    {
+      "Item": "Desc_PurifiedTitan",
+      "Amount": 4
+    }
+  ],
+  "ProducedIn": [ "Build_OilRefinery" ],
+  "ManufacturingDuration": 16,
+  "ManufacturingMenuPriority": 6
+}

@@ -1,0 +1,28 @@
+{
+  "Class": "/SatisfactoryPlus/AssetDatas/RRD/RP/Turbine/PDA_SFP_TurbineMk1_SlugSlime.PDA_SFP_TurbineMk1_SlugSlime",
+  "Edits": [
+    {
+      "Property": "mItem",
+      "Value": {
+        "ItemClass": "/KLib/Assets/Ressources/Raw/Fluids/Slugs/Desc_SlugSlime_High.Desc_SlugSlime_High_C",
+        "amount": 100
+      }
+    },
+    {
+      "Property": "mWasteItem",
+      "Value": {
+        "ItemClass": "/KLib/Assets/Ressources/Raw/Fluids/Slugs/Desc_SlugSlime_Mid.Desc_SlugSlime_Mid_C",
+        "amount": 100
+      }
+    },
+    {
+      "Property": "mDuration",
+      "Value": 3
+    },
+    {
+      "Property": "mPriority",
+      "Value": 2
+    }
+
+  ]
+}

@@ -22,7 +22,6 @@
     }
 
   ],
-  "ProducedIn": [ "Build_AssemblerMk1" ],
   "ManufacturingDuration": 24,
-  "ManufacturingMenuPriority": 1.5
+  "ManufacturingMenuPriority": 3
 }

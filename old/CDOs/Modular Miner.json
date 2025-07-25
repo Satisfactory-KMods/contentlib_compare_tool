@@ -7,7 +7,7 @@
     },
     {
       "Property": "mDescription",
-      "Value": "Capable of being equipped with different modules.\nRequires a Mining Head to extract ores, some ores require additional modules. Missing Modules will be indicated with a blue light.\n\nNOTE: Node purity and modules affect the miner's 'Mining Efficiency'. This value is multiplied with the base extraction rate of the attached mining head.\n\nBase Efficiency per Node Purity:\nImpure: 50%, Normal: 100%, Pure: 200%"
+      "Value": "Capable of being equipped with different modules.\nRequires a Mining Head to extract ores, some ores require additional modules. Missing Modules will be indicated with a blue light.\n\nNOTE: Node purity and modules affect the miner's 'Mining Efficiency'. This value is multiplied with the base extraction rate of the attached mining head.\n\nBase Efficiency per Node Purity:\nImpure:    50%,\nNormal:   100%,\nPure:        200%"
     }
   ]
 }

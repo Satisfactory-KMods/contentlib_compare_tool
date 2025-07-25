@@ -3,7 +3,7 @@
   "Name": "Pipeline Engineering Mk. 3",
   "Type": "Milestone",
   "Tier": 6,
-  "MenuPriority": 3.5,
+  "MenuPriority": 5,
   "ClearCost": true,
   "Cost": [
     {

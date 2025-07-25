@@ -1,0 +1,27 @@
+//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T3/Schematic_SF+_T3_0.Schematic_SF+_T3_0_C
+{
+  "Name": "Advanced Melting & Casting",
+  "MenuPriority": 1,
+  "ClearCost": true,
+  "Cost": [
+    {
+      "Item": "Desc_BronzeRod",
+      "Amount": 25
+    },
+    {
+      "Item": "Desc_CateriumHeatsink_C",
+      "Amount": 20
+    },
+    {
+      "Item": "Desc_HighSpeedWire",
+      "Amount": 150
+    },
+    {
+      "Item": "Desc_Cement",
+      "Amount": 100
+    }
+  ],
+  "ClearRecipes": true,
+  "Recipes": [ "Recipe_FlexibleBlastFurnaceSmelter_C", "Recipe_SoldifierAndCooler_C", "Recipe_BlastFurnace_Iron_C", "Recipe_BlastFurnace_Copper_C", "Recipe_BlastFurnace_Tin_C", "Recipe_Reformer_IronIngot_C", "Recipe_Reformer_CopperIngot_C", "Recipe_Reformer_TinIngot_C" ],
+  "Time": 300
+}

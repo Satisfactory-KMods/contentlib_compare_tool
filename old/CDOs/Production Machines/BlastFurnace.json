@@ -1,21 +1,22 @@
 {
-  "Class": "/KLib/Assets/Buildings/FlexibleBlastFurnace/Build_FlexibleBlastFurnaceSmelter.Build_FlexibleBlastFurnaceSmelter_C",
-  "Edits": [
-    {
-      "Property": "mOverrideProductionShardSlotSize",
-      "Value": true
-    },
-    {
-      "Property": "mPowerConsumption",
-      "Value": 50
-    },
-    {
-      "Property": "mProductionShardSlotSize",
-      "Value": "2"
-    },
-    {
-      "Property": "mProductionShardBoostMultiplier",
-      "Value": "0.5"
-    }
-  ]
+    "Class": "/KLib/Assets/Buildings/FlexibleBlastFurnace/Build_FlexibleBlastFurnaceSmelter.Build_FlexibleBlastFurnaceSmelter_C",
+    "Edits": [
+        {
+            "Property": "mOverrideProductionShardSlotSize",
+            "Value": true
+        },
+        {
+            "Property": "mPowerConsumption",
+            "Value": 50
+        },
+        {
+            "Property": "mProductionShardSlotSize",
+            "Value": "2"
+        },
+        {
+            "Property": "mProductionShardBoostMultiplier",
+            "Value": "0.5"
+        }
+    ],
+    "$comment": "This file has been removed, no new version exists"
 }

@@ -20,7 +20,7 @@
       "Amount": 2
     }
   ],
-  "ManufacturingDuration": 16,
+  "ManufacturingDuration": 8,
   "ManufacturingMenuPriority": 2,
   "ProducedIn": [ "Build_OilRefinery" ]
 }

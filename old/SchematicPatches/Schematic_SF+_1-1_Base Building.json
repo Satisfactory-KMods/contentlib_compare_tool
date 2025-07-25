@@ -6,15 +6,15 @@
   "Cost": [
     {
       "Item": "Desc_IronWire",
-      "Amount": 40
+      "Amount": 20
     },
     {
       "Item": "Desc_IronScrew",
-      "Amount": 60
+      "Amount": 50
     },
     {
       "Item": "Desc_Cement",
-      "Amount": 80
+      "Amount": 50
     }
   ],
   "Time": 120

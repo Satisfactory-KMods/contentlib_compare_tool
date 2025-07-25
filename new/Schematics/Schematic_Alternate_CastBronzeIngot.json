@@ -1,0 +1,7 @@
+{
+  "Name": "Alternate: CastBronzeIngot",
+  "Type": "Alternate",
+  "VisualKit": "Desc_BronzeIngot_C",
+  "Recipes": [ "Recipe_Alternative_CastBronzeIngot" ],
+  "DependsOn": [ "Schematic_SF+_T3_0_C" ]
+}

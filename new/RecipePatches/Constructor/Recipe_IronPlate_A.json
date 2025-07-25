@@ -1,0 +1,22 @@
+//SatisfactoryPlus/Content/Recipes/Constructor/Recipe_Constructor_IronPlate.Recipe_Constructor_IronPlate_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Iron Plate: 2",
+  "Category": "StandardParts_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_IronIngot",
+      "Amount": 3
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_IronPlate",
+      "Amount": 2
+    }
+  ],
+
+  "ManufacturingDuration": 6,
+  "ManufacturingMenuPriority": 2
+}

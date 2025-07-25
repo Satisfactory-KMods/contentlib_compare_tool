@@ -1,0 +1,28 @@
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Electrolysis - Chlorine",
+  "OverrideCategory": "AdvancedRefinement_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_LiquidHydrochloricAcid",
+      "Amount": 15000
+    },
+    {
+      "Item": "Desc_CopperBusbar",
+      "Amount": 1
+    }
+  ],
+  "Products": [
+    {
+      "Item": "Desc_Gas_Chlor",
+      "Amount": 10000
+    },
+    {
+      "Item": "Desc_Gas_Hydrogen_C",
+      "Amount": 10000
+    }
+  ],
+  "ManufacturingDuration": 6,
+  "ManufacturingMenuPriority": 8,
+  "ProducedIn": [ "Build_ChemReactor" ]
+}

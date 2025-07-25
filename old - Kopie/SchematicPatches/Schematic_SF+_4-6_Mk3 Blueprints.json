@@ -1,0 +1,24 @@
+//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T4/Schematic_SF+_T4_6.Schematic_SF+_T4_6_C
+{
+  "Name": "Mk.3 Blueprint Designer",
+  "MenuPriority": 7,
+  "Cost": [
+    {
+      "Item": "Desc_Cable",
+      "Amount": 100
+    },
+    {
+      "Item": "Desc_Cement",
+      "Amount": 150
+    },
+    {
+      "Item": "Desc_SteelRod",
+      "Amount": 200
+    },
+    {
+      "Item": "Desc_SteelBolt",
+      "Amount": 250
+    }
+  ],
+  "Time": 240
+}

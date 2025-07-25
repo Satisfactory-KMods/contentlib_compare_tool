@@ -1,0 +1,29 @@
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Radio Control Unit",
+  "OverrideCategory": "Communications_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_CrystalOscillator",
+      "Amount": 4
+    },
+    {
+      "Item": "Desc_Computer",
+      "Amount": 5
+    },
+    {
+      "Item": "Desc_AluminumCasing",
+      "Amount": 40
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_ModularFrameLightweight_C",
+      "Amount": 6
+    }
+  ],
+  "ProducedIn": [ "Build_ManufacturerMk1" ],
+  "ManufacturingDuration": 80,
+  "ManufacturingMenuPriority": 2
+}

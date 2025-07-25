@@ -1,0 +1,12 @@
+//SatisfactoryPlus/Content/SchematicManager/MAM/Schematics/Satmonium/Schematic_Trees_Satmonium_3_0.Schematic_Trees_Satmonium_3_0_C
+{
+  "Name": "Aurovite Ore",
+  "ClearCost": true,
+  "Cost": [
+    {
+      "Item": "Desc_OreGold_C",
+      "Amount": 50
+    }
+  ],
+  "Recipes": [ "Recipe_Smelter_CateriumIngot_C" ]
+}

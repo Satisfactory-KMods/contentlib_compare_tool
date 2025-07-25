@@ -3,13 +3,13 @@
   "BigIcon": "Desc_Paint",
   "SmallIcon": "Desc_Paint",
   "FluidColor": {
-    "r": 50,
-    "g": 130,
-    "b": 140,
-    "a": 4
+    "r": 80,
+    "g": 240,
+    "b": 180,
+    "a": 1
   },
   "GasColor": {
-    "r": 255,
+    "r": 0,
     "g": 0,
     "b": 0,
     "a": 0

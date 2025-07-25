@@ -1,0 +1,24 @@
+//FicsitFarming/Buildings/CookingHub/Recipe_FF_CookingHub.Recipe_FF_CookingHub_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Cooking Hub",
+  "Ingredients": [
+    {
+      "Item": "Desc_ModularFrame",
+      "Amount": 10
+    },
+    {
+      "Item": "Desc_Rotor",
+      "Amount": 15
+    },
+    {
+      "Item": "Desc_Glass",
+      "Amount": 50
+    },
+    {
+      "Item": "Desc_IronScrew",
+      "Amount": 100
+    }
+  ],
+  "ManufacturingMenuPriority": 3
+}

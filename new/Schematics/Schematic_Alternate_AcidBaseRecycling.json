@@ -1,0 +1,7 @@
+{
+  "Name": "Alternate: Acid-Base Recycling",
+  "Type": "Alternate",
+  "VisualKit": "Desc_CausticSoda_C",
+  "Recipes": [ "Recipe_OilRefinery_Resid_Soda_C", "Recipe_Alternative_RecycledMuriaticAcid" ],
+  "DependsOn": [ "Schematic_SF+_T7_1_C" ]
+}

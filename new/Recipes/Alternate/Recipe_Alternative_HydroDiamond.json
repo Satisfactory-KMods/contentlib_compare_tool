@@ -1,0 +1,29 @@
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Alternate: Hydro Diamond",
+  "OverrideCategory": "IndustrialParts_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_Gas_Hydrogen",
+      "Amount": 20000
+    },
+    {
+      "Item": "Desc_CarbonDust",
+      "Amount": 50
+    }
+  ],
+
+  "Products": [
+    {
+      "Item": "Desc_Diamond",
+      "Amount": 10
+    }
+
+
+  ],
+  "ManufacturingDuration": 20,
+  "ManufacturingMenuPriority": 2,
+  "VariablePowerConsumptionConstant": 250,
+  "VariablePowerConsumptionFactor": 500,
+  "ProducedIn": [ "Build_HadronCollider" ]
+}

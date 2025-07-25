@@ -1,0 +1,9 @@
+{
+  "Class": "/SatisfactoryPlus/AssetDatas/Miner/PDA_Extract_Crotinium.PDA_Extract_Crotinium",
+  "Edits": [
+    {
+      "Property": "mNeededModules",
+      "Value": [ "/KAPI/Attachments/ModuleAttachment_Drill.ModuleAttachment_Drill_C" ]
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "Class": "/SatisfactoryPlus/Content/ModifyedBuildings/Modular/Boiler/SF+_Build_RP_MP_BoilerMk1.SF+_Build_RP_MP_BoilerMk1_C",
+  "Class": "/RefinedPower/Buildables/Factory/ModularPower/MPBuildings/Boilers/BoilerMk1/Build_RP_MP_BoilerMk1.Default__Build_RP_MP_BoilerMk1_C",
   "Edits": [
     {
       "Property": "mWaterConsumeMultiplier",
@@ -19,7 +19,7 @@
     },
     {
       "Property": "mDescription",
-      "Value": "A low pressure boiler. Uses heat to turn Water into Steam or to re-energize Slug Slime.\n\nOperates at 500°C.\n\nDefault Rate: 15/min Water to 30/min Steam"
+      "Value": "A low pressure boiler. Uses heat to turn Water into Steam or to re-energize Slug Slime.\n\nOptimal temperature at 500°C.\n\nDefault Rate: 15/min Water to 30/min Steam"
     }
   ]
 }

@@ -1,0 +1,36 @@
+{
+  "Class": "/RefinedPower/Buildables/Factory/ModularPower/MPBuildings/Heaters/NuclearHeater/Data/PDA_RP_Heater_Nuc_Uran.PDA_RP_Heater_Nuc_Uran",
+  "Edits": [
+    {
+      "Property": "mInput",
+      "Value": {
+        "ItemClass": "/Game/FactoryGame/Resource/Parts/NuclearFuelRod/Desc_NuclearFuelRod.Desc_NuclearFuelRod_C",
+        "amount": 1
+      }
+    },
+    {
+      "Property": "mOutput",
+      "Value": {
+        "ItemClass": "/Game/FactoryGame/Resource/Parts/NuclearWaste/Desc_NuclearWaste.Desc_NuclearWaste_C",
+        "amount": 25
+      }
+    },
+    {
+      "Property": "mDuration",
+      "Value": 600
+    },
+    {
+      "Property": "mHeat",
+      "Value": 2500
+    },
+    {
+      "Property": "mMinHeatValue",
+      "Value": 100
+    },
+    {
+      "Property": "mMaxHeatValue",
+      "Value": 2000
+    }
+
+  ]
+}

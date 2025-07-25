@@ -1,0 +1,37 @@
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Alternate: Encoded Crystal Computer",
+  "OverrideCategory": "Electronics_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_CircuitBoard",
+      "Amount": 32
+    },
+    {
+      "Item": "Desc_CrystalOscillator",
+      "Amount": 4
+    },
+    {
+      "Item": "Desc_QuantumEnergy",
+      "Amount": 48000
+    }
+  ],
+
+  "Products": [
+    {
+      "Item": "Desc_Computer",
+      "Amount": 8
+    },
+    {
+      "Item": "Desc_DarkEnergy",
+      "Amount": 16000
+    }
+
+
+  ],
+  "ManufacturingDuration": 48,
+  "ManufacturingMenuPriority": 2,
+  "VariablePowerConsumptionConstant": 1000,
+  "VariablePowerConsumptionFactor": -500,
+  "ProducedIn": [ "Build_QuantumEncoder" ]
+}

@@ -1,5 +1,5 @@
 {
-  "Class": "/Game/FactoryGame/Buildable/Factory/ConstructorMk1/Build_ConstructorMk1.Build_ConstructorMk1_C",
+  "Class": "/SatisfactoryPlus/CDOHelper/BuildableCDO/CDOHelper_Constructor.CDOHelper_Constructor_C",
   "Edits": [
     {
       "Property": "mOverrideProductionShardSlotSize",
@@ -7,11 +7,11 @@
     },
     {
       "Property": "mProductionShardSlotSize",
-      "Value": "2"
+      "Value": "1"
     },
     {
       "Property": "mProductionShardBoostMultiplier",
-      "Value": "0.5"
+      "Value": "1"
     }
   ]
 }

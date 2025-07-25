@@ -8,5 +8,6 @@
       "Amount": 75
     }
   ],
+  "ClearRecipes": true,
   "Recipes": [ "Recipe_Smelter_Dirty_CateriumIngots_C" ]
 }

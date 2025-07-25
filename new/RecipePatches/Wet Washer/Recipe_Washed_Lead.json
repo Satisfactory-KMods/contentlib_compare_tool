@@ -6,26 +6,26 @@
   "Ingredients": [
     {
       "Item": "Desc_Stone",
-      "Amount": 16
+      "Amount": 4
     },
     {
       "Item": "Desc_SulfuricAcid",
-      "Amount": 4000
+      "Amount": 1000
     }
 
   ],
   "Products": [
     {
       "Item": "Desc_CrushedLead",
-      "Amount": 12
+      "Amount": 5
     },
     {
       "Item": "Desc_LiquidSlag",
-      "Amount": 8000
+      "Amount": 2000
     }
 
   ],
   "ProducedIn": [ "Build_OreWascher" ],
-  "ManufacturingDuration": 8,
+  "ManufacturingDuration": 2,
   "ManufacturingMenuPriority": 6
 }

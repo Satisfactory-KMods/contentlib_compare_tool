@@ -9,8 +9,8 @@
       "Amount": 24
     },
     {
-      "Item": "Desc_Sulfur",
-      "Amount": 3
+      "Item": "Desc_PetroleumCoke",
+      "Amount": 5
     }
 
   ],
@@ -20,7 +20,7 @@
       "Amount": 12
     }
   ],
-  "ManufacturingDuration": 18,
+  "ManufacturingDuration": 12,
   "ManufacturingMenuPriority": 5,
   "ProducedIn": [ "Build_FoundryMk1" ]
 }

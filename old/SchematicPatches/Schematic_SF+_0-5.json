@@ -8,15 +8,15 @@
     },
     {
       "Item": "Desc_Cable",
-      "Amount": 20
-    },
-    {
-      "Item": "Desc_IronRod",
       "Amount": 30
     },
     {
+      "Item": "Desc_IronRod",
+      "Amount": 50
+    },
+    {
       "Item": "Desc_Cement",
-      "Amount": 40
+      "Amount": 50
     }
   ],
   "ClearRecipes": true,

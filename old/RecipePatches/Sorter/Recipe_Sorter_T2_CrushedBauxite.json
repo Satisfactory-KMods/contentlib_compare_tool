@@ -11,10 +11,6 @@
     {
       "Item": "Desc_LiquidHydrochloricAcid",
       "Amount": 3000
-    },
-    {
-      "Item": "Desc_LimeDust",
-      "Amount": 2
     }
 
   ],
@@ -28,8 +24,8 @@
       "Amount": 2
     },
     {
-      "Item": "Desc_Gangue",
-      "Amount": 3
+      "Item": "Desc_Sand",
+      "Amount": 2
     }
   ],
   "ProducedIn": [ "Build_SorterMk1" ],

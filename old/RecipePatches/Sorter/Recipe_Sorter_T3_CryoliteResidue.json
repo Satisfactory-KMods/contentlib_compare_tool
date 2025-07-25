@@ -16,8 +16,8 @@
   ],
   "Products": [
     {
-      "Item": "Desc_CrashedKryolith",
-      "Amount": 12
+      "Item": "/KLib/Assets/Parts/CryoliteResidue/Desc_CryoliteResidue.Desc_CryoliteResidue_C",
+      "Amount": 13
     },
     {
       "Item": "Desc_Silica",
@@ -26,5 +26,5 @@
   ],
   "ProducedIn": [ "Build_SorterMk1" ],
   "ManufacturingDuration": 4,
-  "ManufacturingMenuPriority": 7
+  "ManufacturingMenuPriority": 5
 }

@@ -13,11 +13,11 @@
       "Amount": 48
     },
     {
-      "Item": "Desc_LiquidHydrochloricAcid",
-      "Amount": 6000
+      "Item": "Desc_SlugSlime_Low_C",
+      "Amount": 12000
     },
     {
-      "Item": "Desc_SlugSlime_Low_C",
+      "Item": "Desc_CoolingWater",
       "Amount": 12000
     }
   ],

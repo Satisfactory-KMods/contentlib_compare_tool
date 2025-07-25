@@ -13,7 +13,7 @@
     },
     {
       "Item": "Desc_CoolingWater",
-      "Amount": 4000
+      "Amount": 10000
     },
     {
       "Item": "Desc_NitrogenGas",
@@ -23,10 +23,10 @@
   "Products": [
     {
       "Item": "Desc_CoolingSystem",
-      "Amount": 2
+      "Amount": 1
     }
   ],
-  "ManufacturingDuration": 20,
+  "ManufacturingDuration": 12,
   "ManufacturingMenuPriority": 1,
   "ProducedIn": [ "Build_Blender" ]
 

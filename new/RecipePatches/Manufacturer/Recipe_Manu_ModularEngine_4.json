@@ -5,7 +5,7 @@
   "Category": "SpaceElevator_C",
   "Ingredients": [
     {
-      "Item": "Desc_SpaceElevatorPart_2_C",
+      "Item": "Desc_SpaceElevatorPart_2",
       "Amount": 3
     },
     {

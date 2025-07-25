@@ -4,14 +4,14 @@
   "SmallIcon": "/KLib/Assets/Ressources/Raw/Gas/UI/Icon_Hydrogen.Icon_Hydrogen",
   "FluidColor": {
     "r": 250,
-    "g": 220,
-    "b": 130,
+    "g": 225,
+    "b": 125,
     "a": 0
 
   },
   "GasColor": {
     "r": 255,
-    "g": 160,
+    "g": 130,
     "b": 0,
     "a": 0
    

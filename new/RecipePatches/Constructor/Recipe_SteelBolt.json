@@ -2,7 +2,7 @@
 {
   "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
   "Name": "Steel Bolt",
-  "category": "StandardParts_C",
+  "category": "IndustrialParts_C",
   "Ingredients": [
     {
       "Item": "Desc_SteelRod",
@@ -19,5 +19,5 @@
   ],
   "ProducedIn": [ "Build_ConstructorMk1" ],
   "ManufacturingDuration": 24,
-  "ManufacturingMenuPriority": 24
+  "ManufacturingMenuPriority": 2
 }

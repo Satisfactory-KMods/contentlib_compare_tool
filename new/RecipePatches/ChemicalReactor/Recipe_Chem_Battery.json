@@ -1,6 +1,7 @@
 //SatisfactoryPlus/Content/Recipes/ChemicalReactor/Recipe_ChemReac_Battery.Recipe_ChemReac_Battery_C
 {
   "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Alternate: Nickel-Zinc Battery",
   "Category": "Electronics_C",
   "Ingredients": [
     {

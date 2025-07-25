@@ -7,19 +7,19 @@
   "Cost": [
     {
       "Item": "Desc_ModularFrameHeavy",
-      "Amount": 10
+      "Amount": 15
     },
     {
       "Item": "Desc_SteelPlateReinforced",
-      "Amount": 50
+      "Amount": 100
     },
     {
       "Item": "Desc_Plastic",
-      "Amount": 100
+      "Amount": 200
     },
     {
       "Item": "Desc_Rubber",
-      "Amount": 100
+      "Amount": 200
     }
 
   ],

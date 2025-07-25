@@ -1,7 +1,7 @@
 //KLib/Assets/Ressources/Raw/Gas/Desc_Ethylene.Desc_Ethylene_C
 {
   "Name": "Ethylene Gas",
-  "Description": "Ethylene is made by cracking Naptha. It is a monomer used to make polymers like Polyethylene, a plastic.",
+  "Description": "Ethylene is made by cracking Naptha. It is a monomer used to make polymers like Polyethylene, a plastic.\nCan be burned in Solution Heaters.",
   "Form": "RF_GAS",
   "StackSize": "Fluid",
   "VisualKit": "Kit_Ethylene",

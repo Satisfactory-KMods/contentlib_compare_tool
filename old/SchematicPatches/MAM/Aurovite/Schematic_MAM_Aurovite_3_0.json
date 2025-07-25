@@ -8,5 +8,6 @@
       "Amount": 50
     }
   ],
-  "Recipes": [ "Recipe_Smelter_CateriumIngot_C" ]
+  "ClearRecipes":  true,
+  "Recipes": [ "Recipe_Crusher_CrushedAurovite_C", "Recipe_Handcrafter_CrushedAurovite_C"]
 }

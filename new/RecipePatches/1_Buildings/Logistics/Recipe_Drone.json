@@ -1,0 +1,26 @@
+//Game/FactoryGame/Recipes/Buildings/Recipe_DroneTransport.Recipe_DroneTransport_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Ingredients": [
+    {
+      "Item": "BP_ItemDescriptorPortableMiner_C",
+      "Amount": 1
+    },
+    {
+      "Item": "Desc_ModularFrameLightweight",
+      "Amount": 5
+    },
+    {
+      "Item": "Desc_AluminumPlate",
+      "Amount": 25
+    },
+    {
+      "Item": "Desc_Motor",
+      "Amount": 10
+    },
+    {
+      "Item": "Desc_FanBlade",
+      "Amount": 50
+    }
+  ]
+}

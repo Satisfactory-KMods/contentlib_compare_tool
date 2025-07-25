@@ -8,11 +8,11 @@
   "Cost": [
     {
       "Item": "Desc_Rubber",
-      "Amount": 1000
+      "Amount": 750
     },
     {
       "Item": "Desc_Plastic",
-      "Amount": 1000
+      "Amount": 750
     },
     {
       "Item": "Desc_Wire",

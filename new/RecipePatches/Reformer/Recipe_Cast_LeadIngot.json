@@ -6,22 +6,22 @@
   "Ingredients": [
     {
       "Item": "Desc_LiquidLead",
-      "Amount": 4000
+      "Amount": 6000
     },
     {
       "Item": "Desc_Water",
-      "Amount": 8000
+      "Amount": 4000
     }
 
   ],
   "Products": [
     {
       "Item": "Desc_LeadIngot",
-      "Amount": 12
+      "Amount": 18
     },
     {
       "Item": "Desc_Gas_Steam_Hot",
-      "Amount": 6000
+      "Amount": 4000
     }
   ],
   "ProducedIn": [ "Build_SoldifierAndCooler" ],

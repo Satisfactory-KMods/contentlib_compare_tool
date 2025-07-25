@@ -2,6 +2,10 @@
   "Class": "/KLib/Assets/Buildings/Crusher/Build_Crusher.Build_Crusher_C",
   "Edits": [
     {
+      "Property": "mDescription",
+      "Value": "Crushed raw ores and seperates the wanted from the unwanted materials.\nThe first step of processing for many ores.\n\nSolid Output: The first solid output port is on the right."
+    },
+    {
       "Property": "mOverrideProductionShardSlotSize",
       "Value": true
     },

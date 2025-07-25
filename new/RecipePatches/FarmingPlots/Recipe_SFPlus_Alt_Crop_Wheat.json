@@ -1,0 +1,29 @@
+//SatisfactoryPlus/Content/Recipes/Plots/Water/Recipe_SF+_Alt_Crop_Wheat.Recipe_SF+_Alt_Crop_Wheat_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Wheat (Watered)",
+  "Ingredients": [
+    {
+      "Item": "Desc_FF_WheatSeed",
+      "Amount": 5
+    },
+    {
+      "Item": "Desc_Water",
+      "Amount": 5000
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_FF_Crop_Wheat",
+      "Amount": 5
+    },
+    {
+      "Item": "Desc_Leaves_C",
+      "Amount": 3
+    }
+  ],
+  "ProducedIn": [ "Build_FF_CropPlot_C" ],
+  "ManufacturingDuration": 10,
+  "ManufacturingMenuPriority": 1
+}

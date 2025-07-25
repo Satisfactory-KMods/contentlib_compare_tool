@@ -1,0 +1,25 @@
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Liquid Biofuel",
+  "OverrideCategory": "Fuel_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_Biofuel_C",
+      "Amount": 4
+    },
+    {
+      "Item": "Desc_Water",
+      "Amount": 7500
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_LiquidBiofuel_C",
+      "Amount": 10000
+    }
+  ],
+  "ManufacturingDuration": 10,
+  "ManufacturingMenuPriority": 0.5,
+  "ProducedIn": [ "Build_ChemReactor" ]
+}

@@ -3,7 +3,7 @@
   "Name": "Magnitar™ Magnet Production",
   "Type": "Milestone",
   "Tier": 6,
-  "MenuPriority": 5,
+  "MenuPriority": 4,
   "ClearCost": true,
   "Cost": [
     {

@@ -6,16 +6,16 @@
   "Ingredients": [
     {
       "Item": "Desc_CrushedIron",
-      "Amount": 15
+      "Amount": 3
     }
 
   ],
   "Products": [
     {
       "Item": "Desc_IronIngot",
-      "Amount": 15
+      "Amount": 3
     }
   ],
-  "ManufacturingDuration": 30,
+  "ManufacturingDuration": 6,
   "ManufacturingMenuPriority": 1
 }

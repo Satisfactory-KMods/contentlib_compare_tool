@@ -1,0 +1,28 @@
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Ficsite™ Ingot (Caterium)",
+  "OverrideCategory": "Ingots",
+  "Ingredients": [
+    {
+      "Item": "Desc_SAMIngot",
+      "Amount": 6
+    },
+    {
+      "Item": "Desc_GoldIngot",
+      "Amount": 8
+    }
+  ],
+  "Products": [
+    {
+      "Item": "Desc_FicsiteIngot",
+      "Amount": 2
+    }
+
+
+  ],
+  "ManufacturingDuration": 4,
+  "ManufacturingMenuPriority": 2,
+  "VariablePowerConsumptionConstant": 200,
+  "VariablePowerConsumptionFactor": 400,
+  "ProducedIn": [ "Build_Converter" ]
+}

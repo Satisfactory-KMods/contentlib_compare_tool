@@ -4,6 +4,11 @@
     {
       "Property": "mItemsPerCycle",
       "Value": 3000
+    },
+    {
+      "Property": "mDescription",
+      "Value": "Default extraction rate: 180m³ water per minute.\r\nHead Lift: 10 meters.\r\n(Allows fluids to be transported 10 meters upwards.)\r\n\r\nExtracts water from the body of water it is built on.\r\nNote that the water needs to be deep enough and that rivers do not commonly suffice."
     }
+
   ]
 }

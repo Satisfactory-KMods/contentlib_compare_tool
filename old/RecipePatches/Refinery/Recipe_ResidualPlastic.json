@@ -5,7 +5,7 @@
   "Ingredients": [
     {
       "Item": "Desc_PolymerResin",
-      "Amount": 12
+      "Amount": 24
     },
     {
       "Item": "Desc_LiquidFuel",
@@ -16,7 +16,7 @@
   "Products": [
     {
       "Item": "Desc_Plastic",
-      "Amount": 6
+      "Amount": 12
     }
   ],
   "ManufacturingDuration": 12,

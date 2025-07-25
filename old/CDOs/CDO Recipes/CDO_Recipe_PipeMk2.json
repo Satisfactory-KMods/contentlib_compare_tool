@@ -1,0 +1,18 @@
+{
+  "Class": "/SatisfactoryPlus/CDOHelper/RecipeCDO/MainGame/CDOHelper_PiplineMk2_2.CDOHelper_PiplineMk2_2_C",
+  "Edits": [
+    {
+      "Property": "mIngredients",
+      "Value": [
+        {
+          "ItemClass": "/KLib/Assets/Parts/Production/Metal/Pipes/Desc_BrassPipe.Desc_BrassPipe_C",
+          "Amount": 2
+        },
+        {
+          "ItemClass": "/KLib/Assets/Parts/Production/Metal/Screw/Desc_SteelBolt.Desc_SteelBolt_C",
+          "Amount": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+    "$comment": "This is a new file, no old version exists",
+    "$class": "PaintFinishDesc_Titanium",
+    "$classShort": "PaintFinishDesc_Titanium",
+    "Class": "PaintFinishDesc_Titanium",
+    "Edits": [
+        {
+            "Property": "MetallicValue",
+            "Value": 1
+        },
+        {
+            "Property": "RoughnessValue",
+            "Value": 0.4
+        },
+        {
+            "Property": "mForcedColor",
+            "Value": {
+                "R": 0.5,
+                "G": 0.29,
+                "B": 0.41,
+                "A": 1
+            }
+        },
+        {
+            "Property": "mHasForcedColor",
+            "Value": true
+        }
+    ]
+}

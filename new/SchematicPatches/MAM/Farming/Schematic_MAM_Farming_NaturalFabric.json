@@ -1,0 +1,20 @@
+//SatisfactoryPlus/Content/SchematicManager/MAM/Schematics/Farming/Schematic_Tree_Farming_Fabric.Schematic_Tree_Farming_Fabric_C
+{
+  "Name": "Natural Fabric",
+  "ClearCost": true,
+  "Cost": [
+    {
+      "Item": "Desc_FF_Crop_Cotton_C",
+      "Amount": 100
+    },
+    {
+      "Item": "Desc_Mycelia_C",
+      "Amount": 100
+    }
+  ],
+  "ClearRecipes": true,
+  "Recipes": [
+    "Recipe_Refinery_Fabric",
+    "Recipe_Assembler_Fabric"
+  ]
+}

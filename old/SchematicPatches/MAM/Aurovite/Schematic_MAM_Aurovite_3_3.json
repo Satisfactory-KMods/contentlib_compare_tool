@@ -13,5 +13,5 @@
     }
   ],
   "ClearRecipes": true,
-  "Recipes": [ "Recipe_Constructor_CateriumPlate_C", "Recipe_Constructor_CateriumSheet_C", "Recipe_Assembler_AiLimiter_C" ]
+  "Recipes": [ "Recipe_Constructor_CateriumPlate_C", "Recipe_Assembler_AiLimiter_C" ]
 }

@@ -16,5 +16,6 @@
       "Amount": 100
     }
   ],
-  "Recipes": [ "Recipe_SlugTerrarium_C", "Recipe_SnailFood_T1" ]
+  "ClearRecipes": true,
+  "Recipes": [ "Recipe_SlugTerrarium_C", "Recipe_Crusher_SnailFoodMk_1_C", "Recipe_Cooker_SnailFoodMk_2_C" ]
 }

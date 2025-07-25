@@ -1,13 +1,13 @@
 {
-  "Class": "/Game/FactoryGame/Buildable/Factory/OilRefinery/Build_OilRefinery.Build_OilRefinery_C",
+  "Class": "/SatisfactoryPlus/CDOHelper/BuildableCDO/CDOHelper_Refinery.CDOHelper_Refinery_C",
   "Edits": [
     {
       "Property": "mProductionShardSlotSize",
-      "Value": "4"
+      "Value": "2"
     },
     {
       "Property": "mProductionShardBoostMultiplier",
-      "Value": "0.25"
+      "Value": "0.5"
     }
   ]
 }

@@ -1,0 +1,21 @@
+{
+  "Class": "/SatisfactoryPlus/Content/SchematicManager/MAM/NewTrees/ResearchTree_Satmonium.ResearchTree_Satmonium_C",
+  "Edits": [
+    {
+      "Property": "mPreUnlockDisplayName",
+      "Value": "Gold-like mineral"
+    },
+    {
+      "Property": "mDisplayName",
+      "Value": "Aurovite"
+    },
+    {
+      "Property": "mPreUnlockDescription",
+      "Value": "Our scans have shown that there is a metal on this planet that is very similar to Caterium, a gold-like substance rarely found in this galactic sector."
+    },
+    {
+      "Property": "mPostUnlockDescription",
+      "Value": "This ore, now dubbed Aurovite, appears to be a mixture of different metals commonly used in electronics."
+    }
+  ]
+}

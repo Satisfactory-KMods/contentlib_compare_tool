@@ -1,0 +1,25 @@
+//SatisfactoryPlus/Content/SchematicManager/MAM/Schematics/Farming/Schematic_Tree_Farming_FertDirtFarming.Schematic_Tree_Farming_FertDirtFarming_C
+{
+  "Name": "Peat Crops",
+  "ClearCost": true,
+  "Cost": [
+    {
+      "Item": "Desc_FF_YosseSeed",
+      "Amount": 50
+    },
+    {
+      "Item": "Desc_FF_BananaSeed",
+      "Amount": 50
+    },
+    {
+      "Item": "Desc_FF_PumpkinSeed",
+      "Amount": 50
+    }
+  ],
+  "ClearRecipes": true,
+  "Recipes": [
+    "Recipe_SF+_Crop_YosseBerry_C",
+    "Recipe_SF+_Crop_Banana_C",
+    "Recipe_SF+_Crop_Pumpkin_C"
+  ]
+}

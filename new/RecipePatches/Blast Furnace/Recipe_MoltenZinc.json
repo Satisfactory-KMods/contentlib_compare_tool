@@ -16,10 +16,10 @@
     },
     {
       "Item": "Desc_LiquidSlag",
-      "Amount": 3000
+      "Amount": 2000
     }
   ],
   "ProducedIn": [ "Build_FlexibleBlastFurnaceSmelter" ],
-  "ManufacturingDuration": 10,
+  "ManufacturingDuration": 6,
   "ManufacturingMenuPriority": 6
 }

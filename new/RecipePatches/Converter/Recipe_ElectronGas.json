@@ -1,0 +1,25 @@
+//SatisfactoryPlus/Content/Recipes/Converter/Recipe_Converter_ElectronGas.Recipe_Converter_ElectronGas_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Condensed Neutrium Gas",
+  "OverrideCategory": "Quantum_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_CopperDust_C",
+      "Amount": 50
+    }
+  ],
+  "Products": [
+    {
+      "Item": "Desc_Neutronium",
+      "Amount": 10000
+    }
+
+
+  ],
+  "ManufacturingDuration": 40,
+  "ManufacturingMenuPriority": 0,
+  "VariablePowerConsumptionConstant": 500,
+  "VariablePowerConsumptionFactor": -500,
+  "ProducedIn": [ "Build_Converter" ]
+}

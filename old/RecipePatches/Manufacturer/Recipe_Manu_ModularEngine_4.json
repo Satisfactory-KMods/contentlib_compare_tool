@@ -6,19 +6,19 @@
   "Ingredients": [
     {
       "Item": "Desc_SpaceElevatorPart_2_C",
-      "Amount": 15
+      "Amount": 3
     },
     {
       "Item": "Desc_Motor",
-      "Amount": 15
+      "Amount": 3
     },
     {
       "Item": "Desc_CircuitBoard",
-      "Amount": 20
+      "Amount": 4
     },
     {
       "Item": "Desc_Rubber",
-      "Amount": 50
+      "Amount": 20
     }
 
   ],
@@ -26,11 +26,11 @@
 
     {
       "Item": "Desc_SpaceElevatorPart_4_C",
-      "Amount": 5
+      "Amount": 1
     }
 
   ],
   "ProducedIn": [ "Build_ManufacturerMk1" ],
-  "ManufacturingDuration": 120,
+  "ManufacturingDuration": 24,
   "ManufacturingMenuPriority": 1
 }

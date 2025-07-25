@@ -1,0 +1,21 @@
+{
+  "Class": "/SatisfactoryPlus/Content/SchematicManager/MAM/NewTrees/ResearchTree_NetworkStorage.ResearchTree_NetworkStorage_C",
+  "Edits": [
+    {
+      "Property": "mPreUnlockDisplayName",
+      "Value": "Unknown Optical Medium"
+    },
+    {
+      "Property": "mDisplayName",
+      "Value": "Kerr Crystals"
+    },
+    {
+      "Property": "mPreUnlockDescription",
+      "Value": "Initial planetary-scans indicate that an unknown optical crystalline material is present on Massage-2(AB)b. A sample is required to determine if useful applications are possible."
+    },
+    {
+      "Property": "mPostUnlockDescription",
+      "Value": "This mineral seems to be a modified form of Kyalite, but with much more interesting optical properties. R&D believes it maybe be used to produce fibre optics and photon manipulation technology."
+    }
+  ]
+}

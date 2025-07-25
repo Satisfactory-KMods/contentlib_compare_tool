@@ -1,23 +1,22 @@
-//KLib/Assets/Buildings/ChemReactor/Recipe_ChemReactor.Recipe_ChemReactor_C
 {
-  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
-  "Ingredients": [
-    {
-      "Item": "Desc_Motor",
-      "Amount": 10
-    },
-    {
-      "Item": "Desc_SteelPlateReinforced",
-      "Amount": 15
-    },
-    {
-      "Item": "Desc_ModularFrameHeavy",
-      "Amount": 5
-    },
-    {
-      "Item": "Desc_BrassPlates",
-      "Amount": 20
-    }
-  ],
-  "ManufacturingMenuPriority": 8
+    "Ingredients": [
+        {
+            "Item": "Desc_Motor",
+            "Amount": 10
+        },
+        {
+            "Item": "Desc_SteelPlateReinforced",
+            "Amount": 15
+        },
+        {
+            "Item": "Desc_ModularFrameHeavy",
+            "Amount": 5
+        },
+        {
+            "Item": "Desc_BrassPlates",
+            "Amount": 20
+        }
+    ],
+    "ManufacturingMenuPriority": 8,
+    "$comment": "This file has been removed, no new version exists"
 }

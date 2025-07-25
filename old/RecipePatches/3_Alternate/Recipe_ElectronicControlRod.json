@@ -1,26 +1,26 @@
-//SatisfactoryPlus/Content/SchematicManager/Alternative/ElectronicControlRod/Recipe_Alternative_ElectronicControlRod.Recipe_Alternative_ElectronicControlRod_C
 {
-  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
-  "Name": "Alternate: Electronic Control Rod",
-  "OverrideCategory": "Electronics_C",
-  "Ingredients": [
-    {
-      "Item": "Desc_CircuitBoardHighSpeed",
-      "Amount": 10
-    },
-    {
-      "Item": "Desc_HighSpeedWire",
-      "Amount": 160
-    }
-  ],
-  "Products": [
-    {
-      "Item": "Desc_ElectromagneticControlRod",
-      "Amount": 8
-    }
-  ],
-  "ProducedIn": [ "Build_AssemblerMk1" ],
-  "ManufacturingDuration": 40,
-  "ManufacturingMenuPriority": 5.1
-
+    "Name": "Alternate: Electronic Control Rod",
+    "OverrideCategory": "Electronics_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_CircuitBoardHighSpeed",
+            "Amount": 10
+        },
+        {
+            "Item": "Desc_HighSpeedWire",
+            "Amount": 160
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_ElectromagneticControlRod",
+            "Amount": 8
+        }
+    ],
+    "ProducedIn": [
+        "Build_AssemblerMk1"
+    ],
+    "ManufacturingDuration": 40,
+    "ManufacturingMenuPriority": 5.1,
+    "$comment": "This file has been removed, no new version exists"
 }

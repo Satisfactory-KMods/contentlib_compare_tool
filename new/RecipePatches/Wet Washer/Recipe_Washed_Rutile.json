@@ -6,25 +6,25 @@
   "Ingredients": [
     {
       "Item": "Desc_OreIron",
-      "Amount": 78
+      "Amount": 20
     },
     {
-      "Item": "Desc_SulfuricAcid",
-      "Amount": 10000
+      "Item": "Desc_NitricAcid",
+      "Amount": 2000
     }
 
   ],
   "Products": [
     {
-      "Item": "Desc_CrushedTitan",
-      "Amount": 12
+      "Item": "Desc_PurifiedTitan",
+      "Amount": 4
     },
     {
-      "Item": "Desc_Wastewater",
+      "Item": "Desc_LiquidSlag",
       "Amount": 8000
     }
   ],
   "ProducedIn": [ "Build_OreWascher" ],
-  "ManufacturingDuration": 24,
+  "ManufacturingDuration": 12,
   "ManufacturingMenuPriority": 10
 }

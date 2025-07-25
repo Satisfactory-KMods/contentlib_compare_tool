@@ -1,0 +1,12 @@
+{
+  "Name": "Alternate: Quantum Electronics",
+  "Type": "Alternate",
+  "VisualKit": "Desc_QuantumEncoder_C",
+  "Recipes": [
+    "Recipe_Alternative_EncodedComputer",
+    "Recipe_Alternative_IntegratedCircuit",
+    "Recipe_Alternative_HighSpeedInterface",
+    "Recipe_Alternative_SolidstateSupercomp"
+  ],
+  "DependsOn": [ "Schematic_SF+_9-2_QuantumEncoding" ]
+}

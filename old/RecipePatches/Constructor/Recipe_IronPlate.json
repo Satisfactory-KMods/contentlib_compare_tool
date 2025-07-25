@@ -1,22 +1,19 @@
-//Game/FactoryGame/Recipes/Constructor/Recipe_IronPlate.Recipe_IronPlate_C
 {
-  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
-  "Name": "Iron Plate",
-  "Category": "StandardParts_C",
-  "Ingredients": [
-    {
-      "Item": "Desc_IronIngot",
-      "Amount": 6
-    }
-
-  ],
-  "Products": [
-    {
-      "Item": "Desc_IronPlate",
-      "Amount": 4
-    }
-  ],
-  "ProducedIn": [ "Build_ConstructorMk1" ],
-  "ManufacturingDuration": 12,
-  "ManufacturingMenuPriority": 2
+    "Name": "Iron Plate",
+    "Category": "StandardParts_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_IronIngot",
+            "Amount": 6
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_IronPlate",
+            "Amount": 4
+        }
+    ],
+    "ManufacturingDuration": 12,
+    "ManufacturingMenuPriority": 2,
+    "$comment": "This file has been removed, no new version exists"
 }

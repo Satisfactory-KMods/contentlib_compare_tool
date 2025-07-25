@@ -1,0 +1,26 @@
+//SatisfactoryPlus/Content/SchematicManager/Alternative/LeadedFuel/Recipe_Alternative_LeadedFuel.Recipe_Alternative_LeadedFuel_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Alternate: Leaded Fuel",
+  "OverrideCategory": "Cat_Fuel",
+  "Ingredients": [
+    {
+      "Item": "Desc_HeavyOilResidue",
+      "Amount": 2000
+    },
+    {
+      "Item": "Desc_CrushedLead",
+      "Amount": 1
+    }
+  ],
+  "Products": [
+    {
+      "Item": "Desc_LiquidFuel",
+      "Amount": 6000
+    }
+  ],
+  "ProducedIn": [ "Build_OilRefinery" ],
+  "ManufacturingDuration": 12,
+  "ManufacturingMenuPriority": 2
+
+}

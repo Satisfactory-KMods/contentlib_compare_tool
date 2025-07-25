@@ -32,7 +32,7 @@
     "Recipe_Foundry_MagneticCore",
     "Recipe_OilRefinery_BarMagnet",
     "Recipe_Assembler_ElectromagneticControlRod",
-    "Recipe_ChemReac_Battery",
+    "Recipe_Manufacturer_HSConnector",
     "Recipe_Manufacturer_AdaptiveControlUnit"
   ],
   "Time": 360

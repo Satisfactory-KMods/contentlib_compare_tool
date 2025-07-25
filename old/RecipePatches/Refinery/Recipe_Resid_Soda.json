@@ -1,0 +1,30 @@
+{
+    "Name": "Residual Soda",
+    "OverrideCategory": "AdvancedRefinement_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_CryoliteResidue_C",
+            "Amount": 32
+        },
+        {
+            "Item": "Desc_Water",
+            "Amount": 8000
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_CausticSoda_C",
+            "Amount": 6000
+        },
+        {
+            "Item": "Desc_Silica",
+            "Amount": 9
+        }
+    ],
+    "ManufacturingDuration": 12,
+    "ManufacturingMenuPriority": 4,
+    "ProducedIn": [
+        "Build_OilRefinery"
+    ],
+    "$comment": "This file has been removed, no new version exists"
+}

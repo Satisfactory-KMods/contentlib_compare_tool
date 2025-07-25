@@ -1,0 +1,29 @@
+{
+    "$comment": "This is a new file, no old version exists",
+    "$class": "PaintFinishDesc_Ficsite_C",
+    "$classShort": "PaintFinishDesc_Ficsite_C",
+    "Class": "PaintFinishDesc_Ficsite_C",
+    "Edits": [
+        {
+            "Property": "MetallicValue",
+            "Value": 1
+        },
+        {
+            "Property": "RoughnessValue",
+            "Value": 0.427
+        },
+        {
+            "Property": "mForcedColor",
+            "Value": {
+                "R": 1,
+                "G": 0.29,
+                "B": 0.012,
+                "A": 1
+            }
+        },
+        {
+            "Property": "mHasForcedColor",
+            "Value": true
+        }
+    ]
+}

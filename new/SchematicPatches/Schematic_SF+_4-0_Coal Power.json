@@ -1,11 +1,16 @@
 //SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T4/Schematic_SF+_T4_0.Schematic_SF+_T4_0_C
 {
-  "Name": "Automated Coal Power",
-  "MenuPriority": 1,
+  "Name": "Advanced Steam Production",
+  "Tier": 3,
+  "MenuPriority": 3.5,
   "ClearCost": true,
   "Cost": [
     {
       "Item": "Desc_ModularFrame",
+      "Amount": 50
+    },
+    {
+      "Item": "Desc_TinPlate",
       "Amount": 100
     },
     {
@@ -17,11 +22,11 @@
       "Amount": 200
     },
     {
-      "Item": "Desc_SteelBolt",
+      "Item": "Desc_IronScrew",
       "Amount": 250
     }
   ],
   "ClearRecipes": true,
-  "Recipes": [ "Recipe_RP_MP_CoalHeater_C" ],
+  "Recipes": [ "Recipe_RP_MP_BoilerPlatform_C", "Recipe_RP_MP_BiomassHeater_C", "Recipe_RP_MP_CoalHeater_C", "Recipe_RP_MP_BoilerMk1_C", "Recipe_RP_MP_CoolingPlatform_C", "Recipe_RP_MP_Co2Cooler_C", "Recipe_RP_MP_SteamCooler_C" ],
   "Time": 300
 }

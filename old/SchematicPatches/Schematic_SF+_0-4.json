@@ -8,11 +8,11 @@
     },
     {
       "Item": "Desc_Cable",
-      "Amount": 20
+      "Amount": 15
     },
     {
       "Item": "Desc_Cement",
-      "Amount": 40
+      "Amount": 50
     }
   ],
   "ClearRecipes": true,

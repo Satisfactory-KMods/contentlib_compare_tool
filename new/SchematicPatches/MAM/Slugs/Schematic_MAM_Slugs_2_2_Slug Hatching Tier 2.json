@@ -5,13 +5,9 @@
   "Cost": [
     {
       "Item": "SlugDesc_WhiteSlug_C",
-      "Amount": 50
-    },
-    {
-      "Item": "SlugDesc_Lime",
-      "Amount": 50
+      "Amount": 150
     }
   ],
   "ClearRecipes": true,
-  "Recipes": [ "Recipe_SlugHatchery_Mk1_Night_C", "Recipe_Crusher_SnailFoodMk_3_C" ]
+  "Recipes": [ "Recipe_SlugHatchery_Mk1_Night_C", "Recipe_Crusher_SnailFoodMk_3_C", "Recipe_Compost_DilutedWhiteSlime" ]
 }

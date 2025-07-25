@@ -1,0 +1,8 @@
+//KLib/Assets/Ressources/Raw/Fluids/Desc_CoolingWater.Desc_CoolingWater_C
+{
+  "Name": "Coolant",
+  "Description": "A generic coolant formulated for use in cryogenic parts and for use in the Storage System.",
+  "Form": "RF_GAS",
+  "StackSize": "Fluid",
+  "VisualKit": "Kit_Coolant"
+}

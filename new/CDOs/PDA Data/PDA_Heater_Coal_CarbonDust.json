@@ -1,0 +1,41 @@
+{
+  "Class": "/SatisfactoryPlus/AssetDatas/RRD/RP/Heater/PDA_SFP_Heater_Coal_CompactCoal.PDA_SFP_Heater_Coal_CompactCoal",
+  "Edits": [
+    {
+      "Property": "mInput",
+      "Value": {
+        "ItemClass": "/KLib/Assets/Parts/Production/Powder/Desc_CarbonDust.Desc_CarbonDust_C",
+        "amount": 1
+      }
+    },
+    {
+      "Property": "mOutput",
+      "Value": {
+        "ItemClass": "/KLib/Assets/Ressources/Raw/Gas/Desc_FlueGas.Desc_FlueGas_C",
+        "amount": 1500
+      }
+    },
+    {
+      "Property": "mDuration",
+      "Value": 7.5
+    },
+    {
+      "Property": "mPriority",
+      "Value": 2
+    },
+    {
+      "Property": "mHeat",
+      "Value": 25
+    },
+    {
+      "Property": "mMinHeatValue",
+      "Value": 20
+    },
+    {
+      "Property": "mMaxHeatValue",
+      "Value": 250
+    }
+   
+
+  ]
+}

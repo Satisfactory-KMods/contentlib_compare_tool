@@ -6,17 +6,17 @@
   "Ingredients": [
     {
       "Item": "Desc_SlugSlime_Low",
-      "Amount": 3000
+      "Amount": 6000
     }
   ],
   "Products": [
     {
       "Item": "Desc_SlugSlime_High",
-      "Amount": 100
+      "Amount": 600
     }
   ],
   "ProducedIn": [ "Build_OilRefinery" ],
-  "ManufacturingDuration": 3,
+  "ManufacturingDuration": 6,
   "ManufacturingMenuPriority": 1
 
 }

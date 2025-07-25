@@ -1,0 +1,22 @@
+{
+  "Class": "/SatisfactoryPlus/CDOHelper/RecipeCDO/MainGame/CDOHelper_Recipes_PowerPolesMk3.CDOHelper_Recipes_PowerPolesMk3_C",
+  "Edits": [
+    {
+      "Property": "mIngredients",
+      "Value": [
+        {
+          "ItemClass": "/Game/FactoryGame/Resource/Parts/HighSpeedConnector/Desc_HighSpeedConnector.Desc_HighSpeedConnector_C",
+          "Amount": 2
+        },
+        {
+          "ItemClass": "/KLib/Assets/Parts/Production/Metal/Screw/Desc_SteelBolt.Desc_SteelBolt_C",
+          "Amount": 5
+        },
+        {
+          "ItemClass": "/KLib/Assets/Parts/Production/Metal/Rods/Desc_CopperRod.Desc_CopperRod_C",
+          "Amount": 1
+        }
+      ]
+    }
+  ]
+}

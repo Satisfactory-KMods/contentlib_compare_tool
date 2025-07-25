@@ -1,0 +1,29 @@
+//SatisfactoryPlus/Content/Recipes/Plots/Water/Recipe_SF+_Alt_Crop_Carrot.Recipe_SF+_Alt_Crop_Carrot_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Carrot (Watered)",
+  "Ingredients": [
+    {
+      "Item": "Desc_FF_CarrotSeed",
+      "Amount": 5
+    },
+    {
+      "Item": "Desc_Water",
+      "Amount": 5000
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_FF_Crop_Carrot",
+      "Amount": 5
+    },
+    {
+      "Item": "Desc_Leaves_C",
+      "Amount": 3
+    }
+  ],
+  "ProducedIn": [ "Build_FF_CropPlot_C" ],
+  "ManufacturingDuration": 10,
+  "ManufacturingMenuPriority": 4
+}
