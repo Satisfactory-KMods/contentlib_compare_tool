@@ -6,11 +6,11 @@
   "Ingredients": [
     {
       "Item": "Desc_AluminumPlate_C",
-      "Amount": 12
+      "Amount": 6
     },
     {
       "Item": "Desc_CoolingWater",
-      "Amount": 4000
+      "Amount": 2000
     }
 
   ],

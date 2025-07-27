@@ -1,7 +1,7 @@
-//KLib/Assets/Ressources/Raw/Fluids/Metals/Desc_TiHy.Desc_TiHy_C
 {
-  "Name": "TiHy Solution",
-  "Description": "Titanium Hydride, refered to as 'TiHy' or 'TeeHee' by FICSIT personnel, dissolved in Hydrochloric Acid.\nUsed to produce Titanium parts or to store and transport Hydrogen.",
-  "StackSize": "Fluid",
-  "VisualKit": "Kit_TiHy"
+    "Name": "TiHy Solution",
+    "Description": "Titanium Hydride, refered to as 'TiHy' or 'TeeHee' by FICSIT personnel, dissolved in Hydrochloric Acid.\nUsed to produce Titanium parts or to store and transport Hydrogen.",
+    "StackSize": "Fluid",
+    "VisualKit": "Kit_TiHy",
+    "$comment": "This file has been removed, no new version exists"
 }

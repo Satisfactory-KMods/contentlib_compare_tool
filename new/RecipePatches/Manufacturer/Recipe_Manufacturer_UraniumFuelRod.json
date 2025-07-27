@@ -1,0 +1,29 @@
+//SatisfactoryPlus/Content/Recipes/Manufacturer/Recipe_Manufacturer_UraniumFuelRod.Recipe_Manufacturer_UraniumFuelRod_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Uranium Fuel Rod",
+  "OverrideCategory": "Nuclear_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_UraniumCell",
+      "Amount": 80
+    },
+    {
+      "Item": "Desc_InvarPipe",
+      "Amount": 45
+    },
+    {
+      "Item": "Desc_ElectromagneticControlRod",
+      "Amount": 10
+    }
+  ],
+  "Products": [
+    {
+      "Item": "Desc_NuclearFuelRod_C",
+      "Amount": 2
+    }
+  ],
+  "ProducedIn": [ "Build_ManufacturerMk1" ],
+  "ManufacturingDuration": 200,
+  "ManufacturingMenuPriority": 1
+}

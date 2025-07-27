@@ -1,0 +1,11 @@
+//KLib/Assets/Parts/Production/TimeCrystal/Desc_TimeC_Cable.Desc_TimeC_Cable_C
+{
+  "Name": "Data Cable",
+  "Description": "Used for lossless long distance transportation of optical signals.\nFundamental for optical computing.",
+  "Form": "Solid",
+  "Visualkit": "Kit_DataCable",
+  "StackSize": "LARGE",
+  "CanBeDiscarded": 1,
+  "EnergyValue": 0,
+  "NameShort": "Data"
+}

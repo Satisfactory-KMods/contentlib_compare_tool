@@ -5,19 +5,19 @@
   "Ingredients": [
     {
       "Item": "Desc_AluminumPlateReinforced",
-      "Amount": 2
-    },
-    {
-      "Item": "Desc_Rubber",
       "Amount": 4
     },
     {
+      "Item": "Desc_Rubber",
+      "Amount": 5
+    },
+    {
       "Item": "Desc_CoolingWater",
-      "Amount": 8000
+      "Amount": 12000
     },
     {
       "Item": "Desc_NitrogenGas",
-      "Amount": 24000
+      "Amount": 20000
     }
   ],
   "Products": [

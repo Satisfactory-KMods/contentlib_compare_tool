@@ -1,0 +1,12 @@
+//SatisfactoryPlus/Content/SchematicManager/Alternative/DarkKerrCrystal/Schematic_Alternative_DarkKerrCrystal.Schematic_Alternative_DarkKerrCrystal_C
+{
+  "Name": "Alternate: Dark Matter Condensates",
+  "Type": "Alternate",
+  "VisualKit": "Desc_DarkMatter_C",
+  "Recipes": [
+    "Recipe_Alternative_DarkMatterCondensate",
+    "Recipe_Alternative_DarkMatterTrap",
+    "Recipe_Alternative_DarkKerrCrystal"
+  ],
+  "DependsOn": [ "Schematic_SF+_9-1" ]
+}

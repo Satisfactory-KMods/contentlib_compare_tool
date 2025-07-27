@@ -1,7 +1,7 @@
 //SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T3/Schematic_SF+_T3_2.Schematic_SF+_T3_2_C
 {
   "Name": "Basic Ore Washing",
-  "MenuPriority": 3,
+  "MenuPriority": 3.5,
   "ClearCost": true,
   "Cost": [
     {

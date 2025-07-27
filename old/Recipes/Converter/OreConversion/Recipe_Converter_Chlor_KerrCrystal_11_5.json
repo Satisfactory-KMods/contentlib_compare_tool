@@ -1,0 +1,28 @@
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Chlorine Gas (Kerr Crystal)",
+  "OverrideCategory": "Cat_RawConversion_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_SAMIngot_C",
+      "Amount": 1
+    },
+    {
+      "Item": "Res_TimeCrystal_C",
+      "Amount": 2
+    }
+  ],
+  "Products": [
+    {
+      "Item": "Desc_Gas_Chlor",
+      "Amount": 6000
+    }
+
+
+  ],
+  "ManufacturingDuration": 3,
+  "ManufacturingMenuPriority": 11.5,
+  "VariablePowerConsumptionConstant": 500,
+  "VariablePowerConsumptionFactor": -500,
+  "ProducedIn": [ "Build_Converter" ]
+}

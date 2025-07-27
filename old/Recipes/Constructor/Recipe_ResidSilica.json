@@ -1,0 +1,22 @@
+{
+    "Name": "Residual Silica",
+    "OverrideCategory": "Minerals_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_CryoliteResidue",
+            "Amount": 32
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_Silica",
+            "Amount": 9
+        }
+    ],
+    "ProducedIn": [
+        "Build_ConstructorMk1"
+    ],
+    "ManufacturingDuration": 20,
+    "ManufacturingMenuPriority": 2,
+    "$comment": "This file has been removed, no new version exists"
+}

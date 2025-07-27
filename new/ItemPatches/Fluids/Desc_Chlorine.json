@@ -4,5 +4,6 @@
   "Description": "A non-flammable, pungent-smelling gas used to refine Uranium and Titanium.\n\nOn MASSAGE-2 (AB)b, it is rarely found in underground gas wells. It can also be synthesized from Muriatic Acid.",
   "Form": "RF_GAS",
   "StackSize": "Fluid",
-  "VisualKit": "Kit_Chlorine"
+  "VisualKit": "Kit_Chlorine",
+  "NameShort": "Chlor"
 }

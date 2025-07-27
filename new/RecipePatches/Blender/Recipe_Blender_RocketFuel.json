@@ -1,0 +1,32 @@
+//SatisfactoryPlus/Content/Recipes/Blender/Recipe_Blender_RocketFuel.Recipe_Blender_RocketFuel_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Rocket Fuel",
+  "OverrideCategory": "Fuel_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_LiquidFuel",
+      "Amount": 8000
+    },
+    {
+      "Item": "Desc_NitricAcid",
+      "Amount": 1000
+    },
+    {
+      "Item": "Desc_SulfurPowder",
+      "Amount": 2
+    }
+
+  ],
+  "Products": [
+
+    {
+      "Item": "Desc_RocketFuel_C",
+      "Amount": 4000
+    }
+
+  ],
+  "ManufacturingDuration": 4,
+  "ManufacturingMenuPriority": 1,
+  "ProducedIn": [ "Build_Blender" ]
+}

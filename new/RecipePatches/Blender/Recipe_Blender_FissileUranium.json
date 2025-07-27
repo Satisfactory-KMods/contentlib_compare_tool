@@ -1,0 +1,34 @@
+//SatisfactoryPlus/Content/Recipes/Blender/Recipe_Blender_FissileUranium.Recipe_Blender_FissileUranium_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Fissile Uranium",
+  "OverrideCategory": "Nuclear_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_OreUranium",
+      "Amount": 15
+    },
+    {
+      "Item": "Desc_Cement",
+      "Amount": 4
+    },
+    {
+      "Item": "Desc_Gas_Chlor",
+      "Amount": 24000
+    }
+  ],
+  "Products": [
+    {
+      "Item": "Desc_UraniumCell",
+      "Amount": 5
+    },
+    {
+      "Item": "Desc_UranChloride",
+      "Amount": 7000
+    }
+
+  ],
+  "ProducedIn": [ "Build_Blender" ],
+  "ManufacturingDuration": 12,
+  "ManufacturingMenuPriority": 1
+}

@@ -1,0 +1,35 @@
+//SatisfactoryPlus/Content/SchematicManager/Alternative/DarkKerrCrystal/Recipe_Alternative_DarkMatterTrap.Recipe_Alternative_DarkMatterTrap_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Alternate: Dark Matter Trap",
+  "OverrideCategory": "Quantum_C",
+  "Ingredients": [
+
+    {
+      "Item": "Desc_TimeCrystal",
+      "Amount": 4
+    },
+    {
+      "Item": "Desc_FicsiteMesh",
+      "Amount": 3
+    },
+    {
+      "Item": "Desc_DarkEnergy",
+      "Amount": 20000
+    }
+  ],
+
+  "Products": [
+    {
+      "Item": "Desc_DarkMatter",
+      "Amount": 8
+    }
+
+
+  ],
+  "ManufacturingDuration": 12,
+  "ManufacturingMenuPriority": 3,
+  "VariablePowerConsumptionConstant": 500,
+  "VariablePowerConsumptionFactor": 1000,
+  "ProducedIn": [ "Build_HadronCollider" ]
+}

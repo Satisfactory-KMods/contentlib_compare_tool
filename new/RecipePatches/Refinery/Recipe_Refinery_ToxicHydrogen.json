@@ -1,0 +1,28 @@
+//SatisfactoryPlus/Content/Recipes/OilRefinery/Recipe_Refinery_ToxicHydrogen.Recipe_Refinery_ToxicHydrogen_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Alternate: Pure Hydrogen",
+  "category": "SolidOilProducts_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_ToxicAir_C",
+      "Amount": 6000
+    },
+    {
+      "Item": "Desc_CarbonDust",
+      "Amount": 2
+    }
+
+  ],
+  "Products": [
+
+    {
+      "Item": "Desc_Gas_Hydrogen",
+      "Amount": 4000
+    }
+
+  ],
+  "ManufacturingDuration": 4,
+  "ManufacturingMenuPriority": 3,
+  "ProducedIn": [ "Build_OilRefinery" ]
+}

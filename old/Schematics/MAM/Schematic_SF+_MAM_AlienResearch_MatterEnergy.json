@@ -1,0 +1,75 @@
+{
+  "Name": "Early Access: Matter Conversion",
+  "Type": "MAM",
+  "ResearchTree": {
+    "ResearchTree": "ResearchTree_AlienTech_C",
+    "Coords": {
+      "X": 6,
+      "Y": 6
+    },
+    "Parents": [
+      {
+        "X": 6,
+        "Y": 5
+      }
+    ],
+    "UnhiddenBy": [
+      {
+        "X": 6,
+        "Y": 5
+      }
+    ],
+    "Children": [
+      {
+        "Child": {
+          "X": 6,
+          "Y": 7
+        },
+        "Roads": [
+          {
+            "X": 6,
+            "Y": 6
+          },
+          {
+            "X": 6,
+            "Y": 7
+          }
+        ]
+      }
+    ]
+  },
+  "MenuPriority": 6,
+  "VisualKit": "Kit_Converter",
+  "ClearCost": true,
+  "Cost": [
+    {
+      "Item": "Desc_SAMFluctuator_C",
+      "Amount": 50
+    },
+    {
+      "Item": "Desc_CrystalOscillator",
+      "Amount": 25
+    },
+    {
+      "Item": "Desc_CoolingSystem",
+      "Amount": 5
+    },
+    {
+      "Item": "Desc_ModularFrameFused",
+      "Amount": 5
+    }
+
+  ],
+  "Recipes": [
+    "Recipe_Converter",
+    "Recipe_Converter_Larrusite_Coal_1",
+    "Recipe_Converter_Coal_Siterite_2",
+    "Recipe_Converter_Callanite_Larrussite_3",
+    "Recipe_Converter_Kyalite_Larrussite_4",
+    "Recipe_Converter_Aurovite_Kyalite_5",
+    "Recipe_Converter_Montanion_Aurovite_6",
+    "Recipe_Converter_Sulfur_Coal_8"
+
+  ],
+  "Time": 10
+}

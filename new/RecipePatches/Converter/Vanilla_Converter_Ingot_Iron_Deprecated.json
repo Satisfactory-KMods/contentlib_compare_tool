@@ -1,0 +1,29 @@
+//Game/FactoryGame/Recipes/Converter/Recipe_FicsiteIngot_Iron.Recipe_FicsiteIngot_Iron_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Ficsite™ Ingot (Aluminum)",
+  "OverrideCategory": "Ingots",
+  "Ingredients": [
+    {
+      "Item": "Desc_SAMIngot",
+      "Amount": 0
+    },
+    {
+      "Item": "Desc_AluminumIngot",
+      "Amount": 5
+    }
+  ],
+  "Products": [
+    {
+      "Item": "Desc_FicsiteIngot",
+      "Amount": 2
+    }
+
+
+  ],
+  "ManufacturingDuration": 2,
+  "ManufacturingMenuPriority": 3,
+  "VariablePowerConsumptionConstant": 200,
+  "VariablePowerConsumptionFactor": 400,
+  "ProducedIn": [ ]
+}

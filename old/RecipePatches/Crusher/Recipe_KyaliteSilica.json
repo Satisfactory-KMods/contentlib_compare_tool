@@ -1,0 +1,26 @@
+//SatisfactoryPlus/Content/Recipes/Crusher/Recipe_Crusher_KyaliteSilica.Recipe_Crusher_KyaliteSilica_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Crushed Silica",
+  "OverrideCategory": "Cat_KLib_Prod_Crushing_Powders_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_RawQuartz",
+      "Amount": 15
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_Silica",
+      "Amount": 15
+    },
+    {
+      "Item": "Desc_Sand",
+      "Amount": 10
+    }
+  ],
+  "ProducedIn": [ "Build_Crusher" ],
+  "ManufacturingDuration": 15,
+  "ManufacturingMenuPriority": 5
+}

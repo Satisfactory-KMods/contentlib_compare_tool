@@ -4,7 +4,7 @@
   "Name": "Wheat",
   "Ingredients": [
     {
-      "Item": "Desc_FF_WheatoSeed",
+      "Item": "Desc_FF_WheatSeed",
       "Amount": 5
     }
 

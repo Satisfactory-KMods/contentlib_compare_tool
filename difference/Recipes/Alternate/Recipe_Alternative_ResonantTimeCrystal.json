@@ -1,0 +1,30 @@
+{
+    "$comment": "This is a new file, no old version exists",
+    "$class": "{\r",
+    "$classShort": "{\r",
+    "Name": "Alternate: Resonance Crystal",
+    "OverrideCategory": "IndustrialParts_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_Diamond",
+            "Amount": 2
+        },
+        {
+            "Item": "Desc_QuartzCrystal",
+            "Amount": 20
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_TimeCrystal",
+            "Amount": 2
+        }
+    ],
+    "ManufacturingDuration": 8,
+    "ManufacturingMenuPriority": 2.5,
+    "VariablePowerConsumptionConstant": 200,
+    "VariablePowerConsumptionFactor": 400,
+    "ProducedIn": [
+        "Build_Converter"
+    ]
+}

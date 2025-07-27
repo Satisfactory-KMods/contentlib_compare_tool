@@ -1,0 +1,26 @@
+//SatisfactoryPlus/Content/Recipes/Assembler/Recipe_Assembler_AssemblyDirectorSystem_7.Recipe_Assembler_AssemblyDirectorSystem_7_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Assembly Director System",
+  "OverrideCategory": "SpaceElevator_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_ComputerSuper_C",
+      "Amount": 6
+    },
+    {
+      "Item": "Desc_SpaceElevatorPart_5_C",
+      "Amount": 3
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_SpaceElevatorPart_7_C",
+      "Amount": 3
+    }
+  ],
+  "ProducedIn": [ "Build_AssemblerMk1" ],
+  "ManufacturingDuration": 120,
+  "ManufacturingMenuPriority": 5
+}

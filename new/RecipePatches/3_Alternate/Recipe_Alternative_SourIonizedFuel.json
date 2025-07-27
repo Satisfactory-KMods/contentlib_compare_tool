@@ -1,0 +1,30 @@
+//SatisfactoryPlus/Content/SchematicManager/Alternative/SourIonizedFuel/Recipe_Alternative_SourIonizedFuel.Recipe_Alternative_SourIonizedFuel_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Alternate: Sour Ionized Fuel",
+  "OverrideCategory": "Quantum_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_TurboFuel",
+      "Amount": 8
+    },
+    {
+      "Item": "Desc_CrystalShard",
+      "Amount": 1
+    }
+
+  ],
+  "Products": [
+
+    {
+      "Item": "Desc_IonizedFuel_C",
+      "Amount": 12000
+    }
+
+  ],
+  "ManufacturingDuration": 12,
+  "ManufacturingMenuPriority": 5,
+  "VariablePowerConsumptionConstant": 200,
+  "VariablePowerConsumptionFactor": 400,
+  "ProducedIn": [ "Build_Converter" ]
+}

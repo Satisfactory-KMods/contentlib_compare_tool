@@ -1,0 +1,40 @@
+{
+  "Class": "/SatisfactoryPlus/AssetDatas/RRD/RP/Heater/PDA_SFP_Heater_Solu_Ethylene.PDA_SFP_Heater_Solu_Ethylene",
+  "Edits": [
+    {
+      "Property": "mInput",
+      "Value": {
+        "ItemClass": "/KLib/Assets/Ressources/Raw/Gas/Desc_Ethylene.Desc_Ethylene_C",
+        "amount": 900
+      }
+    },
+    {
+      "Property": "mOutput",
+      "Value": {
+        "ItemClass": "/KLib/Assets/Ressources/Raw/Gas/Desc_FlueGas.Desc_FlueGas_C",
+        "amount": 500
+      }
+    },
+    {
+      "Property": "mDuration",
+      "Value": 3
+    },
+    {
+      "Property": "mPriority",
+      "Value": 0
+    },
+    {
+      "Property": "mHeat",
+      "Value": 36
+    },
+    {
+      "Property": "mMaxHeatValue",
+      "Value": 750
+    },
+    {
+      "Property": "mMinHeatValue",
+      "Value": 20
+    }
+
+  ]
+}

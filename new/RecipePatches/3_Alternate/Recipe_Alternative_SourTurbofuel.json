@@ -1,0 +1,28 @@
+//SatisfactoryPlus/Content/SchematicManager/Alternative/SourTurbofuel/Recipe_Alternative_SourTurbofuel.Recipe_Alternative_SourTurbofuel_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Alternate: Sour Turbofuel",
+  "OverrideCategory": "Fuel_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_LiquidFuel",
+      "Amount": 6000
+    },
+    {
+      "Item": "Desc_Gunpowder",
+      "Amount": 3
+    }
+
+  ],
+  "Products": [
+
+    {
+      "Item": "Desc_LiquidTurbofuel",
+      "Amount": 5000
+    }
+
+  ],
+  "ManufacturingDuration": 6,
+  "ManufacturingMenuPriority": 2,
+  "ProducedIn": [ "Build_OilRefinery" ]
+}

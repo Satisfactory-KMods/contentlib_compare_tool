@@ -1,0 +1,47 @@
+//Game/FactoryGame/Recipes/Buildings/Recipe_QuantumEncoder.Recipe_QuantumEncoder_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Ingredients": [
+    {
+      "Item": "Desc_TitanModularFrame_C",
+      "Amount": 10
+    },
+    {
+      "Item": "Desc_MotorLightweight_C",
+      "Amount": 30
+    },
+    {
+      "Item": "Desc_ModularFrameLightweight_C",
+      "Amount": 40
+    },
+    {
+      "Item": "Desc_ComputerSuper",
+      "Amount": 50
+    },
+    {
+      "Item": "Desc_CoolingSystem",
+      "Amount": 75
+    },
+    {
+      "Item": "Desc_ElectromagneticControlRod",
+      "Amount": 100
+    },
+    {
+      "Item": "Desc_InvarPipe",
+      "Amount": 100
+    },
+    {
+      "Item": "Desc_PhotovoltaicCell",
+      "Amount": 120
+    },
+    {
+      "Item": "Desc_TimeCrystal",
+      "Amount": 120
+    },
+    {
+      "Item": "Desc_FicsiteMesh",
+      "Amount": 200
+    }
+  ],
+  "ManufacturingMenuPriority": 11
+}

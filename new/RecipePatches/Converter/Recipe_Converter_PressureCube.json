@@ -1,0 +1,29 @@
+//SatisfactoryPlus/Content/Recipes/Converter/Recipe_Converter_PressureCube.Recipe_Converter_PressureCube_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Pressure Conversion Cube",
+  "OverrideCategory": "IndustrialParts_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_ModularFrameFused",
+      "Amount": 2
+    },
+    {
+      "Item": "Desc_SAMFluctuator",
+      "Amount": 4
+    }
+  ],
+  "Products": [
+    {
+      "Item": "Desc_PressureConversionCube_C",
+      "Amount": 2
+    }
+
+
+  ],
+  "ManufacturingDuration": 30,
+  "ManufacturingMenuPriority": 1,
+  "VariablePowerConsumptionConstant": 200,
+  "VariablePowerConsumptionFactor": 400,
+  "ProducedIn": [ "Build_Converter" ]
+}

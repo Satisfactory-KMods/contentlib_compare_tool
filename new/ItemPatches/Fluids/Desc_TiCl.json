@@ -4,5 +4,6 @@
   "Description": "A mix of Titanium Chlorides, also known 'Tickle'.\nThe purple hue stems from TiCl3.\r\nMainly used to produce purified Titanium.",
   "Form": "RF_GAS",
   "StackSize": "Fluid",
-  "VisualKit": "Kit_TiCl"
+  "VisualKit": "Kit_TiCl",
+  "NameShort": "TiCl"
 }

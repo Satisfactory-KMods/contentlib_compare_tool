@@ -1,0 +1,32 @@
+{
+    "Name": "Dark Matter Crystal",
+    "OverrideCategory": "Quantum_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_Diamond",
+            "Amount": 2
+        },
+        {
+            "Item": "Desc_FicsiteMesh",
+            "Amount": 3
+        },
+        {
+            "Item": "Desc_DarkEnergy",
+            "Amount": 16000
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_DarkMatter",
+            "Amount": 4
+        }
+    ],
+    "ManufacturingDuration": 12,
+    "ManufacturingMenuPriority": 1,
+    "VariablePowerConsumptionConstant": 500,
+    "VariablePowerConsumptionFactor": 1000,
+    "ProducedIn": [
+        "Build_HadronCollider"
+    ],
+    "$comment": "This file has been removed, no new version exists"
+}

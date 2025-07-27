@@ -1,0 +1,22 @@
+//SatisfactoryPlus/Content/Recipes/Crusher/Recipe_Crusher_SulfurPowder.Recipe_Crusher_SulfurPowder_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Sulfur Powder",
+  "OverrideCategory": "Cat_KLib_Prod_Crushing_Powders_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_Sulfur",
+      "Amount": 3
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_SulfurPowder_C",
+      "Amount": 2
+    }
+  ],
+  "ManufacturingDuration": 4,
+  "ManufacturingMenuPriority": 4,
+  "ProducedIn": [ "Build_Crusher" ]
+}

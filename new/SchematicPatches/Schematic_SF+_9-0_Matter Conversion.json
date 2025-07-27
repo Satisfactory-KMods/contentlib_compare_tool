@@ -1,0 +1,34 @@
+//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T9/Schematic_SF+_T9_0.Schematic_SF+_T9_0_C
+{
+  "Name": "Matter Conversion",
+  "Type": "Milestone",
+  "Tier": 9,
+  "MenuPriority": 0,
+  "VisualKit": "Desc_Converter_C",
+  "ClearCost": true,
+  "Cost": [
+    {
+      "Item": "Desc_CopperDust_C",
+      "Amount": 50
+    }
+  ],
+  "ClearRecipes": true,
+  "Recipes": [
+    "Info Kyrium: add SAM Scanner upgrade here",
+    "Recipe_Converter",
+    "Recipe_Constructor_RSAM",
+    "Recipe_Manufacturer_SAMFluctuator_C",
+    "/SatisfactoryPlus/Content/Recipes/Converter/Recipe_Converter_FicsiteIngot_Iron.Recipe_Converter_FicsiteIngot_Iron_C",
+    "/SatisfactoryPlus/Content/Recipes/Converter/Recipe_Converter_FicsiteIngot_Bronze.Recipe_Converter_FicsiteIngot_Bronze_C",
+    "/SatisfactoryPlus/Content/Recipes/Converter/Recipe_Converter_FicsiteIngot_CAT.Recipe_Converter_FicsiteIngot_CAT_C",
+    "/SatisfactoryPlus/Content/Recipes/Converter/Recipe_Converter_FicsiteIngot_AL.Recipe_Converter_FicsiteIngot_AL_C",
+    "Recipe_Constructor_FicsiteTrigon",
+    "Recipe_Converter_KerrCrystal_8_5",
+    "Recipe_Converter_Chlor_Siterite_11",
+    "Recipe_Converter_Chlor_KerrCrystal_11_5",
+    "Recipe_Accelerator_DarkMatterCrystal"
+
+
+  ],
+  "Time": 600
+}

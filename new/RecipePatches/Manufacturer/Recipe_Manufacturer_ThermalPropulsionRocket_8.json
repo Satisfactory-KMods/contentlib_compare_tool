@@ -1,0 +1,34 @@
+//SatisfactoryPlus/Content/Recipes/Manufacturer/Recipe_Manufacturer_ThermalPropulsionRocket_8.Recipe_Manufacturer_ThermalPropulsionRocket_8_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Thermal Propulsion Rocket",
+  "OverrideCategory": "SpaceElevator_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_MotorLightweight",
+      "Amount": 1
+    },
+    {
+      "Item": "Desc_CoolingSystem",
+      "Amount": 6
+    },
+    {
+      "Item": "Desc_SpaceElevatorPart_4_C",
+      "Amount": 8
+    },
+    {
+      "Item": "Desc_PackagedRocketFuel",
+      "Amount": 20
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_SpaceElevatorPart_8_C",
+      "Amount": 1
+    }
+  ],
+  "ProducedIn": [ "Build_ManufacturerMk1" ],
+  "ManufacturingDuration": 40,
+  "ManufacturingMenuPriority": 6
+}

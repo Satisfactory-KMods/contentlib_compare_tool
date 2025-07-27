@@ -1,0 +1,42 @@
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Alternate: Synthetic Power Shard",
+  "OverrideCategory": "Quantum_C",
+  "Ingredients": [
+
+    {
+      "Item": "Desc_PowerShardCrystal",
+      "Amount": 4
+    },
+    {
+      "Item": "Desc_TimeCrystal",
+      "Amount": 4
+    },
+    {
+      "Item": "Desc_DarkMatter",
+      "Amount": 4
+    },
+    {
+      "Item": "Desc_QuantumEnergy",
+      "Amount": 20000
+    }
+  ],
+
+  "Products": [
+    {
+      "Item": "Desc_CrystalShard_C",
+      "Amount": 2
+    },
+    {
+      "Item": "Desc_DarkEnergy",
+      "Amount": 10000
+    }
+
+
+  ],
+  "ManufacturingDuration": 32,
+  "ManufacturingMenuPriority": 3,
+  "VariablePowerConsumptionConstant": 0,
+  "VariablePowerConsumptionFactor": 3000,
+  "ProducedIn": [ "Build_QuantumEncoder" ]
+}

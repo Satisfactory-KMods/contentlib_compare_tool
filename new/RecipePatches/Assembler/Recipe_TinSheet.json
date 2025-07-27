@@ -1,7 +1,7 @@
 //SatisfactoryPlus/Content/Recipes/Assembler/Recipe_Assembler_TinSheet.Recipe_Assembler_TinSheet_C
 {
   "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
-  "Name": "Tin Sheet",
+  "Name": "Tinned Sheet",
   "Category": "StandardParts_C",
   "Ingredients": [
     {

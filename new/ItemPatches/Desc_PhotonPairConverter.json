@@ -1,6 +1,8 @@
 //KLib/Assets/Parts/Production/SpaceElevator/PhotonPairConverter/Desc_PhotonPairConverter.Desc_PhotonPairConverter_C
 {
   "Name": "Photon Pair Converter",
-  "Description": "Converts laser light into correlated photon pair beams. Used in quantum optics and quantum computing."
+  "Description": "Converts laser light into correlated photon pair beams. Used in quantum optics and quantum computing.",
+  "Visualkit": "Kit_PPC",
+  "NameShort": "PPC"
 
 }

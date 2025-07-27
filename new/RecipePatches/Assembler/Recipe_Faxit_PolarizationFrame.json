@@ -1,0 +1,25 @@
+//SatisfactoryPlus/Content/SchematicManager/MAM/Schematics/TimeCrystal/Recipes/Recipe_Time_Case.Recipe_Time_Case_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Polarization Frame",
+  "OverrideCategory": "Communications_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_TinSheet",
+      "Amount": 5
+    },
+    {
+      "Item": "Desc_Glass",
+      "Amount": 5
+    }
+  ],
+  "Products": [
+    {
+      "Item": "Desc_TimeC_Case_C",
+      "Amount": 2
+    }
+  ],
+  "ProducedIn": [ "Build_AssemblerMk1" ],
+  "ManufacturingDuration": 7.5,
+  "ManufacturingMenuPriority": 0
+}

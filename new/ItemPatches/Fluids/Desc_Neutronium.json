@@ -5,5 +5,6 @@
   "Description": "Neutrium is composed entirely of neutrons and decays back down to protons and electrons in a short time. Since it is electrically neutral, it cannot be directly affected by magnetic fields.\n\nUsed in the production of other exotic forms of matter.",
   "Category": "Quantum",
   "StackSize": "Fluid",
+  "NameShort": "CNG",
   "RadioactiveDecay": 0.1
 }

@@ -1,6 +1,7 @@
 //Game/FactoryGame/Resource/Parts/FicsiteMesh/Desc_FicsiteMesh.Desc_FicsiteMesh_C
 {
   "Name": "Ficsite™ Trigon",
-  "Description": "The Ficsite™ Trigon, made from Ficsite™ Ingots, is perfectly shaped for all construction challenges.\n\nIts performance is so exceptional it basically solved structural engineering and can be fine-tuned to any application."
+  "Description": "The Ficsite™ Trigon, made from Ficsite™ Ingots, is perfectly shaped for all construction challenges.\n\nIts performance is so exceptional it basically solved structural engineering and can be fine-tuned to any application.",
+  "NameShort": "Tri"
 
 }

@@ -1,0 +1,28 @@
+{
+    "Name": "Alternate: Sour Ionized Fuel",
+    "OverrideCategory": "Quantum_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_TurboFuel",
+            "Amount": 8
+        },
+        {
+            "Item": "Desc_CrystalShard",
+            "Amount": 5
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_IonizedFuel_C",
+            "Amount": 12000
+        }
+    ],
+    "ManufacturingDuration": 12,
+    "ManufacturingMenuPriority": 5,
+    "VariablePowerConsumptionConstant": 200,
+    "VariablePowerConsumptionFactor": 400,
+    "ProducedIn": [
+        "Build_Converter"
+    ],
+    "$comment": "This file has been removed, no new version exists"
+}

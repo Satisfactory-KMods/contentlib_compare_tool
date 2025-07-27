@@ -1,0 +1,28 @@
+//SatisfactoryPlus/Content/SchematicManager/Alternative/IonizedFuel/Recipe_Alternative_IonizedFuel.Recipe_Alternative_IonizedFuel_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Ionized Fuel",
+  "OverrideCategory": "Fuel_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_RocketFuel",
+      "Amount": 12000
+    },
+    {
+      "Item": "Desc_PowerShardCrystal",
+      "Amount": 3
+    }
+
+  ],
+  "Products": [
+
+    {
+      "Item": "Desc_IonizedFuel_C",
+      "Amount": 12000
+    }
+
+  ],
+  "ManufacturingDuration": 12,
+  "ManufacturingMenuPriority": 4,
+  "ProducedIn": [ "Build_OilRefinery" ]
+}

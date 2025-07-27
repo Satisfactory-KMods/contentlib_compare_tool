@@ -4,5 +4,6 @@
   "Description": "Molecular Hydrogen in Gas Form. Hydrogen is an excellent fuel as well as an important reactant in chemistry. Usually made through steam reforming of Natural Gas.\nCan be burned in Solution Heaters and rapidly increases heat.",
   "Form": "RF_GAS",
   "StackSize": "Fluid",
-  "VisualKit": "Kit_Hydrogen"
+  "VisualKit": "Kit_Hydrogen",
+  "NameShort": "Hydro"
 }

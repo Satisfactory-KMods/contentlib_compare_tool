@@ -1,0 +1,40 @@
+{
+    "$class": "//SatisfactoryPlus/Content/SchematicManager/MAM/Schematics/Slugs/Schematic_Trees_Slugs_3_4_NEW.Schematic_Trees_Slugs_3_4_NEW_C\r",
+    "$classShort": "Schematic_Trees_Slugs_3_4_NEW",
+    "$comment": "This file has been changed",
+    "Class": "//SatisfactoryPlus/Content/SchematicManager/MAM/Schematics/Slugs/Schematic_Trees_Slugs_3_4_NEW.Schematic_Trees_Slugs_3_4_NEW_C\r",
+    "new": {
+        "Recipes": [
+            "Recipe_Mineral_Iron_C",
+            "Recipe_Mineral_Copper_C",
+            "Recipe_Mineral_Golden_C",
+            "Recipe_Mineral_BloodRed_C",
+            "Recipe_Mineral_Orange_C"
+        ]
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "Recipes": [
+            "Recipe_Mineral_Copper_C"
+        ]
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "Name": "Mineral Slime Processing",
+        "ClearCost": true,
+        "Cost": [
+            {
+                "Item": "SlugDesc_Copper_C",
+                "Amount": 50
+            }
+        ],
+        "ClearRecipes": true,
+        "Recipes": [
+            "Recipe_Mineral_Iron_C",
+            "Recipe_Mineral_Copper_C",
+            "Recipe_Mineral_Golden_C",
+            "Recipe_Mineral_BloodRed_C",
+            "Recipe_Mineral_Orange_C"
+        ]
+    }
+}

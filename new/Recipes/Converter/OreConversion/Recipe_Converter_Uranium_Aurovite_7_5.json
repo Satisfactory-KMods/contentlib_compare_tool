@@ -5,11 +5,11 @@
   "Ingredients": [
     {
       "Item": "Desc_SAMIngot_C",
-      "Amount": 1
+      "Amount": 2
     },
     {
       "Item": "Desc_OreGold",
-      "Amount": 24
+      "Amount": 48
     }
 
   ],
@@ -17,18 +17,18 @@
 
     {
       "Item": "Desc_OreUranium",
-      "Amount": 12
+      "Amount": 6
     },
     {
       "Item": "Desc_DarkEnergy",
-      "Amount": 1000
+      "Amount": 2000
     }
 
 
   ],
-  "ManufacturingDuration": 3,
+  "ManufacturingDuration": 6,
   "ManufacturingMenuPriority": 7.5,
-  "VariablePowerConsumptionConstant": 500,
+  "VariablePowerConsumptionConstant": 1000,
   "VariablePowerConsumptionFactor": -500,
   "ProducedIn": [ "Build_Converter" ]
 }

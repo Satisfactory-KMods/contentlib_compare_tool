@@ -1,7 +1,7 @@
 {
   "Mesh": "/Game/FactoryGame/Resource/Parts/PackagedNitrogen/Mesh/SM_PackagedNitrogen_01.SM_PackagedNitrogen_01",
-  "BigIcon": "/KLib/Assets/Ressources/Raw/Gas/UI/Icon_ToxicAir.Icon_ToxicAir",
-  "SmallIcon": "/KLib/Assets/Ressources/Raw/Gas/UI/Icon_ToxicAir.Icon_ToxicAir",
+  "BigIcon": "ToxicAir",
+  "SmallIcon": "ToxicAir",
   "FluidColor": {
     "r": 112,
     "g": 135,

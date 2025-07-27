@@ -3,15 +3,15 @@
   "BigIcon": "Desc_Gas_Hydrogen",
   "SmallIcon": "Desc_Gas_Hydrogen",
   "FluidColor": {
-    "r": 200,
-    "g": 90,
+    "r": 225,
+    "g": 100,
     "b": 60,
     "a": 3
   },
   "GasColor": {
     "r": 255,
     "g": 215,
-    "b": 150,
-    "a": 0
+    "b": 135,
+    "a": 3
   }
 }

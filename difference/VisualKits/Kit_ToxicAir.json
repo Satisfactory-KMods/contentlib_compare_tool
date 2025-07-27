@@ -1,0 +1,33 @@
+{
+    "$class": "{\r",
+    "$classShort": "{\r",
+    "$comment": "This file has been changed",
+    "Class": "{\r",
+    "new": {
+        "BigIcon": "ToxicAir",
+        "SmallIcon": "ToxicAir"
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "BigIcon": "/KLib/Assets/Ressources/Raw/Gas/UI/Icon_ToxicAir.Icon_ToxicAir",
+        "SmallIcon": "/KLib/Assets/Ressources/Raw/Gas/UI/Icon_ToxicAir.Icon_ToxicAir"
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "Mesh": "/Game/FactoryGame/Resource/Parts/PackagedNitrogen/Mesh/SM_PackagedNitrogen_01.SM_PackagedNitrogen_01",
+        "BigIcon": "ToxicAir",
+        "SmallIcon": "ToxicAir",
+        "FluidColor": {
+            "r": 112,
+            "g": 135,
+            "b": 30,
+            "a": 0
+        },
+        "GasColor": {
+            "r": 180,
+            "g": 255,
+            "b": 60,
+            "a": 0
+        }
+    }
+}

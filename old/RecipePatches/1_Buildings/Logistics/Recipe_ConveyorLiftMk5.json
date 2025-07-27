@@ -1,0 +1,15 @@
+//Game/FactoryGame/Recipes/Buildings/Recipe_ConveyorLiftMk5.Recipe_ConveyorLiftMk5_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Ingredients": [
+    {
+      "Item": "Desc_BeltDriveMk4",
+      "Amount": 1
+    },
+    {
+      "Item": "Desc_SteelBolt",
+      "Amount": 2
+    }
+  ],
+  "ManufacturingMenuPriority": 5
+}

@@ -1,0 +1,8 @@
+//SatisfactoryPlus/Content/SchematicManager/Alternative/CastBronzeIngot/Recipe_Alternative_CastBronzeIngot.Recipe_Alternative_CastBronzeIngot_C
+{
+  "Name": "Alternate: CastBronzeIngot",
+  "Type": "Alternate",
+  "VisualKit": "Desc_BronzeIngot_C",
+  "Recipes": [ "Recipe_Alternative_CastBronzeIngot" ],
+  "DependsOn": [ "Schematic_SF+_T3_0_C" ]
+}

@@ -1,0 +1,36 @@
+{
+    "Name": "Alternate: Integrated Silicon Circuit",
+    "OverrideCategory": "Electronics_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_Silica",
+            "Amount": 20
+        },
+        {
+            "Item": "Desc_CopperSheet",
+            "Amount": 10
+        },
+        {
+            "Item": "Desc_QuantumEnergy",
+            "Amount": 12000
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_CircuitBoard",
+            "Amount": 16
+        },
+        {
+            "Item": "Desc_DarkEnergy",
+            "Amount": 4000
+        }
+    ],
+    "ManufacturingDuration": 16,
+    "ManufacturingMenuPriority": 1,
+    "VariablePowerConsumptionConstant": 1000,
+    "VariablePowerConsumptionFactor": -500,
+    "ProducedIn": [
+        "Build_QuantumEncoder"
+    ],
+    "$comment": "This file has been removed, no new version exists"
+}

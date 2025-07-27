@@ -1,14 +1,20 @@
 {
   "Class": "/SatisfactoryPlus/AssetDatas/Cleaner/PDA_Cleaner_FlueGas.PDA_Cleaner_FlueGas",
   "Edits": [
-
+    {
+      "Property": "mOutFluid",
+      "Value": {
+        "ItemClass": "/KLib/Assets/Ressources/Raw/Gas/Desc_Sulfurtrixid.Desc_Sulfurtrixid_C",
+        "Amount": 2800
+      }
+    },
     {
       "Property": "mBypassProducts",
       "Value": [
         {
           "mProduceItem": "/Game/FactoryGame/Resource/RawResources/Sulfur/Desc_Sulfur.Desc_Sulfur_C",
           "mProductionTime": 12,
-          "mProduceAmount": 2
+          "mProduceAmount": 3
         },
         {
           "mProduceItem": "/KLib/Assets/Parts/Production/Burn/ColdSlag/Desc_ColdSlag.Desc_ColdSlag_C",

@@ -1,6 +1,7 @@
 //KLib/Assets/Parts/Production/Metal/Sheets/Desc_AlumniumSheet.Desc_AlumniumSheet_C
 {
   "Name": "Aluminum Coil",
-  "Description": "A magnesium-rich aluminum alloy, one of the most basic parts from Aluminum."
+  "Description": "A magnesium-rich aluminum alloy, one of the most basic parts from Aluminum.",
+  "NameShort": "Coil"
 
 }

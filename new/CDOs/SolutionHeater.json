@@ -5,10 +5,7 @@
       "Property": "mDisplayName",
       "Value": "Solution Heater"
     },
-    {
-      "Property": "mDescription",
-      "Value": "Burns liquid and gasseous fuels, generating Flue Gas as a by-product.\nRequires a Boiler on top of it to begin operation.\n\nDefault Temperature: 750°C\n(changes with selected fuel type).\n\nNOTE: Burns fuel at a constant rate, regardless of the Boiler's status.\n\nValid Fuels:\nFuel - Natural Gas - Ethylene Gas -\nHydrogen - Turbofuel - Rocket Fuel - Ionized Fuel"
-    }
+   
 
   ]
 }

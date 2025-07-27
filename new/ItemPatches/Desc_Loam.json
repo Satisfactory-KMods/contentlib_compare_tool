@@ -1,6 +1,6 @@
 //FicsitFarming/Resources/RawResources/Dirt/Desc_FF_Dirt_Wet.Desc_FF_Dirt_Wet_C
 {
   "Name": "Loam",
-  "Description": "Loam is a type of soil composed of mostly sand, silt and clay. It retains nutrients and water for longer.\n\nCommonly extracted seed types:\r\n- Flower\r\n- Apple\r\n- Mycelia\r\n- Cotton"
-
+  "Description": "Loam is a type of soil composed of mostly sand, silt and clay. It retains nutrients and water for longer.\n\nCommonly extracted seed types:\r\n- Flower\r\n- Apple\r\n- Mycelia\r\n- Cotton",
+  "NameShort": "Loam"
 }

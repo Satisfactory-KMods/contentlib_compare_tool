@@ -1,8 +1,9 @@
 //KLib/Assets/Ressources/Raw/Gas/Desc_ToxicAir.Desc_ToxicAir_C
 {
   "Name": "Toxic Air",
-  "Description": "It stinks, it's irritating, it's full of Natural Gas and Hydrogen.\nBad for you, good for the factory!",
+  "Description": "It stinks, it's irritating, it's full of Natural Gas and Hydrogen. Bad for you, good for the factory!",
   "Form": "Gas",
   "StackSize": "Fluid",
-  "VisualKit": "Kit_ToxicAir"
+  "VisualKit": "Kit_ToxicAir",
+  "NameShort": "Tox"
 }

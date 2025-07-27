@@ -1,0 +1,8 @@
+//SatisfactoryPlus/Content/SchematicManager/Alternative/InstantBarMagnet/Schematic_Alternative_InstantBarMagnet.Schematic_Alternative_InstantBarMagnet_C
+{
+  "Name": "Alternate: Instant Bar Magnet",
+  "Type": "Alternate",
+  "VisualKit": "Desc_InvarPlates_C",
+  "Recipes": [ "Recipe_Alternative_InstantBarMagnet" ],
+  "DependsOn": [ "Schematic_SF+_T6_6_C" ]
+}

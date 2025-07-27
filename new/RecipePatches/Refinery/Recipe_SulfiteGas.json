@@ -1,7 +1,7 @@
 //SatisfactoryPlus/Content/Recipes/OilRefinery/Recipe_OilRefinery_SulfiteGas.Recipe_OilRefinery_SulfiteGas_C
 {
   "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
-  "Name": "Sulfite Gas",
+  "Name": "Sour Gas",
   "OverrideCategory": "AdvancedRefinement_C",
   "Ingredients": [
     {

@@ -1,0 +1,11 @@
+{
+    "Name": "Matter Conversion 2",
+    "Tier": 9,
+    "MenuPriority": 1,
+    "VisualKit": "Desc_CopperDust_C",
+    "ClearCost": true,
+    "ClearRecipes": true,
+    "Recipes": [],
+    "Time": 60,
+    "$comment": "This file has been removed, no new version exists"
+}

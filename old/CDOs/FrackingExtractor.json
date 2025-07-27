@@ -1,0 +1,9 @@
+{
+  "Class": "/Game/FactoryGame/Buildable/Factory/FrackingExtractor/Build_FrackingExtractor.Build_FrackingExtractor_C",
+  "Edits": [
+    {
+      "Property": "mItemsPerCycle",
+      "Value": 1000
+    }
+  ]
+}

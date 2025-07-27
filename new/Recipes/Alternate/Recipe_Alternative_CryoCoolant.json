@@ -1,0 +1,29 @@
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Alternate: Nitrate Coolant",
+  "OverrideCategory": "AdvancedRefinement_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_NitricAcid",
+      "Amount": 1000
+    },
+    {
+      "Item": "Desc_CausticSoda",
+      "Amount": 2000
+    },
+    {
+      "Item": "Desc_Sulfur",
+      "Amount": 2
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_CoolingWater",
+      "Amount": 6000
+    }
+  ],
+  "ManufacturingDuration": 4,
+  "ManufacturingMenuPriority": 3.5,
+  "ProducedIn": [ "Build_Blender" ]
+}

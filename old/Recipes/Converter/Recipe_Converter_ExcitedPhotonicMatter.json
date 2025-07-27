@@ -1,0 +1,21 @@
+{
+    "Name": "Excited Photonic Matter",
+    "OverrideCategory": "Quantum_C",
+    "Ingredients": [
+        {}
+    ],
+    "Products": [
+        {
+            "Item": "Desc_QuantumEnergy",
+            "Amount": 10000
+        }
+    ],
+    "ManufacturingDuration": 6,
+    "ManufacturingMenuPriority": 1,
+    "VariablePowerConsumptionConstant": 200,
+    "VariablePowerConsumptionFactor": 400,
+    "ProducedIn": [
+        "Build_Converter"
+    ],
+    "$comment": "This file has been removed, no new version exists"
+}

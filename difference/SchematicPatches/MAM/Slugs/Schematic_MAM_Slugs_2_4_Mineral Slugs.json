@@ -1,0 +1,27 @@
+{
+    "$comment": "This is a new file, no old version exists",
+    "$class": "//SatisfactoryPlus/Content/SchematicManager/MAM/Schematics/Slugs/Schematic_Trees_Slugs_2_4_NEW.Schematic_Trees_Slugs_2_4_NEW_C\r",
+    "$classShort": "Schematic_Trees_Slugs_2_4_NEW",
+    "Name": "Mineral Slugs",
+    "ClearCost": true,
+    "Cost": [
+        {
+            "Item": "Desc_CrystalShard_C",
+            "Amount": 10
+        },
+        {
+            "Item": "SlugDesc_Pink.SlugDesc_Pink_C",
+            "Amount": 15
+        },
+        {
+            "Item": "SlugDesc_DarkBlue.SlugDesc_DarkBlue_C",
+            "Amount": 15
+        },
+        {
+            "Item": "SlugDesc_DarkGreen.SlugDesc_DarkGreen_C",
+            "Amount": 15
+        }
+    ],
+    "ClearRecipes": true,
+    "Recipes": []
+}

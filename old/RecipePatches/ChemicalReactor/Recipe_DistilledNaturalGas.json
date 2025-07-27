@@ -6,7 +6,7 @@
   "Ingredients": [
     {
       "Item": "Desc_PurifiedCrudeOil",
-      "Amount": 12000
+      "Amount": 6000
     }
 
   ],
@@ -14,19 +14,19 @@
 
     {
       "Item": "Desc_KLIB_NaturalGas_C",
-      "Amount": 15000
+      "Amount": 7500
     },
     {
       "Item": "Desc_HeavyOilResidue",
-      "Amount": 4000
+      "Amount": 2000
     },
     {
       "Item": "Desc_Asphalt",
-      "Amount": 3
+      "Amount": 2
     }
 
   ],
   "ProducedIn": [ "Build_ChemReactor" ],
-  "ManufacturingDuration": 12,
+  "ManufacturingDuration": 6,
   "ManufacturingMenuPriority": 1
 }

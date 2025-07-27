@@ -1,0 +1,53 @@
+{
+    "$class": "{\r",
+    "$classShort": "{\r",
+    "$comment": "This file has been changed",
+    "Class": "{\r",
+    "new": {
+        "FluidColor": {
+            "r": 128,
+            "g": 0,
+            "b": 255,
+            "a": 12
+        },
+        "GasColor": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 0
+        }
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "FluidColor": {
+            "r": 80,
+            "g": 60,
+            "b": 90,
+            "a": 15
+        },
+        "GasColor": {
+            "r": 20,
+            "g": 5,
+            "b": 20,
+            "a": 120
+        }
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "Mesh": "/Game/FactoryGame/Resource/Parts/PackagedNitrogen/Mesh/SM_PackagedNitrogen_01.SM_PackagedNitrogen_01",
+        "BigIcon": "Desc_LiquidFuel",
+        "SmallIcon": "Desc_LiquidFuel",
+        "FluidColor": {
+            "r": 128,
+            "g": 0,
+            "b": 255,
+            "a": 12
+        },
+        "GasColor": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 0
+        }
+    }
+}

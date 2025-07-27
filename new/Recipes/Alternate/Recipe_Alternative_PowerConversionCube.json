@@ -1,0 +1,28 @@
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Alternate: Power Conversion Cube",
+  "OverrideCategory": "IndustrialParts_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_TitanModularFrame_C",
+      "Amount": 1
+    },
+    {
+      "Item": "Desc_SAMFluctuator",
+      "Amount": 8
+    }
+  ],
+  "Products": [
+    {
+      "Item": "Desc_PressureConversionCube_C",
+      "Amount": 5
+    }
+
+
+  ],
+  "ManufacturingDuration": 100,
+  "ManufacturingMenuPriority": 1.5,
+  "VariablePowerConsumptionConstant": 200,
+  "VariablePowerConsumptionFactor": 400,
+  "ProducedIn": [ "Build_Converter" ]
+}

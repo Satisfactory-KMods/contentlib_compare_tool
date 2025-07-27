@@ -1,0 +1,26 @@
+//SatisfactoryPlus/Content/SchematicManager/Alternative/PortableMiner/Recipe_Alternative_PortableMiner.Recipe_Alternative_PortableMiner_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Alternate: Automated Portable Miner",
+  "Category": "Other_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_Rotor",
+      "Amount": 2
+    },
+    {
+      "Item": "Desc_IronRod",
+      "Amount": 10
+    }
+  ],
+  "Products": [
+
+    {
+      "Item": "BP_ItemDescriptorPortableMiner",
+      "Amount": 1
+    }
+  ],
+  "ProducedIn": [ "Build_AssemblerMk1" ],
+  "ManufacturingDuration": 16,
+  "ManufacturingMenuPriority": 1.2
+}

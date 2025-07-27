@@ -1,0 +1,37 @@
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Alternate: Photovoltaic Cell",
+  "OverrideCategory": "Electronics_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_QuartzCrystal",
+      "Amount": 30
+    },
+    {
+      "Item": "Desc_CopperBusbar",
+      "Amount": 9
+    },
+    {
+      "Item": "Desc_QuantumEnergy",
+      "Amount": 24000
+    }
+  ],
+
+  "Products": [
+    {
+      "Item": "Desc_PhotovoltaicCell",
+      "Amount": 18
+    },
+    {
+      "Item": "Desc_DarkEnergy",
+      "Amount": 6000
+    }
+
+
+  ],
+  "ManufacturingDuration": 12,
+  "ManufacturingMenuPriority": 7,
+  "VariablePowerConsumptionConstant": 1000,
+  "VariablePowerConsumptionFactor": -500,
+  "ProducedIn": [ "Build_QuantumEncoder" ]
+}

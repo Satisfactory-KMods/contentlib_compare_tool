@@ -7,7 +7,7 @@
     },
     {
       "Property": "mDescription",
-      "Value": "Uses Steam to turn a turbine which makes connected Generators produce electricity.\nHas higher RPM the Mk.1 Turbine, needed to full power HV Generators.\nMust be placed on a Converter Platform."
+      "Value": "Uses Steam to turn a turbine which makes connected Generators produce electricity.\nHas higher RPM than the Mk.1 Turbine, needed to fully power HV Generators.\nMust be placed on a Converter Platform."
     }
   ]
 }

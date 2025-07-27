@@ -1,0 +1,31 @@
+//SatisfactoryPlus/Content/Recipes/WetWasher/Recipe_WetWasher_Quartz.Recipe_WetWasher_Quartz_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Washed Quartz Crystal",
+  "OverrideCategory": "Cat_KLib_SAC_Wasching_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_RawQuartz",
+      "Amount": 12
+    },
+    {
+      "Item": "Desc_NitricAcid",
+      "Amount": 2000
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_QuartzCrystal",
+      "Amount": 15
+    },
+    {
+      "Item": "Desc_DissolvedSilica",
+      "Amount": 4000
+    }
+
+  ],
+  "ProducedIn": [ "Build_OreWascher" ],
+  "ManufacturingDuration": 12,
+  "ManufacturingMenuPriority": 8
+}

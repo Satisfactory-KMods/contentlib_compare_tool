@@ -1,0 +1,30 @@
+//SatisfactoryPlus/Content/Recipes/ParticleAccelerator/Recipe_Accelerator_TitanFrame.Recipe_Accelerator_TitanFrame_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "TITAN Frame",
+  "OverrideCategory": "IndustrialParts_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_TitanPlates",
+      "Amount": 48
+    },
+    {
+      "Item": "Desc_ModularFrameFused",
+      "Amount": 20
+    }
+  ],
+
+  "Products": [
+    {
+      "Item": "Desc_TitanModularFrame_C",
+      "Amount": 8
+    }
+
+
+  ],
+  "ManufacturingDuration": 960,
+  "ManufacturingMenuPriority": 0,
+  "VariablePowerConsumptionConstant": 0,
+  "VariablePowerConsumptionFactor": 10000,
+  "ProducedIn": [ "Build_HadronCollider" ]
+}

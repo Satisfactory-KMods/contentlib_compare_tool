@@ -1,0 +1,29 @@
+{
+    "$comment": "This is a new file, no old version exists",
+    "$class": "{\r",
+    "$classShort": "{\r",
+    "Name": "Power Fragment (5)",
+    "OverrideCategory": "PowerShard_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_EggDNA_Purple",
+            "Amount": 10
+        },
+        {
+            "Item": "Desc_Diamond",
+            "Amount": 1
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_PowerShardCrystal_C",
+            "Amount": 5
+        }
+    ],
+    "ProducedIn": [
+        "Build_AssemblerMk1",
+        "manual"
+    ],
+    "ManufacturingDuration": 6,
+    "ManufacturingMenuPriority": 3
+}

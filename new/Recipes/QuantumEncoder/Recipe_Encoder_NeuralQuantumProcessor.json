@@ -1,0 +1,42 @@
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Neural-Quantum Processor",
+  "OverrideCategory": "Quantum_C",
+  "Ingredients": [
+
+    {
+      "Item": "Desc_ComputerSuper",
+      "Amount": 2
+    },
+    {
+      "Item": "Desc_TimeCrystal",
+      "Amount": 6
+    },
+    {
+      "Item": "Desc_FicsiteMesh",
+      "Amount": 30
+    },
+    {
+      "Item": "Desc_QuantumEnergy",
+      "Amount": 60000
+    }
+  ],
+
+  "Products": [
+    {
+      "Item": "Desc_TemporalProcessor_C",
+      "Amount": 1
+    },
+    {
+      "Item": "Desc_DarkEnergy",
+      "Amount": 30000
+    }
+
+
+  ],
+  "ManufacturingDuration": 24,
+  "ManufacturingMenuPriority": 0,
+  "VariablePowerConsumptionConstant": 3000,
+  "VariablePowerConsumptionFactor": -3000,
+  "ProducedIn": [ "Build_QuantumEncoder" ]
+}

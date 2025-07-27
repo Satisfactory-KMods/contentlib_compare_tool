@@ -1,0 +1,26 @@
+//SatisfactoryPlus/Content/SchematicManager/MAM/Schematics/TimeCrystal/Recipes/Recipe_Time_Cable.Recipe_Time_Cable_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Data Cable",
+  "OverrideCategory": "Communications_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_Cable",
+      "Amount": 10
+    },
+    {
+      "Item": "Desc_TimeC_StabilizedTimeCrystal_C",
+      "Amount": 3
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_TimeC_Cable_C",
+      "Amount": 5
+    }
+  ],
+  "ProducedIn": [ "Build_AssemblerMk1" ],
+  "ManufacturingDuration": 5,
+  "ManufacturingMenuPriority": 4
+}

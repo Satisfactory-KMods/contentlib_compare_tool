@@ -1,0 +1,30 @@
+//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T8/Schematic_SF+_T8_2.Schematic_SF+_T8_2_C
+{
+  "Name": "Leading-edge Production",
+  "Type": "Milestone",
+  "Tier": 8,
+  "MenuPriority": 2,
+  "VisualKit": "Desc_SpaceElevatorPart_8_C",
+  "ClearCost": true,
+  "Cost": [
+    {
+      "Item": "Desc_CopperIngot",
+      "Amount": 1000
+    },
+    {
+      "Item": "Desc_FusedModularFrame",
+      "Amount": 50
+    },
+    {
+      "Item": "Desc_CrystalOscillator",
+      "Amount": 100
+    }
+  ],
+  "ClearRecipes": true,
+  "Recipes": [
+    "/KLib/Assets/Buildings/ModularExtractor/Recipes/Recipe_Module_Drill_T3.Recipe_Module_Drill_T3_C",
+    "Recipe_Manufacturer_Turbomotor",
+    "Recipe_Manufacturer_ThermalPropulsionRocket_8"
+  ],
+  "Time": 360
+}

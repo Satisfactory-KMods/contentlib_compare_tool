@@ -1,0 +1,8 @@
+//KLib/Assets/Parts/NetworkHardDrives/Desc_Faxit_DimensionalDrive_Mk1.Desc_Faxit_DimensionalDrive_Mk1_C
+{
+  "Name": "FaxIt Storage Drive Mk.1",
+  "Description": "Increases item storage capacity by 1 stack",
+  "NameShort": "DMk1",
+  "Visualkit": "Kit_StorageDrive_Mk1"
+
+}

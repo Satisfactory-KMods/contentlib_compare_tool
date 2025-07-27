@@ -2,6 +2,7 @@
 {
   "Name": "Poled Kerr Crystal",
   "Description": "A Kerr Crystal with an electrically poled frame, allowing for manipulation of the crystal's optical properties.\nFundamental for optical computing.",
-  "VisualKit": "Kit_PoledKerr"
+  "VisualKit": "Kit_PoledKerr",
+  "NameShort": "Kerr"
 
 }

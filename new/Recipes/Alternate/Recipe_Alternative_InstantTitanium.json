@@ -1,0 +1,32 @@
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Alternate: Instant Titanium Plate",
+  "Category": "IndustrialParts_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_PurifiedTitan",
+      "Amount": 10
+    },
+    {
+      "Item": "Desc_MagnesiumGranules",
+      "Amount": 18
+    },
+    {
+      "Item": "Desc_KLIB_NaturalGas_C",
+      "Amount": 12000
+    },
+    {
+      "Item": "Desc_Gas_Chlor",
+      "Amount": 9000
+    }
+  ],
+  "Products": [
+    {
+      "Item": "Desc_TitanPlates",
+      "Amount": 3
+    }
+  ],
+  "ProducedIn": [ "Build_Blender" ],
+  "ManufacturingDuration": 6,
+  "ManufacturingMenuPriority": 3.5
+}

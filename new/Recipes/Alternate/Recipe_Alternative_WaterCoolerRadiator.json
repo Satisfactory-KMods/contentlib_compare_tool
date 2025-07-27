@@ -1,0 +1,25 @@
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Alternate: Water-cooled Radiator",
+  "OverrideCategory": "IndustrialParts_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_AluminumCasing",
+      "Amount": 10
+    },
+    {
+      "Item": "Desc_Water",
+      "Amount": 15000
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_AluminumPlateReinforced",
+      "Amount": 1
+    }
+  ],
+  "ManufacturingDuration": 5,
+  "ManufacturingMenuPriority": 2.5,
+  "ProducedIn": [ "Build_OilRefinery" ]
+}

@@ -1,0 +1,21 @@
+{
+    "$comment": "This is a new file, no old version exists",
+    "$class": "//SatisfactoryPlus/Content/SchematicManager/MAM/Schematics/Slugs/Schematic_Trees_Slugs_3_5_NEW.Schematic_Trees_Slugs_3_5_NEW_C\r",
+    "$classShort": "Schematic_Trees_Slugs_3_5_NEW",
+    "Name": "Mineral Slime Processing",
+    "ClearCost": true,
+    "Cost": [
+        {
+            "Item": "Desc_CrystalShard_C",
+            "Amount": 200
+        },
+        {
+            "Item": "Desc_TimeCrystal",
+            "Amount": 500
+        }
+    ],
+    "ClearRecipes": true,
+    "Recipes": [
+        "Recipe_Encoder_SyntheticPowerShard"
+    ]
+}

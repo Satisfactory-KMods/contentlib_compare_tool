@@ -1,0 +1,10 @@
+//KLib/Assets/Ressources/Raw/Fluids/Desc_UranChloride.Desc_UranChloride_C
+{
+  "Name": "Uranium Chloride",
+  "VisualKit": "Kit_UranChloride",
+  "Description": "Uranium Chloride in gassesous form. Used to seperate Uranium into fissile and non-Fissile material.",
+  "Form": "Gas",
+  "OverrideCategory": "Gas",
+  "StackSize": "Fluid",
+  "RadioactiveDecay": 0.4
+}

@@ -1,0 +1,25 @@
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Power Fragment (1)",
+  "OverrideCategory": "PowerShard_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_EggDNA_Blue",
+      "Amount": 10
+    },
+    {
+      "Item": "Desc_Diamond",
+      "Amount": 1
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_PowerShardCrystal_C",
+      "Amount": 1
+    }
+  ],
+  "ProducedIn": [ "Build_AssemblerMk1", "manual" ],
+  "ManufacturingDuration": 6,
+  "ManufacturingMenuPriority": 1
+}

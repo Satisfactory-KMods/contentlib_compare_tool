@@ -1,0 +1,12 @@
+{
+    "Name": "Alternate: Caterium Circuit Board",
+    "Type": "Alternate",
+    "VisualKit": "Desc_CircuitBoard",
+    "Recipes": [
+        "Recipe_Alternative_CateriumCircuitBoard"
+    ],
+    "DependsOn": [
+        "Schematic_SF+_T5_1_C"
+    ],
+    "$comment": "This file has been removed, no new version exists"
+}

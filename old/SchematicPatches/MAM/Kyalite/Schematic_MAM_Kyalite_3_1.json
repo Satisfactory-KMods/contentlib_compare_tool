@@ -1,6 +1,6 @@
 //SatisfactoryPlus/Content/SchematicManager/MAM/Schematics/Cryolite/Schematic_Trees_Cryolit_3_1.Schematic_Trees_Cryolit_3_1_C
 {
-  "Name": "Kyalite Sorting",
+  "Name": "Salt & Silica",
   "ClearCost": true,
   "Cost": [
     {
@@ -9,5 +9,5 @@
     }
   ],
   "ClearRecipes": true,
-  "Recipes": [ "Recipe_Sorter_T1_QuartzCrystal_C", "Recipe_Sorter_T2_Salt_C" ]
+  "Recipes": [ "Recipe_Sorter_T2_Salt_C", "Recipe_Crusher_KyaliteSilica" ]
 }

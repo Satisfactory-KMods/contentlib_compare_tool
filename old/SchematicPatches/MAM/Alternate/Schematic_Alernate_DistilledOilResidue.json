@@ -1,9 +1,13 @@
-//SatisfactoryPlus/Content/SchematicManager/Alternative/DistilledOilResidue/Schematic_Alternative_DistilledOilResidue.Schematic_Alternative_DistilledOilResidue_C
 {
-  "Name": "Alternate: Distilled Oil Residue",
-  "Type": "Alternate",
-  "VisualKit": "Desc_HeavyOilResidue",
-  "ClearRecipes": true,
-  "Recipes": [ "Recipe_Alternative_DistilledOilResidue_C"],
-  "DependsOn": [ "Schematic_SF+_5_1_C" ]
+    "Name": "Alternate: Distilled Oil Residue",
+    "Type": "Alternate",
+    "VisualKit": "Desc_HeavyOilResidue",
+    "ClearRecipes": true,
+    "Recipes": [
+        "Recipe_Alternative_DistilledOilResidue_C"
+    ],
+    "DependsOn": [
+        "Schematic_SF+_5_1_C"
+    ],
+    "$comment": "This file has been removed, no new version exists"
 }

@@ -1,0 +1,28 @@
+//KLib/Assets/Parts/Packaged/Recipes/Packaged/Recipe_Packaged_CoolingWater.Recipe_Packaged_CoolingWater_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Packaged Coolant",
+  "OverrideCategory": "Cat_Packaging_Cold_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_NC_CryoTankEmpty_C",
+      "Amount": 1
+    },
+    {
+      "Item": "Desc_CoolingWater",
+      "Amount": 1000
+    }
+
+  ],
+  "Products": [
+
+    {
+      "Item": "Desc_PackagedCoolingWater_C",
+      "Amount": 1
+    }
+
+  ],
+  "ManufacturingDuration": 1,
+  "ManufacturingMenuPriority": 1,
+  "ProducedIn": [ "Build_AB_FluidPacker" ]
+}

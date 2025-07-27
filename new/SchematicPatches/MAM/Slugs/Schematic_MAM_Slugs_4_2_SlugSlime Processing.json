@@ -13,5 +13,5 @@
     }
   ],
   "ClearRecipes": true,
-  "Recipes": [ "Recipe_FSF+Composter", "Recipe_Low_BlueSlug_C", "Recipe_Low_YellowSlug_C", "Recipe_Low_Purple_C", "Recipe_Mid_WhiteSlug_C", "Recipe_OilRefinery_Condensed_SlugSlime_C", "Recipe_Module_Energy", "Recipe_ChemReac_SimplePowerShard_C" ]
+  "Recipes": [ "Recipe_FSF+Composter", "Recipe_Low_BlueSlug_C", "Recipe_Low_YellowSlug_C", "Recipe_Low_Purple_C", "Recipe_Mid_WhiteSlug_C", "Recipe_OilRefinery_Condensed_SlugSlime_C", "Recipe_Assembler_PowerFragment_Blue", "Recipe_Assembler_PowerFragment_Yellow", "Recipe_Assembler_PowerFragment_Purple", "Recipe_Module_Energy", "Recipe_ChemReac_SimplePowerShard_C" ]
 }

@@ -1,0 +1,25 @@
+//SatisfactoryPlus/Content/Recipes/Plots/Norm/Recipe_SF+_Crop_Potato.Recipe_SF+_Crop_Potato_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Potato",
+  "Ingredients": [
+    {
+      "Item": "Desc_FF_PotatoSeed",
+      "Amount": 5
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_FF_Crop_Potato",
+      "Amount": 5
+    },
+    {
+      "Item": "Desc_Leaves_C",
+      "Amount": 3
+    }
+  ],
+  "ProducedIn": [ "Build_FF_CropPlot_C" ],
+  "ManufacturingDuration": 30,
+  "ManufacturingMenuPriority": 3
+}

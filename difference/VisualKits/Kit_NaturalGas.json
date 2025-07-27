@@ -1,0 +1,33 @@
+{
+    "$class": "{\r",
+    "$classShort": "{\r",
+    "$comment": "This file has been changed",
+    "Class": "{\r",
+    "new": {
+        "BigIcon": "NaturalGas",
+        "SmallIcon": "NaturalGas"
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "BigIcon": "/KLib/Assets/Ressources/Raw/Gas/UI/Icon_Hydrogen.Icon_Hydrogen",
+        "SmallIcon": "/KLib/Assets/Ressources/Raw/Gas/UI/Icon_Hydrogen.Icon_Hydrogen"
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "Mesh": "/Game/FactoryGame/Resource/Parts/PackagedNitrogen/Mesh/SM_PackagedNitrogen_01.SM_PackagedNitrogen_01",
+        "BigIcon": "NaturalGas",
+        "SmallIcon": "NaturalGas",
+        "FluidColor": {
+            "r": 250,
+            "g": 225,
+            "b": 125,
+            "a": 0
+        },
+        "GasColor": {
+            "r": 255,
+            "g": 130,
+            "b": 0,
+            "a": 0
+        }
+    }
+}

@@ -1,0 +1,23 @@
+//KLib/Assets/Buildings/Crusher/Recipe_Crusher.Recipe_Crusher_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Ingredients": [
+    {
+      "Item": "Desc_IronWire",
+      "Amount": 12
+    },
+    {
+      "Item": "Desc_Cable",
+      "Amount": 5
+    },
+    {
+      "Item": "Desc_IronScrew",
+      "Amount": 10
+    },
+    {
+      "Item": "Desc_Cement",
+      "Amount": 10
+    }
+  ],
+  "ManufacturingMenuPriority": 4
+}

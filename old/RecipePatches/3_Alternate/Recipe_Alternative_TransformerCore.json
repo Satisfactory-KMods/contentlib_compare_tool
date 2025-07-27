@@ -1,0 +1,26 @@
+//SatisfactoryPlus/Content/SchematicManager/Alternative/TransformerCore/Recipe_Alternative_TransformerCore.Recipe_Alternative_TransformerCore_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Alternate: Transformer Core",
+  "OverrideCategory": "IndustrialParts_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_InvarPipe",
+      "Amount": 4
+    },
+    {
+      "Item": "Desc_HighSpeedWire",
+      "Amount": 16
+    }
+  ],
+  "Products": [
+    {
+      "Item": "Desc_Stator",
+      "Amount": 2
+    }
+  ],
+  "ProducedIn": [ "Build_AssemblerMk1" ],
+  "ManufacturingDuration": 16,
+  "ManufacturingMenuPriority": 4.1
+
+}

@@ -6,24 +6,24 @@
   "Ingredients": [
     {
       "Item": "Desc_LiquidTin",
-      "Amount": 10000
+      "Amount": 3000
     },
     {
       "Item": "Desc_Water",
-      "Amount": 4000
+      "Amount": 1000
     }
 
   ],
   "Products": [
     {
       "Item": "Desc_TinIngot",
-      "Amount": 16
+      "Amount": 9
     },
     {
       "Item": "Desc_Gas_Steam_Hot",
-      "Amount": 4000
+      "Amount": 1000
     }
   ],
-  "ManufacturingDuration": 8,
+  "ManufacturingDuration": 3,
   "ManufacturingMenuPriority": 3
 }

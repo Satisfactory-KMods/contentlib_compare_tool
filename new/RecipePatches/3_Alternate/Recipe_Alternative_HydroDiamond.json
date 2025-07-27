@@ -1,0 +1,30 @@
+//SatisfactoryPlus/Content/SchematicManager/Alternative/HydroDiamond/Recipe_Alternative_HydroDiamond.Recipe_Alternative_HydroDiamond_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Alternate: Hydro Diamonds",
+  "OverrideCategory": "IndustrialParts_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_CarbonDust",
+      "Amount": 50
+    },
+    {
+      "Item": "Desc_Gas_Hydrogen",
+      "Amount": 20000
+    }
+  ],
+
+  "Products": [
+    {
+      "Item": "Desc_Diamond",
+      "Amount": 10
+    }
+
+
+  ],
+  "ManufacturingDuration": 20,
+  "ManufacturingMenuPriority": 2,
+  "VariablePowerConsumptionConstant": 250,
+  "VariablePowerConsumptionFactor": 500,
+  "ProducedIn": [ "Build_HadronCollider" ]
+}

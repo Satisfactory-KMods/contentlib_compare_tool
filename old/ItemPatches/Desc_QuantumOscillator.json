@@ -1,0 +1,6 @@
+//Game/FactoryGame/Resource/Parts/QuantumOscillator/Desc_QuantumOscillator.Desc_QuantumOscillator_C
+{
+  "Name": "Quantum Oscillator",
+  "Description": "An oscillator circuit that can be made to resonate with other Quantum Oscillators at a precise frequency over long distances. Often used in teleportation technology and dimensional communication."
+
+}

@@ -1,0 +1,38 @@
+//SatisfactoryPlus/Content/Recipes/ChemicalReactor/Recipe_Chem_EnrichedUranium.Recipe_Chem_EnrichedUranium_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Enriched Uranium",
+  "OverrideCategory": "Nuclear_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_UranChloride",
+      "Amount": 7000
+    },
+    {
+      "Item": "Desc_Water",
+      "Amount": 2000
+    },
+    {
+      "Item": "Desc_Cement",
+      "Amount": 2
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_UraniumCell",
+      "Amount": 1
+    },
+    {
+      "Item": "Desc_UranChloride",
+      "Amount": 6000
+    },
+    {
+      "Item": "Desc_LiquidHydrochloricAcid",
+      "Amount": 3000
+    }
+  ],
+  "ManufacturingDuration": 6,
+  "ManufacturingMenuPriority": 1,
+  "ProducedIn": [ "Build_ChemReactor" ]
+}

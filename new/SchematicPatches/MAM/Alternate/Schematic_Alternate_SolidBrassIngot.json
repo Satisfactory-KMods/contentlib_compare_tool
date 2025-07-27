@@ -1,0 +1,8 @@
+//SatisfactoryPlus/Content/SchematicManager/Alternative/SolidBrassIngot/Schematic_Alternative_SolidBrassIngot.Schematic_Alternative_SolidBrassIngot_C
+{
+  "Name": "Alternate: Solid Brass Ingot",
+  "Type": "Alternate",
+  "VisualKit": "Desc_BrassIngot_C",
+  "Recipes": [ "Recipe_Alternative_SolidBrassIngot" ],
+  "DependsOn": [ "Schematic_SF+_T3_1_C" ]
+}

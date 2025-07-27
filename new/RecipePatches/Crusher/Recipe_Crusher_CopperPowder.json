@@ -1,0 +1,22 @@
+//SatisfactoryPlus/Content/Recipes/Crusher/Recipe_Crusher_CopperPowder.Recipe_Crusher_CopperPowder_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Copper Powder",
+  "OverrideCategory": "Cat_KLib_Prod_Crushing_Powders_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_CopperIngot",
+      "Amount": 12
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_CopperDust_C",
+      "Amount": 1
+    }
+  ],
+  "ManufacturingDuration": 2.4,
+  "ManufacturingMenuPriority": 6,
+  "ProducedIn": [ "Build_Crusher" ]
+}

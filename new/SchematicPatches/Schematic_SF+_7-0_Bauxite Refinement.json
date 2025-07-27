@@ -1,0 +1,51 @@
+//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T7/Schematic_SF+_T7_0.Schematic_SF+_T7_0_C
+{
+  "Name": "Bauxite Refinement",
+  "Type": "Milestone",
+  "Tier": 7,
+  "MenuPriority": 0,
+  "VisualKit": "Desc_OreBauxite_C",
+  "ClearCost": true,
+  "Cost": [
+    {
+      "Item": "Desc_ModularFrameHeavy",
+      "Amount": 25
+    },
+    {
+      "Item": "Desc_Computer",
+      "Amount": 50
+    },
+    {
+      "Item": "Desc_Motor",
+      "Amount": 100
+    },
+    {
+      "Item": "Desc_Salt",
+      "Amount": 150
+    },
+    {
+      "Item": "Desc_Silica",
+      "Amount": 150
+    },
+    {
+      "Item": "Desc_MagnesiumGranules",
+      "Amount": 150
+    }
+  ],
+  "ClearRecipes": true,
+  "Recipes": [
+    "Recipe_Blender",
+    "Recipe_Sorter_T2_Bauxite",
+    "Recipe_Sorter_T3_CryoliteResidue_C",
+    "Recipe_WetWasher_Bauxite_C",
+    "Recipe_Blender_Alumina",
+    "Recipe_Blender_AcidAlumina",
+    "Recipe_Crusher_ResidBauxite",
+    "Recipe_ResidSilica",
+    "Recipe_Reformer_Mixed_AluminiumIngot",
+    "Recipe_Reformer_Mixed_AluminumCoil",
+    "Recipe_Assembler_AluminumCasing",
+    "Recipe_Foundry_AlcladSheet"
+  ],
+  "Time": 360
+}

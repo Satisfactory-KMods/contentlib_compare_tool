@@ -6,17 +6,17 @@
   "Ingredients": [
     {
       "Item": "Desc_PetroleumCoke",
-      "Amount": 5
+      "Amount": 4
     }
   ],
   "Products": [
     {
       "Item": "Desc_CarbonDust",
-      "Amount": 4
+      "Amount": 2
     }
   ],
   "ProducedIn": [ "Build_Crusher" ],
-  "ManufacturingDuration": 5,
+  "ManufacturingDuration": 4,
   "ManufacturingMenuPriority": 3.5
 
 }

@@ -1,0 +1,34 @@
+{
+    "$comment": "This is a new file, no old version exists",
+    "$class": "//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T9/Schematic_SF+_T9_2.Schematic_SF+_T9_2_C\r",
+    "$classShort": "Schematic_SF+_T9_2",
+    "Name": "Peak Efficiency Production",
+    "Type": "Milestone",
+    "Tier": 9,
+    "MenuPriority": 2,
+    "VisualKit": "Desc_ConveyorBeltMk6_C",
+    "ClearCost": true,
+    "Cost": [
+        {
+            "Item": "Desc_CopperIngot",
+            "Amount": 1000
+        },
+        {
+            "Item": "Desc_FusedModularFrame",
+            "Amount": 50
+        },
+        {
+            "Item": "Desc_CrystalOscillator",
+            "Amount": 100
+        }
+    ],
+    "ClearRecipes": true,
+    "Recipes": [
+        "Recipe_ConveyorBeltMk6",
+        "Recipe_ConveyorLiftMk6",
+        "Recipe_Mineral_Iron_C",
+        "Recipe_Blender_BiochemicalSculptor_10",
+        "Info Kyrium: Add the last Blueprint Designer here, 64x64x64 m"
+    ],
+    "Time": 360
+}

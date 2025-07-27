@@ -1,0 +1,27 @@
+{
+  "Class": "/Game/FactoryGame/Buildable/Factory/Portal/Build_Portal.Build_Portal_C",
+  "Edits": [
+
+    {
+      "Property": "mHeatUpCycleTime",
+      "Value": 20
+    },
+    {
+      "Property": "mMinFuelToStartProducing",
+      "Value": 2
+    },
+    {
+      "Property": "mMinFuelToStartProducingAfterAbruptStop",
+      "Value": 2
+    },
+    {
+      "Property": "mPortalDisconnectedCooldownTime",
+      "Value": 5
+    },
+    {
+      "Property": "PortalFluctuation",
+      "Value": 2
+    }
+   
+  ]
+}

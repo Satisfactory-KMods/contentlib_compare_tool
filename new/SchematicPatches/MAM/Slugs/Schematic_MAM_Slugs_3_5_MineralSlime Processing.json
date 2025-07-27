@@ -1,0 +1,17 @@
+//SatisfactoryPlus/Content/SchematicManager/MAM/Schematics/Slugs/Schematic_Trees_Slugs_3_5_NEW.Schematic_Trees_Slugs_3_5_NEW_C
+{
+  "Name": "Mineral Slime Processing",
+  "ClearCost": true,
+  "Cost": [
+    {
+      "Item": "Desc_CrystalShard_C",
+      "Amount": 200
+    },
+    {
+      "Item": "Desc_TimeCrystal",
+      "Amount": 500
+    }
+  ],
+  "ClearRecipes": true,
+  "Recipes": [ "Recipe_Encoder_SyntheticPowerShard" ]
+}

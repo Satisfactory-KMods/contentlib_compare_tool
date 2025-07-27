@@ -1,0 +1,26 @@
+//SatisfactoryPlus/Content/SchematicManager/Alternative/Alternator/Recipe_Alternative_Alternator.Recipe_Alternative_Alternator_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Alternate: Alternator",
+  "OverrideCategory": "StandardParts_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_InvarPlates",
+      "Amount": 13
+    },
+    {
+      "Item": "Desc_HighSpeedWire",
+      "Amount": 96
+    }
+  ],
+  "Products": [
+    {
+      "Item": "Desc_Rotor",
+      "Amount": 12
+    }
+  ],
+  "ProducedIn": [ "Build_AssemblerMk1" ],
+  "ManufacturingDuration": 120,
+  "ManufacturingMenuPriority": 3.1
+
+}

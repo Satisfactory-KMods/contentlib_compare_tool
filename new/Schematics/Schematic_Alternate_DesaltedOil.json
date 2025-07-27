@@ -1,7 +1,0 @@
-{
-  "Name": "Alternate: Desalted Oil",
-  "Type": "Alternate",
-  "VisualKit": "Desc_LiquidOil_C",
-  "Recipes": [ "Recipe_Alternative_DesaltedOil" ],
-  "DependsOn": [ "Schematic_SF+_T5_1_C" ]
-}

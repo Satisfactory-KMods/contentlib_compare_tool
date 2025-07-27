@@ -1,25 +1,26 @@
 {
-  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
-  "Name": "Asphalt Concrete",
-  "OverrideCategory": "Minerals_C",
-  "Ingredients": [
-    {
-      "Item": "Desc_CrushedGangue",
-      "Amount": 10
-    },
-    {
-      "Item": "Desc_Asphalt",
-      "Amount": 4
-    }
-
-  ],
-  "Products": [
-    {
-      "Item": "Desc_Cement",
-      "Amount": 12
-    }
-  ],
-  "ProducedIn": [ "Build_AssemblerMk1" ],
-  "ManufacturingDuration": 16,
-  "ManufacturingMenuPriority": 1.2
+    "Name": "Asphalt Concrete",
+    "OverrideCategory": "Minerals_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_Gangue",
+            "Amount": 10
+        },
+        {
+            "Item": "Desc_Asphalt",
+            "Amount": 4
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_Cement",
+            "Amount": 12
+        }
+    ],
+    "ProducedIn": [
+        "Build_AssemblerMk1"
+    ],
+    "ManufacturingDuration": 16,
+    "ManufacturingMenuPriority": 1.2,
+    "$comment": "This file has been removed, no new version exists"
 }

@@ -1,0 +1,21 @@
+{
+  "Class": "/SatisfactoryPlus/Content/SchematicManager/MAM/NewTrees/ResearchTree_Cryolite.Default__ResearchTree_Cryolite_C",
+  "Edits": [
+    {
+      "Property": "mPreUnlockDisplayName",
+      "Value": "Unknown Crystalline Mineral"
+    },
+    {
+      "Property": "mDisplayName",
+      "Value": "Kyalite"
+    },
+    {
+      "Property": "mPreUnlockDescription",
+      "Value": "Initial planetary-scans indicate that an unknown crystalline mineral is present on Massage-2(AB)b. A sample is required to determine if useful applications are possible."
+    },
+    {
+      "Property": "mPostUnlockDescription",
+      "Value": "This mineral shows similarity to Quartz and Cryolite. Thus R&D believes it maybe be used in similar fashion to produce communication and exploration technologies, as well as chemicals."
+    }
+  ]
+}

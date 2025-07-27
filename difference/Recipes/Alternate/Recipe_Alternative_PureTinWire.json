@@ -1,0 +1,24 @@
+{
+    "$comment": "This is a new file, no old version exists",
+    "$class": "{\r",
+    "$classShort": "{\r",
+    "Name": "Alternate: Pure Tin Wire",
+    "OverrideCategory": "Electronics_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_TinRod",
+            "Amount": 4
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_TinnedWire",
+            "Amount": 3
+        }
+    ],
+    "ProducedIn": [
+        "Build_ConstructorMk1"
+    ],
+    "ManufacturingDuration": 16,
+    "ManufacturingMenuPriority": 10
+}

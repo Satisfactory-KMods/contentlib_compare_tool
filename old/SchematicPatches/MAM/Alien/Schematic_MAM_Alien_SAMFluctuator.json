@@ -1,0 +1,22 @@
+//Game/FactoryGame/Schematics/Research/AlienTech_RS/Research_Alien_SAMFluctuator.Research_Alien_SAMFluctuator_C
+{
+  "Name": "SAM Fluctuator",
+  "ClearCost": true,
+  "Cost": [
+    {
+      "Item": "Desc_SAMIngot_C",
+      "Amount": 50
+    },
+    {
+      "Item": "Desc_BronzeFrame",
+      "Amount": 10
+    },
+    {
+      "Item": "Desc_CateriumHeatsink",
+      "Amount": 50
+    }
+
+  ],
+  "ClearRecipes": true,
+  "Recipes": [ "Recipe_Manufacturer_SAMFluctuator_C" ]
+}

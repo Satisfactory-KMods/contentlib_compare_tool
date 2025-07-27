@@ -1,0 +1,29 @@
+//SatisfactoryPlus/Content/Recipes/Converter/Recipe_Converter_FicsiteIngot_Iron.Recipe_Converter_FicsiteIngot_Iron_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Ficsite™ Ingot (Iron)",
+  "OverrideCategory": "Ingots",
+  "Ingredients": [
+    {
+      "Item": "Desc_SAMIngot",
+      "Amount": 8
+    },
+    {
+      "Item": "Desc_IronIngot",
+      "Amount": 48
+    }
+  ],
+  "Products": [
+    {
+      "Item": "Desc_FicsiteIngot",
+      "Amount": 2
+    }
+
+
+  ],
+  "ManufacturingDuration": 8,
+  "ManufacturingMenuPriority": 1,
+  "VariablePowerConsumptionConstant": 200,
+  "VariablePowerConsumptionFactor": 400,
+  "ProducedIn": [ "Build_Converter" ]
+}

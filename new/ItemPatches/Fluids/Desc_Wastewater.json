@@ -1,6 +1,6 @@
 //KLib/Assets/Ressources/Raw/Fluids/Desc_LiquidDirtyWater.Desc_LiquidDirtyWater_C
 {
   "Name": "Wastewater",
-  "Description": "Wastewater (or Leachate) is a watery solution which remains after wet washing of impure ores.\n\nCan be processed in the Filtrator to extract remaining ores."
-
+  "Description": "Wastewater (or Leachate) is a watery solution which remains after wet washing of impure ores.\n\nCan be processed in the Filtrator to extract remaining ores.",
+  "NameShort": "Waste"
 }

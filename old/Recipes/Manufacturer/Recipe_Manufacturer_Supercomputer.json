@@ -1,0 +1,34 @@
+{
+    "Name": "Supercomputer",
+    "OverrideCategory": "Communications_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_Computer_C",
+            "Amount": 10
+        },
+        {
+            "Item": "Desc_CircuitBoardHighSpeed_C",
+            "Amount": 12
+        },
+        {
+            "Item": "Desc_HighSpeedConnector_C",
+            "Amount": 6
+        },
+        {
+            "Item": "Desc_CateriumHeatsink",
+            "Amount": 10
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_ComputerSuper_C",
+            "Amount": 5
+        }
+    ],
+    "ProducedIn": [
+        "Build_ManufacturerMk1"
+    ],
+    "ManufacturingDuration": 96,
+    "ManufacturingMenuPriority": 3,
+    "$comment": "This file has been removed, no new version exists"
+}

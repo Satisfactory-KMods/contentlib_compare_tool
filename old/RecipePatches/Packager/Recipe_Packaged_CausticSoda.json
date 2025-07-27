@@ -1,0 +1,28 @@
+//KLib/Assets/Parts/Packaged/Recipes/Packaged/Recipe_Packaged_CausticSoda.Recipe_Packaged_CausticSoda_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Packaged Caustic Soda",
+  "OverrideCategory": "Cat_Packaging_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_FluidCanister_C",
+      "Amount": 1
+    },
+    {
+      "Item": "Desc_CausticSoda_C",
+      "Amount": 1000
+    }
+
+  ],
+  "Products": [
+
+    {
+      "Item": "Desc_PackagedCausticSoda_C",
+      "Amount": 1
+    }
+
+  ],
+  "ManufacturingDuration": 1,
+  "ManufacturingMenuPriority": 1,
+  "ProducedIn": [ "Build_AB_FluidPacker" ]
+}

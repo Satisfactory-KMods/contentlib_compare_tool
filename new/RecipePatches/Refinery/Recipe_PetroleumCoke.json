@@ -6,7 +6,7 @@
   "Ingredients": [
     {
       "Item": "Desc_HeavyOilResidue",
-      "Amount": 4000
+      "Amount": 3000
     }
 
   ],
@@ -20,5 +20,5 @@
   ],
   "ProducedIn": [ "Build_OilRefinery" ],
   "ManufacturingDuration": 6,
-  "ManufacturingMenuPriority": 1
+  "ManufacturingMenuPriority": 2.5
 }

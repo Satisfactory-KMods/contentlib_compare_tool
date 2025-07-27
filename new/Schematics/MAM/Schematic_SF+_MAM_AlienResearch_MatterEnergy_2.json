@@ -1,0 +1,50 @@
+{
+  "Name": "Full Access: Matter Conversion",
+  "Type": "MAM",
+  "ResearchTree": {
+    "ResearchTree": "ResearchTree_AlienTech_C",
+    "Coords": {
+      "X": 6,
+      "Y": 7
+    },
+    "Parents": [
+      {
+        "X": 6,
+        "Y": 6
+      }
+    ],
+    "UnhiddenBy": [
+      {
+        "X": 6,
+        "Y": 6
+      }
+    ]
+  },
+  "MenuPriority": 6,
+  "VisualKit": "Kit_Converter",
+  "ClearCost": true,
+  "Cost": [
+    {
+      "Item": "Desc_SAMFluctuator_C",
+      "Amount": 100
+    },
+    {
+      "Item": "Desc_FicsiteMesh",
+      "Amount": 100
+    }
+
+  ],
+  "Recipes": [
+    "Recipe_Converter_Larrusite_Siterite_1_5",
+    "Recipe_Converter_Coal_Callanite_2_5",
+    "Recipe_Converter_Callanite_Sulfur_3_5",
+    "Recipe_Converter_Kyalite_Montanion_4_5",
+    "Recipe_Converter_Aurovite_Callanite_5_5",
+    "Recipe_Converter_Montanion_KerrCrystal_6_5",
+    "Recipe_Converter_Uranium_Aurovite_7_5",
+    "Recipe_Converter_Uranium_Montanion_7",
+    "Recipe_Converter_Nitrogen_Sulfur_9",
+    "Recipe_Converter_Nitrogen_Uranium_9_5"
+  ],
+  "Time": 10
+}

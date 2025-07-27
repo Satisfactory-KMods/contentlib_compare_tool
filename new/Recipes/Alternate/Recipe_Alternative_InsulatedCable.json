@@ -1,0 +1,26 @@
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Alternate: Insulated Cable",
+  "OverrideCategory": "Electronics_C",
+  "Ingredients": [
+
+    {
+      "Item": "Desc_Wire",
+      "Amount": 6
+    },
+    {
+      "Item": "Desc_Rubber",
+      "Amount": 2
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_Cable",
+      "Amount": 10
+    }
+  ],
+  "ProducedIn": [ "Build_AssemblerMk1" ],
+  "ManufacturingDuration": 8,
+  "ManufacturingMenuPriority": 2
+}

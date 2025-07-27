@@ -1,0 +1,33 @@
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Alternate: Fusion Welded Frame",
+  "OverrideCategory": "IndustrialParts_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_ModularFrameHeavy",
+      "Amount": 3
+    },
+    {
+      "Item": "Desc_AluminumPlate",
+      "Amount": 80
+    },
+    {
+      "Item": "Desc_LiquidFuel",
+      "Amount": 16000
+    },
+    {
+      "Item": "Desc_NitricAcid",
+      "Amount": 12000
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_ModularFrameFused",
+      "Amount": 2
+    }
+  ],
+  "ProducedIn": [ "Build_Blender" ],
+  "ManufacturingDuration": 32,
+  "ManufacturingMenuPriority": 2.5
+}

@@ -1,7 +1,12 @@
 {
-  "Name": "Alternate: Fused Copper Wire",
-  "Type": "Alternate",
-  "VisualKit": "Desc_Wire_C",
-  "Recipes": [ "Recipe_Alternative_FusedCopperWire" ],
-  "DependsOn": [ "Schematic_SF+_T2_0_C" ]
+    "Name": "Alternate: Fused Copper Wire",
+    "Type": "Alternate",
+    "VisualKit": "Desc_Wire_C",
+    "Recipes": [
+        "Recipe_Alternative_FusedCopperWire"
+    ],
+    "DependsOn": [
+        "Schematic_SF+_T2_0_C"
+    ],
+    "$comment": "This file has been removed, no new version exists"
 }

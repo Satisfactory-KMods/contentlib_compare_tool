@@ -1,0 +1,43 @@
+//SatisfactoryPlus/Content/Recipes/QuantumEncoder/Recipe_Encoder_QuantumOscillator.Recipe_Encoder_QuantumOscillator_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Quantum Oscillator",
+  "OverrideCategory": "Quantum_C",
+  "Ingredients": [
+
+    {
+      "Item": "Desc_CrystalOscillator",
+      "Amount": 4
+    },
+    {
+      "Item": "Desc_ModularFrameLightweight",
+      "Amount": 3
+    },
+    {
+      "Item": "Desc_DarkMatter",
+      "Amount": 15
+    },
+    {
+      "Item": "Desc_QuantumEnergy",
+      "Amount": 75000
+    }
+  ],
+
+  "Products": [
+    {
+      "Item": "Desc_QuantumOscillator",
+      "Amount": 5
+    },
+    {
+      "Item": "Desc_DarkEnergy",
+      "Amount": 37500
+    }
+
+
+  ],
+  "ManufacturingDuration": 30,
+  "ManufacturingMenuPriority": 1,
+  "VariablePowerConsumptionConstant": 3000,
+  "VariablePowerConsumptionFactor": -3000,
+  "ProducedIn": [ "Build_QuantumEncoder" ]
+}

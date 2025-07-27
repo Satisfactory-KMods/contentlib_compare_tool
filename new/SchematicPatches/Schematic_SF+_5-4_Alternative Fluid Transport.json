@@ -24,8 +24,6 @@
     }
 
   ],
-  "ClearRecipes": true,
-  "Recipes": [ "Recipe_AB_FluidPacker_C", "Recipe_FluidCanister", "Recipe_Constructor_FluidTank", "Recipe_Assembler_Hot_C", "Recipe_Jetpack" ],
   "InventorySlotsToGive": 5,
   "Time": 120
 }

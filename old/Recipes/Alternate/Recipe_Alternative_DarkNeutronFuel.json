@@ -1,0 +1,30 @@
+{
+    "Name": "Alternate: Dark Neutron Fuel",
+    "OverrideCategory": "Fuel_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_RocketFuel",
+            "Amount": 12000
+        },
+        {
+            "Item": "Desc_Neutronium",
+            "Amount": 1000
+        },
+        {
+            "Item": "Desc_DarkMatter",
+            "Amount": 2
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_IonizedFuel_C",
+            "Amount": 15000
+        }
+    ],
+    "ManufacturingDuration": 12,
+    "ManufacturingMenuPriority": 5,
+    "ProducedIn": [
+        "Build_Blender"
+    ],
+    "$comment": "This file has been removed, no new version exists"
+}

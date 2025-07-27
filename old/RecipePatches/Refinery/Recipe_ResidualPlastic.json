@@ -9,7 +9,7 @@
     },
     {
       "Item": "Desc_LiquidFuel",
-      "Amount": 3000
+      "Amount": 4000
     }
 
   ],
@@ -20,6 +20,6 @@
     }
   ],
   "ManufacturingDuration": 12,
-  "ManufacturingMenuPriority": 1,
+  "ManufacturingMenuPriority": 1.5,
   "ProducedIn": [ "Build_OilRefinery" ]
 }

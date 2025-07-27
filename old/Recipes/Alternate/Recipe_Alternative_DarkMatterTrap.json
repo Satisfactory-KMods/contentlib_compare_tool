@@ -1,0 +1,32 @@
+{
+    "Name": "Alternate: Dark Matter Trap",
+    "OverrideCategory": "Quantum_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_TimeCrystal",
+            "Amount": 6
+        },
+        {
+            "Item": "Desc_FicsiteMesh",
+            "Amount": 3
+        },
+        {
+            "Item": "Desc_DarkEnergy",
+            "Amount": 16000
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_DarkMatter",
+            "Amount": 6
+        }
+    ],
+    "ManufacturingDuration": 8,
+    "ManufacturingMenuPriority": 3,
+    "VariablePowerConsumptionConstant": 500,
+    "VariablePowerConsumptionFactor": 1000,
+    "ProducedIn": [
+        "Build_HadronCollider"
+    ],
+    "$comment": "This file has been removed, no new version exists"
+}

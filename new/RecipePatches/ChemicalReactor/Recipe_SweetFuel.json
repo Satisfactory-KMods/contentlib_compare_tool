@@ -6,18 +6,18 @@
   "Ingredients": [
     {
       "Item": "Desc_HeavyOilResidue",
-      "Amount": 6000
+      "Amount": 5000
     },
     {
       "Item": "Desc_Water",
-      "Amount": 6000
+      "Amount": 5000
     }
 
   ],
   "Products": [
     {
       "Item": "Desc_LiquidFuel",
-      "Amount": 12000
+      "Amount": 10000
     },
     {
       "Item": "Desc_Sulfur",
@@ -27,6 +27,6 @@
 
   ],
   "ProducedIn": [ "Build_ChemReactor" ],
-  "ManufacturingDuration": 6,
+  "ManufacturingDuration": 5,
   "ManufacturingMenuPriority": 1
 }

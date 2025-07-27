@@ -1,0 +1,24 @@
+//SatisfactoryPlus/Content/Recipes/Converter/Recipe_Converter_ExcitedPhotonicMatter.Recipe_Converter_ExcitedPhotonicMatter_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Excited Photonic Matter",
+  "OverrideCategory": "Quantum_C",
+  "Ingredients": [
+    {
+
+    }
+  ],
+  "Products": [
+    {
+      "Item": "Desc_QuantumEnergy",
+      "Amount": 10000
+    }
+
+
+  ],
+  "ManufacturingDuration": 6,
+  "ManufacturingMenuPriority": 1,
+  "VariablePowerConsumptionConstant": 200,
+  "VariablePowerConsumptionFactor": 400,
+  "ProducedIn": [ "Build_Converter" ]
+}

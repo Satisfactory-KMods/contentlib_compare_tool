@@ -1,0 +1,33 @@
+{
+    "$class": "{\r",
+    "$classShort": "{\r",
+    "$comment": "This file has been changed",
+    "Class": "{\r",
+    "new": {
+        "BigIcon": "TiClGas2",
+        "SmallIcon": "TiClGas2"
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "BigIcon": "Desc_Gas_Titantetrachlorid",
+        "SmallIcon": "Desc_Gas_Titantetrachlorid"
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "Mesh": "/Game/FactoryGame/Resource/Parts/PackagedNitrogen/Mesh/SM_PackagedNitrogen_01.SM_PackagedNitrogen_01",
+        "BigIcon": "TiClGas2",
+        "SmallIcon": "TiClGas2",
+        "FluidColor": {
+            "r": 85,
+            "g": 40,
+            "b": 155,
+            "a": 8
+        },
+        "GasColor": {
+            "r": 255,
+            "g": 220,
+            "b": 255,
+            "a": 0
+        }
+    }
+}

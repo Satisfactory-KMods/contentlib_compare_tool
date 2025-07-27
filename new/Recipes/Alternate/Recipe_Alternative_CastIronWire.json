@@ -1,0 +1,21 @@
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Alternate: Cast Iron Wire",
+  "OverrideCategory": "StandardParts_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_IronIngot",
+      "Amount": 2
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_IronWire",
+      "Amount": 3
+    }
+  ],
+  "ProducedIn": [ "Build_SmelterMk1" ],
+  "ManufacturingDuration": 4,
+  "ManufacturingMenuPriority": 2
+}

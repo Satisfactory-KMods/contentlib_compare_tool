@@ -5,11 +5,11 @@
   "Ingredients": [
     {
       "Item": "Desc_SAMIngot_C",
-      "Amount": 1
+      "Amount": 2
     },
     {
       "Item": "Desc_OreUranium",
-      "Amount": 1
+      "Amount": 2
     }
 
   ],
@@ -17,12 +17,12 @@
 
     {
       "Item": "Desc_NitrogenGas",
-      "Amount": 6000
+      "Amount": 12000
     }
 
 
   ],
-  "ManufacturingDuration": 3,
+  "ManufacturingDuration": 8,
   "ManufacturingMenuPriority": 9.5,
   "VariablePowerConsumptionConstant": 500,
   "VariablePowerConsumptionFactor": -500,

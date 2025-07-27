@@ -1,25 +1,26 @@
 {
-  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
-  "Name": "Fabric",
-  "OverrideCategory": "Other_C",
-  "Ingredients": [
-    {
-      "Item": "Desc_GenericBiomass",
-      "Amount": 4
-    },
-    {
-      "Item": "Desc_Mycelia",
-      "Amount": 1
-    }
-
-  ],
-  "Products": [
-    {
-      "Item": "Desc_Fabric",
-      "Amount": 2
-    }
-  ],
-  "ProducedIn": [ "Build_AssemblerMk1" ],
-  "ManufacturingDuration": 12,
-  "ManufacturingMenuPriority": 2
+    "Name": "Fabric",
+    "OverrideCategory": "Other_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_GenericBiomass",
+            "Amount": 4
+        },
+        {
+            "Item": "Desc_Mycelia",
+            "Amount": 1
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_Fabric",
+            "Amount": 2
+        }
+    ],
+    "ProducedIn": [
+        "Build_AssemblerMk1"
+    ],
+    "ManufacturingDuration": 12,
+    "ManufacturingMenuPriority": 2,
+    "$comment": "This file has been removed, no new version exists"
 }

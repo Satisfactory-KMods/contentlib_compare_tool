@@ -1,0 +1,9 @@
+{
+  "Class": "/SatisfactoryPlus/AssetDatas/RRD/RP/Heater/PDA_SFP_Heater_Coal_Coal.PDA_SFP_Heater_Coal_Coal",
+  "Edits": [
+    {
+      "Property": "mPriority",
+      "Value": 2
+    }
+  ]
+}

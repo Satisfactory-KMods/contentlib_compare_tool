@@ -1,0 +1,8 @@
+{
+    "$comment": "This is a new file, no old version exists",
+    "$class": "{\r",
+    "$classShort": "{\r",
+    "Mesh": "/KLib/Assets/Parts/Production/TimeCrystal/StabilizedTimeCrystal/SM_StableCrystal_empty.SM_StableCrystal_empty",
+    "BigIcon": "Icon_PolarizationFrame",
+    "SmallIcon": "Icon_PolarizationFrame"
+}

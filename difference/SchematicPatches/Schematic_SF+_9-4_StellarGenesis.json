@@ -1,0 +1,31 @@
+{
+    "$comment": "This is a new file, no old version exists",
+    "$class": "//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T9/Schematic_SF+_T9_4.Schematic_SF+_T9_4_C\r",
+    "$classShort": "Schematic_SF+_T9_4",
+    "Name": "Stellar Genesis",
+    "Type": "Milestone",
+    "Tier": 9,
+    "MenuPriority": 4,
+    "VisualKit": "Desc_Ficsonium_C",
+    "ClearCost": true,
+    "Cost": [
+        {
+            "Item": "Desc_CopperIngot",
+            "Amount": 1000
+        },
+        {
+            "Item": "Desc_FusedModularFrame",
+            "Amount": 50
+        },
+        {
+            "Item": "Desc_CrystalOscillator",
+            "Amount": 100
+        }
+    ],
+    "ClearRecipes": true,
+    "Recipes": [
+        "Recipe_ParticleAccelerator_Ficsonium",
+        "Recipe_Encoder_FicsoniumFuelRod"
+    ],
+    "Time": 360
+}

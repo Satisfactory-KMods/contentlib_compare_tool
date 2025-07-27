@@ -1,0 +1,26 @@
+//SatisfactoryPlus/Content/SchematicManager/Alternative/CateriumCircuitBoard/Recipe_Alternative_CateriumCircuitBoard.Recipe_Alternative_CateriumCircuitBoard_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Alternate: Caterium Circuit Board",
+  "OverrideCategory": "Electronics_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_Plastic",
+      "Amount": 25
+    },
+    {
+      "Item": "Desc_CateriumPlates",
+      "Amount": 3
+    }
+  ],
+  "Products": [
+    {
+      "Item": "Desc_CircuitBoard",
+      "Amount": 7
+    }
+  ],
+  "ProducedIn": [ "Build_AssemblerMk1" ],
+  "ManufacturingDuration": 30,
+  "ManufacturingMenuPriority": 3.5
+
+}

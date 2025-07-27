@@ -1,0 +1,18 @@
+//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T8/Schematic_SF+_T8_1.Schematic_SF+_T8_1_C
+{
+  "Name": "Nuclear Power",
+  "Type": "Milestone",
+  "Tier": 8,
+  "MenuPriority": 1,
+  "VisualKit": "Desc_GeneratorNuclear_C",
+
+  "ClearRecipes": true,
+  "Recipes": [
+    "Recipe_RP_MP_NuclearHeater",
+    "Recipe_GeneratorNuclear_C",
+    "Recipe_Blender_FissileUranium",
+    "Recipe_Chem_EnrichedUranium",
+    "Recipe_Manufacturer_UraniumFuelRod"
+  ],
+  "Time": 480
+}

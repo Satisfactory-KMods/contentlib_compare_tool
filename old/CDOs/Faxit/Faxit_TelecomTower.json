@@ -1,0 +1,13 @@
+{
+  "Class": "/KLib/Assets/Buildings/Faxit/Build_CS_PoleStand_2.Build_CS_PoleStand_2_C",
+  "Edits": [
+    {
+      "Property": "mDisplayName",
+      "Value": "FaxIt Telecom Tower"
+    },
+    {
+      "Property": "mDescription",
+      "Value": "Helps span Data Cables across greater distances.\nThere is an additional connector at the bottom of the Telecom Tower to connect it to other buildings, such as Telecom Poles.\n\nConnect Faxit Scanners, Copiers and a Nexus with Data Cables to increase the data transmission rate by 100%.\n\nNOTE: A Storage Nexus cannot be connected to a Faxit Network belonging to another Storage Nexus."
+    }
+  ]
+}

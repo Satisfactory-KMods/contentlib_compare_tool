@@ -1,6 +1,7 @@
 //KLib/Assets/Parts/Production/Belt/Desc_BeltItemMk3.Desc_BeltItemMk3_C
 {
   "Name": "Belt Drive Mk.4",
-  "Description": "An industrial conveyor drum drive, used to power Mk.4 Conveyor Belts."
+  "Description": "An industrial conveyor drum drive, used to power Mk.4 Conveyor Belts.",
+  "NameShort": "BD4"
 
 }

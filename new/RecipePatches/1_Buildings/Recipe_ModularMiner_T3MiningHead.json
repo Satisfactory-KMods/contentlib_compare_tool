@@ -1,4 +1,4 @@
-//KLib/Assets/Buildings/ModularExtractor/Recipes/Recipe_Module_Drill_T3.Default__Recipe_Module_Drill_T3_C
+//KLib/Assets/Buildings/ModularExtractor/Recipes/Recipe_Module_Drill_T3.Recipe_Module_Drill_T3_C
 {
   "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
   "Name": "Diamond Mining Head",
@@ -6,6 +6,10 @@
     {
       "Item": "BP_ItemDescriptorPortableMiner_C",
       "Amount": 20
+    },
+    {
+      "Item": "Desc_MotorLightweight_C",
+      "Amount": 5
     },
     {
       "Item": "Desc_AluminumCasing",
@@ -19,7 +23,7 @@
       "Item": "Desc_SteelBolt",
       "Amount": 100
     }
-    
+
   ],
   "ManufacturingMenuPriority": 4
 }

@@ -1,0 +1,29 @@
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Biochemical Sculptor",
+  "OverrideCategory": "SpaceElevator_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_SpaceElevatorPart_7_C",
+      "Amount": 2
+    },
+    {
+      "Item": "Desc_TemporalProcessor",
+      "Amount": 1
+    },
+    {
+      "Item": "Desc_SlugSlime_Mineral",
+      "Amount": 25000
+    }
+  ],
+  "Products": [
+    {
+      "Item": "Desc_SpaceElevatorPart_10_C",
+      "Amount": 2
+    }
+
+  ],
+  "ProducedIn": [ "Build_Blender" ],
+  "ManufacturingDuration": 60,
+  "ManufacturingMenuPriority": 2
+}

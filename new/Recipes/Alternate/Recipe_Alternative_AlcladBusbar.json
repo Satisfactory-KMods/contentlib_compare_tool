@@ -1,0 +1,21 @@
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Alternate: Alclad Busbar",
+  "OverrideCategory": "Electronics_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_AluminumPlate",
+      "Amount": 4
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_CopperBusbar",
+      "Amount":5
+    }
+  ],
+  "ManufacturingDuration": 10,
+  "ManufacturingMenuPriority": 3.2,
+  "ProducedIn": [ "Build_ConstructorMk1" ]
+}

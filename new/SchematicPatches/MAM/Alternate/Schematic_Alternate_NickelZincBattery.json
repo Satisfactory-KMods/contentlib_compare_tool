@@ -1,0 +1,8 @@
+//SatisfactoryPlus/Content/SchematicManager/Alternative/NickelZincBattery/Schematic_Alternative_NickelZincBattery.Schematic_Alternative_NickelZincBattery_C
+{
+  "Name": "Alternate: Nickel-Zinc Battery",
+  "Type": "Alternate",
+  "VisualKit": "Desc_Battery",
+  "Recipes": [ "Recipe_ChemReac_Battery_C" ],
+  "DependsOn": [ "Schematic_SF+_T5_3_C" ]
+}

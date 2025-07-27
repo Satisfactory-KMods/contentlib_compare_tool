@@ -1,0 +1,34 @@
+//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T9/Schematic_SF+_T9_1.Schematic_SF+_T9_1_C
+{
+  "Name": "Quantum Encoding",
+  "Type": "Milestone",
+  "Tier": 9,
+  "MenuPriority": 1,
+  "VisualKit": "Desc_QuantumEncoder_C",
+  "ClearCost": true,
+  "Cost": [
+    {
+      "Item": "Desc_TimeCrystal",
+      "Amount": 250
+    },
+    {
+      "Item": "Desc_ComputerSuper",
+      "Amount": 200
+    },
+    {
+      "Item": "Desc_TitaniumdModularFrame",
+      "Amount": 50
+    }
+  ],
+  "ClearRecipes": true,
+  "Recipes": [
+    "Recipe_QuantumEncoder",
+    "Recipe_Converter_ExcitedPhotonicMatter",
+    "Recipe_Converter_EnergeticDarkMatter",
+    "Recipe_Converter_TimeCrystal",
+    "Recipe_Encoder_NeuralQuantumProcessor",
+    "Recipe_Encoder_QuantumOscillator",
+    "Recipe_Encoder_AIExpansionServer_12"
+  ],
+  "Time": 360
+}

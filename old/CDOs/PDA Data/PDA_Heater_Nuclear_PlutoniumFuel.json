@@ -1,0 +1,36 @@
+{
+  "Class": "/RefinedPower/Buildables/Factory/ModularPower/MPBuildings/Heaters/NuclearHeater/Data/PDA_RP_Heater_Nuc_Plut.PDA_RP_Heater_Nuc_Plut",
+  "Edits": [
+    {
+      "Property": "mInput",
+      "Value": {
+        "ItemClass": "/Game/FactoryGame/Resource/Parts/PlutoniumFuelRods/Desc_PlutoniumFuelRod.Desc_PlutoniumFuelRod_C",
+        "amount": 1
+      }
+    },
+    {
+      "Property": "mOutput",
+      "Value": {
+        "ItemClass": "/Game/FactoryGame/Resource/Parts/NuclearWaste/Desc_PlutoniumWaste.Desc_PlutoniumWaste_C",
+        "amount": 5
+      }
+    },
+    {
+      "Property": "mDuration",
+      "Value": 1200
+    },
+    {
+      "Property": "mHeat",
+      "Value": 6000
+    },
+    {
+      "Property": "mMinHeatValue",
+      "Value": 100
+    },
+    {
+      "Property": "mMaxHeatValue",
+      "Value": 2000
+    }
+
+  ]
+}

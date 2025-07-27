@@ -1,0 +1,14 @@
+{
+    "$comment": "This is a new file, no old version exists",
+    "$class": "//Game/FactoryGame/Schematics/Progression/Schematic_9-1-1.Schematic_9-1-1_C\r",
+    "$classShort": "Schematic_9-1-1",
+    "Name": "Matter Conversion 2",
+    "Type": "Milestone",
+    "Tier": 9,
+    "MenuPriority": 1,
+    "VisualKit": "Desc_CopperDust_C",
+    "ClearCost": true,
+    "ClearRecipes": true,
+    "Recipes": [],
+    "Time": 60
+}

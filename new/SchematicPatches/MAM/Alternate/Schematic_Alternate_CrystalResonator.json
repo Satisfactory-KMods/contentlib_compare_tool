@@ -1,0 +1,7 @@
+//SatisfactoryPlus/Content/SchematicManager/Alternative/CrystalResonator/Schematic_AlternativerystalResonator.Schematic_AlternativerystalResonator_C
+{
+  "Name": "Alternate: Crystal Resonator",
+  "Type": "Alternate",
+  "Recipes": [ "Recipe_Alternative_CrystalResonator_C" ],
+  "DependsOn": [ "Schematic_SF+_T5_1_C" ]
+}

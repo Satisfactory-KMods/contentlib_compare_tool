@@ -1,0 +1,27 @@
+//Game/FactoryGame/Recipes/Buildings/Recipe_GeneratorFuel.Recipe_GeneratorFuel_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Ingredients": [
+    {
+      "Item": "Desc_ModularFrameHeavy",
+      "Amount": 5
+    },
+    {
+      "Item": "Desc_MotorLightweight_C",
+      "Amount": 10
+    },
+    {
+      "Item": "Desc_InvarPipe",
+      "Amount": 50
+    },
+    {
+      "Item": "Desc_HighSpeedWire",
+      "Amount": 100
+    },
+    {
+      "Item": "Desc_SteelBolt",
+      "Amount": 150
+    }
+  ],
+  "ManufacturingMenuPriority": 3
+}

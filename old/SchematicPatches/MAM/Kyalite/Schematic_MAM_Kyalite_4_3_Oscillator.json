@@ -1,0 +1,21 @@
+//SatisfactoryPlus/Content/SchematicManager/MAM/Schematics/Cryolite/Schematic_Trees_Cryolit_4_3.Schematic_Trees_Cryolit_4_3_C
+{
+  "Name": "Crystal Oscillator",
+  "ClearCost": true,
+  "Cost": [
+    {
+      "Item": "Desc_QuartzCrystal",
+      "Amount": 240
+    },
+    {
+      "Item": "Desc_Glass",
+      "Amount": 200
+    },
+    {
+      "Item": "Desc_TinSheet",
+      "Amount": 200
+    }
+  ],
+  "ClearRecipes": true,
+  "Recipes": [ "Recipe_Manufacturer_CrystalOscillator", "Recipe_Foundry_FlintGlass" ]
+}

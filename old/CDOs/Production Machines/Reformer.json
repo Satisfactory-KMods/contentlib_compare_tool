@@ -27,11 +27,11 @@
     },
     {
       "Property": "mProductionShardSlotSize",
-      "Value": "4"
+      "Value": "2"
     },
     {
       "Property": "mProductionShardBoostMultiplier",
-      "Value": "0.25"
+      "Value": "0.5"
     }
   ]
 }

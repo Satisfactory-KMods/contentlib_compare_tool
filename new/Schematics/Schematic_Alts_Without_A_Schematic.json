@@ -3,7 +3,33 @@
   "Type": "Alternate",
   "VisualKit": "Desc_BrassIngot_C",
   "Recipes": [
+
+    "Recipe_Chem_DistilledSilica",
+    "Recipe_Alternative_MoldedIronPlate",
+    "Recipe_Alternative_ClassicSteelIngot",
+    "Recipe_Alternative_RefinedSlurry",
+    "Recipe_Alternative_PolymerResin",
+    "Recipe_Alternative_AlcladBusbar",
+    "Recipe_Alternative_AluminumFluidTank",
+    "Recipe_Alternative_WeldedBronzeFrame",
+    "Recipe_Alternative_FusedAlloyQuickwire",
+    "Recipe_Alternative_CastIronWire",
+    "Recipe_Alternative_PureTinWire",
+    "Recipe_Alternative_CateriumComputer",
+    "Recipe_Alternative_InsulatedCable",
+    "Recipe_Alternative_BrazedBusbar",
+    "Recipe_Alternative_SteelRotor",
+
+    "Recipe_Alternative_RFConnectionUnit",
     "Recipe_Alternative_CrystalResonator",
+    "Recipe_Alternative_ResonantTimeCrystal",
+
+    "Recipe_Alternative_CryoCoolant",
+    "Recipe_Alternative_WaterCoolerRadiator",
+    "Recipe_Alternative_CoolingDevice",
+    "Recipe_Alternative_InstantTitanium",
+    "Recipe_Alternative_HeatExchanger",
+    "Recipe_Alternative_PureNaturalGas",
     "Recipe_Alternative_DiamondPowderFragment",
     "Recipe_Alternative_HydroDiamond",
     "Recipe_Alternative_DetonationDiamond",
@@ -13,7 +39,18 @@
     "Recipe_Alternative_SourRocketFuel",
     "Recipe_Alternative_IonizedFuel",
     "Recipe_Alternative_SourIonizedFuel",
-    "Recipe_Alternative_DarkNeutronFuel"
+    "Recipe_Alternative_DarkNeutronFuel",
+    "Recipe_Alternative_WeldedIronPlate",
+    "Recipe_Alternative_BoltedFrame",
+    "Recipe_Alternative_ModularWeldFrame",
+    "Recipe_Alternative_HeavyWeldFrame",
+    "Recipe_Alternative_FusionWeldFrame",
+    "Recipe_Alternative_PowerConversionCube",
+    "Recipe_Alternative_SAMRegulator",
+    "Recipe_Alternative_TITANRocketSystem",
+    "Recipe_Alternative_PlutoniumFuelUnit",
+    "Recipe_Alternative_MixedUraniumCell",
+    "Recipe_Alternative_ProtoFicsonium"
 
   ],
   "DependsOn": [ "Schematic_SF+_T9_1_C" ]

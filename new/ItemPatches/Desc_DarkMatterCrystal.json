@@ -1,6 +1,7 @@
 //Game/FactoryGame/Resource/Parts/DarkMatter/Desc_DarkMatter.Desc_DarkMatter_C
 {
   "Name": "Dark Matter Crystal",
-  "Description": "Concentrated Energetic Dark Matter that is isolated within a crystalline vessel. This form of containment allows for utilising Dark Matter reliably in other production processes.\r\n\r\nPower Usage: 500-1500 MW (1000 MW average)"
+  "Description": "Concentrated Energetic Dark Matter that is isolated within a crystalline vessel. This form of containment allows for utilising Dark Matter reliably in other production processes.\r\n\r\nPower Usage: 500-1500 MW (1000 MW average)",
+  "NameShort": "DMC"
 
 }

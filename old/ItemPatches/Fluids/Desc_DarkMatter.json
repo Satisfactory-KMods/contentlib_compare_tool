@@ -1,0 +1,6 @@
+//Game/FactoryGame/Resource/Parts/DarkEnergy/Desc_DarkEnergy.Desc_DarkEnergy_C
+{
+  "Name": "Energetic Dark Matter",
+  "Description": "Produced as a by-product of Excited Photonic Matter used in Quantum Encoding or alternatively made in the Converter.\n\nVarious fields of science are still debating the nature and properties of Dark Matter. Meanwhile, FICSIT has found several applications for it in space-time manipulation.",
+  "StackSize": "Fluid"
+}

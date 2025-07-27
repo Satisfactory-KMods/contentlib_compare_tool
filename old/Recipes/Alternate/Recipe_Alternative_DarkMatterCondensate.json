@@ -1,0 +1,24 @@
+{
+    "Name": "Alternate: Dark Matter Condensate",
+    "OverrideCategory": "Quantum_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_DarkEnergy",
+            "Amount": 20000
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_DarkMatter",
+            "Amount": 2
+        }
+    ],
+    "ManufacturingDuration": 8,
+    "ManufacturingMenuPriority": 5,
+    "VariablePowerConsumptionConstant": 500,
+    "VariablePowerConsumptionFactor": 1000,
+    "ProducedIn": [
+        "Build_HadronCollider"
+    ],
+    "$comment": "This file has been removed, no new version exists"
+}

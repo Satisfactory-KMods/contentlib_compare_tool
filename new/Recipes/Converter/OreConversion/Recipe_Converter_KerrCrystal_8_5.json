@@ -5,26 +5,26 @@
   "Ingredients": [
     {
       "Item": "Desc_SAMIngot_C",
-      "Amount": 1
+      "Amount": 2
     },
     {
       "Item": "Desc_RawQuartz_C",
-      "Amount": 16
+      "Amount": 32
     }
   ],
   "Products": [
     {
       "Item": "Res_TimeCrystal_C",
-      "Amount": 4
+      "Amount": 8
     },
     {
       "Item": "Desc_DarkEnergy",
-      "Amount": 1000
+      "Amount": 2000
     }
 
 
   ],
-  "ManufacturingDuration": 3,
+  "ManufacturingDuration": 6,
   "ManufacturingMenuPriority": 8.5,
   "VariablePowerConsumptionConstant": 500,
   "VariablePowerConsumptionFactor": 100,

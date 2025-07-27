@@ -1,0 +1,26 @@
+//KLib/Assets/Buildings/Faxit/Recipes/Recipe_CS_Output_Fluid.Recipe_CS_Output_Fluid_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Faxit Fluid Copier",
+  "Ingredients": [
+
+    {
+      "Item": "Desc_BronzePipe",
+      "Amount": 15
+    },
+    {
+      "Item": "Desc_SAMFLuctuator",
+      "Amount": 10
+    },
+    {
+      "Item": "Desc_TimeC_StabilizedTimeCrystal_C",
+      "Amount": 10
+    },
+    {
+      "Item": "Desc_IronScrew",
+      "Amount": 25
+    }
+
+  ],
+  "ManufacturingMenuPriority": 4
+}

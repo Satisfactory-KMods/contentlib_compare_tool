@@ -1,0 +1,8 @@
+//SatisfactoryPlus/Content/SchematicManager/Alternative/FineBlackpowder/Schematic_Alternative_FineBlackpowder.Schematic_Alternative_FineBlackpowder_C
+{
+  "Name": "Alternate: Fine Black Powder",
+  "Type": "Alternate",
+  "VisualKit": "Desc_GunPowder_C",
+  "Recipes": [ "Recipe_Alternative_FineBlackpowder" ],
+  "DependsOn": [ "Schematic_Trees_Sulfur_3_2_C" ]
+}

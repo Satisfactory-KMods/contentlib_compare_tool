@@ -1,0 +1,33 @@
+//SatisfactoryPlus/Content/Recipes/Manufacturer/Recipe_Manufacturer_Supercomputer.Recipe_Manufacturer_Supercomputer_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Supercomputer",
+  "OverrideCategory": "Communications_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_Computer_C",
+      "Amount": 4
+    },
+    {
+      "Item": "Desc_CircuitBoardHighSpeed_C",
+      "Amount": 4
+    },
+    {
+      "Item": "Desc_HighSpeedConnector_C",
+      "Amount": 2
+    },
+    {
+      "Item": "Desc_CateriumHeatsink",
+      "Amount": 5
+    }
+  ],
+  "Products": [
+    {
+      "Item": "Desc_ComputerSuper_C",
+      "Amount": 2
+    }
+  ],
+  "ProducedIn": [ "Build_ManufacturerMk1" ],
+  "ManufacturingDuration": 32,
+  "ManufacturingMenuPriority": 4
+}

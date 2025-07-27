@@ -1,0 +1,26 @@
+//SatisfactoryPlus/Content/Recipes/OilRefinery/Recipe_OilRefinery_Fabric.Recipe_OilRefinery_Fabric_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Synthetic Fabric",
+  "OverrideCategory": "Other_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_PolymerResin",
+      "Amount": 6
+    },
+    {
+      "Item": "Desc_Gas_Steam_Hot",
+      "Amount": 1000
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_Fabric",
+      "Amount": 2
+    }
+  ],
+  "ManufacturingDuration": 4,
+  "ManufacturingMenuPriority": 3,
+  "ProducedIn": [ "Build_OilRefinery" ]
+}

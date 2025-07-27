@@ -1,0 +1,26 @@
+//SatisfactoryPlus/Content/SchematicManager/Alternative/FusedAlloyQuickwire/Recipe_Alternative_FusedAlloyQuickwire.Recipe_Alternative_FusedAlloyQuickwire_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Alternate: Fused Alloy Quickwire",
+  "OverrideCategory": "Other_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_LiquidGold",
+      "Amount": 1000
+    },
+    {
+      "Item": "Desc_LiquidCopper",
+      "Amount": 2000
+    }
+  ],
+  "Products": [
+    {
+      "Item": "Desc_HighSpeedWire",
+      "Amount": 30
+    }
+  ],
+  "ProducedIn": [ "Build_SoldifierAndCooler" ],
+  "ManufacturingDuration": 8,
+  "ManufacturingMenuPriority": 2
+
+}

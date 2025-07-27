@@ -1,11 +1,11 @@
 {
   "Mesh": "/Game/FactoryGame/Resource/Parts/PackagedNitrogen/Mesh/SM_PackagedNitrogen_01.SM_PackagedNitrogen_01",
-  "BigIcon": "/KLib/Assets/Ressources/Raw/Fluids/UI/LiquidNatriumaluminat.LiquidNatriumaluminat",
-  "SmallIcon": "/KLib/Assets/Ressources/Raw/Fluids/UI/LiquidNatriumaluminat.LiquidNatriumaluminat",
+  "BigIcon": "CausticSoda",
+  "SmallIcon": "CausticSoda",
   "FluidColor": {
-    "r": 150,
-    "g": 180,
-    "b": 160,
+    "r": 140,
+    "g": 200,
+    "b": 150,
     "a": 0
   },
   "GasColor": {

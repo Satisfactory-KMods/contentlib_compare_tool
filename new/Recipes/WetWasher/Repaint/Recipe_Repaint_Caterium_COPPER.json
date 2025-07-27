@@ -1,0 +1,26 @@
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Crushed Caterium (Copper)",
+  "OverrideCategory": "Repainting",
+  "Ingredients": [
+    {
+      "Item": "Desc_CrushedCopper",
+      "Amount": 6
+    },
+    {
+      "Item": "Desc_SlugSlime_Mineral_C",
+      "Amount": 1000
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_CrushedCaterium",
+      "Amount": 6
+    }
+
+  ],
+  "ProducedIn": [ "Build_OreWascher" ],
+  "ManufacturingDuration": 6,
+  "ManufacturingMenuPriority": 4
+}

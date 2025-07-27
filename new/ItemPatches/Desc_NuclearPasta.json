@@ -1,6 +1,7 @@
 //Game/FactoryGame/Resource/Parts/SpaceElevatorParts/Desc_SpaceElevatorPart_9.Desc_SpaceElevatorPart_9_C
 {
   "Name": "Nuclear Pasta",
-  "Description": "Project Part #9. Ship via the Space Elevator to complete phases of Project Assembly.\r\nPower Usage: 2000-4000 MW (3000 MW average).\r\n\r\nNuclear Pasta is extremely dense degenerate matter formed entirely out of neutrons. Made inside the Particle Accelerator through neutron capture with Copper Powder. It is theorized to exist naturally within the crust of neutron stars."
+  "Description": "Project Part #9. Ship via the Space Elevator to complete phases of Project Assembly.\r\nPower Usage: 2000-4000 MW (3000 MW average).\r\n\r\nNuclear Pasta is extremely dense degenerate matter formed entirely out of neutrons. Made inside the Particle Accelerator through neutron capture with Copper Powder. It is theorized to exist naturally within the crust of neutron stars.",
+  "NameShort": "Pasta"
 
 }

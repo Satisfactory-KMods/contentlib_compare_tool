@@ -7,7 +7,7 @@
     },
     {
       "Property": "mDescription",
-      "Value": "Allows up to 6 Data Cable connections\nConnect Faxit Scanners, Copiers and a Nexus with Data Cables to increase the data transmission rate by 100%.\n\nNOTE: A Storage Nexus cannot be connected to a Faxit Network belonging to another Storage Nexus."
+      "Value": "Allows up to 6 Data Cable connections.\nConnect Faxit Scanners, Copiers and a Nexus with Data Cables to increase the data transmission rate by 100%.\n\nNOTE: A Storage Nexus cannot be connected to a Faxit Network belonging to another Storage Nexus."
     }
   ]
 }

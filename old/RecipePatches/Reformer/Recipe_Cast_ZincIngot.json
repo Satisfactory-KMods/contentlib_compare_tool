@@ -6,7 +6,7 @@
   "Ingredients": [
     {
       "Item": "Desc_LiquidZinc",
-      "Amount": 6000
+      "Amount": 3000
     },
     {
       "Item": "Desc_Water",
@@ -18,15 +18,15 @@
 
     {
       "Item": "Desc_ZincIngot",
-      "Amount": 9
+      "Amount": 6
     },
     {
       "Item": "Desc_Gas_Steam_Hot",
-      "Amount": 3000
+      "Amount": 2000
     }
   ],
 
   "ProducedIn": [ "Build_SoldifierAndCooler" ],
-  "ManufacturingDuration": 6,
+  "ManufacturingDuration": 2,
   "ManufacturingMenuPriority": 5
 }

@@ -1,6 +1,14 @@
 {
-  "Class": "/SatisfactoryPlus/Content/Recipes/Cleaner/CleanerDesc_BioWater.CleanerDesc_BioWater_C",
+  "Class": "/SatisfactoryPlus/AssetDatas/Cleaner/PDA_Cleaner_BioWater.PDA_Cleaner_BioWater",
   "Edits": [
+    {
+      "Property": "mOutFluid",
+      "Value": 
+        {
+          "ItemClass": "/Game/FactoryGame/Resource/RawResources/Water/Desc_Water.Desc_Water_C",
+          "Amount": 0
+        }
+    },
     {
       "Property": "mBypassProducts",
       "Value": [
@@ -25,10 +33,6 @@
           "mProduceAmount": 1
         }
       ]
-    },
-    {
-      "Property": "mProductionOutFluid",
-      "Value": 500
     },
     {
       "Property": "mNeedCleanItem",

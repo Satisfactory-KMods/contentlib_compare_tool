@@ -1,0 +1,22 @@
+//SatisfactoryPlus/Content/Recipes/Constructor/Recipe_Constructor_TitanPipe.Recipe_Constructor_TitanPipe_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Titanium Pipe",
+  "OverrideCategory": "StandardParts_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_TitanPlates",
+      "Amount": 2
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_TitanPipe",
+      "Amount": 3
+    }
+  ],
+  "ProducedIn": [ "Build_ConstructorMk1" ],
+  "ManufacturingDuration": 60,
+  "ManufacturingMenuPriority": 23
+}

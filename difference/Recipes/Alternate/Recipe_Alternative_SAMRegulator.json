@@ -1,0 +1,38 @@
+{
+    "$comment": "This is a new file, no old version exists",
+    "$class": "{\r",
+    "$classShort": "{\r",
+    "Name": "Alternate: SAM Regulator",
+    "OverrideCategory": "Electronics_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_SAMIngot",
+            "Amount": 50
+        },
+        {
+            "Item": "Desc_ModularFrameLightweight",
+            "Amount": 3
+        },
+        {
+            "Item": "Desc_QuantumEnergy",
+            "Amount": 20000
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_SAMFluctuator",
+            "Amount": 6
+        },
+        {
+            "Item": "Desc_DarkEnergy",
+            "Amount": 10000
+        }
+    ],
+    "ManufacturingDuration": 20,
+    "ManufacturingMenuPriority": 8,
+    "VariablePowerConsumptionConstant": 1000,
+    "VariablePowerConsumptionFactor": -500,
+    "ProducedIn": [
+        "Build_QuantumEncoder"
+    ]
+}

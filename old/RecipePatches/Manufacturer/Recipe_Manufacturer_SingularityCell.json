@@ -1,0 +1,26 @@
+//SatisfactoryPlus/Content/Recipes/Manufacturer/Recipe_Manufacturer_SingularityCell.Recipe_Manufacturer_SingularityCell_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Ingredients": [
+    {
+      "Item": "Desc_PressureConversionCube_C",
+      "Amount": 2
+    },
+    {
+      "Item": "Desc_DarkMatter",
+      "Amount": 32
+    },
+    {
+      "Item": "Desc_TitanPlates",
+      "Amount": 8
+    }
+  ],
+  "Products": [
+    {
+      "Item": "Desc_SingularityCell",
+      "Amount": 6
+    }
+  ],
+  "ManufacturingDuration": 24,
+  "ProducedIn": [ "Build_ManufacturerMk1" ]
+}

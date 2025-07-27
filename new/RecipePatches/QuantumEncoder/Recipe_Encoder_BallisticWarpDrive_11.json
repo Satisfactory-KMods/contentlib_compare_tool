@@ -1,0 +1,43 @@
+//SatisfactoryPlus/Content/Recipes/QuantumEncoder/Recipe_Encoder_BallisticWarpDrive_11.Recipe_Encoder_BallisticWarpDrive_11_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Ballistic Warp Drive",
+  "OverrideCategory": "SpaceElevator_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_SingularityCell",
+      "Amount": 5
+    },
+    {
+      "Item": "Desc_SpaceElevatorPart_8_C",
+      "Amount": 2
+    },
+    {
+      "Item": "Desc_TitanModularFrame_C",
+      "Amount": 1
+    },
+    {
+      "Item": "Desc_QuantumEnergy",
+      "Amount": 50000
+    }
+
+  ],
+
+  "Products": [
+    {
+      "Item": "Desc_SpaceElevatorPart_11_C",
+      "Amount": 1
+    },
+    {
+      "Item": "Desc_DarkEnergy",
+      "Amount": 50000
+    }
+
+
+  ],
+  "ManufacturingDuration": 60,
+  "ManufacturingMenuPriority": 2,
+  "VariablePowerConsumptionConstant": 5000,
+  "VariablePowerConsumptionFactor": -5000,
+  "ProducedIn": [ "Build_QuantumEncoder" ]
+}

@@ -1,0 +1,32 @@
+{
+    "$comment": "This is a new file, no old version exists",
+    "$class": "{\r",
+    "$classShort": "{\r",
+    "Name": "Alternate: Welded Bronze Frame",
+    "OverrideCategory": "StandardParts_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_BronzePlates",
+            "Amount": 5
+        },
+        {
+            "Item": "Desc_BronzeBeam",
+            "Amount": 6
+        },
+        {
+            "Item": "Desc_Ethylene",
+            "Amount": 2000
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_BronzeFrame",
+            "Amount": 2
+        }
+    ],
+    "ProducedIn": [
+        "Build_Blender"
+    ],
+    "ManufacturingDuration": 4,
+    "ManufacturingMenuPriority": 1.5
+}

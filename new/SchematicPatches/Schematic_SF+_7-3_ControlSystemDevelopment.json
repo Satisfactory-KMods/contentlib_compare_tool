@@ -1,0 +1,41 @@
+//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T7/Schematic_SF+_T7_3.Schematic_SF+_T7_3_C
+{
+  "Name": "Control System Development",
+  "Type": "Milestone",
+  "Tier": 7,
+  "MenuPriority": 3,
+  "VisualKit": "Desc_ModularFrameLightweight_C",
+  "ClearCost": true,
+  "Cost": [
+    {
+      "Item": "Desc_AluminumPlate",
+      "Amount": 25
+    },
+    {
+      "Item": "Desc_AluminumCasing",
+      "Amount": 50
+    },
+    {
+      "Item": "Desc_Computer",
+      "Amount": 100
+    },
+    {
+      "Item": "Desc_Plastic",
+      "Amount": 150
+    },
+    {
+      "Item": "Desc_Battery",
+      "Amount": 150
+    }
+  ],
+  "ClearRecipes": true,
+  "Recipes": [
+    "Recipe_Assembler_AILimiter_C",
+    "Recipe_Manufacturer_HSConnector",
+    "Recipe_Manufacturer_CrystalOscillator",
+    "Recipe_Manufacturer_RadioControlUnit",
+    "Recipe_Manufacturer_Supercomputer",
+    "Recipe_Assembler_AssemblyDirectorSystem_7"
+  ],
+  "Time": 360
+}

@@ -1,0 +1,35 @@
+//SatisfactoryPlus/Content/Recipes/ChemicalReactor/Recipe_ChemReac_LeadBattery.Recipe_ChemReac_LeadBattery_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Battery",
+  "OverrideCategory": "Electronics_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_SulfuricAcid",
+      "Amount": 5000
+    },
+    {
+      "Item": "Desc_Water",
+      "Amount": 12000
+    },
+    {
+      "Item": "Desc_LeadSheet",
+      "Amount": 6
+    }
+  ],
+  "Products": [
+
+    {
+      "Item": "Desc_Battery",
+      "Amount": 12
+    },
+    {
+      "Item": "Desc_Water",
+      "Amount": 4000
+    }
+  ],
+  "ManufacturingDuration": 24,
+  "ManufacturingMenuPriority": 1,
+  "ProducedIn": [ "Build_ChemReactor" ]
+
+}

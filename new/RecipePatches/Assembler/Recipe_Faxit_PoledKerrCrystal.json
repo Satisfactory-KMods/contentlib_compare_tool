@@ -1,0 +1,26 @@
+//SatisfactoryPlus/Content/SchematicManager/MAM/Schematics/TimeCrystal/Recipes/Recipe_Time_Stabilizer.Recipe_Time_Stabilizer_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Poled Kerr Crystal",
+  "OverrideCategory": "Communications_C",
+  "Ingredients": [
+    {
+      "Item": "Res_TimeCrystal_C",
+      "Amount": 10
+    },
+    {
+      "Item": "Desc_TimeC_Case_C",
+      "Amount": 3
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_TimeC_StabilizedTimeCrystal_C",
+      "Amount": 3
+    }
+  ],
+  "ProducedIn": [ "Build_AssemblerMk1" ],
+  "ManufacturingDuration": 7.5,
+  "ManufacturingMenuPriority": 1
+}

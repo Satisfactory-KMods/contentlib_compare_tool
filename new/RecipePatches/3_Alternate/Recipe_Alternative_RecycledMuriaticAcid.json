@@ -1,0 +1,26 @@
+//SatisfactoryPlus/Content/SchematicManager/Alternative/RecycledMuriaticAcid/Recipe_Alternative_RecycledMuriaticAcid.Recipe_Alternative_RecycledMuriaticAcid_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Alternate: Recycled Muriatic Acid",
+  "OverrideCategory": "AdvancedRefinement_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_CryoliteResidue_C",
+      "Amount": 16
+    },
+    {
+      "Item": "Desc_CausticSoda",
+      "Amount": 3000
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_LiquidHydrochloricAcid",
+      "Amount": 9000
+    }
+  ],
+  "ManufacturingDuration": 12,
+  "ManufacturingMenuPriority": 4,
+  "ProducedIn": [ "Build_OilRefinery" ]
+}

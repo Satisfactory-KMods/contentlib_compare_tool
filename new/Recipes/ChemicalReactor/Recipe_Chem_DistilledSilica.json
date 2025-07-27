@@ -1,0 +1,32 @@
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Distilled Silica",
+  "OverrideCategory": "AdvancedRefinement_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_DissolvedSilica",
+      "Amount": 15000
+    },
+    {
+      "Item": "Desc_Gangue",
+      "Amount": 5
+    }
+  ],
+  "Products": [
+    {
+      "Item": "Desc_Silica",
+      "Amount": 27
+    },
+    {
+      "Item": "Desc_Salt",
+      "Amount": 9
+    },
+    {
+      "Item": "Desc_Water",
+      "Amount": 10000
+    }
+  ],
+  "ManufacturingDuration": 6,
+  "ManufacturingMenuPriority": 1.2,
+  "ProducedIn": [ "Build_ChemReactor" ]
+}

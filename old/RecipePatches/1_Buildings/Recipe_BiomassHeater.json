@@ -6,7 +6,7 @@
 
     {
       "Item": "Desc_IronPlateReinforced",
-      "Amount": 4
+      "Amount": 5
     },
     {
       "Item": "Desc_TinPlate",
@@ -18,7 +18,7 @@
     },
     {
       "Item": "Desc_Cable",
-      "Amount": 5
+      "Amount": 10
     }
   ],
   "ManufacturingMenuPriority": 4

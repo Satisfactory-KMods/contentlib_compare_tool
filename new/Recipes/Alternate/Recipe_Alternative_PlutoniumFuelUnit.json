@@ -1,0 +1,25 @@
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Alternate: Plutonium Fuel Unit",
+  "OverrideCategory": "Nuclear_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_PlutoniumCell_C",
+      "Amount": 64
+    },
+    {
+      "Item": "Desc_PressureConversionCube",
+      "Amount": 1
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_PlutoniumFuelRod_C",
+      "Amount": 2
+    }
+  ],
+  "ProducedIn": [ "Build_AssemblerMk1" ],
+  "ManufacturingDuration": 160,
+  "ManufacturingMenuPriority": 2
+}

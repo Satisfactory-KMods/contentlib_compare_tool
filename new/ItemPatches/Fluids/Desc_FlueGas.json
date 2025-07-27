@@ -4,5 +4,6 @@
   "Description": "Mainly composed of carbon oxides and some sulfur compounds. A common product of burning carbon based fuels.\n\nCan be processed in the Filtrator to extract componds.",
   "Form": "RF_GAS",
   "StackSize": "Fluid",
-  "VisualKit": "Kit_CO2"
+  "VisualKit": "Kit_CO2",
+  "NameShort": "Flue"
 }

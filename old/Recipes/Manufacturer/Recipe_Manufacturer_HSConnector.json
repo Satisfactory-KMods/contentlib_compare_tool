@@ -1,29 +1,30 @@
 {
-  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
-  "Name": "High-Speed Connector",
-  "OverrideCategory": "Electronics_C",
-  "Ingredients": [
-    {
-      "Item": "Desc_HighSpeedWire_C",
-      "Amount": 72
-    },
-    {
-      "Item": "Desc_CircuitBoard",
-      "Amount": 12
-    },
-    {
-      "Item": "Desc_CobaltPlates",
-      "Amount": 6
-    }
-
-  ],
-  "Products": [
-    {
-      "Item": "Desc_HighSpeedConnector",
-      "Amount": 5
-    }
-  ],
-  "ProducedIn": [ "Build_ManufacturerMk1" ],
-  "ManufacturingDuration": 32,
-  "ManufacturingMenuPriority": 3
+    "Name": "High-Speed Connector",
+    "OverrideCategory": "Electronics_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_HighSpeedWire_C",
+            "Amount": 40
+        },
+        {
+            "Item": "Desc_CircuitBoard",
+            "Amount": 6
+        },
+        {
+            "Item": "Desc_CobaltPlates",
+            "Amount": 3
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_HighSpeedConnector",
+            "Amount": 2
+        }
+    ],
+    "ProducedIn": [
+        "Build_ManufacturerMk1"
+    ],
+    "ManufacturingDuration": 16,
+    "ManufacturingMenuPriority": 2,
+    "$comment": "This file has been removed, no new version exists"
 }

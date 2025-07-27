@@ -1,0 +1,24 @@
+//SatisfactoryPlus/CDOHelper/SchematicCDO/CDO_Helper_VanillaBlueprint.CDO_Helper_VanillaBlueprint_C
+{
+  "ClearCost": true,
+  "MenuPriority": 6,
+  "Cost": [
+    {
+      "ItemClass": "/Game/FactoryGame/Resource/Parts/IronRod/Desc_IronRod.Desc_IronRod_C",
+      "amount": 100
+    },
+    {
+      "ItemClass": "/KLib/Assets/Parts/Production/Metal/Sheets/Desc_IronSheet.Desc_IronSheet_C",
+      "amount": 100
+    },
+    {
+      "ItemClass": "/Game/FactoryGame/Resource/Parts/Cable/Desc_Cable.Desc_Cable_C",
+      "amount": 100
+    },
+    {
+      "ItemClass": "/Game/FactoryGame/Resource/Parts/Cement/Desc_Cement.Desc_Cement_C",
+      "amount": 200
+    }
+  ],
+  "Time": 120
+}

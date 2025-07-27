@@ -1,0 +1,32 @@
+{
+    "Name": "Nuclear Pasta",
+    "OverrideCategory": "Nuclear_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_PressureConversionCube_C",
+            "Amount": 1
+        },
+        {
+            "Item": "Desc_CopperDust",
+            "Amount": 40
+        },
+        {
+            "Item": "Desc_Neutronium",
+            "Amount": 12000
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_SpaceElevatorPart_9_C",
+            "Amount": 1
+        }
+    ],
+    "ManufacturingDuration": 120,
+    "ManufacturingMenuPriority": 1,
+    "VariablePowerConsumptionConstant": 500,
+    "VariablePowerConsumptionFactor": 1000,
+    "ProducedIn": [
+        "Build_HadronCollider"
+    ],
+    "$comment": "This file has been removed, no new version exists"
+}

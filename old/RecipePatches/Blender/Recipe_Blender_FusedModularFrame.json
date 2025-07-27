@@ -6,15 +6,11 @@
   "Ingredients": [
     {
       "Item": "Desc_ModularFrameHeavy",
-      "Amount": 2
+      "Amount": 1
     },
     {
       "Item": "Desc_AluminumCasing",
-      "Amount": 12
-    },
-    {
-      "Item": "Desc_LiquidHydrochloricAcid",
-      "Amount": 6000
+      "Amount": 60
     },
     {
       "Item": "Desc_NitrogenGas",
@@ -24,11 +20,11 @@
   "Products": [
     {
       "Item": "Desc_ModularFrameFused",
-      "Amount": 2
+      "Amount": 1
     }
 
   ],
   "ProducedIn": [ "Build_Blender" ],
-  "ManufacturingDuration": 32,
+  "ManufacturingDuration": 24,
   "ManufacturingMenuPriority": 2
 }

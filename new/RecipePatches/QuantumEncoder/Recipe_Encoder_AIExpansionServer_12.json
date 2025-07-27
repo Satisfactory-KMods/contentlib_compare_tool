@@ -1,0 +1,43 @@
+//SatisfactoryPlus/Content/Recipes/QuantumEncoder/Recipe_Encoder_AIExpansionServer_12.Recipe_Encoder_AIExpansionServer_12_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "AI Expansion Server",
+  "OverrideCategory": "SpaceElevator_C",
+  "Ingredients": [
+
+    {
+      "Item": "Desc_SpaceElevatorPart_6_C",
+      "Amount": 3
+    },
+    {
+      "Item": "Desc_TemporalProcessor",
+      "Amount": 6
+    },
+    {
+      "Item": "Desc_QuantumOscillator",
+      "Amount": 9
+    },
+    {
+      "Item": "Desc_QuantumEnergy",
+      "Amount": 96000
+    }
+  ],
+
+  "Products": [
+    {
+      "Item": "Desc_SpaceElevatorPart_12_C",
+      "Amount": 3
+    },
+    {
+      "Item": "Desc_DarkEnergy",
+      "Amount": 48000
+    }
+
+
+  ],
+  "ManufacturingDuration": 45,
+  "ManufacturingMenuPriority": 1,
+  "VariablePowerConsumptionConstant": 5000,
+  "VariablePowerConsumptionFactor": -5000,
+  "ProducedIn": [ "Build_QuantumEncoder" ]
+}

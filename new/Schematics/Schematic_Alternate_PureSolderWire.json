@@ -1,7 +1,0 @@
-{
-  "Name": "Alternate: Pure Solder Wire",
-  "Type": "Alternate",
-  "VisualKit": "Desc_SolderWire_C",
-  "Recipes": [ "Recipe_Alternative_PureSolderWire" ],
-  "DependsOn": [ "Schematic_SF+_T5_1_C" ]
-}

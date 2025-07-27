@@ -1,13 +1,13 @@
 {
-  "Class": "/Game/FactoryGame/Buildable/Factory/ManufacturerMk1/Build_ManufacturerMk1.Build_ManufacturerMk1_C",
+  "Class": "/SatisfactoryPlus/CDOHelper/BuildableCDO/CDOHelper_Manufacturer.CDOHelper_Manufacturer_C",
   "Edits": [
     {
       "Property": "mProductionShardSlotSize",
-      "Value": "8"
+      "Value": "4"
     },
     {
       "Property": "mProductionShardBoostMultiplier",
-      "Value": "0.125"
+      "Value": "0.25"
     }
   ]
 }

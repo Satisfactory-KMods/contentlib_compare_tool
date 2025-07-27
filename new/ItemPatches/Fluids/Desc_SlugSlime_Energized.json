@@ -4,5 +4,6 @@
   "Description": "The most concentrated form of Slug Slime.\nThe energy from it can be used in varying ways, be it in the form of heat or electromagnetic radiation.\n\nCharging Power Shard Fragments with this energy leads to the creation of Power Shards.\nCan be used to power Steam Turbines.",
   "Form": "RF_Liquid",
   "VisualKit": "Kit_SlugSLimeHigh",
-  "StackSize": "Fluid"
+  "StackSize": "Fluid",
+  "NameShort": "ESlime"
 }

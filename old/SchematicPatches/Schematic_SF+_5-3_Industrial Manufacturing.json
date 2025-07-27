@@ -35,6 +35,7 @@
     "Recipe_Reformer_SolderWire_C",
     "Recipe_Assembler_CircuitBoard_C",
     "Recipe_Manufacturer_Computer_C",
+    "Recipe_ChemReac_LeadBattery",
     "Recipe_Manufacturer_ModularEngine_C"
   ]
 }

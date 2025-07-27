@@ -2,7 +2,7 @@
 {
   "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
   "Name": "Computer",
-  "OverrideCategory": "Electronics_C",
+  "OverrideCategory": "Communications_C",
   "Ingredients": [
     {
       "Item": "Desc_CircuitBoard",
@@ -30,6 +30,6 @@
   ],
   "ProducedIn": [ "Build_ManufacturerMk1" ],
   "ManufacturingDuration": 48,
-  "ManualManufacturingMultiplier": 1.2,
+  "ManualManufacturingMultiplier": 0.5,
   "ManufacturingMenuPriority": 1
 }

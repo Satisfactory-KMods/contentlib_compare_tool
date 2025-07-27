@@ -1,6 +1,7 @@
 //Game/FactoryGame/Resource/Parts/FicsiteIngot/Desc_FicsiteIngot.Desc_FicsiteIngot_C
 {
   "Name": "Ficsite™ Ingot",
-  "Description": "Produced by reconstructing other metals on a molecular level using Strange Alien Matter.\r\n\r\nSynthesized by FICSIT to be the perfect construction material for extreme applications. Reserved for usage in the most high-end processes due to its cost."
+  "Description": "Produced by reconstructing other metals on a molecular level using Strange Alien Matter.\r\n\r\nSynthesized by FICSIT to be the perfect construction material for extreme applications. Reserved for usage in the most high-end processes due to its cost.",
+  "NameShort": "Fics"
 
 }

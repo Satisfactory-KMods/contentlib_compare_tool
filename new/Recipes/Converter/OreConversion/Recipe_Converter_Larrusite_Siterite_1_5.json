@@ -5,27 +5,27 @@
   "Ingredients": [
     {
       "Item": "Desc_SAMIngot_C",
-      "Amount": 1
+      "Amount": 2
     },
     {
       "Item": "Desc_OreIron",
-      "Amount": 12
+      "Amount": 24
     }
    
   ],
   "Products": [
     {
       "Item": "Desc_Stone",
-      "Amount": 12
+      "Amount": 24
     },
     {
       "Item": "Desc_DarkEnergy",
-      "Amount": 1000
+      "Amount": 2000
     }
 
 
   ],
-  "ManufacturingDuration": 3,
+  "ManufacturingDuration": 6,
   "ManufacturingMenuPriority": 1.5,
   "VariablePowerConsumptionConstant": 500,
   "VariablePowerConsumptionFactor": -500,

@@ -6,11 +6,11 @@
   "Ingredients": [
     {
       "Item": "Desc_KLIB_NaturalGas",
-      "Amount": 10000
+      "Amount": 5000
     },
     {
       "Item": "Desc_Gas_Steam_Hot",
-      "Amount": 6000
+      "Amount": 3000
     }
 
   ],
@@ -18,15 +18,15 @@
 
     {
       "Item": "Desc_Gas_Hydrogen_C",
-      "Amount": 16000
+      "Amount": 8000
     },
     {
       "Item": "Desc_FlueGas",
-      "Amount": 16000
+      "Amount": 8000
     }
 
   ],
   "ProducedIn": [ "Build_ChemReactor" ],
-  "ManufacturingDuration": 12,
+  "ManufacturingDuration": 6,
   "ManufacturingMenuPriority": 6
 }

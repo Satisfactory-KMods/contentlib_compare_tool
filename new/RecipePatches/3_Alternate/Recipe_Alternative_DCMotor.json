@@ -5,12 +5,12 @@
   "OverrideCategory": "IndustrialParts_C",
   "Ingredients": [
     {
-      "Item": "Desc_InvarPlates",
-      "Amount": 13
-    },
-    {
       "Item": "Desc_Rotor",
       "Amount": 4
+    },
+    {
+      "Item": "Desc_InvarPlates",
+      "Amount": 13
     },
     {
       "Item": "Desc_AlumniumSheet",

@@ -1,0 +1,22 @@
+{
+    "Name": "Alternate: Condensed Graphene",
+    "OverrideCategory": "Minerals_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_KLib_NaturalGas",
+            "Amount": 10000
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_CarbonDust",
+            "Amount": 24
+        }
+    ],
+    "ManufacturingDuration": 12,
+    "ManufacturingMenuPriority": 2,
+    "ProducedIn": [
+        "Build_OilRefinery"
+    ],
+    "$comment": "This file has been removed, no new version exists"
+}

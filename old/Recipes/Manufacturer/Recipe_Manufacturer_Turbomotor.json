@@ -1,0 +1,34 @@
+{
+    "Name": "Turbomotor",
+    "OverrideCategory": "IndustrialParts_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_Motor_C",
+            "Amount": 4
+        },
+        {
+            "Item": "Desc_ModularFrameLightweight_C",
+            "Amount": 3
+        },
+        {
+            "Item": "Desc_FanBlade_C",
+            "Amount": 6
+        },
+        {
+            "Item": "Desc_CoolingSystem_C",
+            "Amount": 4
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_MotorLightweight_C",
+            "Amount": 1
+        }
+    ],
+    "ProducedIn": [
+        "Build_ManufacturerMk1"
+    ],
+    "ManufacturingDuration": 32,
+    "ManufacturingMenuPriority": 6,
+    "$comment": "This file has been removed, no new version exists"
+}

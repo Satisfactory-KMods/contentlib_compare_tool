@@ -6,25 +6,25 @@
   "Ingredients": [
     {
       "Item": "Desc_LiquidGold",
-      "Amount": 15000
+      "Amount": 8000
     },
     {
       "Item": "Desc_Water",
-      "Amount": 12000
+      "Amount": 4000
     }
 
   ],
   "Products": [
     {
       "Item": "Desc_GoldIngot",
-      "Amount": 32
+      "Amount": 24
     },
     {
       "Item": "Desc_Gas_Steam_Hot",
-      "Amount": 10000
+      "Amount": 4000
     }
   ],
   "ProducedIn": [ "Build_SoldifierAndCooler" ],
-  "ManufacturingDuration": 15,
+  "ManufacturingDuration": 6,
   "ManufacturingMenuPriority": 4
 }

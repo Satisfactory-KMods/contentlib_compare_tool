@@ -7,7 +7,7 @@
     },
     {
       "Property": "mDescription",
-      "Value": "Generates an exact holographic copy of a fluid before it is deconstructed into photons.\nThe hologram data and photon stream are sent to the Storage Nexus.\n\nData throughput is limited in wireless mode. Connecting it to the Storage Network with Data Cables increases throughput by 100%."
+      "Value": "Generates an exact holographic copy of a fluid before being deconstructed into photons.\nThe hologram data and photon stream are sent to the Storage Nexus.\n\nData throughput is limited in wireless mode. Connecting it to the Storage Network with Data Cables increases throughput by 100%."
     }
   ]
 }

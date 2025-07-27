@@ -1,0 +1,8 @@
+//SatisfactoryPlus/Content/SchematicManager/Alternative/FusedAlloyQuickwire/Schematic_Alternative_FusedAlloyQuickwire.Schematic_Alternative_FusedAlloyQuickwire_C
+{
+  "Name": "Alternate: Fused Alloy Quickwire",
+  "Type": "Alternate",
+  "VisualKit": "Desc_HighSpeedWire_C",
+  "Recipes": [ "Recipe_Alternative_FusedAlloyQuickwire" ],
+  "DependsOn": [ "Schematic_SF+_T6_2_C" ]
+}

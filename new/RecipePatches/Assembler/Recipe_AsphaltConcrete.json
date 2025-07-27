@@ -1,0 +1,26 @@
+//SatisfactoryPlus/Content/Recipes/Assembler/Recipe_Assembler_AsphaltConcrete.Recipe_Assembler_AsphaltConcrete_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Asphalt Concrete",
+  "OverrideCategory": "Minerals_C",
+  "Ingredients": [
+   {
+      "Item": "Desc_Gangue",
+      "Amount": 10
+    },
+    {
+      "Item": "Desc_Asphalt",
+      "Amount": 4
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_Cement",
+      "Amount": 12
+    }
+  ],
+  "ProducedIn": [ "Build_AssemblerMk1" ],
+  "ManufacturingDuration": 16,
+  "ManufacturingMenuPriority": 1.2
+}

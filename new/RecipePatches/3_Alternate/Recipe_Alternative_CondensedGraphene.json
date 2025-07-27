@@ -1,0 +1,22 @@
+//SatisfactoryPlus/Content/SchematicManager/Alternative/CondensedGraphene/Recipe_Alternative_CondensedGraphene.Recipe_Alternative_CondensedGraphene_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Alternate: Condensed Graphene",
+  "OverrideCategory": "Fuel_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_KLib_NaturalGas",
+      "Amount": 4000
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_CarbonDust",
+      "Amount": 8
+    }
+  ],
+  "ManufacturingDuration": 4,
+  "ManufacturingMenuPriority": 0.5,
+  "ProducedIn": [ "Build_OilRefinery" ]
+}

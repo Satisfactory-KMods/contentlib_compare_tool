@@ -3,14 +3,13 @@
   "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
   "Ingredients": [
     {
-      "Item": "Desc_BronzeBeam",
+      "Item": "Desc_IronPlateReinforced",
       "Amount": 10
     },
     {
-      "Item": "Desc_IronPlateReinforced",
+      "Item": "Desc_BronzeBeam",
       "Amount": 10
     }
-
   ],
   "Products": [
     {

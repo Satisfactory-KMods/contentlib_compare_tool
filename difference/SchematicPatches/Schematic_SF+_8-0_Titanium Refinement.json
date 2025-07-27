@@ -1,0 +1,23 @@
+{
+    "$comment": "This is a new file, no old version exists",
+    "$class": "//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T8/Schematic_SF+_T8_0.Schematic_SF+_T8_0_C\r",
+    "$classShort": "Schematic_SF+_T8_0",
+    "Name": "Titanium Refinement",
+    "Type": "Milestone",
+    "Tier": 8,
+    "MenuPriority": 0,
+    "VisualKit": "Desc_GeneratorNuclear_C",
+    "ClearRecipes": true,
+    "Recipes": [
+        "Info Kyrium: Add Scanner upgrade for Chlor Gas",
+        "Recipe_Sorter_T3_CrsuhedRutile_C",
+        "Recipe_WetWasher_Rutile",
+        "Recipe_Chem_Muriatic_Chlorine",
+        "Recipe_OilRefinery_Titaniumtetrachlorid_C",
+        "Recipe_Reformer_SinteredTitanium_C",
+        "Recipe_Constructor_TitanPipe",
+        "Recipe_Accelerator_TitanFrame",
+        "Recipe_Assembler_MagneticFieldGenerator_C"
+    ],
+    "Time": 480
+}

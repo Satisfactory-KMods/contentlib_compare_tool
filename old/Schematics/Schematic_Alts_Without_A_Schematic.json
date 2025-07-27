@@ -1,0 +1,20 @@
+{
+  "Name": "A bunch of alternates with no Schematic",
+  "Type": "Alternate",
+  "VisualKit": "Desc_BrassIngot_C",
+  "Recipes": [
+    "Recipe_Alternative_CrystalResonator",
+    "Recipe_Alternative_DiamondPowderFragment",
+    "Recipe_Alternative_HydroDiamond",
+    "Recipe_Alternative_DetonationDiamond",
+    "Recipe_Alternative_VolatileTurbofuel",
+    "Recipe_Alternative_SourTurbofuel",
+    "Recipe_Alternative_NitroRocketFuel",
+    "Recipe_Alternative_SourRocketFuel",
+    "Recipe_Alternative_IonizedFuel",
+    "Recipe_Alternative_SourIonizedFuel",
+    "Recipe_Alternative_DarkNeutronFuel"
+
+  ],
+  "DependsOn": [ "Schematic_SF+_T9_1_C" ]
+}

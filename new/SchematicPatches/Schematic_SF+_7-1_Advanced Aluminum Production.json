@@ -1,0 +1,41 @@
+//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T7/Schematic_SF+_T7_1.Schematic_SF+_T7_1_C
+{
+  "Name": "Advanced Aluminum Production",
+  "Type": "Milestone",
+  "Tier": 7,
+  "MenuPriority": 1,
+  "ClearCost": true,
+  "Cost": [
+    {
+      "Item": "Desc_AluminumPlate",
+      "Amount": 100
+    },
+    {
+      "Item": "Desc_Computer",
+      "Amount": 50
+    },
+    {
+      "Item": "Desc_ModularFrameHeavy",
+      "Amount": 25
+    },
+    {
+      "Item": "Desc_Salt",
+      "Amount": 150
+    },
+    {
+      "Item": "Desc_Silica",
+      "Amount": 150
+    }
+  ],
+  "ClearRecipes": true,
+  "Recipes": [
+    "Recipe_FrackingSmasher",
+    "Recipe_FrackingExtractor",
+    "Recipe_Blender_Coolant",
+    "Recipe_OilRefinery_Radiator",
+    "Recipe_Blender_CoolingSystem",
+    "Recipe_Blender_FusedModularFrame_C",
+    "Recipe_Manufacturer_MagneticFieldGenerator"
+  ],
+  "Time": 360
+}

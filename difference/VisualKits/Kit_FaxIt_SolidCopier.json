@@ -1,0 +1,8 @@
+{
+    "$comment": "This is a new file, no old version exists",
+    "$class": "{\r",
+    "$classShort": "{\r",
+    "Mesh": "/KLib/Assets/Buildings/Faxit/Meshes/SM_FaxMachine_Items.SM_FaxMachine_Items",
+    "BigIcon": "Icon_Faxit_Output_Solid",
+    "SmallIcon": "Icon_Faxit_Output_Solid"
+}

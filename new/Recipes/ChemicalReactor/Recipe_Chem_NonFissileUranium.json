@@ -1,0 +1,37 @@
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Non-Fissile Uranium",
+  "OverrideCategory": "Nuclear_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_NuclearWaste_C",
+      "Amount": 15
+    },
+    {
+      "Item": "Desc_SulfuricAcid",
+      "Amount": 10000
+    },
+    {
+      "Item": "Desc_NitricAcid",
+      "Amount": 4000
+    }
+  ],
+  "Products": [
+    {
+      "Item": "Desc_NonFissibleUranium_C",
+      "Amount": 40
+    },
+    {
+      "Item": "Desc_Salt",
+      "Amount": 15
+    },
+    {
+      "Item": "Desc_Water",
+      "Amount": 12000
+    }
+
+  ],
+  "ProducedIn": [ "Build_ChemReactor" ],
+  "ManufacturingDuration": 24,
+  "ManufacturingMenuPriority": 2
+}

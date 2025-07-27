@@ -2,5 +2,6 @@
 {
   "Name": "Excited Photonic Matter",
   "Description": "Excited Photonic Matter is a quantum state of light, capable of transfering quantum information.\nEssential for all production processes in the Quantum Encoder.\n\nFormed by inducing intense photon interactions in a high-energy environment inside the Converter.",
-  "StackSize": "Fluid"
+  "StackSize": "Fluid",
+  "NameShort": "EPM"
 }

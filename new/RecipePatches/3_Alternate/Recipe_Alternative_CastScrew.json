@@ -1,11 +1,11 @@
 //SatisfactoryPlus/Content/SchematicManager/Alternative/CastScrews/Recipe_Alternative_CastScrews.Recipe_Alternative_CastScrews_C
 {
   "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
-  "Name": "Alternate: Cast Screws",
+  "Name": "Alternate: Cast Iron Screw",
   "Ingredients": [
     {
       "Item": "Desc_IronIngot",
-      "Amount": 1
+      "Amount": 2
     }
 
   ],
@@ -16,6 +16,6 @@
     }
   ],
   "ProducedIn": [ "Build_SmelterMk1" ],
-  "ManufacturingDuration": 12,
+  "ManufacturingDuration": 6,
   "ManufacturingMenuPriority": 90
 }

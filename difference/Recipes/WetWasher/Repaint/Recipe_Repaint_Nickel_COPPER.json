@@ -1,0 +1,28 @@
+{
+    "$comment": "This is a new file, no old version exists",
+    "$class": "{\r",
+    "$classShort": "{\r",
+    "Name": "Crushed Nickel (Copper)",
+    "OverrideCategory": "Repainting",
+    "Ingredients": [
+        {
+            "Item": "Desc_CrushedCopper",
+            "Amount": 8
+        },
+        {
+            "Item": "Desc_SlugSlime_Mineral_C",
+            "Amount": 1000
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_CrushedNickle",
+            "Amount": 6
+        }
+    ],
+    "ProducedIn": [
+        "Build_OreWascher"
+    ],
+    "ManufacturingDuration": 6,
+    "ManufacturingMenuPriority": 8
+}

@@ -20,8 +20,8 @@
       "Amount": 25
     },
     {
-      "Item": "Desc_CrushedCopper",
-      "Amount": 15
+      "Item": "Desc_CrushedCaterium",
+      "Amount": 5
     }
   ],
   "ProducedIn": [ "Build_SorterMk1" ],

@@ -1,17 +1,17 @@
 {
   "Mesh": "/Game/FactoryGame/Resource/Parts/PackagedNitrogen/Mesh/SM_PackagedNitrogen_01.SM_PackagedNitrogen_01",
-  "BigIcon": "Desc_Gas_Chlor",
-  "SmallIcon": "Desc_Gas_Chlor",
+  "BigIcon": "ChlorineGas",
+  "SmallIcon": "ChlorineGas",
   "FluidColor": {
     "r": 60,
-    "g": 135,
-    "b": 0,
-    "a": 4
+    "g": 150,
+    "b": 75,
+    "a": 2
   },
   "GasColor": {
-    "r": 200,
+    "r": 180,
     "g": 255,
-    "b": 100,
+    "b": 150,
     "a": 0
   }
 }

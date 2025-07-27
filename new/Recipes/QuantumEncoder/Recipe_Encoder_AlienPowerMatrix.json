@@ -1,0 +1,42 @@
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Alien Power Matrix",
+  "OverrideCategory": "Fuel_C",
+  "Ingredients": [
+
+    {
+      "Item": "Desc_CrystalShard",
+      "Amount": 4
+    },
+    {
+      "Item": "Desc_QuantumOscillator",
+      "Amount": 6
+    },
+    {
+      "Item": "Desc_CoolingSystem",
+      "Amount": 3
+    },
+    {
+      "Item": "Desc_QuantumEnergy",
+      "Amount": 30000
+    }
+  ],
+
+  "Products": [
+    {
+      "Item": "Desc_AlienPowerFuel_C",
+      "Amount": 1
+    },
+    {
+      "Item": "Desc_DarkEnergy",
+      "Amount": 15000
+    }
+
+
+  ],
+  "ManufacturingDuration": 24,
+  "ManufacturingMenuPriority": 2,
+  "VariablePowerConsumptionConstant": 3000,
+  "VariablePowerConsumptionFactor": -3000,
+  "ProducedIn": [ "Build_QuantumEncoder" ]
+}

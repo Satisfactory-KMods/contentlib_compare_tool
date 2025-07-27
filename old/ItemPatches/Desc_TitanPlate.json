@@ -1,0 +1,6 @@
+//KLib/Assets/Parts/Production/Metal/Plates/Desc_TitanPlates.Desc_TitanPlates_C
+{
+  "Name": "Titanium Plate",
+  "Description": "A plate of titanium metal, produced through sintering of titanium metal made from TiCl Gas.\n\nCan be used as a target material to coat surfaces with titanium in a process known as 'sputtering'."
+
+}

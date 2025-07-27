@@ -1,0 +1,45 @@
+{
+    "$class": "{\r",
+    "$classShort": "{\r",
+    "$comment": "This file has been changed",
+    "Class": "{\r",
+    "new": {
+        "BigIcon": "CausticSoda",
+        "SmallIcon": "CausticSoda",
+        "FluidColor": {
+            "r": 140,
+            "g": 200,
+            "b": 150,
+            "a": 0
+        }
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "BigIcon": "/KLib/Assets/Ressources/Raw/Fluids/UI/LiquidNatriumaluminat.LiquidNatriumaluminat",
+        "SmallIcon": "/KLib/Assets/Ressources/Raw/Fluids/UI/LiquidNatriumaluminat.LiquidNatriumaluminat",
+        "FluidColor": {
+            "r": 150,
+            "g": 180,
+            "b": 160,
+            "a": 0
+        }
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "Mesh": "/Game/FactoryGame/Resource/Parts/PackagedNitrogen/Mesh/SM_PackagedNitrogen_01.SM_PackagedNitrogen_01",
+        "BigIcon": "CausticSoda",
+        "SmallIcon": "CausticSoda",
+        "FluidColor": {
+            "r": 140,
+            "g": 200,
+            "b": 150,
+            "a": 0
+        },
+        "GasColor": {
+            "r": 255,
+            "g": 0,
+            "b": 0,
+            "a": 0
+        }
+    }
+}

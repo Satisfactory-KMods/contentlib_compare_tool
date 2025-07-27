@@ -10,19 +10,19 @@
       "Value": [
         {
           "ItemClass": "/Game/FactoryGame/Resource/Parts/SteelPipe/Desc_SteelPipe.Desc_SteelPipe_C",
-          "Amount": 200
+          "amount": 100
         },
         {
           "ItemClass": "/Game/FactoryGame/Resource/Parts/Cable/Desc_Cable.Desc_Cable_C",
-          "Amount": 100
+          "amount": 100
         },
         {
           "ItemClass": "/Game/FactoryGame/Resource/Parts/Cement/Desc_Cement.Desc_Cement_C",
-          "Amount": 250
+          "amount": 150
         },
         {
           "ItemClass": "/KLib/Assets/Parts/Production/Metal/Screw/Desc_SteelBolt.Desc_SteelBolt_C",
-          "Amount": 250
+          "amount": 100
         }
       ]
     }

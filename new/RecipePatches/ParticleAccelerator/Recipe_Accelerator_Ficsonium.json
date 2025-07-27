@@ -5,26 +5,26 @@
   "Ingredients": [
     {
       "Item": "Desc_SingularityCell",
-      "Amount": 8
+      "Amount": 3
     },
     {
       "Item": "Desc_PlutoniumWaste",
-      "Amount": 16
+      "Amount": 12
     },
     {
       "Item": "Desc_Neutronium",
-      "Amount": 24000
+      "Amount": 8000
     }
   ],
   "Products": [
     {
       "Item": "Desc_Ficsonium",
-      "Amount": 16
+      "Amount": 24
     }
   ],
-  "ManufacturingDuration": 64,
+  "ManufacturingDuration": 48,
   "ManufacturingMenuPriority": 3,
-  "VariablePowerConsumptionConstant": 500,
-  "VariablePowerConsumptionFactor": 1000,
+  "VariablePowerConsumptionConstant": 1000,
+  "VariablePowerConsumptionFactor": 2000,
   "ProducedIn": [ "Build_HadronCollider" ]
 }

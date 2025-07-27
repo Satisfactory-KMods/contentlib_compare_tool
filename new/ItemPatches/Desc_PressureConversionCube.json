@@ -1,6 +1,7 @@
 //Game/FactoryGame/Resource/Parts/PressureConversionCube/Desc_PressureConversionCube.Desc_PressureConversionCube_C
 {
   "Name": "Pressure Conversion Cube",
-  "Description": "A miniature Converter that converts internal pressure into external force. Required to contain exotic, unstable forms of matter and spatial anomalies."
+  "Description": "A miniature Converter that converts internal pressure into external force. Required to contain exotic, unstable forms of matter and spatial anomalies.",
+  "NameShort": "PCC"
 
 }

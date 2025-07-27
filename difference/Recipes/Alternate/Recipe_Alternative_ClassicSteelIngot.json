@@ -1,0 +1,28 @@
+{
+    "$comment": "This is a new file, no old version exists",
+    "$class": "{\r",
+    "$classShort": "{\r",
+    "Name": "Alternate: Classic Steel Ingot",
+    "OverrideCategory": "Ingots_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_IronIngot",
+            "Amount": 2
+        },
+        {
+            "Item": "Desc_CarbonDust",
+            "Amount": 2
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_SteelIngot",
+            "Amount": 2
+        }
+    ],
+    "ManufacturingDuration": 4,
+    "ManufacturingMenuPriority": 0,
+    "ProducedIn": [
+        "Build_FoundryMk1"
+    ]
+}

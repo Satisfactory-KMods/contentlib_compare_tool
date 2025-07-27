@@ -1,0 +1,30 @@
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Nitrogen Gas (Sulfur)",
+  "OverrideCategory": "Cat_RawConversion_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_SAMIngot_C",
+      "Amount": 1
+    },
+    {
+      "Item": "Desc_Sulfur",
+      "Amount": 6
+    }
+
+  ],
+  "Products": [
+
+    {
+      "Item": "Desc_NitrogenGas",
+      "Amount": 4000
+    }
+
+
+  ],
+  "ManufacturingDuration": 3,
+  "ManufacturingMenuPriority": 9,
+  "VariablePowerConsumptionConstant": 500,
+  "VariablePowerConsumptionFactor": -500,
+  "ProducedIn": [ "Build_Converter" ]
+}

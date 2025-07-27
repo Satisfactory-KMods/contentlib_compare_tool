@@ -1,5 +1,5 @@
 {
-  "Class": "/SatisfactoryPlus/AssetDatas/RRD/RP/Heater/PDA_SFP_Heater_Coal_CompactCoal.PDA_SFP_Heater_Coal_CompactCoal",
+  "Class": "/SatisfactoryPlus/AssetDatas/RRD/RP/Heater/PDA_SFP_Heater_Coal_CarbonDust.PDA_SFP_Heater_Coal_CarbonDust",
   "Edits": [
     {
       "Property": "mInput",
@@ -33,9 +33,9 @@
     },
     {
       "Property": "mMaxHeatValue",
-      "Value": 250
+      "Value": 500
     }
-   
+
 
   ]
 }

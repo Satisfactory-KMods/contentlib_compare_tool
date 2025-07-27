@@ -1,0 +1,28 @@
+{
+    "Name": "Time Crystal",
+    "OverrideCategory": "IndustrialParts_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_Diamond",
+            "Amount": 4
+        },
+        {
+            "Item": "Desc_PhotovoltaicCell",
+            "Amount": 3
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_TimeCrystal",
+            "Amount": 2
+        }
+    ],
+    "ManufacturingDuration": 12,
+    "ManufacturingMenuPriority": 2,
+    "VariablePowerConsumptionConstant": 200,
+    "VariablePowerConsumptionFactor": 400,
+    "ProducedIn": [
+        "Build_Converter"
+    ],
+    "$comment": "This file has been removed, no new version exists"
+}

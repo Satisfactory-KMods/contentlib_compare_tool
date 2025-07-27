@@ -18,6 +18,10 @@
     {
       "Item": "Desc_PurifiedTitan_C",
       "Amount": 4
+    },
+    {
+      "Item": "Desc_CrushedIron",
+      "Amount": 6
     }
   ],
   "ProducedIn": [ "Build_SorterMk1" ],

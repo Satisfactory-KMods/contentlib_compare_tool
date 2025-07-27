@@ -1,0 +1,30 @@
+//SatisfactoryPlus/Content/Recipes/ParticleAccelerator/Recipe_Accelerator_Diamond.Recipe_Accelerator_Diamond_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Synthetic Diamonds",
+  "OverrideCategory": "IndustrialParts_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_Coal",
+      "Amount": 40
+    },
+    {
+      "Item": "Desc_NitrogenGas",
+      "Amount": 5000
+    }
+  ],
+
+  "Products": [
+    {
+      "Item": "Desc_Diamond",
+      "Amount": 4
+    }
+
+
+  ],
+  "ManufacturingDuration": 10,
+  "ManufacturingMenuPriority": 1,
+  "VariablePowerConsumptionConstant": 250,
+  "VariablePowerConsumptionFactor": 500,
+  "ProducedIn": [ "Build_HadronCollider" ]
+}

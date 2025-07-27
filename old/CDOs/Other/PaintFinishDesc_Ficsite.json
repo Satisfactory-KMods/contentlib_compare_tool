@@ -1,0 +1,26 @@
+{
+  "Class": "PaintFinishDesc_Ficsite_C",
+  "Edits": [
+    {
+      "Property": "MetallicValue",
+      "Value": 1
+    },
+    {
+      "Property": "RoughnessValue",
+      "Value": 0.427
+    },
+    {
+      "Property": "mForcedColor",
+      "Value": {
+        "R": 1.0,
+        "G": 0.29,
+        "B": 0.012,
+        "A": 1
+      }
+    },
+    {
+      "Property": "mHasForcedColor",
+      "Value": true
+    }
+  ]
+}

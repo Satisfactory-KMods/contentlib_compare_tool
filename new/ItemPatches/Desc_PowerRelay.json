@@ -1,6 +1,7 @@
 //KLib/Assets/Parts/Production/SpaceElevator/PowerRelay/Desc_PowerRelay.Desc_PowerRelay_C
 {
   "Name": "Power Management Relay",
-  "Description": "Ship with the Space Elevator to complete Phases of Project Assembly.\r\n\r\nPower Management Relays are responsible for powering Project Assembly and managing its vast demand of energy. They are a core part of its power network."
+  "Description": "Ship with the Space Elevator to complete Phases of Project Assembly.\r\n\r\nPower Management Relays are responsible for powering Project Assembly and managing its vast demand of energy. They are a core part of its power network.",
+  "NameShort": "PMR"
 
 }

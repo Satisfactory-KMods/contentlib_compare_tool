@@ -10,7 +10,7 @@
     },
     {
       "Item": "Desc_HighSpeedWire",
-      "Amount": 96
+      "Amount": 48
     }
   ],
   "Products": [
@@ -21,6 +21,6 @@
   ],
   "ProducedIn": [ "Build_AssemblerMk1" ],
   "ManufacturingDuration": 120,
-  "ManufacturingMenuPriority": 3.1
+  "ManufacturingMenuPriority": 3.3
 
 }

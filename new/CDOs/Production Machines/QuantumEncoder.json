@@ -20,6 +20,14 @@
     {
       "Property": "mFluidStackSizeMultiplier",
       "Value": "4"
+    },
+    {
+      "Property": "mEstimatedMininumPowerConsumption",
+      "Value": "0"
+    },
+    {
+      "Property": "mEstimatedMaximumPowerConsumption",
+      "Value": "5000"
     }
   ]
 }

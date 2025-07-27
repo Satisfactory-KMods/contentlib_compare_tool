@@ -1,0 +1,14 @@
+//Game/FactoryGame/Schematics/Research/AlienTech_RS/Research_Alien_ActiveSAM.Research_Alien_ActiveSAM_C
+{
+  "Name": "Reanimated SAM",
+  "ClearCost": true,
+  "Cost": [
+    {
+      "Item": "Desc_SAM",
+      "Amount": 50
+    }
+
+  ],
+  "ClearRecipes": true,
+  "Recipes": [ "Recipe_Constructor_RSAM" ]
+}

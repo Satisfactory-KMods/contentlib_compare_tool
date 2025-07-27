@@ -1,0 +1,34 @@
+{
+    "Name": "Titanium Plate",
+    "Category": "AdvancedRefinement_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_Gas_Titantetrachlorid",
+            "Amount": 6000
+        },
+        {
+            "Item": "Desc_Hydrogen",
+            "Amount": 15000
+        },
+        {
+            "Item": "Desc_IronPlate",
+            "Amount": 50
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_TitanPlates",
+            "Amount": 4
+        },
+        {
+            "Item": "Desc_LiquidHydrochloricAcid",
+            "Amount": 6000
+        }
+    ],
+    "ProducedIn": [
+        "Build_Blender"
+    ],
+    "ManufacturingDuration": 10,
+    "ManufacturingMenuPriority": 7,
+    "$comment": "This file has been removed, no new version exists"
+}

@@ -1,0 +1,35 @@
+//SatisfactoryPlus/Content/SchematicManager/Alternative/CastBronzeIngot/Recipe_Alternative_CastBronzeIngot.Recipe_Alternative_CastBronzeIngot_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Alternate: Cast Bronze Ingot",
+  "OverrideCategory": "Cat_Ingots_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_LiquidCopper",
+      "Amount": 4800
+    },
+    {
+      "Item": "Desc_CrushedTin",
+      "Amount": 4
+    },
+    {
+      "Item": "Desc_Water",
+      "Amount": 3000
+    }
+  ],
+  "Products": [
+    {
+      "Item": "Desc_BronzeIngot",
+      "Amount": 18
+    },
+
+    {
+      "Item": "Desc_Gas_Steam_Hot",
+      "Amount": 3000
+    }
+  ],
+  "ProducedIn": [ "Build_SoldifierAndCooler" ],
+  "ManufacturingDuration": 6,
+  "ManufacturingMenuPriority": 4.5
+
+}

@@ -1,0 +1,28 @@
+//SatisfactoryPlus/Content/SchematicManager/Alternative/SolidBrassIngot/Recipe_Alternative_SolidBrassIngot.Recipe_Alternative_SolidBrassIngot_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Alternate: Solid Brass Ingot",
+  "category": "Ingots_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_CopperIngot",
+      "Amount": 4
+    },
+    {
+      "Item": "Desc_ZincINgot",
+      "Amount": 4
+    }
+
+  ],
+  "Products": [
+
+    {
+      "Item": "Desc_BrassIngot",
+      "Amount": 8
+    }
+
+  ],
+  "ProducedIn": [ "Build_FoundryMk1" ],
+  "ManufacturingDuration": 12,
+  "ManufacturingMenuPriority": 3
+}

@@ -17,5 +17,5 @@
     }
   ],
   "ClearRecipes": true,
-  "Recipes": [ "Recipe_Alternative_Turbofuel"]
+  "Recipes": [ "Recipe_Alternative_Turbofuel" ]
 }

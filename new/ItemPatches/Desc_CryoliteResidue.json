@@ -4,5 +4,6 @@
   "VisualKit": "Kit_CryoResidue",
   "Description": "A mixture of byproducts left over after refining Bauxite.",
   "Form": "Solid",
-  "StackSize": "Huge"
+  "StackSize": "Huge",
+  "NameShort": "KyRes"
 }

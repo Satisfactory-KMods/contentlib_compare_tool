@@ -1,0 +1,36 @@
+{
+    "$comment": "This is a new file, no old version exists",
+    "$class": "//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T8/Schematic_SF+_T8_3.Schematic_SF+_T8_3_C\r",
+    "$classShort": "Schematic_SF+_T8_3",
+    "Name": "Particle Enrichment",
+    "Type": "Milestone",
+    "Tier": 8,
+    "MenuPriority": 3,
+    "VisualKit": "Desc_SpaceElevatorPart_8_C",
+    "ClearCost": true,
+    "Cost": [
+        {
+            "Item": "Desc_CopperIngot",
+            "Amount": 1000
+        },
+        {
+            "Item": "Desc_FusedModularFrame",
+            "Amount": 50
+        },
+        {
+            "Item": "Desc_CrystalOscillator",
+            "Amount": 100
+        }
+    ],
+    "ClearRecipes": true,
+    "Recipes": [
+        "Recipe_HadronCollider",
+        "Recipe_Blender_NitricAcid",
+        "Recipe_Chem_NonFissileUranium",
+        "Recipe_Accelerator_PlutoniumCell",
+        "Recipe_Assembler_PlutoniumFuelRod",
+        "Recipe_WetWasher_Quartz",
+        "Recipe_Accelerator_Diamond"
+    ],
+    "Time": 360
+}

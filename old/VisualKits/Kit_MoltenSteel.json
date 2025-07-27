@@ -3,10 +3,10 @@
   "BigIcon": "Desc_LiquidFuel",
   "SmallIcon": "Desc_LiquidFuel",
   "FluidColor": {
-    "r": 70,
-    "g": 55,
-    "b": 50,
-    "a": 30
+    "r": 60,
+    "g": 60,
+    "b": 65,
+    "a": 25
   },
   "GasColor": {
     "r": 0,

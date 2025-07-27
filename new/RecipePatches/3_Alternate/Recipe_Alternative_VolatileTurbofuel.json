@@ -1,0 +1,36 @@
+//SatisfactoryPlus/Content/SchematicManager/Alternative/VolatileTurbofuel/Recipe_Alternative_VolatileTurbofuel.Recipe_Alternative_VolatileTurbofuel_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Alternate: Volatile Packaged Turbofuel",
+  "OverrideCategory": "Fuel_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_HeavyOilResidue",
+      "Amount": 3000
+    },
+    {
+      "Item": "Desc_Sulfurtrixid_C",
+      "Amount": 14000
+    },
+    {
+      "Item": "Desc_Fuel",
+      "Amount": 24
+    },
+    {
+      "Item": "Desc_PetroleumCoke",
+      "Amount": 25
+    }
+
+  ],
+  "Products": [
+
+    {
+      "Item": "Desc_Turbofuel",
+      "Amount": 24
+    }
+
+  ],
+  "ManufacturingDuration": 12,
+  "ManufacturingMenuPriority": 0,
+  "ProducedIn": [ "Build_Blender" ]
+}

@@ -1,0 +1,26 @@
+{
+    "Name": "Diluted White Slug Slime",
+    "OverrideCategory": "Cat_Gen_Tier_1_C",
+    "Ingredients": [
+        {
+            "Item": "SlugDesc_WhiteSlug",
+            "Amount": 1
+        },
+        {
+            "Item": "Desc_SlugSlime_Mid_C",
+            "Amount": 500
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_SlugSlime_Low_C",
+            "Amount": 2000
+        }
+    ],
+    "ProducedIn": [
+        "Build_FF_Composter_C"
+    ],
+    "ManufacturingDuration": 1,
+    "ManufacturingMenuPriority": 4,
+    "$comment": "This file has been removed, no new version exists"
+}

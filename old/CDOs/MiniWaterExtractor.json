@@ -1,0 +1,14 @@
+{
+  "Class": "/AB_FluidExtras/MiniExtractor/Build_AB_MiniEx.Build_AB_MiniEx_C",
+  "Edits": [
+    {
+      "Property": "mItemsPerCycle",
+      "Value": 1500
+    },
+    {
+      "Property": "mDescription",
+      "Value": "Default extraction rate: 75m³ water per minute.\r\nHead Lift: 10 meters.\r\n(Allows fluids to be transported 10 meters upwards.)r\n\r\nA small, low power, low flow water extractor based on an Archimedes screw. Able to fit in more places or flex to awkward production rates easily."
+    }
+
+  ]
+}

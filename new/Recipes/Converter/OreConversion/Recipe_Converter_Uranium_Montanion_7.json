@@ -5,11 +5,11 @@
   "Ingredients": [
     {
       "Item": "Desc_SAMIngot_C",
-      "Amount": 1
+      "Amount": 2
     },
     {
       "Item": "Desc_OreBauxite",
-      "Amount": 24
+      "Amount": 36
     }
 
   ],
@@ -17,14 +17,14 @@
 
     {
       "Item": "Desc_OreUranium",
-      "Amount": 12
+      "Amount": 6
     }
 
 
   ],
   "ManufacturingDuration": 3,
   "ManufacturingMenuPriority": 7,
-  "VariablePowerConsumptionConstant": 500,
+  "VariablePowerConsumptionConstant": 1000,
   "VariablePowerConsumptionFactor": -500,
   "ProducedIn": [ "Build_Converter" ]
 }

@@ -1,0 +1,42 @@
+{
+    "$comment": "This is a new file, no old version exists",
+    "$class": "{\r",
+    "$classShort": "{\r",
+    "Name": "Ficsonium Fuel Rod",
+    "OverrideCategory": "Fuel_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_Ficsonium",
+            "Amount": 16
+        },
+        {
+            "Item": "Desc_ElectromagneticControlRod",
+            "Amount": 4
+        },
+        {
+            "Item": "Desc_FicsiteMesh",
+            "Amount": 60
+        },
+        {
+            "Item": "Desc_QuantumEnergy",
+            "Amount": 80000
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_FicsoniumFuelRod",
+            "Amount": 8
+        },
+        {
+            "Item": "Desc_DarkEnergy",
+            "Amount": 40000
+        }
+    ],
+    "ManufacturingDuration": 24,
+    "ManufacturingMenuPriority": 1,
+    "VariablePowerConsumptionConstant": 3000,
+    "VariablePowerConsumptionFactor": -3000,
+    "ProducedIn": [
+        "Build_QuantumEncoder"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "Name": "Alternate: Nickel-Zinc Battery",
+    "Type": "Alternate",
+    "VisualKit": "Desc_Battery",
+    "Recipes": [
+        "Recipe_ChemReac_Battery_C"
+    ],
+    "DependsOn": [
+        "Schematic_SF+_T5_3_C"
+    ],
+    "$comment": "This file has been removed, no new version exists"
+}

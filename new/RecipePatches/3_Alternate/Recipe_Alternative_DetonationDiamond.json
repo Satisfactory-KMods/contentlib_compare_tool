@@ -1,0 +1,30 @@
+//SatisfactoryPlus/Content/SchematicManager/Alternative/DetonationDiamond/Recipe_Alternative_DetonationDiamond.Recipe_Alternative_DetonationDiamond_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Alternate: Detonation Diamonds",
+  "OverrideCategory": "IndustrialParts_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_Coal",
+      "Amount": 40
+    },
+    {
+      "Item": "Desc_GunPowder",
+      "Amount": 40
+    }
+  ],
+
+  "Products": [
+    {
+      "Item": "Desc_Diamond",
+      "Amount": 10
+    }
+
+
+  ],
+  "ManufacturingDuration": 10,
+  "ManufacturingMenuPriority": 3,
+  "VariablePowerConsumptionConstant": 250,
+  "VariablePowerConsumptionFactor": 500,
+  "ProducedIn": [ "Build_HadronCollider" ]
+}

@@ -6,18 +6,18 @@
   "Ingredients": [
     {
       "Item": "Desc_OreGold",
-      "Amount": 24
+      "Amount": 12
     },
     {
       "Item": "Desc_LiquidHydrochloricAcid",
-      "Amount": 2500
+      "Amount": 3000
     }
 
   ],
   "Products": [
     {
       "Item": "Desc_CrushedCaterium",
-      "Amount": 20
+      "Amount": 12
     },
     {
       "Item": "Desc_Wastewater",
@@ -26,6 +26,6 @@
 
   ],
   "ProducedIn": [ "Build_OreWascher" ],
-  "ManufacturingDuration": 15,
+  "ManufacturingDuration": 12,
   "ManufacturingMenuPriority": 4
 }

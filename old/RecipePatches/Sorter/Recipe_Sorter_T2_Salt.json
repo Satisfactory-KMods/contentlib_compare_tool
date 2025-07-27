@@ -21,11 +21,11 @@
     },
     {
       "Item": "Desc_Silica",
-      "Amount": 16
+      "Amount": 15
     },
     {
       "Item": "Desc_Sand",
-      "Amount": 16
+      "Amount": 10
     }
   ],
   "ProducedIn": [ "Build_SorterMk1" ],

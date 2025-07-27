@@ -1,0 +1,30 @@
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Aurovite Ore (Kyalite)",
+  "OverrideCategory": "Cat_RawConversion_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_SAMIngot_C",
+      "Amount": 1
+    },
+    {
+      "Item": "Desc_RawQuartz",
+      "Amount": 8
+    }
+
+  ],
+  "Products": [
+
+    {
+      "Item": "Desc_OreGold",
+      "Amount": 12
+    }
+
+
+  ],
+  "ManufacturingDuration": 3,
+  "ManufacturingMenuPriority": 5,
+  "VariablePowerConsumptionConstant": 500,
+  "VariablePowerConsumptionFactor": -500,
+  "ProducedIn": [ "Build_Converter" ]
+}

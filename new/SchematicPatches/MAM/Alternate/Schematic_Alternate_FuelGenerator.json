@@ -1,0 +1,8 @@
+//SatisfactoryPlus/Content/SchematicManager/Alternative/Schematic_Alternate_FuelGenerator.Schematic_Alternate_FuelGenerator_C
+{
+  "Name": "Alternate: Fuel Generator",
+  "Type": "Alternate",
+  "VisualKit": "Desc_GeneratorFuel",
+  "Recipes": [ "Recipe_GeneratorFuel" ],
+  "DependsOn": [ "Schematic_SF+_8-2" ]
+}

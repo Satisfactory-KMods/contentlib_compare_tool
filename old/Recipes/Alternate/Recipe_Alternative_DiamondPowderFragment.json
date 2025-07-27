@@ -1,0 +1,26 @@
+{
+    "Name": "Alternate: Diamond Power Fragment",
+    "OverrideCategory": "PowerShard_C",
+    "Ingredients": [
+        {
+            "Item": "/Game/FactoryGame/Resource/Parts/Diamond/Desc_Diamond.Desc_Diamond_C",
+            "Amount": 8
+        },
+        {
+            "Item": "Desc_SlugSlime_Mid",
+            "Amount": 4000
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_PowerShardCrystal_C",
+            "Amount": 6
+        }
+    ],
+    "ProducedIn": [
+        "Build_ChemReactor"
+    ],
+    "ManufacturingDuration": 60,
+    "ManufacturingMenuPriority": 2,
+    "$comment": "This file has been removed, no new version exists"
+}

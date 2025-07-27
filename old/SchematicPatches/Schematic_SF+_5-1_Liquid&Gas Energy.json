@@ -24,6 +24,18 @@
 
   ],
   "ClearRecipes": true,
-  "Recipes": [ "Recipe_RP_MP_SolutionHeater", "Recipe_RP_MP_BoilerMk2", "Recipe_SolarPanel_Mk2_New_C", "Recipe_ChemReac_SweetFuel_C", "Recipe_ChemReac_SyngasHydrogen_C", "Recipe_Reformer_ResidualHydrogen_C" ],
+  "Recipes": [
+    "INFO KYRIUM: Need to unlock Scanner upgrade for Sulfur here",
+    "Recipe_RP_MP_SolutionHeater_C",
+    "Recipe_RP_MP_BoilerMk2",
+    "Recipe_SolarPanel_Mk2_New_C",
+    "Recipe_ChemReac_SweetFuel_C",
+    "Recipe_ChemReac_SyngasHydrogen_C",
+    "Recipe_Reformer_ResidualHydrogen_C",
+    "Recipe_Crusher_SulfurPowder",
+    "Recipe_OilRefinery_SulfiteGas_C",
+    "Recipe_ChemReac_SulfuricAcid",
+    "Recipe_Chem_LiquidBiofuel"
+  ],
   "Time": 180
 }

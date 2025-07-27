@@ -1,0 +1,28 @@
+//SatisfactoryPlus/Content/SchematicManager/Alternative/SourRocketFuel/Recipe_Alternative_SourRocketFuel.Recipe_Alternative_SourRocketFuel_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Alternate: Sour Packaged Rocket Fuel",
+  "OverrideCategory": "Fuel_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_LiquidTurboFuel",
+      "Amount": 20000
+    },
+    {
+      "Item": "Desc_PackagedNitricAcid",
+      "Amount": 9
+    }
+
+  ],
+  "Products": [
+
+    {
+      "Item": "Desc_PackagedRocketFuel_C",
+      "Amount": 9
+    }
+
+  ],
+  "ManufacturingDuration": 6,
+  "ManufacturingMenuPriority": 3,
+  "ProducedIn": [ "Build_OilRefinery" ]
+}

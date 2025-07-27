@@ -1,0 +1,24 @@
+//SatisfactoryPlus/Content/Recipes/Buildings/Recipe_OreWascher.Recipe_OreWascher_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Wet Washer",
+  "Ingredients": [
+    {
+      "Item": "Desc_BronzeFrame",
+      "Amount": 2
+    },
+    {
+      "Item": "Desc_Rotor",
+      "Amount": 2
+    },
+    {
+      "Item": "Desc_IronPlate",
+      "Amount": 15
+    },
+    {
+      "Item": "Desc_IronScrew",
+      "Amount": 15
+    }
+  ],
+  "ManufacturingMenuPriority": 4
+}

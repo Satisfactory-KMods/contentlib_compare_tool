@@ -13,9 +13,9 @@
   "Products": [
     {
       "Item": "Desc_LiquidTin",
-      "Amount": 5000
+      "Amount": 3000
     }
   ],
-  "ManufacturingDuration": 6,
+  "ManufacturingDuration": 3,
   "ManufacturingMenuPriority": 3
 }

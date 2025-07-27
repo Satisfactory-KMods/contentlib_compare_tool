@@ -1,0 +1,42 @@
+//SatisfactoryPlus/Content/SchematicManager/Alternative/EncodedComputer/Recipe_Alternative_SolidstateSupercomp.Recipe_Alternative_SolidstateSupercomp_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Alternate: Solid-state Supercomputer",
+  "OverrideCategory": "Electronics_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_Computer",
+      "Amount": 15
+    },
+    {
+      "Item": "Desc_CircuitBoardHighSpeed_C",
+      "Amount": 48
+    },
+    {
+      "Item": "Desc_Plastic",
+      "Amount": 90
+    },
+    {
+      "Item": "Desc_QuantumEnergy",
+      "Amount": 90000
+    }
+  ],
+
+  "Products": [
+    {
+      "Item": "Desc_ComputerSuper",
+      "Amount": 10
+    },
+    {
+      "Item": "Desc_DarkEnergy",
+      "Amount": 30000
+    }
+
+
+  ],
+  "ManufacturingDuration": 60,
+  "ManufacturingMenuPriority": 4,
+  "VariablePowerConsumptionConstant": 1000,
+  "VariablePowerConsumptionFactor": -500,
+  "ProducedIn": [ "Build_QuantumEncoder" ]
+}

@@ -1,0 +1,23 @@
+{
+  "Name": "Repainting Alts",
+  "Type": "Alternate",
+  "VisualKit": "Desc_BrassIngot_C",
+  "Recipes": [
+    "Recipe_Repaint_Iron_TIN",
+    "Recipe_Repaint_Copper_MAGNESIUM",
+    "Recipe_Repaint_Zinc_LEAD",
+    "Recipe_Repaint_Caterium_COPPER",
+    "Recipe_Repaint_Bauxite_COBALT",
+    "Recipe_Repaint_Lead_CATERIUM",
+    "Recipe_Repaint_Nickel_COPPER",
+
+    "Recipe_WetWasher_Repaint_TinnedSheet",
+    "Recipe_WetWasher_Repaint_IronSheet",
+    "Recipe_WetWasher_Repaint_AlcladAluminum",
+    "Recipe_WetWasher_Repaint_LeadSheet",
+    "Recipe_WetWasher_Repaint_CopperSheet"
+
+
+  ],
+  "DependsOn": [ "Schematic_SF+_T1_1_C" ]
+}

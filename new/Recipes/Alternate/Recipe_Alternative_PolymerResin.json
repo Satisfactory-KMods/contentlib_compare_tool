@@ -1,0 +1,25 @@
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Alternate: Polymer Resin",
+  "OverrideCategory": "SolidOilProducts_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_KLIB_NaturalGas_C",
+      "Amount": 10000
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_PolymerResin",
+      "Amount": 45
+    },
+    {
+      "Item": "Desc_Ethylene",
+      "Amount": 3000
+    }
+  ],
+  "ProducedIn": [ "Build_OilRefinery" ],
+  "ManufacturingDuration": 10,
+  "ManufacturingMenuPriority": 4
+}

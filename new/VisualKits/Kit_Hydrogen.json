@@ -1,7 +1,7 @@
 {
   "Mesh": "/Game/FactoryGame/Resource/Parts/PackagedNitrogen/Mesh/SM_PackagedNitrogen_01.SM_PackagedNitrogen_01",
-  "BigIcon": "Desc_Gas_Hydrogen",
-  "SmallIcon": "Desc_Gas_Hydrogen",
+  "BigIcon": "HydrogenGas",
+  "SmallIcon": "HydrogenGas",
   "FluidColor": {
     "r": 225,
     "g": 100,

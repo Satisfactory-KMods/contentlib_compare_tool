@@ -1,0 +1,21 @@
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Alternate: Aluminum Fluid Tank",
+  "Category": "Containers_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_AluminumIngot",
+      "Amount": 1
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_GasTank_C",
+      "Amount": 2
+    }
+  ],
+  "ProducedIn": [ "Build_ConstructorMk1" ],
+  "ManufacturingDuration": 2,
+  "ManufacturingMenuPriority": 3
+}

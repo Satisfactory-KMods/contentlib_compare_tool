@@ -1,0 +1,12 @@
+{
+    "Name": "Alternate: Desalted Oil",
+    "Type": "Alternate",
+    "VisualKit": "Desc_LiquidOil_C",
+    "Recipes": [
+        "Recipe_Alternative_DesaltedOil"
+    ],
+    "DependsOn": [
+        "Schematic_SF+_T5_1_C"
+    ],
+    "$comment": "This file has been removed, no new version exists"
+}

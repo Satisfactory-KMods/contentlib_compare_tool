@@ -1,0 +1,8 @@
+//KLib/Assets/Parts/Production/TimeCrystal/Desc_TimeC_Case.Desc_TimeC_Case_C
+{
+  "Name": "Polarization Frame",
+  "Description": "An electrically poled frame, used to control the optical properties of crystals.'",
+  "VisualKit": "Kit_PolarizationFrame",
+  "NameShort": "Pol."
+
+}

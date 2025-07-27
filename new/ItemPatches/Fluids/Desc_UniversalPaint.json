@@ -1,0 +1,9 @@
+//KLib/Assets/Ressources/Raw/Fluids/Slugs/Desc_SlugSlime_Mineral.Desc_SlugSlime_Mineral_C
+{
+  "Name": "Universal Paint",
+  "Description": "FICSIT's answer to Theseus's Paradox.\nProduced by infusing the slime from mineral slugs with Dark Matter.\n\n'Everything is just one paint coat away from becoming something new.'",
+  "Form": "RF_Liquid",
+  "VisualKit": "Kit_SlugSLimeMineral",
+  "StackSize": "Fluid",
+  "NameShort": "Paint"
+}

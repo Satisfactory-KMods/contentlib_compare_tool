@@ -1,12 +1,11 @@
 //SatisfactoryPlus/Content/SchematicManager/Schem_GameStart_new.Schem_GameStart_new_C
 {
-
   "ClearRecipes": true,
   "Recipes": [
     "Recipe_Handcrafter_CrushedSiterite_C",
     "Recipe_Smelter_Dirty_IronIngots_C",
     "Recipe_Constructor_IronRod_C",
-    "Recipe_Constructor_IronPlate_C",
+    "Recipe_IronPlate_C",
     "Recipe_WorkBench_C",
     "Recipe_TradingPost_C",
     "Recipe_XenoZapper_C",

@@ -1,0 +1,41 @@
+//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T7/Schematic_SF+_T7_4.Schematic_SF+_T7_4_C
+{
+  "Name": "Auronautical Engineering",
+  "Type": "Milestone",
+  "Tier": 7,
+  "MenuPriority": 4,
+  "VisualKit": "Desc_ModularFrameLightweight_C",
+  "ClearCost": true,
+  "Cost": [
+    {
+      "Item": "Desc_ModularFrameLightweight",
+      "Amount": 100
+    },
+    {
+      "Item": "Desc_Motor",
+      "Amount": 150
+    },
+    {
+      "Item": "Desc_FanBlade",
+      "Amount": 250
+    },
+    {
+      "Item": "Desc_AluminumPlate",
+      "Amount": 250
+    },
+    {
+      "Item": "Desc_Plastic",
+      "Amount": 1000
+    }
+
+  ],
+  "ClearRecipes": true,
+  "Recipes": [
+    "Recipe_DroneStation",
+    "Recipe_DroneTransport",
+    "Recipe_Blender_RocketFuel",
+    "/Game/FactoryGame/Recipes/Packager/Recipe_UnpackageRocketFuel.Recipe_UnpackageRocketFuel_C",
+    "/Game/FactoryGame/Recipes/Packager/Recipe_PackagedRocketFuel.Recipe_PackagedRocketFuel_C"
+  ],
+  "Time": 600
+}

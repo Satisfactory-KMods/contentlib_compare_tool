@@ -10,7 +10,7 @@
     },
     {
       "Item": "Desc_PetroleumCoke",
-      "Amount": 5
+      "Amount": 10
     }
 
   ],
@@ -21,6 +21,6 @@
     }
   ],
   "ManufacturingDuration": 12,
-  "ManufacturingMenuPriority": 5,
+  "ManufacturingMenuPriority": 2,
   "ProducedIn": [ "Build_FoundryMk1" ]
 }

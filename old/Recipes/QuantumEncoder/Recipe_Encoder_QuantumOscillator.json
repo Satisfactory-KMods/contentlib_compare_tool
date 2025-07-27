@@ -1,0 +1,40 @@
+{
+    "Name": "Quantum Oscillator",
+    "OverrideCategory": "Quantum_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_CrystalOscillator",
+            "Amount": 4
+        },
+        {
+            "Item": "Desc_ModularFrameLightweight",
+            "Amount": 3
+        },
+        {
+            "Item": "Desc_DarkMatter",
+            "Amount": 15
+        },
+        {
+            "Item": "Desc_QuantumEnergy",
+            "Amount": 75000
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_QuantumOscillator",
+            "Amount": 5
+        },
+        {
+            "Item": "Desc_DarkEnergy",
+            "Amount": 375000
+        }
+    ],
+    "ManufacturingDuration": 30,
+    "ManufacturingMenuPriority": 2,
+    "VariablePowerConsumptionConstant": 3000,
+    "VariablePowerConsumptionFactor": -3000,
+    "ProducedIn": [
+        "Build_QuantumEncoder"
+    ],
+    "$comment": "This file has been removed, no new version exists"
+}

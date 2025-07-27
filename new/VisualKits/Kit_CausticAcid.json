@@ -1,11 +1,11 @@
 {
   "Mesh": "/Game/FactoryGame/Resource/Parts/PackagedNitrogen/Mesh/SM_PackagedNitrogen_01.SM_PackagedNitrogen_01",
-  "BigIcon": "/KLib/Assets/Ressources/Raw/Fluids/UI/LiquidNatriumaluminat.LiquidNatriumaluminat",
-  "SmallIcon": "/KLib/Assets/Ressources/Raw/Fluids/UI/LiquidNatriumaluminat.LiquidNatriumaluminat",
+  "BigIcon": "MuriaticAcid",
+  "SmallIcon": "MuriaticAcid",
   "FluidColor": {
-    "r": 180,
-    "g": 150,
-    "b": 150,
+    "r": 185,
+    "g": 120,
+    "b": 120,
     "a": 0
   },
   "GasColor": {

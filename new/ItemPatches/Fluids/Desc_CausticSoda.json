@@ -1,6 +1,7 @@
 //KLib/Assets/Ressources/Raw/Fluids/Desc_CausticSoda.Desc_CausticSoda_C
 {
   "Name": "Caustic Soda",
-  "Description": "Caustic Soda, more commonly known as Sodium Hydroxide, is the basic counterpart of Muriatic Acid.\nBoth are produced from Salt.\n\nCommonly used in Quartz and Nickel refinement processes. ",
-  "VisualKit": "Kit_CausticSoda"
+  "Description": "Caustic Soda, more commonly known as Sodium Hydroxide or Lye, is the basic counterpart of Muriatic Acid.\nBoth are produced from Salt.\n\nCommonly used in Quartz and Nickel refinement processes. ",
+  "VisualKit": "Kit_CausticSoda",
+  "NameShort": "Lyigi"
 }

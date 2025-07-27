@@ -4,5 +4,6 @@
   "Description": "An accumulation of phytoplankton (planktonic algae), commonly found in underground reservoirs.\nThey are in a state of hibernation and no longer perform photosynthesis.\n\nProcessing into biomass fuels is possible, but perhaps there is a way to reactivate them.",
   "Form": "Liquid",
   "StackSize": "Fluid",
-  "VisualKit": "Kit_AlgaeMass"
+  "VisualKit": "Kit_AlgaeMass",
+  "NameShort": "Algae"
 }

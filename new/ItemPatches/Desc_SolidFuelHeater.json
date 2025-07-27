@@ -1,0 +1,6 @@
+//RefinedPower/Buildables/Factory/ModularPower/MPBuildings/Heaters/CoalHeater/Desc_RP_MP_CoalHeater.Desc_RP_MP_CoalHeater_C
+{
+  "Name": "Solid Fuel Heater",
+  "Description": "Burns solid carbon fuels, generating Flue Gas as a by-product.\nAlternatively it can combust Sulfur Powder to make Sulfurous Gas.\nRequires a Boiler on top of it to begin operation.\n\nDefault Temperature: 500°C\n(changes with selected Fuel type).\n\nNOTE: Burns fuel at a constant rate, regardless of the Boiler's status.\n\nValid Fuels:\nCoal - Petroleum Coke - Carbon Powder -\nSulfur Powder"
+
+}

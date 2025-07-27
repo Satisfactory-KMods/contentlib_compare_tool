@@ -1,0 +1,21 @@
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Alternate: Pure Tin Wire",
+  "OverrideCategory": "Electronics_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_TinRod",
+      "Amount": 4
+    }
+  ],
+  "Products": [
+    {
+      "Item": "Desc_TinnedWire",
+      "Amount": 3
+    }
+  ],
+  "ProducedIn": [ "Build_ConstructorMk1" ],
+  "ManufacturingDuration": 16,
+  "ManufacturingMenuPriority": 10
+
+}

@@ -1,0 +1,28 @@
+{
+    "$comment": "This is a new file, no old version exists",
+    "$class": "{\r",
+    "$classShort": "{\r",
+    "Name": "Alternate: Steel Rotor",
+    "OverrideCategory": "StandardParts_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_CopperBusbar",
+            "Amount": 6
+        },
+        {
+            "Item": "Desc_SteelPipe",
+            "Amount": 6
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_Rotor",
+            "Amount": 3
+        }
+    ],
+    "ProducedIn": [
+        "Build_AssemblerMk1"
+    ],
+    "ManufacturingDuration": 15,
+    "ManufacturingMenuPriority": 3.2
+}

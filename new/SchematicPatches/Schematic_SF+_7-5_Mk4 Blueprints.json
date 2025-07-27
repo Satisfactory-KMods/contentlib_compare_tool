@@ -1,0 +1,17 @@
+//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T7/Schematic_SF+_T7_5.Schematic_SF+_T7_5_C
+{
+  "Name": "Mk. 4 Blueprints",
+  "Type": "Milestone",
+  "Tier": 7,
+  "MenuPriority": 5,
+  "VisualKit": "Desc_ModularFrameLightweight_C",
+  "ClearCost": true,
+  "Cost": [
+
+  ],
+  "ClearRecipes": true,
+  "Recipes": [
+
+  ],
+  "Time": 600
+}

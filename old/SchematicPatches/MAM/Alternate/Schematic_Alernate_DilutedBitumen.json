@@ -1,9 +1,13 @@
-//SatisfactoryPlus/Content/SchematicManager/Alternative/HeavyOilResidue/Schematic_Alternative_HeavyOilResidu.Schematic_Alternative_HeavyOilResidu_C
 {
-  "Name": "Alternate: Distilled Oil Residue",
-  "Type": "Alternate",
-  "VisualKit": "Desc_HeavyOilResidue",
-  "ClearRecipes":  true,
-  "Recipes": [ "Recipe_Alternative_DilutedBitumen_C" ],
-  "DependsOn": [ "Schematic_SF+_5_1_C" ]
+    "Name": "Alternate: Distilled Oil Residue",
+    "Type": "Alternate",
+    "VisualKit": "Desc_HeavyOilResidue",
+    "ClearRecipes": true,
+    "Recipes": [
+        "Recipe_Alternative_DilutedBitumen_C"
+    ],
+    "DependsOn": [
+        "Schematic_SF+_5_1_C"
+    ],
+    "$comment": "This file has been removed, no new version exists"
 }

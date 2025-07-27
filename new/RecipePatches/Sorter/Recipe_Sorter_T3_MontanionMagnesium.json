@@ -1,0 +1,30 @@
+//SatisfactoryPlus/Content/Recipes/Sorter/Recipe_Sorter_T3_MontanionMagnesium.Recipe_Sorter_T3_MontanionMagnesium_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Crushed Magnesium (Montanion)",
+  "OverrideCategory": "T3 Sorting",
+  "Ingredients": [
+    {
+      "Item": "Desc_CrushedCrotinium",
+      "Amount": 8
+    },
+    {
+      "Item": "Desc_LiquidHydrochloricAcid",
+      "Amount": 1000
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_CrushedMagnesium",
+      "Amount": 6
+    },
+    {
+      "Item": "Desc_CrushedCobalt",
+      "Amount": 2
+    }
+  ],
+  "ProducedIn": [ "Build_SorterMk1" ],
+  "ManufacturingDuration": 4,
+  "ManufacturingMenuPriority": 6
+}

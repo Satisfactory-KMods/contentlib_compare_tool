@@ -1,0 +1,28 @@
+{
+    "$comment": "This is a new file, no old version exists",
+    "$class": "{\r",
+    "$classShort": "{\r",
+    "Name": "Plutonium Fuel Rod",
+    "OverrideCategory": "Nuclear_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_PlutoniumCell_C",
+            "Amount": 40
+        },
+        {
+            "Item": "Desc_ElectromagneticControlRod",
+            "Amount": 8
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_PlutoniumFuelRod_C",
+            "Amount": 1
+        }
+    ],
+    "ProducedIn": [
+        "Build_AssemblerMk1"
+    ],
+    "ManufacturingDuration": 240,
+    "ManufacturingMenuPriority": 1
+}

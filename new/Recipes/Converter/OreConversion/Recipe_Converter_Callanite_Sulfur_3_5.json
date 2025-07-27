@@ -5,11 +5,11 @@
   "Ingredients": [
     {
       "Item": "Desc_SAMIngot_C",
-      "Amount": 1
+      "Amount": 2
     },
     {
       "Item": "Desc_Sulfur",
-      "Amount": 8
+      "Amount": 12
     }
    
   ],
@@ -17,16 +17,16 @@
 
     {
       "Item": "Desc_OreCopper",
-      "Amount": 12
+      "Amount": 24
     },
     {
       "Item": "Desc_DarkEnergy",
-      "Amount": 1000
+      "Amount": 2000
     }
 
 
   ],
-  "ManufacturingDuration": 3,
+  "ManufacturingDuration": 6,
   "ManufacturingMenuPriority": 3.5,
   "VariablePowerConsumptionConstant": 500,
   "VariablePowerConsumptionFactor": -500,

@@ -1,0 +1,26 @@
+//SatisfactoryPlus/Content/Recipes/Composter/Recipe_Mineral_Copper.Recipe_Mineral_Copper_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Universal Paint (Copper Slug)",
+  "OverrideCategory": "Universal_Paint",
+  "Ingredients": [
+    {
+      "Item": "SlugDesc_Copper",
+      "Amount": 6
+    },
+    {
+      "Item": "Desc_DarkEnergy",
+      "Amount": 4000
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_SlugSlime_Mineral_C",
+      "Amount": 4000
+    }
+  ],
+  "ProducedIn": [ "Build_FF_Composter_C" ],
+  "ManufacturingDuration": 4,
+  "ManufacturingMenuPriority": 1
+}

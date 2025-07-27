@@ -1,0 +1,28 @@
+{
+    "Name": "TITAN Frame",
+    "OverrideCategory": "IndustrialParts_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_TitanPlates",
+            "Amount": 36
+        },
+        {
+            "Item": "Desc_ModularFrameFused",
+            "Amount": 15
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_TitanModularFrame_C",
+            "Amount": 6
+        }
+    ],
+    "ManufacturingDuration": 720,
+    "ManufacturingMenuPriority": 0,
+    "VariablePowerConsumptionConstant": 0,
+    "VariablePowerConsumptionFactor": 10000,
+    "ProducedIn": [
+        "Build_HadronCollider"
+    ],
+    "$comment": "This file has been removed, no new version exists"
+}

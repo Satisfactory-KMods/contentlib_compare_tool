@@ -9,5 +9,5 @@
     }
   ],
   "ClearRecipes": true,
-  "Recipes": [ "Recipe_Mineral_Copper_C" ]
+  "Recipes": [ "Recipe_Mineral_Iron_C", "Recipe_Mineral_Copper_C", "Recipe_Mineral_Golden_C", "Recipe_Mineral_BloodRed_C", "Recipe_Mineral_Orange_C" ]
 }

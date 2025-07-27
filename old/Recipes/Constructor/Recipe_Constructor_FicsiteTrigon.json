@@ -1,0 +1,22 @@
+{
+    "Name": "Ficsite™ Trigon",
+    "OverrideCategory": "StandardParts_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_FicsiteIngot",
+            "Amount": 1
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_FicsiteMesh",
+            "Amount": 3
+        }
+    ],
+    "ProducedIn": [
+        "Build_ConstructorMk1"
+    ],
+    "ManufacturingDuration": 6,
+    "ManufacturingMenuPriority": 25,
+    "$comment": "This file has been removed, no new version exists"
+}

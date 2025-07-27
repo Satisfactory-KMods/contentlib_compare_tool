@@ -1,0 +1,21 @@
+//SatisfactoryPlus/Content/Recipes/Buildings/Recipe_FrackingExtractor.Recipe_FrackingExtractor_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Resource Well Extractor",
+  "Ingredients": [
+    {
+      "Item": "Desc_InvarPipe",
+      "Amount": 10
+    },
+    {
+      "Item": "Desc_AluminumCasing",
+      "Amount": 10
+    },
+    {
+      "Item": "Desc_Rubber",
+      "Amount": 10
+    }
+
+  ],
+  "ManufacturingMenuPriority": 6
+}

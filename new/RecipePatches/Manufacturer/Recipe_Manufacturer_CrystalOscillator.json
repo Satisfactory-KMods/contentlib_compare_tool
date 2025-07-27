@@ -1,0 +1,30 @@
+//SatisfactoryPlus/Content/Recipes/Manufacturer/Recipe_Manufacturer_CrystalOscillator.Recipe_Manufacturer_CrystalOscillator_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Crystal Oscillator",
+  "OverrideCategory": "Communications_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_QuartzCrystal",
+      "Amount": 75
+    },
+    {
+      "Item": "Desc_Glass",
+      "Amount": 24
+    },
+    {
+      "Item": "Desc_Cable",
+      "Amount": 20
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_CrystalOscillator",
+      "Amount": 4
+    }
+  ],
+  "ProducedIn": [ "Build_ManufacturerMk1" ],
+  "ManufacturingDuration": 60,
+  "ManufacturingMenuPriority": 2
+}

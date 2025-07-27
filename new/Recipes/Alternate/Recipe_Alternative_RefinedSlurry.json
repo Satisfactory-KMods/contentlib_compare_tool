@@ -1,0 +1,25 @@
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Alternate: Refined Slurry",
+  "OverrideCategory": "Other_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_LiquidSlag",
+      "Amount": 2000
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_Gangue",
+      "Amount": 4
+    },
+    {
+      "Item": "Desc_Water",
+      "Amount": 500
+    }
+  ],
+  "ProducedIn": [ "Build_OilRefinery" ],
+  "ManufacturingDuration": 4,
+  "ManufacturingMenuPriority": 4
+}

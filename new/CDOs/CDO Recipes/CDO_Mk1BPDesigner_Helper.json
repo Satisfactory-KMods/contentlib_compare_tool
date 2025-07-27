@@ -4,6 +4,27 @@
     {
       "Property": "mRecipes",
       "Value": [ "/Game/FactoryGame/Recipes/Buildings/Recipe_BlueprintDesigner_Mk2.Recipe_BlueprintDesigner_Mk2_C" ]
+    },
+    {
+      "Property": "mIngredients",
+      "Value": [
+        {
+          "ItemClass": "/Game/FactoryGame/Resource/Parts/IronPlateReinforced/Desc_IronPlateReinforced.Desc_IronPlateReinforced_C",
+          "amount": 50
+        },
+        {
+          "ItemClass": "/Game/FactoryGame/Resource/Parts/Cable/Desc_Cable.Desc_Cable_C",
+          "amount": 100
+        },
+        {
+          "ItemClass": "/Game/FactoryGame/Resource/Parts/Cement/Desc_Cement.Desc_Cement_C",
+          "amount": 100
+        },
+        {
+          "ItemClass": "/Game/FactoryGame/Resource/Parts/IronScrew/Desc_IronScrew.Desc_IronScrew_C",
+          "amount": 200
+        }
+      ]
     }
   ]
 }

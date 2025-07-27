@@ -6,26 +6,26 @@
   "Ingredients": [
     {
       "Item": "Desc_OreCopper",
-      "Amount": 9
+      "Amount": 18
     },
     {
       "Item": "Desc_CausticSoda",
-      "Amount": 3000
+      "Amount": 9000
     }
 
   ],
   "Products": [
     {
       "Item": "Desc_CrushedNickle",
-      "Amount": 6
+      "Amount": 12
     },
     {
       "Item": "Desc_Wastewater",
-      "Amount": 6000
+      "Amount": 12000
     }
 
   ],
   "ProducedIn": [ "Build_OreWascher" ],
-  "ManufacturingDuration": 12,
+  "ManufacturingDuration": 18,
   "ManufacturingMenuPriority": 8
 }

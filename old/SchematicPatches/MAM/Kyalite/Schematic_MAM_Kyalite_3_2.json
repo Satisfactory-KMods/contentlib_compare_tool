@@ -1,6 +1,6 @@
 //SatisfactoryPlus/Content/SchematicManager/MAM/Schematics/Cryolite/Schematic_Trees_Cryolit_3_2.Schematic_Trees_Cryolit_3_2_C
 {
-  "Name": "Lime Dust",
+  "Name": "Quartz Sorting",
   "ClearCost": true,
   "Cost": [
     {
@@ -17,5 +17,5 @@
     }
   ],
   "ClearRecipes": true,
-  "Recipes": [ "Recipe_Smelter_BurntLime_C"]
+  "Recipes": [ "Recipe_Sorter_T1_QuartzCrystal_C" ]
 }

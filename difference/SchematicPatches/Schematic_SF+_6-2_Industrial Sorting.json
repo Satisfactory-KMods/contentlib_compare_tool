@@ -1,0 +1,73 @@
+{
+    "$class": "//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T6/Schematic_SF+_T6_0.Schematic_SF+_T6_0_C\r",
+    "$classShort": "Schematic_SF+_T6_0",
+    "$comment": "This file has been changed",
+    "Class": "//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T6/Schematic_SF+_T6_0.Schematic_SF+_T6_0_C\r",
+    "new": {
+        "Recipes": [
+            "Recipe_Crusher_CrushedMontanion",
+            "Recipe_Sorter_T2_Tin",
+            "Recipe_Sorter_T2_Copper",
+            "Recipe_Sorter_T2_Magnesium",
+            "Recipe_Sorter_T3_MontanionMagnesium",
+            "Recipe_Sorter_T2_Lead",
+            "Recipe_Sorter_T3_Nickel",
+            "Recipe_Sorter_T3_Lead_C",
+            "Recipe_Sorter_T1_Cobalt",
+            "Recipe_Sorter_T2_Silica_C"
+        ]
+    },
+    "demitter2": "-----------------------------------------------------------------------------------",
+    "old": {
+        "Recipes": [
+            "Recipe_Crusher_CrushedMontanion",
+            "Recipe_Sorter_T2_Tin",
+            "Recipe_Sorter_T2_Copper",
+            "Recipe_Sorter_T2_Magnesium",
+            "Recipe_Sorter_T2_Lead",
+            "Recipe_Sorter_T3_Nickel",
+            "Recipe_Sorter_T1_Cobalt",
+            "Recipe_Sorter_T2_Silica_C"
+        ]
+    },
+    "demitter1": "-----------------------------------------------------------------------------------",
+    "original": {
+        "Name": "Industrial Sorting",
+        "Type": "Milestone",
+        "Tier": 6,
+        "MenuPriority": 1,
+        "ClearCost": true,
+        "Cost": [
+            {
+                "Item": "Desc_IronWire",
+                "Amount": 500
+            },
+            {
+                "Item": "Desc_IronPlateReinforced",
+                "Amount": 200
+            },
+            {
+                "Item": "Desc_Salt",
+                "Amount": 100
+            },
+            {
+                "Item": "Desc_Computer",
+                "Amount": 50
+            }
+        ],
+        "ClearRecipes": true,
+        "Recipes": [
+            "Recipe_Crusher_CrushedMontanion",
+            "Recipe_Sorter_T2_Tin",
+            "Recipe_Sorter_T2_Copper",
+            "Recipe_Sorter_T2_Magnesium",
+            "Recipe_Sorter_T3_MontanionMagnesium",
+            "Recipe_Sorter_T2_Lead",
+            "Recipe_Sorter_T3_Nickel",
+            "Recipe_Sorter_T3_Lead_C",
+            "Recipe_Sorter_T1_Cobalt",
+            "Recipe_Sorter_T2_Silica_C"
+        ],
+        "Time": 180
+    }
+}

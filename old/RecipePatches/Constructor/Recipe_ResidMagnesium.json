@@ -1,0 +1,22 @@
+//SatisfactoryPlus/Content/Recipes/Crusher/Recipe_Crusher_ResidBauxite.Recipe_Crusher_ResidBauxite_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Residual Magnesium Granules",
+  "OverrideCategory": "Minerals_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_CryoliteResidue",
+      "Amount": 32
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_MagnesiumGranules",
+      "Amount": 9
+    }
+  ],
+  "ProducedIn": [ "Build_ConstructorMk1" ],
+  "ManufacturingDuration": 20,
+  "ManufacturingMenuPriority": 2.5
+}

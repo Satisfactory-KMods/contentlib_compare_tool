@@ -1,0 +1,34 @@
+//SatisfactoryPlus/Content/SchematicManager/Alternative/DCMotor/Recipe_Alternative_DCMotor.Recipe_Alternative_DCMotor_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Alternate: Electric Motor",
+  "OverrideCategory": "IndustrialParts_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_InvarPlates",
+      "Amount": 13
+    },
+    {
+      "Item": "Desc_Rotor",
+      "Amount": 4
+    },
+    {
+      "Item": "Desc_AlumniumSheet",
+      "Amount": 16
+    },
+    {
+      "Item": "Desc_CarbonDust",
+      "Amount": 16
+    }
+  ],
+  "Products": [
+    {
+      "Item": "Desc_Motor",
+      "Amount": 10
+    }
+  ],
+  "ProducedIn": [ "Build_ManufacturerMk1" ],
+  "ManufacturingDuration": 40,
+  "ManufacturingMenuPriority": 1.1
+
+}

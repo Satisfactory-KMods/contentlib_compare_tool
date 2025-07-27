@@ -30,6 +30,6 @@
   ],
   "ProducedIn": [ "Build_ManufacturerMk1" ],
   "ManufacturingDuration": 80,
-  "ManualManufacturingMultiplier": 1.2,
-  "ManufacturingMenuPriority": 2
+  "ManualManufacturingMultiplier": 1,
+  "ManufacturingMenuPriority": 3
 }

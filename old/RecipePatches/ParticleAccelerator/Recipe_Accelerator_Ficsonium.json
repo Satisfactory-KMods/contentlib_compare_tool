@@ -1,0 +1,30 @@
+//SatisfactoryPlus/Content/Recipes/ParticleAccelerator/Recipe_ParticleAccelerator_Ficsonium.Recipe_ParticleAccelerator_Ficsonium_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "OverrideCategory": "Nuclear_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_SingularityCell",
+      "Amount": 8
+    },
+    {
+      "Item": "Desc_PlutoniumWaste",
+      "Amount": 16
+    },
+    {
+      "Item": "Desc_Neutronium",
+      "Amount": 24000
+    }
+  ],
+  "Products": [
+    {
+      "Item": "Desc_Ficsonium",
+      "Amount": 16
+    }
+  ],
+  "ManufacturingDuration": 64,
+  "ManufacturingMenuPriority": 3,
+  "VariablePowerConsumptionConstant": 500,
+  "VariablePowerConsumptionFactor": 1000,
+  "ProducedIn": [ "Build_HadronCollider" ]
+}

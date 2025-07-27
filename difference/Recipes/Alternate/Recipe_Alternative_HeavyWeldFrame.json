@@ -1,0 +1,32 @@
+{
+    "$comment": "This is a new file, no old version exists",
+    "$class": "{\r",
+    "$classShort": "{\r",
+    "Name": "Alternate: Heavy Welded Frame",
+    "OverrideCategory": "StandardParts_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_ModularFrame",
+            "Amount": 4
+        },
+        {
+            "Item": "Desc_SteelPlateReinforced",
+            "Amount": 10
+        },
+        {
+            "Item": "Desc_LiquidFuel",
+            "Amount": 6000
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_ModularFrameHeavy",
+            "Amount": 2
+        }
+    ],
+    "ProducedIn": [
+        "Build_Blender"
+    ],
+    "ManufacturingDuration": 24,
+    "ManufacturingMenuPriority": 2
+}

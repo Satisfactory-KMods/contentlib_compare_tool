@@ -1,0 +1,32 @@
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Alternate: MOX Uranium Cell",
+  "OverrideCategory": "Nuclear_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_NonFissibleUranium_C",
+      "Amount": 120
+    },
+    {
+      "Item": "Desc_PlutoniumCell",
+      "Amount": 6
+    },
+    {
+      "Item": "Desc_Neutronium",
+      "Amount": 1000
+    }
+  ],
+
+  "Products": [
+    {
+      "Item": "Desc_UraniumCell",
+      "Amount": 15
+    }
+
+  ],
+  "ManufacturingDuration": 30,
+  "ManufacturingMenuPriority": 2.5,
+  "VariablePowerConsumptionConstant": 1000,
+  "VariablePowerConsumptionFactor": 2000,
+  "ProducedIn": [ "Build_HadronCollider" ]
+}

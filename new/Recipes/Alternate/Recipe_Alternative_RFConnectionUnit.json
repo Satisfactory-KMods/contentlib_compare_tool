@@ -1,0 +1,41 @@
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Alternate: RF Connection Unit",
+  "OverrideCategory": "Electronics_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_HighSpeedConnector",
+      "Amount": 16
+    },
+    {
+      "Item": "Desc_AluminumPlateReinforced",
+      "Amount": 20
+    },
+    {
+      "Item": "Desc_QuartzCrystal",
+      "Amount": 90
+    },
+    {
+      "Item": "Desc_QuantumEnergy",
+      "Amount": 64000
+    }
+  ],
+
+  "Products": [
+    {
+      "Item": "Desc_ModularFrameLightweight",
+      "Amount": 8
+    },
+    {
+      "Item": "Desc_DarkEnergy",
+      "Amount": 16000
+    }
+
+
+  ],
+  "ManufacturingDuration": 32,
+  "ManufacturingMenuPriority": 6,
+  "VariablePowerConsumptionConstant": 1000,
+  "VariablePowerConsumptionFactor": -500,
+  "ProducedIn": [ "Build_QuantumEncoder" ]
+}

@@ -22,10 +22,6 @@
     {
       "Item": "Desc_Rubber",
       "Amount": 6
-    },
-    {
-      "Item": "Desc_Water",
-      "Amount": 2000
     }
   ],
   "ProducedIn": [ "Build_SoldifierAndCooler" ],

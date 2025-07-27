@@ -1,0 +1,28 @@
+{
+    "$comment": "This is a new file, no old version exists",
+    "$class": "{\r",
+    "$classShort": "{\r",
+    "Name": "Alternate: Brazed Busbar",
+    "OverrideCategory": "Other_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_CopperSheet",
+            "Amount": 10
+        },
+        {
+            "Item": "Desc_LiquidSolder",
+            "Amount": 6000
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_CopperBusbar",
+            "Amount": 15
+        }
+    ],
+    "ManufacturingDuration": 20,
+    "ManufacturingMenuPriority": 4,
+    "ProducedIn": [
+        "Build_OilRefinery"
+    ]
+}

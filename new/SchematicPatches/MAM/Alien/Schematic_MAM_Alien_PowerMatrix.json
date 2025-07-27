@@ -1,0 +1,22 @@
+//Game/FactoryGame/Schematics/Research/AlienTech_RS/Research_Alien_BoosterFuel.Research_Alien_BoosterFuel_C
+{
+  "Name": "AlienPowerMatrix",
+  "ClearCost": true,
+  "Cost": [
+    {
+      "Item": "Desc_SingularityCell",
+      "Amount": 100
+    },
+    {
+      "Item": "Desc_QuantumOscillator",
+      "Amount": 100
+    },
+    {
+      "Item": "Desc_CrystalShard_C",
+      "Amount": 200
+    }
+    
+  ],
+  "ClearRecipes": true,
+  "Recipes": [ "Recipe_Encoder_AlienPowerMatrix" ]
+}

@@ -1,0 +1,36 @@
+{
+    "$comment": "This is a new file, no old version exists",
+    "$class": "{\r",
+    "$classShort": "{\r",
+    "Name": "Alternate: Caterium Computer",
+    "OverrideCategory": "Communications_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_CircuitBoard",
+            "Amount": 7
+        },
+        {
+            "Item": "Desc_Cable",
+            "Amount": 20
+        },
+        {
+            "Item": "Desc_HighSpeedWire",
+            "Amount": 28
+        },
+        {
+            "Item": "Desc_Rubber",
+            "Amount": 25
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_Computer",
+            "Amount": 2
+        }
+    ],
+    "ManufacturingDuration": 30,
+    "ManufacturingMenuPriority": 1.2,
+    "ProducedIn": [
+        "Build_ManufacturerMk1"
+    ]
+}

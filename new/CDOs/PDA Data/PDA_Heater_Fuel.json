@@ -4,6 +4,20 @@
     {
       "Property": "mDuration",
       "Value": 4
+    },
+    {
+      "Property": "mInput",
+      "Value": {
+        "ItemClass": "/Game/FactoryGame/Resource/Parts/Fuel/Desc_LiquidFuel.Desc_LiquidFuel_C",
+        "amount": 1000
+      }
+    },
+    {
+      "Property": "mOutput",
+      "Value": {
+        "ItemClass": "/KLib/Assets/Ressources/Raw/Gas/Desc_FlueGas.Desc_FlueGas_C",
+        "amount": 2000
+      }
     }
   ]
 }

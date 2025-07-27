@@ -1,5 +1,6 @@
 //KLib/Assets/Parts/Production/Metal/Plates/Desc_CateriumPlates.Desc_CateriumPlates_C
 {
+  "Name":  "Caterium Plate",
   "Form": "Solid",
   "Visualkit": "Kit_CateriumSheet",
   "StackSize": "LARGE",

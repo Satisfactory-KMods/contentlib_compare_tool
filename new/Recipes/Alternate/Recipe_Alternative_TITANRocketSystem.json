@@ -1,0 +1,33 @@
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Alternate: TITAN Rocket System",
+  "OverrideCategory": "SpaceElevator_C",
+  "Ingredients": [
+    {
+      "Item": "Desc_MotorLightweight",
+      "Amount": 2
+    },
+    {
+      "Item": "Desc_TitanModularFrame_C",
+      "Amount": 1
+    },
+    {
+      "Item": "Desc_IonizedFuel",
+      "Amount": 20000
+    },
+    {
+      "Item": "Desc_RocketFuel",
+      "Amount": 20000
+    }
+
+  ],
+  "Products": [
+    {
+      "Item": "Desc_SpaceElevatorPart_8_C",
+      "Amount": 4
+    }
+  ],
+  "ProducedIn": [ "Build_Blender" ],
+  "ManufacturingDuration": 60,
+  "ManufacturingMenuPriority": 1
+}

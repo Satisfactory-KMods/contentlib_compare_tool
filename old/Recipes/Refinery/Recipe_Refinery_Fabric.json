@@ -1,25 +1,26 @@
 {
-  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
-  "Name": "Synthetic Fabric",
-  "OverrideCategory": "SolidOilProducts_C",
-  "Ingredients": [
-    {
-      "Item": "Desc_PolymerResin",
-      "Amount": 6
-    },
-    {
-      "Item": "Desc_Gas_Steam_Hot",
-      "Amount": 1000
-    }
-
-  ],
-  "Products": [
-    {
-      "Item": "Desc_Fabric",
-      "Amount": 2
-    }
-  ],
-  "ManufacturingDuration": 4,
-  "ManufacturingMenuPriority": 12,
-  "ProducedIn": [ "Build_OilRefinery" ]
+    "Name": "Synthetic Fabric",
+    "OverrideCategory": "SolidOilProducts_C",
+    "Ingredients": [
+        {
+            "Item": "Desc_PolymerResin",
+            "Amount": 6
+        },
+        {
+            "Item": "Desc_Gas_Steam_Hot",
+            "Amount": 1000
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_Fabric",
+            "Amount": 2
+        }
+    ],
+    "ManufacturingDuration": 4,
+    "ManufacturingMenuPriority": 3,
+    "ProducedIn": [
+        "Build_OilRefinery"
+    ],
+    "$comment": "This file has been removed, no new version exists"
 }

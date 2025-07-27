@@ -1,0 +1,26 @@
+//Game/FactoryGame/Recipes/Buildings/Recipe_PortalSatellite.Recipe_PortalSatellite_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Satellite Portal",
+  "Ingredients": [
+
+    {
+      "Item": "Desc_ModularFrameLightweight_C",
+      "Amount": 5
+    },
+    {
+      "Item": "Desc_QuantumOscillator_C",
+      "Amount": 10
+    },
+    {
+      "Item": "Desc_SAMFluctuator_C",
+      "Amount": 25
+    },
+    {
+      "Item": "Desc_FicsiteMesh_C",
+      "Amount": 50
+    }
+  
+  ],
+  "ManufacturingMenuPriority": 7
+}

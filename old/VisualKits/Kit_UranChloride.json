@@ -1,0 +1,17 @@
+{
+  "Mesh": "/Game/FactoryGame/Resource/Parts/PackagedNitrogen/Mesh/SM_PackagedNitrogen_01.SM_PackagedNitrogen_01",
+  "BigIcon": "UranChloride",
+  "SmallIcon": "UranChloride",
+  "FluidColor": {
+    "r": 15,
+    "g": 80,
+    "b": 10,
+    "a": 40
+  },
+  "GasColor": {
+    "r": 80,
+    "g": 150,
+    "b": 20,
+    "a": 100
+  }
+}

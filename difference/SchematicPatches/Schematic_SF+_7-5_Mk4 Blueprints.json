@@ -1,0 +1,15 @@
+{
+    "$comment": "This is a new file, no old version exists",
+    "$class": "//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T7/Schematic_SF+_T7_5.Schematic_SF+_T7_5_C\r",
+    "$classShort": "Schematic_SF+_T7_5",
+    "Name": "Mk. 4 Blueprints",
+    "Type": "Milestone",
+    "Tier": 7,
+    "MenuPriority": 5,
+    "VisualKit": "Desc_ModularFrameLightweight_C",
+    "ClearCost": true,
+    "Cost": [],
+    "ClearRecipes": true,
+    "Recipes": [],
+    "Time": 600
+}

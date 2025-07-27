@@ -2,7 +2,7 @@
 {
   "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
   "Name": "Carbon Powder",
-  "Category": "Cat_Minerals_C",
+  "OverrideCategory": "Cat_KLib_Prod_Crushing_Powders_C",
   "Ingredients": [
     {
       "Item": "Desc_Coal",
@@ -19,5 +19,5 @@
   ],
   "ProducedIn": [ "Build_Crusher" ],
   "ManufacturingDuration": 3,
-  "ManufacturingMenuPriority": 2
+  "ManufacturingMenuPriority": 3
 }

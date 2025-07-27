@@ -1,0 +1,8 @@
+//SatisfactoryPlus/Content/SchematicManager/Alternative/SolidBeltDriveMk3/Schematic_Alternative_SolidBeltDriveMk3.Schematic_Alternative_SolidBeltDriveMk3_C
+{
+  "Name": "Alternate: Solid Belt Drive Mk.3",
+  "Type": "Alternate",
+  "VisualKit": "Desc_ConveyorBeltMK3_C",
+  "Recipes": [ "Recipe_Alternative_SolidBeltDriveMk3" ],
+  "DependsOn": [ "Schematic_SF+_T3_6__C" ]
+}
